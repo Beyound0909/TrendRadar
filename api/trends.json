@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T17:24:38.042948+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2025-11-20T18:26:23.958761+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "国债期货午盘收盘",
@@ -65,6 +65,30 @@
           "time_info": "[16时31分 ~ 17时24分]"
         },
         {
+          "title": "广期所：经研究决定，中储发展股份有限公司、中国物流股份有限公司、中国外运华东有限公司、深圳市威豹金融押运股份有限公司为钯期货指定交割仓库。",
+          "url": "https://wallstreetcn.com/livenews/3007833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时26分]"
+        },
+        {
+          "title": "报道：字节跳动的估值在股票拍卖中估飙升至4800亿美元",
+          "url": "https://wallstreetcn.com/livenews/3007828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时26分]"
+        },
+        {
           "title": "上证指数早盘收报3961.70点，涨0.38%。 深证成指早盘收报13073.30点，跌0.05%。 创业板指早盘收报3060.93点，跌0.52%。 沪深300早盘收报4602.83点，涨0.32%。 科创50早盘收报1337.37点，跌0.55%。 中证500早盘收报7106.20点，跌0.23%。 中证1000早盘收报7376.78点，跌0.14%。",
           "url": "https://wallstreetcn.com/livenews/3007634",
           "source": "华尔街见闻-快讯",
@@ -101,26 +125,15 @@
           "time_info": "[12时53分 ~ 13时22分]"
         },
         {
-          "title": "广期所：经研究决定，中储发展股份有限公司、中国物流股份有限公司、中国外运华东有限公司、深圳市威豹金融押运股份有限公司为钯期货指定交割仓库。",
-          "url": "https://wallstreetcn.com/livenews/3007833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "报道：字节跳动的估值在股票拍卖中估飙升至4800亿美元",
-          "url": "https://wallstreetcn.com/livenews/3007828",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2025年11月20日（周四）全球股市指数-亚太市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251120181020192800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时24分"
+          "time_info": "18时26分"
         },
         {
           "title": "金十图示：2025年11月20日（周四）全球股市指数-欧洲市场（盘初）",
@@ -189,6 +202,17 @@
           "time_info": "15时22分"
         },
         {
+          "title": "腾讯控股于11月20日以6.36亿港元回购100万股股票。",
+          "url": "https://wallstreetcn.com/livenews/3007852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "午盘收盘，国内期货主力合约涨跌互现。LU燃油、焦煤跌超3%，工业硅、玻璃、纸浆、纯碱、棕榈油、多晶硅、乙二醇跌超2%。涨幅方面，纯苯涨超2%，苯乙烯、鸡蛋、苹果涨超1%。",
           "url": "https://flash.jin10.com/detail/20251120150040116800",
           "source": "金十数据",
@@ -217,7 +241,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -242,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "新宏泽：公司股票异常波动期间，亿泽控股存在减持公司股票的情形，该减持行为与此前披露的减持计划一致。",
+          "url": "https://wallstreetcn.com/livenews/3007845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "股指期货早盘收盘",
@@ -294,7 +329,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -316,7 +351,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -345,113 +380,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
-          "url": "https://wallstreetcn.com/articles/3759713",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 17时24分]"
-        },
-        {
-          "title": "Gemini3有哪些新功能",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 17时24分]"
-        },
-        {
-          "title": "Gemini3是目前最强AI吗",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            9,
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 17时24分]"
-        },
-        {
-          "title": "美股盘前，英伟达延续此前涨势，现上涨超5%；AMD涨超5%；特斯拉、谷歌A涨超2%，Meta、亚马逊、微软涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3007835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "谷歌：在中国台北启用新的硬件工程中心。",
-          "url": "https://wallstreetcn.com/livenews/3007704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时22分]"
-        },
-        {
-          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
-          "url": "https://www.zhihu.com/question/1974483598263476355",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 14时33分]"
-        },
-        {
-          "title": "土耳其副总统：谷歌将在土耳其投资20亿美元建设数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3007806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)：计划为土耳其带来一个新的谷歌云区域，作为在该国为期10年总额20亿美元投资的一部分。",
-          "url": "https://flash.jin10.com/detail/20251120164537640800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
@@ -462,8 +392,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 17时24分]"
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 18时26分]"
         },
         {
           "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
@@ -487,8 +417,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 17时24分]"
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 18时26分]"
+        },
+        {
+          "title": "克里姆林宫就“乌克兰28点和平计划”的报道作出回应：除了在阿拉斯加举行的俄罗斯总统普京与美国总统特朗普峰会上所说的内容外，我们没有新的补充。",
+          "url": "https://flash.jin10.com/detail/20251120181150851800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "特朗普批准公布爱泼斯坦案档案",
@@ -527,15 +468,197 @@
           "time_info": "[12时53分 ~ 13时22分]"
         },
         {
+          "title": "美媒：特朗普批准结束俄乌冲突的新计划",
+          "url": "https://wallstreetcn.com/livenews/3007866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "美国联邦通信委员会（FCC）调查英国广播公司（BBC）对特朗普1月6日演讲的剪辑。",
           "url": "https://flash.jin10.com/detail/20251120165827216800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "Gemini3有哪些新功能",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8,
+            12,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 18时26分]"
+        },
+        {
+          "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
+          "url": "https://wallstreetcn.com/articles/3759713",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 18时26分]"
+        },
+        {
+          "title": "Gemini3是目前最强AI吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            9,
+            13,
+            11,
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 18时26分]"
+        },
+        {
+          "title": "谷歌：在中国台北启用新的硬件工程中心。",
+          "url": "https://wallstreetcn.com/livenews/3007704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时22分]"
+        },
+        {
+          "title": "美股盘前，英伟达延续此前涨势，现上涨超5%；AMD涨超5%；特斯拉、谷歌A涨超2%，Meta、亚马逊、微软涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3007835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时26分]"
+        },
+        {
+          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
+          "url": "https://www.zhihu.com/question/1974483598263476355",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 14时33分]"
+        },
+        {
+          "title": "土耳其副总统：谷歌将在土耳其投资20亿美元建设数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3007806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：计划为土耳其带来一个新的谷歌云区域，作为在该国为期10年总额20亿美元投资的一部分。",
+          "url": "https://flash.jin10.com/detail/20251120164537640800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伦敦金属交易所：2026年中起将停止管理LBMA铂金和钯金价格",
+          "url": "https://wallstreetcn.com/livenews/3007872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时24分]"
+        },
+        {
+          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "金十图示：2025年11月20日（周四）上海金午盘价为930.85元/克，较国际金价(930.57元/克)，高0.28元/克",
+          "url": "https://flash.jin10.com/detail/20251120150434034800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "伦敦金属交易所（LME）：自2026年年中起，将停止管理伦敦金银市场协会（LBMA）的铂金和钯金价格，以便专注于核心的基本金属业务。",
+          "url": "https://flash.jin10.com/detail/20251120180241595800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         }
       ]
     },
@@ -543,6 +666,19 @@
       "keyword_group": "China A股 热点 头条 突发 breaking news",
       "match_count": 4,
       "titles": [
+        {
+          "title": "连辞三家上市公司独董 “A股大所”负责人疑失联",
+          "url": "https://www.cls.cn/detail/2206173",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时26分]"
+        },
         {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20251120120802751800",
@@ -556,18 +692,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时53分 ~ 17时24分]"
-        },
-        {
-          "title": "连辞三家上市公司独董 “A股大所”负责人疑失联",
-          "url": "https://www.cls.cn/detail/2206173",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时24分]"
         },
         {
           "title": "A股华为算力概念午后拉升，青云科技涨超15%，新晨科技、首都在线、东方国信、优刻得、并行科技等跟涨。",
@@ -608,8 +732,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 17时24分]"
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 18时26分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -627,41 +751,12 @@
           "url": "https://wallstreetcn.com/livenews/3007836",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
+            3,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 17时24分]"
-        },
-        {
-          "title": "金十图示：2025年11月20日（周四）上海金午盘价为930.85元/克，较国际金价(930.57元/克)，高0.28元/克",
-          "url": "https://flash.jin10.com/detail/20251120150434034800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时26分]"
         }
       ]
     }
