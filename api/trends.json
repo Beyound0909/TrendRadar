@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-11-20T13:22:44.185553+08:00",
-  "total_titles_processed": 331,
+  "generated_at": "2025-11-20T14:33:20.269836+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
       "match_count": 8,
       "titles": [
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251120120802751800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 13时22分]"
-        },
         {
           "title": "上证指数早盘收报3961.70点，涨0.38%。 深证成指早盘收报13073.30点，跌0.05%。 创业板指早盘收报3060.93点，跌0.52%。 沪深300早盘收报4602.83点，涨0.32%。 科创50早盘收报1337.37点，跌0.55%。 中证500早盘收报7106.20点，跌0.23%。 中证1000早盘收报7376.78点，跌0.14%。",
           "url": "https://wallstreetcn.com/livenews/3007634",
@@ -98,12 +86,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "台湾证交所加权股价指数收涨3.2%报27,426.36点。",
+          "url": "https://wallstreetcn.com/livenews/3007674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
@@ -113,8 +112,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 14时33分]"
         },
         {
           "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
@@ -124,8 +123,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 14时33分]"
         },
         {
           "title": "特朗普批准公布爱泼斯坦案档案",
@@ -162,13 +161,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时53分 ~ 13时22分]"
+        },
+        {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "谷歌：在中国台北启用新的硬件工程中心。",
+          "url": "https://wallstreetcn.com/livenews/3007704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
           "url": "https://wallstreetcn.com/articles/3759713",
@@ -177,8 +198,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 14时33分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -189,8 +210,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 14时33分]"
         },
         {
           "title": "Gemini3是目前最强AI吗",
@@ -201,8 +222,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 14时33分]"
         },
         {
           "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
@@ -210,11 +231,55 @@
           "source": "知乎",
           "ranks": [
             14,
-            15
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 14时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "China A股 热点 头条 突发 breaking news",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股华为算力概念午后拉升，青云科技涨超15%，新晨科技、首都在线、东方国信、优刻得、并行科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3007668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时33分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251120120802751800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            27
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时22分]"
+          "time_info": "[12时53分 ~ 14时33分]"
+        },
+        {
+          "title": "A股港股房地产板块异动拉升",
+          "url": "https://wallstreetcn.com/livenews/3007627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 13时22分]"
         }
       ]
     },
@@ -230,8 +295,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 14时33分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -241,37 +306,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "China A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股华为算力概念午后拉升，青云科技涨超15%，新晨科技、首都在线、东方国信、优刻得、并行科技等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3007668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "A股港股房地产板块异动拉升",
-          "url": "https://wallstreetcn.com/livenews/3007627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 14时33分]"
         }
       ]
     }
