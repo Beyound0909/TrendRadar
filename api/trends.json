@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T19:20:20.867827+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2025-11-20T20:44:42.351262+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "国债期货午盘收盘",
@@ -125,6 +125,17 @@
           "time_info": "[12时53分 ~ 13时22分]"
         },
         {
+          "title": "【焦点复盘】银行股护盘独木难支，指数再现缩量探底，锂矿概念强者恒强",
+          "url": "https://www.cls.cn/detail/2206386",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "金十图示：2025年11月20日（周四）全球股市指数-亚太市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251120181020192800",
           "source": "金十数据",
@@ -153,7 +164,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -178,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "沃尔玛宣布转换上市交易所，将从纽交所转板至纳斯达克。预计其股票将于12月9日在纳斯达克开始交易。",
+          "url": "https://wallstreetcn.com/livenews/3007941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "股指期货午盘收盘",
@@ -233,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "海峡创新：停牌核查结束，股票复牌。",
+          "url": "https://wallstreetcn.com/livenews/3007938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "英国富时100指数矿业板块开盘上涨1.1%。",
@@ -345,6 +378,17 @@
           "time_info": "17时24分"
         },
         {
+          "title": "广期所：调整碳酸锂期货相关合约交易手续费标准及交易限额",
+          "url": "https://wallstreetcn.com/livenews/3007930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "汇丰预计，到2026年底，随着盈利复苏、估值降温，印度SENSEX指数将达到94000点。",
           "url": "https://flash.jin10.com/detail/20251120155945809800",
           "source": "金十数据",
@@ -354,6 +398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "沃尔玛百货(WMT.N)：预计股票将于12月9日在纳斯达克开始交易。",
+          "url": "https://flash.jin10.com/detail/20251120200245851800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "德国DAX指数日内涨幅达1.00%。",
@@ -403,8 +458,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时52分 ~ 19时20分]"
+          "appearance_count": 10,
+          "time_info": "[12时52分 ~ 20时44分]"
         },
         {
           "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
@@ -507,7 +562,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         }
@@ -515,24 +570,8 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "Gemini3有哪些新功能",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8,
-            12,
-            10,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时52分 ~ 19时20分]"
-        },
         {
           "title": "Gemini3是目前最强AI吗",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
@@ -544,7 +583,24 @@
             11,
             12,
             6,
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时52分 ~ 20时44分]"
+        },
+        {
+          "title": "Gemini3有哪些新功能",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8,
+            12,
+            10,
+            4,
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -600,6 +656,17 @@
           "time_info": "[12时52分 ~ 14时33分]"
         },
         {
+          "title": "Gemini3有哪些新鲜玩法",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E9%B2%9C%E7%8E%A9%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "土耳其副总统：谷歌将在土耳其投资20亿美元建设数据中心。",
           "url": "https://wallstreetcn.com/livenews/3007806",
           "source": "华尔街见闻-快讯",
@@ -638,8 +705,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 19时20分]"
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 20时44分]"
         },
         {
           "title": "期货热点追踪",
@@ -656,6 +723,18 @@
           "time_info": "[12时53分 ~ 17时24分]"
         },
         {
+          "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
+          "url": "https://www.cls.cn/detail/2206448",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时44分]"
+        },
+        {
           "title": "A股华为算力概念午后拉升，青云科技涨超15%，新晨科技、首都在线、东方国信、优刻得、并行科技等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3007668",
           "source": "华尔街见闻-快讯",
@@ -668,6 +747,18 @@
           "time_info": "[13时22分 ~ 14时33分]"
         },
         {
+          "title": "今日头条打击体育饭圈化",
+          "url": "https://www.toutiao.com/trending/7574256551788085284/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时44分]"
+        },
+        {
           "title": "A股港股房地产板块异动拉升",
           "url": "https://wallstreetcn.com/livenews/3007627",
           "source": "华尔街见闻-快讯",
@@ -678,28 +769,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时53分 ~ 13时22分]"
-        },
-        {
-          "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
-          "url": "https://www.cls.cn/detail/2206448",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "今日头条打击体育饭圈化",
-          "url": "https://www.toutiao.com/trending/7574256551788085284/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
         }
       ]
     },
@@ -720,6 +789,17 @@
           "time_info": "[18时26分 ~ 19时20分]"
         },
         {
+          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 20时44分]"
+        },
+        {
           "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
@@ -731,17 +811,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时22分 ~ 17时24分]"
-        },
-        {
-          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时20分]"
         },
         {
           "title": "金十图示：2025年11月20日（周四）上海金午盘价为930.85元/克，较国际金价(930.57元/克)，高0.28元/克",
@@ -780,8 +849,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时52分 ~ 19时20分]"
+          "appearance_count": 10,
+          "time_info": "[12时52分 ~ 20时44分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
