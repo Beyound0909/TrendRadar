@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T01:18:30.410663+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2025-11-21T02:33:04.472601+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "高盛：预计下周股票抛售将达400亿美元",
@@ -25,20 +25,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "【焦点复盘】银行股护盘独木难支，指数再现缩量探底，锂矿概念强者恒强",
+          "url": "https://www.cls.cn/detail/2206386",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "11月20日，MarketVector数字资产100小盘指数收跌2.84%，报18134.11点。 21日盘初，该指数跌1.06%。",
           "url": "https://wallstreetcn.com/livenews/3008101",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时33分]"
         },
         {
           "title": "标普500指数涨幅收窄至不足1%，此前一度涨1.9%。",
@@ -65,15 +77,15 @@
           "time_info": "[00时30分 ~ 01时18分]"
         },
         {
-          "title": "【焦点复盘】银行股护盘独木难支，指数再现缩量探底，锂矿概念强者恒强",
-          "url": "https://www.cls.cn/detail/2206386",
+          "title": "纳指期货盘前涨超2% 英伟达财报击退“泡沫论” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2206692",
           "source": "财联社热门",
           "ranks": [
-            8
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时18分]"
+          "time_info": "[01时18分 ~ 02时33分]"
         },
         {
           "title": "美国11月堪萨斯联储制造业综合指数 8，预期 3，前值 6。",
@@ -88,46 +100,48 @@
           "time_info": "[00时30分 ~ 01时18分]"
         },
         {
-          "title": "标普500指数抹去涨幅，此前盘中一度涨1.9%。",
-          "url": "https://flash.jin10.com/detail/20251121005626413800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
           "title": "英伟达一度转跌，英伟达CEO黄仁勋此前驳斥“AI泡沫”论，称：“我们看到了截然不同的东西”。 美国三大股指悉数转跌，标普跌0.2%、道指跌0.1%、纳指跌0.4%，纳斯达克100指数跌超0.5%，半导体指数跌超1.4%。",
           "url": "https://wallstreetcn.com/livenews/3008093",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时33分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.5%，报347.37点。 在十个板块中，北欧金融板块涨幅最大。 Wartsila Oyj（瓦锡兰）涨8.4%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3008092",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时33分]"
+        },
+        {
+          "title": "城堡证券股票策略主管Rubner看好标普500指数年底升至7000点",
+          "url": "https://wallstreetcn.com/livenews/3008121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时18分"
+          "time_info": "02时33分"
         },
         {
-          "title": "纳指期货盘前涨超2% 英伟达财报击退“泡沫论” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2206692",
-          "source": "财联社热门",
+          "title": "标普500指数抹去涨幅，此前盘中一度涨1.9%。",
+          "url": "https://flash.jin10.com/detail/20251121005626413800",
+          "source": "金十数据",
           "ranks": [
-            13
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
         },
@@ -182,7 +196,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
         },
@@ -193,7 +207,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
         },
@@ -204,7 +218,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
         },
@@ -215,9 +229,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "纳斯达克100指数下跌303点、跌幅扩大至1.22%，半导体指数跌2.4%。英伟达跌1.6%。 标普500指数跌0.8%，道指跌269点跌幅0.6%，纳指跌245点跌幅大约1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3008102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         },
         {
           "title": "分析师：三大因素力挺标普500指数年末行情 预计涨至7000点",
@@ -226,7 +251,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
         },
@@ -255,8 +280,113 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时33分]"
+        },
+        {
+          "title": "泽连斯基同意与美合作制定和平计划 并将在近期与特朗普会谈",
+          "url": "https://flash.jin10.com/detail/20251121005906259800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "民主党籍联邦通信委员会（FCC）委员Anna Gomez表示，特朗普总统威胁吊销ABC广播执照的做法在法庭上将不会成功。",
+          "url": "https://flash.jin10.com/detail/20251121005609305800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "研究结果显示：特朗普“大漂亮法案”将提振增长，但美联储维持高利率恐令效果打折",
+          "url": "https://wallstreetcn.com/livenews/3008072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "泽连斯基已收到美和平计划草案 将与特朗普通话磋商",
+          "url": "https://wallstreetcn.com/livenews/3008104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "特朗普带C罗参观白宫",
+          "url": "https://www.douyin.com/hot/2311861",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "报道：特朗普悄然提名枪械管理局局长",
+          "url": "https://flash.jin10.com/detail/20251121014055857800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "美国副总统万斯：我认为就业报告让市场“痴狂”。 就业人口增长将汇集到美国公民（而不是总统特朗普正在攻击的移民）。",
+          "url": "https://wallstreetcn.com/livenews/3008053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "文件显示：特朗普政府正在准备一项计划，以减轻政府裁员的法律障碍。",
+          "url": "https://flash.jin10.com/detail/20251121013301455800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
@@ -266,19 +396,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时18分]"
-        },
-        {
-          "title": "美机器人初创公司获6亿美元融资 由谷歌旗下基金领投",
-          "url": "https://flash.jin10.com/detail/20251121010604644800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "谷歌发布新一代图像生成模型",
@@ -289,17 +408,28 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
-          "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
-          "url": "https://wallstreetcn.com/livenews/3008098",
-          "source": "华尔街见闻-快讯",
+          "title": "Gemini3",
+          "url": "https://s.weibo.com/weibo?q=Gemini3&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 02时33分]"
+        },
+        {
+          "title": "美机器人初创公司获6亿美元融资 由谷歌旗下基金领投",
+          "url": "https://flash.jin10.com/detail/20251121010604644800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
         },
@@ -316,13 +446,25 @@
           "time_info": "[00时30分 ~ 01时18分]"
         },
         {
+          "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
+          "url": "https://wallstreetcn.com/livenews/3008098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时33分]"
+        },
+        {
           "title": "谷歌：从Pixel 10系列开始，Quick Share已实现与Air Drop的互操作性。",
           "url": "https://flash.jin10.com/detail/20251121010137294800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
         },
@@ -340,80 +482,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时18分]"
-        },
-        {
-          "title": "泽连斯基同意与美合作制定和平计划 并将在近期与特朗普会谈",
-          "url": "https://flash.jin10.com/detail/20251121005906259800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "民主党籍联邦通信委员会（FCC）委员Anna Gomez表示，特朗普总统威胁吊销ABC广播执照的做法在法庭上将不会成功。",
-          "url": "https://flash.jin10.com/detail/20251121005609305800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "研究结果显示：特朗普“大漂亮法案”将提振增长，但美联储维持高利率恐令效果打折",
-          "url": "https://wallstreetcn.com/livenews/3008072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "特朗普带C罗参观白宫",
-          "url": "https://www.douyin.com/hot/2311861",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "美国副总统万斯：我认为就业报告让市场“痴狂”。 就业人口增长将汇集到美国公民（而不是总统特朗普正在攻击的移民）。",
-          "url": "https://wallstreetcn.com/livenews/3008053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -421,11 +491,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "科兴生物被美股“劝退”",
@@ -433,11 +504,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "美股三大指数转跌，标普500指数跌0.3%，纳斯达克指数跌0.5%，道琼斯指数跌0.2%。英伟达(NVDA.O)跌幅扩大至1%，此前一度涨超5%。",
@@ -446,9 +518,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
+          "url": "https://flash.jin10.com/detail/20251121020447251800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251121013149531800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         }
       ]
     },
@@ -464,8 +558,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "连辞三家上市公司独董 “A股大所”负责人疑失联",
@@ -475,8 +569,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时33分]"
         }
       ]
     },
@@ -491,7 +585,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
         }
@@ -506,11 +600,29 @@
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普500指数跌幅扩大至1%，道指下跌318点、跌幅0.7%，纳指跌295点跌幅1.3%，纳斯达克100指数跌376点跌幅1.5%，半导体指数跌3%。 比特币日内大跌5000美元，跌幅5.64%，现报86400美元/枚。",
+          "url": "https://wallstreetcn.com/livenews/3008112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         }
       ]
     }
