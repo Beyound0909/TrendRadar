@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T04:26:20.916174+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2025-11-21T05:21:16.732998+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "【焦点复盘】银行股护盘独木难支，指数再现缩量探底，锂矿概念强者恒强",
@@ -16,8 +16,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 05时21分]"
+        },
+        {
+          "title": "纳指期货盘前涨超2% 英伟达财报击退“泡沫论” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2206692",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时26分]"
+          "time_info": "[01时18分 ~ 05时21分]"
         },
         {
           "title": "高盛：预计下周股票抛售将达400亿美元",
@@ -42,49 +55,27 @@
           "time_info": "01时18分"
         },
         {
-          "title": "周四（11月20日）纽约尾盘，ICE原糖期货涨0.14%，ICE白糖期货持平。 ICE阿拉比卡咖啡期货涨0.41%，咖啡“C”期货跌0.09%。罗布斯塔咖啡期货涨2.19%。 纽约可可期货涨2.96%，报5255美元/吨，脱离11月19日底部5070美元——2024年10月25日（最低4853美元）以来最低位。伦敦可可期货涨2.38%。 ICE棉花期货持平。",
-          "url": "https://wallstreetcn.com/livenews/3008155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "纳指期货盘前涨超2% 英伟达财报击退“泡沫论” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2206692",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 04时26分]"
-        },
-        {
-          "title": "芝加哥小麦期货跌1.5%，大豆与豆粕跌约1.2%",
-          "url": "https://wallstreetcn.com/livenews/3008154",
-          "source": "华尔街见闻-快讯",
+          "title": "富时中国A50指数期货跌幅扩大至1%。",
+          "url": "https://flash.jin10.com/detail/20251121050646068800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时26分"
+          "time_info": "05时21分"
         },
         {
-          "title": "纳斯达克金龙中国指数跌超2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3008153",
+          "title": "周四（11月20日）纽约尾盘，ICE原糖期货涨0.14%，ICE白糖期货持平。 ICE阿拉比卡咖啡期货涨0.41%，咖啡“C”期货跌0.09%。罗布斯塔咖啡期货涨2.19%。 纽约可可期货涨2.96%，报5255美元/吨，脱离11月19日底部5070美元——2024年10月25日（最低4853美元）以来最低位。伦敦可可期货涨2.38%。 ICE棉花期货持平。",
+          "url": "https://wallstreetcn.com/livenews/3008155",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时21分]"
         },
         {
           "title": "11月20日，MarketVector数字资产100小盘指数收跌2.84%，报18134.11点。 21日盘初，该指数跌1.06%。",
@@ -109,6 +100,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时26分]"
+        },
+        {
+          "title": "芝加哥小麦期货跌1.5%，大豆与豆粕跌约1.2%",
+          "url": "https://wallstreetcn.com/livenews/3008154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时21分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数跌超2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3008153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时21分]"
         },
         {
           "title": "恒指期货夜盘收跌1.5%，报25460点，低水376点。",
@@ -183,6 +198,18 @@
           "time_info": "[00时30分 ~ 01时18分]"
         },
         {
+          "title": "WTI 12月原油期货收跌0.30美元，跌幅0.50%，报59.14美元/桶。 布伦特1月原油期货收跌0.13美元，跌幅0.20%，报63.38美元/桶。 NYMEX 12月天然气期货收报4.4740美元/百万英热单位。 NYMEX 12月汽油期货收报1.9184美元/加仑，NYMEX 12月取暖油期货收报2.5333美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3008148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时21分]"
+        },
+        {
           "title": "英伟达一度转跌，英伟达CEO黄仁勋此前驳斥“AI泡沫”论，称：“我们看到了截然不同的东西”。 美国三大股指悉数转跌，标普跌0.2%、道指跌0.1%、纳指跌0.4%，纳斯达克100指数跌超0.5%，半导体指数跌超1.4%。",
           "url": "https://wallstreetcn.com/livenews/3008093",
           "source": "华尔街见闻-快讯",
@@ -219,15 +246,37 @@
           "time_info": "[03时19分 ~ 04时26分]"
         },
         {
-          "title": "WTI 12月原油期货收跌0.30美元，跌幅0.50%，报59.14美元/桶。 布伦特1月原油期货收跌0.13美元，跌幅0.20%，报63.38美元/桶。 NYMEX 12月天然气期货收报4.4740美元/百万英热单位。 NYMEX 12月汽油期货收报1.9184美元/加仑，NYMEX 12月取暖油期货收报2.5333美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3008148",
+          "title": "纳斯达克金龙中国指数初步收跌3.2%。 热门中概股里，阿特斯太阳能初步收跌18.3%，大全新能源跌9.2%，蔚来跌6%，晶科能源跌5.7%，小马智行、小鹏、小米、拼多多、百度跌超4%，网易则涨0.6%，贝壳涨1.3%，万国数据涨1.8%，逸仙电商涨3.3%。 ETF中，KWEB跌2.7%，CQQQ跌2.6%，ASHS跌1.4%，ASHR跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3008176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "标普500指数收跌103.40点，跌幅1.56%，报6538.76点。 道琼斯工业平均指数收跌386.51点，跌幅0.84%，报45752.26点。 纳斯达克综合指数（纳指）收跌486.181点，跌幅2.16%，报22078.048点。 纳斯达克100指数收跌586.136点，跌幅2.38%，报24054.38点。 纳斯达克生物科技指数收跌0.91%，报5507.99点。 费城半导体指数收跌4.77%，报6352.067点。 费城证交所KBW银行指数收跌1.12%，报145.99点。 道琼斯KBW地区银行指数收跌0.30%，报114.72点。",
+          "url": "https://wallstreetcn.com/livenews/3008174",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时26分"
+          "time_info": "05时21分"
+        },
+        {
+          "title": "罗素中盘股指数较10月峰值回撤10%。",
+          "url": "https://wallstreetcn.com/livenews/3008173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "标普500指数抹去涨幅，此前盘中一度涨1.9%。",
@@ -340,6 +389,17 @@
           "time_info": "02时33分"
         },
         {
+          "title": "纳斯达克中国金龙指数跌幅扩大至3%，阿里巴巴(BABA.N)跌3.5%。",
+          "url": "https://flash.jin10.com/detail/20251121043708433800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
           "title": "分析师：三大因素力挺标普500指数年末行情 预计涨至7000点",
           "url": "https://flash.jin10.com/detail/20251121003657065800",
           "source": "金十数据",
@@ -376,7 +436,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
@@ -498,13 +558,24 @@
           "time_info": "[03时18分 ~ 03时19分]"
         },
         {
+          "title": "特朗普“化缘”21万亿美元意味着啥",
+          "url": "https://www.toutiao.com/trending/7574747368273219114/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 05时21分]"
+        },
+        {
           "title": "特朗普政府拟大幅扩张海上钻探 首次开放北极地区",
           "url": "https://flash.jin10.com/detail/20251121034506288800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -599,118 +670,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
-          "url": "https://www.zhihu.com/question/1974854700256944776",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时26分]"
-        },
-        {
-          "title": "谷歌发布新一代图像生成模型",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时26分]"
-        },
-        {
-          "title": "Gemini3",
-          "url": "https://s.weibo.com/weibo?q=Gemini3&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 04时26分]"
-        },
-        {
-          "title": "美机器人初创公司获6亿美元融资 由谷歌旗下基金领投",
-          "url": "https://flash.jin10.com/detail/20251121010604644800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "谷歌突破苹果生态壁垒 新款手机可实现跨生态文件共享",
-          "url": "https://flash.jin10.com/detail/20251121034642254800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
-          "url": "https://wallstreetcn.com/livenews/3008082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时18分]"
-        },
-        {
-          "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
-          "url": "https://wallstreetcn.com/livenews/3008098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时33分]"
-        },
-        {
-          "title": "谷歌：从Pixel 10系列开始，Quick Share已实现与Air Drop的互操作性。",
-          "url": "https://flash.jin10.com/detail/20251121010137294800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "谷歌公司新推图像生成模型，名叫Nano Banana Pro",
-          "url": "https://wallstreetcn.com/livenews/3008055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 13,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -719,11 +680,45 @@
           "ranks": [
             2,
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 05时21分]"
+        },
+        {
+          "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251121050621300800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "金十图示：2025年11月20日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251121050600915800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌将近3%，亚马逊跌约2.5%，特斯拉跌2.2%",
+          "url": "https://wallstreetcn.com/livenews/3008179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "科兴生物被美股“劝退”",
@@ -767,9 +762,53 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "美股尾盘，标普500指数跌1.3%，道指跌0.65%，纳指跌443点跌幅2%，纳斯达克100指数跌526点跌幅2.14%，半导体指数跌2.59%。",
+          "url": "https://wallstreetcn.com/livenews/3008168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美股收盘：纳指跌超2% 英伟达高开低收",
+          "url": "https://flash.jin10.com/detail/20251121050054404800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "周四（11月20日）纽约尾盘，ICE美元指数跌0.03%，报100.193点，日内交投区间为100.360-100.028点，北京时间21:30发布美国就业数据时刷新日高，随后快速转跌，并在美股盘初刷新日低。 彭博美元指数涨0.09%，报1226.52点，日内交投区间为1223.76-1227.11点。",
+          "url": "https://wallstreetcn.com/livenews/3008162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20251121043853690800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股盘中）",
@@ -781,6 +820,128 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
+          "url": "https://www.zhihu.com/question/1974854700256944776",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 05时21分]"
+        },
+        {
+          "title": "谷歌发布新一代图像生成模型",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 05时21分]"
+        },
+        {
+          "title": "Gemini3",
+          "url": "https://s.weibo.com/weibo?q=Gemini3&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            4,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时32分 ~ 05时21分]"
+        },
+        {
+          "title": "美机器人初创公司获6亿美元融资 由谷歌旗下基金领投",
+          "url": "https://flash.jin10.com/detail/20251121010604644800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "谷歌突破苹果生态壁垒 新款手机可实现跨生态文件共享",
+          "url": "https://flash.jin10.com/detail/20251121034642254800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
+          "url": "https://wallstreetcn.com/livenews/3008082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时18分]"
+        },
+        {
+          "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
+          "url": "https://wallstreetcn.com/livenews/3008098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时33分]"
+        },
+        {
+          "title": "谷歌：从Pixel 10系列开始，Quick Share已实现与Air Drop的互操作性。",
+          "url": "https://flash.jin10.com/detail/20251121010137294800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "Alphabet旗下谷歌公司提议，自愿买断英国员工。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3008167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "谷歌公司新推图像生成模型，名叫Nano Banana Pro",
+          "url": "https://wallstreetcn.com/livenews/3008055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
         }
       ]
     },
@@ -808,9 +969,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 05时21分]"
         }
       ]
     },
@@ -826,8 +987,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 05时21分]"
         },
         {
           "title": "连辞三家上市公司独董 “A股大所”负责人疑失联",
