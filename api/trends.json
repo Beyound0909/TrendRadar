@@ -1,33 +1,22 @@
 {
-  "generated_at": "2025-11-22T03:19:18.260728+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2025-11-22T04:25:40.908027+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
-          "title": "恒生指数主连夜盘收涨1.22%，报25541点。 恒生科技指数主连夜盘收涨1.56%，报5483点。",
-          "url": "https://wallstreetcn.com/livenews/3008864",
+          "title": "本周芝加哥玉米期货跌1.4%，大豆冲高回落累计涨幅不足0.2%",
+          "url": "https://wallstreetcn.com/livenews/3008881",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数涨超2%，热门中概股阿特斯太阳能涨超6.4%，亚朵、斗鱼、蔚来、唯品会涨超4%，理想涨2.9%，京东、百胜中国、百度涨超2%，小鹏、网易至多涨1.8%，阿里巴巴涨0.9%。 ETF中，KWEB涨1.3%，CQQQ涨0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3008869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "04时25分"
         },
         {
           "title": "非洲股市收盘播报｜周五（11月21日），南非富时/JSE非洲领先40可交易指数收跌2.09%，逼近10.2万点，跳空低开后低位震荡，本周累计下跌2.29%。 本周，毛里求斯证交所SEMDEX指数累跌2.11%，尼日利亚证交所全部股指累跌2.26%——周一盘中显著跳水、后续持续震荡下行，肯尼亚内罗毕证交所全股指数累涨0.26%。",
@@ -55,6 +44,18 @@
           "time_info": "[01时20分 ~ 02时32分]"
         },
         {
+          "title": "恒生指数主连夜盘收涨1.22%，报25541点。 恒生科技指数主连夜盘收涨1.56%，报5483点。",
+          "url": "https://wallstreetcn.com/livenews/3008864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时25分]"
+        },
+        {
           "title": "纳指涨幅扩大至1%，英伟达转涨，半导体指数涨幅扩大至1.2%。 标普500指数涨1.2%，道指涨637点涨幅1.4%，纳斯达克100指数涨1%。",
           "url": "https://wallstreetcn.com/livenews/3008821",
           "source": "华尔街见闻-快讯",
@@ -77,6 +78,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时32分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数涨超2%，热门中概股阿特斯太阳能涨超6.4%，亚朵、斗鱼、蔚来、唯品会涨超4%，理想涨2.9%，京东、百胜中国、百度涨超2%，小鹏、网易至多涨1.8%，阿里巴巴涨0.9%。 ETF中，KWEB涨1.3%，CQQQ涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3008869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时25分]"
         },
         {
           "title": "花旗警告称，由于人工智能（AI）乐观情绪动摇，应对做多标普500指数保持谨慎。",
@@ -139,6 +152,30 @@
           "time_info": "[01时20分 ~ 02时32分]"
         },
         {
+          "title": "上期所原油期货2501合约夜盘收跌1.46%，报446.40元人民币/桶。 沪金夜盘收涨0.06%，沪银收跌0.43%。",
+          "url": "https://wallstreetcn.com/livenews/3008853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时25分]"
+        },
+        {
+          "title": "潘兴广场比尔·阿克曼：对加密货币的风险敞口造成（我们）出售房利美和房地美的股票。",
+          "url": "https://wallstreetcn.com/livenews/3008850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时25分]"
+        },
+        {
           "title": "纳斯达克100指数再度转跌。",
           "url": "https://wallstreetcn.com/livenews/3008790",
           "source": "华尔街见闻-快讯",
@@ -163,6 +200,17 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
+          "title": "WTI原油期货收跌约1.6%，本周跌超3.1%",
+          "url": "https://wallstreetcn.com/livenews/3008874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
           "title": "标普500指数和纳斯达克指数一度创下两个多月来的新低。",
           "url": "https://flash.jin10.com/detail/20251121234437184800",
           "source": "金十数据",
@@ -172,6 +220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "纳指涨幅扩大至2%，标普目前涨1.8%，道指涨1.7%，半导体指数涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3008871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "金十图示：2025年11月22日（周六）全球股市指数-欧洲市场（收盘）",
@@ -185,26 +244,15 @@
           "time_info": "01时20分"
         },
         {
-          "title": "上期所原油期货2501合约夜盘收跌1.46%，报446.40元人民币/桶。 沪金夜盘收涨0.06%，沪银收跌0.43%。",
-          "url": "https://wallstreetcn.com/livenews/3008853",
-          "source": "华尔街见闻-快讯",
+          "title": "恒指期货夜盘收涨1.22%，报25541点，高水321点。",
+          "url": "https://flash.jin10.com/detail/20251122030856083800",
+          "source": "金十数据",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "潘兴广场比尔·阿克曼：对加密货币的风险敞口造成（我们）出售房利美和房地美的股票。",
-          "url": "https://wallstreetcn.com/livenews/3008850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "04时25分"
         },
         {
           "title": "标普500指数上涨0.7%，触及盘中新高。",
@@ -216,6 +264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "标普500指数、纳斯达克100指数攀升至盘中高点。",
+          "url": "https://flash.jin10.com/detail/20251122025907221800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "内盘期货夜市多数收跌，苯乙烯、低硫燃油等跌超2%，焦煤跌约1.1%，铁矿石微涨",
@@ -309,7 +368,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -320,8 +379,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
+        },
+        {
+          "title": "美国白宫针对关键矿物发布公告：为某些固定污染源提供“监管减免”，以促进美国焦炉加工安全 总统特朗普向与煤炭相关的产品提供两年监管宽限。",
+          "url": "https://wallstreetcn.com/livenews/3008879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "美联储12月降息投票陷“僵局” 被特朗普施压的库克或成关键一票",
@@ -361,6 +431,18 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
+          "title": "德国政府发言人：美国总统特朗普与德国总理默茨于周五晚间就美国的乌克兰和平计划进行了电话交谈。",
+          "url": "https://flash.jin10.com/detail/20251122023534438800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时25分]"
+        },
+        {
           "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
           "url": "https://wallstreetcn.com/livenews/3008796",
           "source": "华尔街见闻-快讯",
@@ -385,15 +467,15 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
-          "title": "德国政府发言人：美国总统特朗普与德国总理默茨于周五晚间就美国的乌克兰和平计划进行了电话交谈。",
-          "url": "https://flash.jin10.com/detail/20251122023534438800",
+          "title": "美国白宫：特朗普总统签署公告，为某些固定污染源提供“监管减免”，以促进美国焦炉加工的安全性。",
+          "url": "https://flash.jin10.com/detail/20251122035727750800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "04时25分"
         },
         {
           "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
@@ -405,6 +487,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
+          "url": "https://flash.jin10.com/detail/20251122032426694800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "美国总统特朗普：如果事情进展顺利，倾向于延长截止日期。",
@@ -504,6 +597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "白宫回应特朗普称女记者为“小猪”",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%A5%B3%E8%AE%B0%E8%80%85%E4%B8%BA%E2%80%9C%E5%B0%8F%E7%8C%AA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         }
       ]
     },
@@ -519,8 +623,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -530,8 +634,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -541,8 +645,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -552,8 +656,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
@@ -563,8 +667,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
+        },
+        {
+          "title": "英伟达股价短线拉升，日内整体上涨1.9%，美股早盘一度下跌超4%。 标普500指数上涨1.75%，道指涨811点涨幅1.77%，纳指涨399点涨幅1.81%，纳斯达克100指数涨406点涨幅1.66%，半导体指数涨1.99%。",
+          "url": "https://wallstreetcn.com/livenews/3008862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时25分]"
         },
         {
           "title": "美股V形反转，道指涨约1%",
@@ -614,17 +730,6 @@
           "time_info": "01时20分"
         },
         {
-          "title": "英伟达股价短线拉升，日内整体上涨1.9%，美股早盘一度下跌超4%。 标普500指数上涨1.75%，道指涨811点涨幅1.77%，纳指涨399点涨幅1.81%，纳斯达克100指数涨406点涨幅1.66%，半导体指数涨1.99%。",
-          "url": "https://wallstreetcn.com/livenews/3008862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
           "title": "美股延续涨势，道指涨1%。",
           "url": "https://flash.jin10.com/detail/20251122004255320800",
           "source": "金十数据",
@@ -661,7 +766,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌公司推出BigQuery AI。",
@@ -673,6 +778,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "谷歌反垄断案：美国法官询问拆分广告技术业务的补救措施生效时间，称“时间至关重要”",
+          "url": "https://wallstreetcn.com/livenews/3008876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
@@ -722,8 +838,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
@@ -733,8 +849,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
         }
       ]
     },
@@ -752,8 +868,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "业内：A股向上趋势不变",
