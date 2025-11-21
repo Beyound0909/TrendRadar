@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T11:13:15.627294+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2025-11-21T12:27:12.518810+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 62,
+      "match_count": 73,
       "titles": [
         {
           "title": "【焦点复盘】银行股护盘独木难支，指数再现缩量探底，锂矿概念强者恒强",
@@ -31,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时18分 ~ 11时13分]"
+          "appearance_count": 17,
+          "time_info": "[01时18分 ~ 12时27分]"
         },
         {
           "title": "高盛：预计下周股票抛售将达400亿美元",
@@ -55,17 +55,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "泰国股指SET指数日内跌1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3008377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
         },
         {
           "title": "股指期货早盘开盘",
@@ -101,15 +90,15 @@
           "time_info": "09时43分"
         },
         {
-          "title": "越南股指VN指数日内跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3008372",
+          "title": "印度VIX指数升至13.85，为6月24日来最高。",
+          "url": "https://wallstreetcn.com/livenews/3008398",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时13分"
+          "time_info": "12时27分"
         },
         {
           "title": "周四（11月20日）纽约尾盘，ICE原糖期货涨0.14%，ICE白糖期货持平。 ICE阿拉比卡咖啡期货涨0.41%，咖啡“C”期货跌0.09%。罗布斯塔咖啡期货涨2.19%。 纽约可可期货涨2.96%，报5255美元/吨，脱离11月19日底部5070美元——2024年10月25日（最低4853美元）以来最低位。伦敦可可期货涨2.38%。 ICE棉花期货持平。",
@@ -122,6 +111,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时21分]"
+        },
+        {
+          "title": "泰国股指SET指数日内跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3008377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 12时27分]"
         },
         {
           "title": "富时中国A50指数期货跌幅扩大至1%。",
@@ -208,6 +209,18 @@
           "time_info": "[00时30分 ~ 01时18分]"
         },
         {
+          "title": "越南股指VN指数日内跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3008372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 12时27分]"
+        },
+        {
           "title": "高盛预计下周股票抛售将达400亿美元",
           "url": "https://wallstreetcn.com/livenews/3008078",
           "source": "华尔街见闻-快讯",
@@ -242,6 +255,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
+          "title": "新加坡海峡时报指数跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3008369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 12时27分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年11月21日 周五",
@@ -340,15 +365,16 @@
           "time_info": "[03时19分 ~ 04时26分]"
         },
         {
-          "title": "新加坡海峡时报指数跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3008369",
+          "title": "富时中国A50指数期货跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3008358",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            13,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 12时27分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌3.2%。 热门中概股里，阿特斯太阳能初步收跌18.3%，大全新能源跌9.2%，蔚来跌6%，晶科能源跌5.7%，小马智行、小鹏、小米、拼多多、百度跌超4%，网易则涨0.6%，贝壳涨1.3%，万国数据涨1.8%，逸仙电商涨3.3%。 ETF中，KWEB跌2.7%，CQQQ跌2.6%，ASHS跌1.4%，ASHR跌1.1%。",
@@ -360,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "上证指数早盘收报3857.24点，跌1.88%。 深证成指早盘收报12627.85点，跌2.72%。 创业板指早盘收报2945.61点，跌3.18%。 沪深300早盘收报4476.40点，跌1.94%。 科创50早盘收报1293.51点，跌2.61%。 中证500早盘收报6873.56点，跌2.67%。 中证1000早盘收报7132.86点，跌2.83%。",
+          "url": "https://wallstreetcn.com/livenews/3008390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "标普500指数收跌103.40点，跌幅1.56%，报6538.76点。 道琼斯工业平均指数收跌386.51点，跌幅0.84%，报45752.26点。 纳斯达克综合指数（纳指）收跌486.181点，跌幅2.16%，报22078.048点。 纳斯达克100指数收跌586.136点，跌幅2.38%，报24054.38点。 纳斯达克生物科技指数收跌0.91%，报5507.99点。 费城半导体指数收跌4.77%，报6352.067点。 费城证交所KBW银行指数收跌1.12%，报145.99点。 道琼斯KBW地区银行指数收跌0.30%，报114.72点。",
@@ -406,6 +443,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.24%，10年期主力合约跌0.03%，5年期主力合约跌0.06%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3008387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "标普500指数抹去涨幅，此前盘中一度涨1.9%。",
           "url": "https://flash.jin10.com/detail/20251121005626413800",
           "source": "金十数据",
@@ -439,6 +487,28 @@
           "time_info": "09时43分"
         },
         {
+          "title": "碳酸锂期货主力合约触及跌停，跌幅9%。",
+          "url": "https://wallstreetcn.com/livenews/3008383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "富宝资讯：碳酸锂期货盘面区间震荡，富宝碳酸锂社会总库存11.65万吨，环减2.5%",
+          "url": "https://flash.jin10.com/detail/20251121114920872800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "台湾证交所加权股价指数下跌2.2%至26,821.97点。",
           "url": "https://wallstreetcn.com/livenews/3008288",
           "source": "华尔街见闻-快讯",
@@ -450,15 +520,15 @@
           "time_info": "09时43分"
         },
         {
-          "title": "富时中国A50指数期货跌幅扩大至2%。",
-          "url": "https://wallstreetcn.com/livenews/3008358",
+          "title": "碳酸锂主力期货合约日内跌超8％。",
+          "url": "https://wallstreetcn.com/livenews/3008380",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时13分"
+          "time_info": "12时27分"
         },
         {
           "title": "美国11月堪萨斯联储制造业产出指数 18，前值15。",
@@ -489,7 +559,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         },
@@ -604,6 +674,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "金十图示：2025年11月21日（周五）富时中国A50指数成分股午盘收盘行情一览：多数板块飘绿，半导体、消费电子、通讯设备板块大跌",
+          "url": "https://flash.jin10.com/detail/20251121113238254800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "纳斯达克100指数下跌303点、跌幅扩大至1.22%，半导体指数跌2.4%。英伟达跌1.6%。 标普500指数跌0.8%，道指跌269点跌幅0.6%，纳指跌245点跌幅大约1.1%。",
           "url": "https://wallstreetcn.com/livenews/3008102",
           "source": "华尔街见闻-快讯",
@@ -621,7 +702,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         },
@@ -635,6 +716,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251121113232607800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251121113224609800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "纳斯达克中国金龙指数跌幅扩大至3%，阿里巴巴(BABA.N)跌3.5%。",
@@ -654,9 +757,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。碳酸锂跌超8%，沪银跌超3%，红枣、低硫燃料油（LU）、集运指数（欧线）、玻璃、工业硅、SC原油跌超2%。涨幅方面，淀粉涨超1%，玉米涨近1%。",
+          "url": "https://flash.jin10.com/detail/20251121113043880800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "分析师：三大因素力挺标普500指数年末行情 预计涨至7000点",
@@ -668,6 +782,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "30年期国债期货（TL）主力合约日内下跌0.30%，现报115.58元。",
+          "url": "https://flash.jin10.com/detail/20251121112141545800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "欧元区11月消费者信心指数初值 -14.2，预期 -14，前值 -14.2。",
@@ -717,7 +842,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普“化缘”21万亿美元意味着啥",
@@ -756,6 +881,30 @@
           "time_info": "07时21分"
         },
         {
+          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
+          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 12时27分]"
+        },
+        {
+          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
+          "url": "https://www.cls.cn/detail/2206817",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 12时27分]"
+        },
+        {
           "title": "特朗普签署命令 免除部分巴西农产品40%的关税",
           "url": "https://flash.jin10.com/detail/20251121060251003800",
           "source": "金十数据",
@@ -778,30 +927,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时26分]"
-        },
-        {
-          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
-          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时13分]"
-        },
-        {
-          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
-          "url": "https://www.cls.cn/detail/2206817",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时13分]"
         },
         {
           "title": "特朗普带C罗参观白宫",
@@ -861,6 +986,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普晒与C罗在白宫踢球AI视频",
+          "url": "https://www.toutiao.com/trending/7574730776219369513/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
           "title": "美国白宫：特朗普无意“处决”国会议员。",
@@ -1114,7 +1250,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -1140,8 +1276,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时20分 ~ 11时13分]"
+          "appearance_count": 9,
+          "time_info": "[06时20分 ~ 12时27分]"
         },
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -1152,8 +1288,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 11时13分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 12时27分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -1161,22 +1297,59 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时13分]"
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 12时27分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
           "url": "https://www.cls.cn/detail/2206908",
           "source": "财联社热门",
           "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 12时27分]"
+        },
+        {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.toutiao.com/trending/7574979338739650091/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
+          "url": "https://wallstreetcn.com/articles/3759847",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 12时27分]"
+        },
+        {
+          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
+          "url": "https://www.cls.cn/detail/2206941",
+          "source": "财联社热门",
+          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
           "title": "科兴生物被美股“劝退”",
@@ -1226,18 +1399,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时21分]"
-        },
-        {
-          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
-          "url": "https://wallstreetcn.com/articles/3759847",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时13分]"
         },
         {
           "title": "美股",
@@ -1499,6 +1660,18 @@
           "time_info": "04时26分"
         },
         {
+          "title": "Gemini 3深度实测",
+          "url": "https://www.douyin.com/hot/2312679",
+          "source": "抖音",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 12时27分]"
+        },
+        {
           "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
           "url": "https://wallstreetcn.com/livenews/3008082",
           "source": "华尔街见闻-快讯",
@@ -1521,17 +1694,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时33分]"
-        },
-        {
-          "title": "Gemini 3深度实测",
-          "url": "https://www.douyin.com/hot/2312679",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
         },
         {
           "title": "谷歌：从Pixel 10系列开始，Quick Share已实现与Air Drop的互操作性。",
@@ -1596,6 +1758,18 @@
           "time_info": "[06时21分 ~ 07时21分]"
         },
         {
+          "title": "OpenAI正式推出ChatGPT群聊功能",
+          "url": "https://wallstreetcn.com/livenews/3008363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 12时27分]"
+        },
+        {
           "title": "富士康：OpenAI将可提前访问以评估富士康的系统，并拥有购买这些系统的选项。",
           "url": "https://flash.jin10.com/detail/20251121065219599800",
           "source": "金十数据",
@@ -1605,17 +1779,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "OpenAI正式推出ChatGPT群聊功能",
-          "url": "https://wallstreetcn.com/livenews/3008363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
         },
         {
           "title": "富士康：富士康与OpenAI合作，以加强美国在人工智能供应链上的制造业实力。将在美国生产人工智能数据中心的关键设备。",
@@ -1657,7 +1820,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         }
@@ -1695,11 +1858,36 @@
           "url": "https://flash.jin10.com/detail/20251121105806062800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 12时27分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 12时27分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2312999",
+          "source": "抖音",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 12时27分]"
         },
         {
           "title": "突发！15天13板大牛股提示风险：如股价进一步异常上涨可能申请停牌核查|盘后公告集锦",
@@ -1707,28 +1895,6 @@
           "source": "财联社热门",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2312999",
-          "source": "抖音",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1776,6 +1942,17 @@
           "time_info": "[00时29分 ~ 03时19分]"
         },
         {
+          "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 12时27分]"
+        },
+        {
           "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
@@ -1785,17 +1962,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时26分 ~ 06时21分]"
-        },
-        {
-          "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时13分]"
         },
         {
           "title": "美股上演“史诗级”高开低走，英伟达跌超3%，美债走强，比特币跌破9万关口",
@@ -1844,7 +2010,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         }
