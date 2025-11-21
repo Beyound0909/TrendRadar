@@ -1,44 +1,115 @@
 {
-  "generated_at": "2025-11-22T00:28:20.727100+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-22T01:20:20.352091+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 13,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "MarketVector数字资产100小盘指数最近24小时跌3.51%，报17656.03点。 最近七个自然日（11月16-21日），该指数持续下挫，累计下跌12.19%，交投于20202.65-16701.45点区间，跌幅在11月21日加快。",
+          "url": "https://wallstreetcn.com/livenews/3008823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "纳指涨幅扩大至1%，英伟达转涨，半导体指数涨幅扩大至1.2%。 标普500指数涨1.2%，道指涨637点涨幅1.4%，纳斯达克100指数涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3008821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "标普500指数涨幅扩大至1%，道指涨537点涨幅1.2%，纳指涨超0.7%，生物科技指数涨超2%，半导体指数涨超0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3008819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
         {
           "title": "非洲股市收盘播报｜周五（11月21日），南非富时/JSE非洲领先40可交易指数收跌2.09%，逼近10.2万点，跳空低开后低位震荡，本周累计下跌2.29%。 本周，毛里求斯证交所SEMDEX指数累跌2.11%，尼日利亚证交所全部股指累跌2.26%——周一盘中显著跳水、后续持续震荡下行，肯尼亚内罗毕证交所全股指数累涨0.26%。",
           "url": "https://wallstreetcn.com/livenews/3008810",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "花旗警告称，由于人工智能（AI）乐观情绪动摇，应对做多标普500指数保持谨慎。",
           "url": "https://wallstreetcn.com/livenews/3008804",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "最新Form 144监管文件显示：亚马逊CEO Andrew Jassy申请对公司股票普通股减持1.9872万股。",
           "url": "https://wallstreetcn.com/livenews/3008803",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "纳斯达克100指数再度转跌。",
+          "url": "https://wallstreetcn.com/livenews/3008790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "【美国11月密歇根大学消费者信心指数降至历史最低水平的附近】美国11月密歇根大学消费者信心指数终值 51，预期 50.6，初值 50.3；10月终值53.6。 美国11月密歇根大学1年通胀预期终值 4.5%，初值 4.7%。 美国11月密歇根大学5年通胀预期终值 3.4%，预期 3.6%。 美国11月密歇根大学消费者现况指数终值 51.1，消费者对个人财务看法的悲观程度创2009年以来最高。",
+          "url": "https://wallstreetcn.com/livenews/3008789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.7%，报344.65点，创9月2日以来收盘新低，本周累计下跌超过2.90% %。 在十个板块中，北欧医疗保健板块跌幅最大。 瓦锡兰（Wartsila Oyj）跌6.0%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3008816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "01时20分"
         },
         {
           "title": "标普500指数和纳斯达克指数一度创下两个多月来的新低。",
@@ -52,26 +123,48 @@
           "time_info": "00时28分"
         },
         {
-          "title": "纳斯达克100指数再度转跌。",
-          "url": "https://wallstreetcn.com/livenews/3008790",
+          "title": "德国DAX 30指数初步收跌0.81%，报23089.84点，本周累跌约3.3%。 法国股指初步收跌0.14%，意大利股指初步收跌0.64%、银行指数跌0.77%，英国股指初步收跌0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3008814",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "01时20分"
         },
         {
-          "title": "【美国11月密歇根大学消费者信心指数降至历史最低水平的附近】美国11月密歇根大学消费者信心指数终值 51，预期 50.6，初值 50.3；10月终值53.6。 美国11月密歇根大学1年通胀预期终值 4.5%，初值 4.7%。 美国11月密歇根大学5年通胀预期终值 3.4%，预期 3.6%。 美国11月密歇根大学消费者现况指数终值 51.1，消费者对个人财务看法的悲观程度创2009年以来最高。",
-          "url": "https://wallstreetcn.com/livenews/3008789",
+          "title": "欧洲STOXX 600指数初步收跌0.46%，报561.32点，本周累计下跌大约2.3%。 欧元区STOXX 50指数初步收跌1.13%，报5507.24点，本周累跌约3.2%。 富时泛欧绩优300指数初步收跌0.48%，报2237.99点。",
+          "url": "https://wallstreetcn.com/livenews/3008813",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "01时20分"
+        },
+        {
+          "title": "金十图示：2025年11月22日（周六）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251122004520734800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "标普500指数上涨0.7%，触及盘中新高。",
+          "url": "https://flash.jin10.com/detail/20251122003914629800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
           "title": "内盘期货夜市多数收跌，苯乙烯、低硫燃油等跌超2%，焦煤跌约1.1%，铁矿石微涨",
@@ -94,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美国劳工局：第三季度就业成本指数将于12月10日发布。",
+          "url": "https://flash.jin10.com/detail/20251122001727607800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
           "title": "美国11月密歇根大学消费者信心指数终值 51，预期 50.6，初值 50.3。",
@@ -154,29 +258,67 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国总统特朗普：伊朗希望（围绕其核问题）达成一份协议，我们可能会这样做。",
           "url": "https://wallstreetcn.com/livenews/3008806",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "美国总统特朗普：（下）周四可作为乌克兰和平计划的最后期限。 如果进展顺利，倾向于将这个最后期限推后。",
           "url": "https://wallstreetcn.com/livenews/3008805",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
+          "url": "https://wallstreetcn.com/livenews/3008796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "南非无视特朗普政府发出的威胁，起草二十国集团（G20）峰会公报。 G20表示，保护关键矿物（的供应）不至于遭受单边贸易（政策的）限制。",
+          "url": "https://wallstreetcn.com/livenews/3008792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
@@ -201,42 +343,20 @@
           "time_info": "00时28分"
         },
         {
-          "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
-          "url": "https://wallstreetcn.com/livenews/3008796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "南非无视特朗普政府发出的威胁，起草二十国集团（G20）峰会公报。 G20表示，保护关键矿物（的供应）不至于遭受单边贸易（政策的）限制。",
-          "url": "https://wallstreetcn.com/livenews/3008792",
-          "source": "华尔街见闻-快讯",
+          "title": "乌克兰总统泽连斯基：乌克兰尊重美国总统特朗普的和平努力。",
+          "url": "https://flash.jin10.com/detail/20251122003317235800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "01时20分"
         },
         {
           "title": "美国总统特朗普：下周四是就乌克兰计划达成共识的合适期限。",
           "url": "https://flash.jin10.com/detail/20251121234058114800",
           "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
           "ranks": [
             18
           ],
@@ -265,12 +385,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美国总统特朗普：下周四是乌克兰接受美国支持的和平方案的合适期限。",
+          "url": "https://flash.jin10.com/detail/20251122002520185800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "特朗普关税政策为何“急转弯”",
+          "url": "https://www.toutiao.com/trending/7575149035590258239/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -280,8 +422,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -291,8 +433,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -302,8 +444,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -313,19 +455,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
           "url": "https://wallstreetcn.com/livenews/3008802",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
@@ -335,19 +478,53 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "高盛合伙人：美股出现多头缴械迹象，市场似乎正进入AI周期的新阶段",
           "url": "https://wallstreetcn.com/livenews/3008798",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "美股三大股指均涨超1%，英伟达(NVDA.O)日内转涨，此前一度跌4%。",
+          "url": "https://flash.jin10.com/detail/20251122005849224800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "01时20分"
+        },
+        {
+          "title": "美股V形反转，道指涨约1%",
+          "url": "https://wallstreetcn.com/livenews/3008815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "美股延续涨势，道指涨1%。",
+          "url": "https://flash.jin10.com/detail/20251122004255320800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
         }
       ]
     },
@@ -363,8 +540,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
@@ -374,8 +551,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         }
       ]
     },
@@ -388,22 +565,41 @@
           "url": "https://www.toutiao.com/trending/7575138184879672868/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "业内：A股向上趋势不变",
           "url": "https://www.toutiao.com/trending/7575161815512911379/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            23
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌公司推出BigQuery AI。",
+          "url": "https://wallstreetcn.com/livenews/3008826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "01时20分"
         }
       ]
     }
