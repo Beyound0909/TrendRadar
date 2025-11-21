@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T18:24:16.553105+08:00",
-  "total_titles_processed": 1700,
+  "generated_at": "2025-11-21T19:19:50.823447+08:00",
+  "total_titles_processed": 1801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 99,
+      "match_count": 102,
       "titles": [
         {
           "title": "【焦点复盘】银行股护盘独木难支，指数再现缩量探底，锂矿概念强者恒强",
@@ -112,6 +112,17 @@
           "time_info": "09时43分"
         },
         {
+          "title": "南华期货：香港联交所审议公司发行H股。",
+          "url": "https://wallstreetcn.com/livenews/3008655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "国债期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251121093411517800",
           "source": "金十数据",
@@ -154,17 +165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
-        },
-        {
-          "title": "信达生物将被纳入恒生指数； 中国宏桥、信达生物、百胜中国将被纳入恒生中国企业指数；海底捞、新东方、新奥能源将被从恒生中国企业指数中剔除； 零跑科技将被纳入恒生科技指数，ASMPT将被从恒生科技指数中剔除。",
-          "url": "https://wallstreetcn.com/livenews/3008617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "泰国股指SET指数日内跌1.1%。",
@@ -323,6 +323,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时35分 ~ 15时22分]"
+        },
+        {
+          "title": "信达生物将被纳入恒生指数； 中国宏桥、信达生物、百胜中国将被纳入恒生中国企业指数；海底捞、新东方、新奥能源将被从恒生中国企业指数中剔除； 零跑科技将被纳入恒生科技指数，ASMPT将被从恒生科技指数中剔除。",
+          "url": "https://wallstreetcn.com/livenews/3008617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时19分]"
         },
         {
           "title": "新加坡海峡时报指数跌1%。",
@@ -613,7 +625,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -624,7 +636,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -671,6 +683,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "上期能源拟修订20号胶期货标准合约及交割细则",
+          "url": "https://wallstreetcn.com/livenews/3008636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "美国11月堪萨斯联储制造业产出指数 18，前值15。",
@@ -745,7 +768,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -822,7 +845,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -1058,6 +1081,17 @@
           "time_info": "12时27分"
         },
         {
+          "title": "土耳其主要股指伊斯坦布尔100指数下跌1.38%，主要银行指数下跌2.1%。",
+          "url": "https://flash.jin10.com/detail/20251121182654604800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "法国11月INSEE制造业信心指数 98，预期 100，前值 101。",
           "url": "https://wallstreetcn.com/livenews/3008511",
           "source": "华尔街见闻-快讯",
@@ -1138,7 +1172,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普“化缘”21万亿美元意味着啥",
@@ -1200,8 +1234,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时22分 ~ 18时24分]"
+          "appearance_count": 8,
+          "time_info": "[13时22分 ~ 19时19分]"
         },
         {
           "title": "俄新社援引克里姆林宫消息称，莫斯科方面尚未获悉基辅已同意就特朗普的和平计划进行谈判。",
@@ -1425,6 +1459,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "特朗普政府的官员为上任一周年后可能进行的内阁调整做准备。",
+          "url": "https://flash.jin10.com/detail/20251121190554844800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "民主党籍联邦通信委员会（FCC）委员Anna Gomez表示，特朗普总统威胁吊销ABC广播执照的做法在法庭上将不会成功。",
           "url": "https://flash.jin10.com/detail/20251121005609305800",
           "source": "金十数据",
@@ -1469,6 +1514,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "知情人士：由于美国政府停摆43天，以及今年夏天首批250亿美元拨款缺乏明确计划，美国总统特朗普主推的“金穹”导弹防御计划面临重大延误。",
+          "url": "https://flash.jin10.com/detail/20251121190142654800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普签署命令，修改对巴西政府关税的适用范围。",
           "url": "https://flash.jin10.com/detail/20251121053841010800",
           "source": "金十数据",
@@ -1511,6 +1567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "市场消息：乌克兰总统泽连斯基和特朗普将于下周讨论和平计划。",
+          "url": "https://flash.jin10.com/detail/20251121184349648800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "泽连斯基已收到美和平计划草案 将与特朗普通话磋商",
@@ -1577,6 +1644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-21）",
+          "url": "https://flash.jin10.com/detail/20251121182645395800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     },
@@ -1608,8 +1686,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时43分 ~ 18时24分]"
+          "appearance_count": 13,
+          "time_info": "[09时43分 ~ 19时19分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -1675,8 +1753,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时43分 ~ 18时24分]"
+          "appearance_count": 13,
+          "time_info": "[09时43分 ~ 19时19分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -1699,8 +1777,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时34分 ~ 18时24分]"
+          "appearance_count": 7,
+          "time_info": "[14时34分 ~ 19时19分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -1775,8 +1853,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时24分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时19分]"
+        },
+        {
+          "title": "美股期货短线跳水，纳指期货日内跌幅扩大至0.8%，标普500指数期货跌0.38%，道指期货日内涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3008616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时19分]"
         },
         {
           "title": "美股",
@@ -1836,17 +1926,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
-        },
-        {
-          "title": "美股期货短线跳水，纳指期货日内跌幅扩大至0.8%，标普500指数期货跌0.38%，道指期货日内涨0.12%。",
-          "url": "https://wallstreetcn.com/livenews/3008616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "美股三大指数转跌，标普500指数跌0.3%，纳斯达克指数跌0.5%，道琼斯指数跌0.2%。英伟达(NVDA.O)跌幅扩大至1%，此前一度涨超5%。",
@@ -1995,7 +2074,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
@@ -2072,6 +2151,18 @@
           "time_info": "[11时13分 ~ 17时24分]"
         },
         {
+          "title": "A股下周能否实现反弹",
+          "url": "https://www.toutiao.com/trending/7575087696855436851/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时19分]"
+        },
+        {
           "title": "A股北交所新股N大鹏大涨超1500%，日内换手率超95%。",
           "url": "https://wallstreetcn.com/livenews/3008444",
           "source": "华尔街见闻-快讯",
@@ -2096,6 +2187,18 @@
           "time_info": "[14时35分 ~ 15时22分]"
         },
         {
+          "title": "李大霄：A股出现特殊情况",
+          "url": "https://www.toutiao.com/trending/7575090649750310441/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时19分]"
+        },
+        {
           "title": "突发！15天13板大牛股提示风险：如股价进一步异常上涨可能申请停牌核查|盘后公告集锦",
           "url": "https://www.cls.cn/detail/2206677",
           "source": "财联社热门",
@@ -2105,6 +2208,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时12分 ~ 11时13分]"
+        },
+        {
+          "title": "专家：未来A股市场操作难度会更大",
+          "url": "https://www.toutiao.com/trending/7575099880377421354/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时19分]"
         },
         {
           "title": "A股半日放量1975亿",
@@ -2140,28 +2255,6 @@
           "time_info": "07时21分"
         },
         {
-          "title": "A股下周能否实现反弹",
-          "url": "https://www.toutiao.com/trending/7575087696855436851/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "李大霄：A股出现特殊情况",
-          "url": "https://www.toutiao.com/trending/7575090649750310441/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
           "title": "A股3D打印概念异动拉升，长江材料直线涨停，海正生材、金橙子等纷纷冲高。",
           "url": "https://wallstreetcn.com/livenews/3008427",
           "source": "华尔街见闻-快讯",
@@ -2190,20 +2283,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
         {
-          "title": "专家：未来A股市场操作难度会更大",
-          "url": "https://www.toutiao.com/trending/7575099880377421354/",
+          "title": "A股三大指数集体收跌",
+          "url": "https://www.toutiao.com/trending/7575086040340237870/",
           "source": "今日头条",
           "ranks": [
-            30
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "19时19分"
         }
       ]
     },
@@ -2522,8 +2615,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时43分 ~ 18时24分]"
+          "appearance_count": 13,
+          "time_info": "[09时43分 ~ 19时19分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
@@ -2590,6 +2683,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "美元指数抹去此前跌幅，英镑触及日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3008615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时19分]"
+        },
+        {
           "title": "标普500指数跌幅扩大至1%，道指下跌318点、跌幅0.7%，纳指跌295点跌幅1.3%，纳斯达克100指数跌376点跌幅1.5%，半导体指数跌3%。 比特币日内大跌5000美元，跌幅5.64%，现报86400美元/枚。",
           "url": "https://wallstreetcn.com/livenews/3008112",
           "source": "华尔街见闻-快讯",
@@ -2600,17 +2705,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时19分]"
-        },
-        {
-          "title": "美元指数抹去此前跌幅，英镑触及日内低点。",
-          "url": "https://wallstreetcn.com/livenews/3008615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "美元指数20日下跌",
