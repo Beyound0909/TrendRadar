@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-22T12:25:57.118743+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2025-11-22T13:21:15.311618+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
       "match_count": 54,
       "titles": [
+        {
+          "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
+          "url": "https://wallstreetcn.com/articles/3759852",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 13时21分]"
+        },
         {
           "title": "周五（11月21日）纽约尾盘，标普500股指期货最终上涨1.15%，道指期货涨1.20%，纳斯达克100股指期货涨0.93%。 罗素2000股指期货涨2.89%。",
           "url": "https://wallstreetcn.com/livenews/3008934",
@@ -15,11 +28,27 @@
             2,
             9,
             16,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 13时21分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，电信板块收涨2.15%，保健板块涨2.11%，原材料板块涨2.1%，可选消费板块涨1.74%，信息技术/科技板块涨0.07%表现倒数第二，公用事业板块大致收平。",
+          "url": "https://wallstreetcn.com/livenews/3008933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            17,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 13时21分]"
         },
         {
           "title": "比特币期货本周跌超9.5%，以太坊期货跌超11.6%",
@@ -36,18 +65,19 @@
           "time_info": "[06时22分 ~ 11时07分]"
         },
         {
-          "title": "标普500指数的11个板块中，电信板块收涨2.15%，保健板块涨2.11%，原材料板块涨2.1%，可选消费板块涨1.74%，信息技术/科技板块涨0.07%表现倒数第二，公用事业板块大致收平。",
-          "url": "https://wallstreetcn.com/livenews/3008933",
+          "title": "美国劳工统计局（BLS）：我们不会披露10月实际收入数据。 BLS无法收集10月份与CPI通胀指标相关的数据，我们不能追溯性地掌握这些数据。 将于12月10日发布9月就业成本指数。",
+          "url": "https://wallstreetcn.com/livenews/3008928",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            10,
-            17,
-            23
+            6,
+            13,
+            20,
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 13时21分]"
         },
         {
           "title": "周五（11月21日）纽约尾盘，现货白银跌1.28%，报50.0021美元/盎司，本周累计下跌1.12%，交投区间为52.4679-48.6435美元。 COMEX白银期货累跌1.91%，报49.720美元/盎司。 COMEX铜期货累跌1.30%，报4.9970美元/磅。 现货铂金累跌1.72%，报1518.92美元/盎司；现货钯金累跌1.66%，报1377.31美元/盎司。",
@@ -87,19 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时20分]"
-        },
-        {
-          "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
-          "url": "https://wallstreetcn.com/articles/3759852",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时39分 ~ 12时25分]"
         },
         {
           "title": "MarketVector数字资产100小盘指数最近24小时跌3.51%，报17656.03点。 最近七个自然日（11月16-21日），该指数持续下挫，累计下跌12.19%，交投于20202.65-16701.45点区间，跌幅在11月21日加快。",
@@ -150,20 +167,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时22分 ~ 11时07分]"
-        },
-        {
-          "title": "美国劳工统计局（BLS）：我们不会披露10月实际收入数据。 BLS无法收集10月份与CPI通胀指标相关的数据，我们不能追溯性地掌握这些数据。 将于12月10日发布9月就业成本指数。",
-          "url": "https://wallstreetcn.com/livenews/3008928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 12时25分]"
         },
         {
           "title": "标普500指数涨幅扩大至1%，道指涨537点涨幅1.2%，纳指涨超0.7%，生物科技指数涨超2%，半导体指数涨超0.3%。",
@@ -650,7 +653,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -663,6 +666,30 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
+          "url": "https://v.ifeng.com/c/8oU2xy9xf53",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32019589",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 13时21分]"
         },
         {
           "title": "美国白宫针对关键矿物发布公告：为某些固定污染源提供“监管减免”，以促进美国焦炉加工安全 总统特朗普向与煤炭相关的产品提供两年监管宽限。",
@@ -714,6 +741,32 @@
           "time_info": "[05时20分 ~ 09时40分]"
         },
         {
+          "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
+          "url": "https://wallstreetcn.com/livenews/3008950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 13时21分]"
+        },
+        {
+          "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
+          "url": "https://flash.jin10.com/detail/20251122102554938800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 13时21分]"
+        },
+        {
           "title": "美联储12月降息投票陷“僵局” 被特朗普施压的库克或成关键一票",
           "url": "https://flash.jin10.com/detail/20251122021918507800",
           "source": "金十数据",
@@ -724,18 +777,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时19分]"
-        },
-        {
-          "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
-          "url": "https://wallstreetcn.com/livenews/3008950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时25分]"
         },
         {
           "title": "美国总统特朗普：伊朗希望（围绕其核问题）达成一份协议，我们可能会这样做。",
@@ -751,28 +792,16 @@
           "time_info": "[00时28分 ~ 02时32分]"
         },
         {
-          "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
-          "url": "https://flash.jin10.com/detail/20251122102554938800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时25分]"
-        },
-        {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32019589",
-          "source": "澎湃新闻",
+          "url": "https://www.cls.cn/detail/2207928",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            9
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时39分 ~ 12时25分]"
+          "time_info": "[11时07分 ~ 13时21分]"
         },
         {
           "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
@@ -786,16 +815,67 @@
           "time_info": "[04时25分 ~ 07时20分]"
         },
         {
+          "title": "特朗普警告泽连斯基",
+          "url": "https://www.toutiao.com/trending/7575040325853577259/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时07分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普昔日亲密盟友将辞去众议员职务",
+          "url": "https://news.ifeng.com/c/8oU6VqnGTn7",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 13时21分]"
+        },
+        {
           "title": "美法官叫停特朗普政府削减对多地的联邦拨款",
           "url": "https://flash.jin10.com/detail/20251122100232879800",
           "source": "金十数据",
           "ranks": [
             6,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时25分]"
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 13时21分]"
+        },
+        {
+          "title": "美国总统特朗普：我将立即终止对明尼苏达州索马里人的临时保护身份。",
+          "url": "https://flash.jin10.com/detail/20251122093844139800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普明确基辅接受新方案的最后期限及拒绝后果",
+          "url": "https://flash.jin10.com/detail/20251122092917398800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 13时21分]"
         },
         {
           "title": "美国总统特朗普：（下）周四可作为乌克兰和平计划的最后期限。 如果进展顺利，倾向于将这个最后期限推后。",
@@ -810,41 +890,6 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
-          "title": "美国总统特朗普：我将立即终止对明尼苏达州索马里人的临时保护身份。",
-          "url": "https://flash.jin10.com/detail/20251122093844139800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时25分]"
-        },
-        {
-          "title": "特朗普明确基辅接受新方案的最后期限及拒绝后果",
-          "url": "https://flash.jin10.com/detail/20251122092917398800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时25分]"
-        },
-        {
-          "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
-          "url": "https://www.cls.cn/detail/2207928",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时25分]"
-        },
-        {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
           "url": "https://flash.jin10.com/detail/20251122082422941800",
           "source": "金十数据",
@@ -855,18 +900,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时40分 ~ 11时07分]"
-        },
-        {
-          "title": "特朗普警告泽连斯基",
-          "url": "https://www.toutiao.com/trending/7575040325853577259/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时25分]"
         },
         {
           "title": "美国总统特朗普：乌克兰总统泽连斯基将不得不批准（我的）和平计划。",
@@ -916,15 +949,26 @@
           "time_info": "[09时39分 ~ 09时40分]"
         },
         {
-          "title": "特朗普昔日亲密盟友将辞去众议员职务",
-          "url": "https://news.ifeng.com/c/8oU6VqnGTn7",
-          "source": "凤凰网",
+          "title": "公开决裂后 特朗普铁杆盟友辞职",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%BC%80%E5%86%B3%E8%A3%82%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E9%93%81%E6%9D%86%E7%9B%9F%E5%8F%8B%E8%BE%9E%E8%81%8C",
+          "source": "百度热搜",
           "ranks": [
-            7
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普警告泽连斯基",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 13时21分]"
         },
         {
           "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
@@ -1155,8 +1199,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 12时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 13时21分]"
         },
         {
           "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
@@ -1166,11 +1210,12 @@
             1,
             8,
             15,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 13时21分]"
         },
         {
           "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
@@ -1180,11 +1225,12 @@
             4,
             11,
             18,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 13时21分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.82%，报284.12点，本周累计下跌3.50%，11月20日美股早盘出现一波显著的下跌行情。 纽约证交所ARCA金矿开采商指数收跌0.11%，报2063.11点，本周累跌4.41%。",
@@ -1318,7 +1364,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -1329,8 +1375,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时39分 ~ 12时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 13时21分]"
         },
         {
           "title": "谷歌公司推出BigQuery AI。",
@@ -1364,8 +1410,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时07分 ~ 13时21分]"
+        },
+        {
+          "title": "Gemini3玩法大全",
+          "url": "https://www.douyin.com/hot/2314134",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时07分 ~ 13时21分]"
         },
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
@@ -1380,16 +1438,15 @@
           "time_info": "[02时32分 ~ 03时19分]"
         },
         {
-          "title": "Gemini3玩法大全",
-          "url": "https://www.douyin.com/hot/2314134",
-          "source": "抖音",
+          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
+          "url": "https://www.cls.cn/detail/2207169",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时25分]"
+          "time_info": "[13时20分 ~ 13时21分]"
         },
         {
           "title": "谷歌推出BigQuery AI",
@@ -1420,6 +1477,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
+          "url": "https://www.cls.cn/detail/2207918",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 13时21分]"
+        },
+        {
           "title": "A股牛市要结束了吗",
           "url": "https://www.toutiao.com/trending/7575138184879672868/",
           "source": "今日头条",
@@ -1434,17 +1503,6 @@
           "time_info": "[00时28分 ~ 07时20分]"
         },
         {
-          "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
-          "url": "https://www.cls.cn/detail/2207918",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时39分 ~ 12时25分]"
-        },
-        {
           "title": "A股总市值一天蒸发逾3万亿 发生了啥",
           "url": "https://www.toutiao.com/trending/7575334189503876649/",
           "source": "今日头条",
@@ -1452,8 +1510,19 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 13时21分]"
+        },
+        {
+          "title": "A股下周行情怎么走",
+          "url": "https://www.toutiao.com/trending/7574708906186866724/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时39分 ~ 12时25分]"
+          "time_info": "[11时07分 ~ 13时21分]"
         },
         {
           "title": "业内：A股向上趋势不变",
@@ -1467,17 +1536,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 02时32分]"
-        },
-        {
-          "title": "A股下周行情怎么走",
-          "url": "https://www.toutiao.com/trending/7574708906186866724/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时25分]"
         }
       ]
     },
@@ -1515,11 +1573,12 @@
             8,
             15,
             22,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 13时21分]"
         }
       ]
     },
