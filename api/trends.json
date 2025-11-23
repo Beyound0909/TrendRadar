@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T03:17:49.479949+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2025-11-24T04:24:44.352991+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -15,19 +15,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时24分]"
         },
         {
           "title": "特朗普：普京只敢在拜登任内动手 我继承了一场本不该发生的“俄乌冲突”",
           "url": "https://flash.jin10.com/detail/20251123222329110800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时24分]"
+        },
+        {
+          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时24分]"
         },
         {
           "title": "特朗普抨击乌克兰领导层",
@@ -41,27 +55,38 @@
           "time_info": "00时25分"
         },
         {
-          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
-          "source": "澎湃新闻",
+          "title": "乌克兰总统泽连斯基：与美国代表进行对话是件好事，有迹象表明，美国总统特朗普的团队“听到了我们的声音”。",
+          "url": "https://flash.jin10.com/detail/20251124040847744800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            10
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "美国总统特朗普：乌克兰“领导层”对我们所做的一切毫无感激之情，而欧洲仍在继续从俄罗斯购买石油。",
           "url": "https://flash.jin10.com/detail/20251123221720269800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时24分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：最后期限是我们希望尽快完成此事（俄乌28点计划），最好能在周四前完成。美国总统特朗普与乌克兰总统泽连斯基之间有可能通话；我们拭目以待。",
+          "url": "https://flash.jin10.com/detail/20251124040841575800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "特朗普顾问哈塞特：新的美联储领导层可能会降息",
@@ -71,22 +96,24 @@
             9,
             8,
             12,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时24分]"
         },
         {
           "title": "美国财长贝森特：美国总统特朗普正向俄罗斯施压，要求其结束战争。",
           "url": "https://flash.jin10.com/detail/20251123221310746800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时24分]"
         },
         {
           "title": "芬兰总统斯图布：美国总统特朗普正在非常努力地寻求解决俄乌冲突的方案。",
@@ -160,8 +187,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时24分]"
         },
         {
           "title": "北外宁强教授在敦煌突发疾病逝世",
@@ -171,11 +198,43 @@
             20,
             22,
             25,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财经 期货 policy 股票 指数",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "股票里拉高出货的原理是什么?",
+          "url": "https://www.zhihu.com/question/482499515",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时24分]"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2025年11月24日 周一",
+          "url": "https://flash.jin10.com/detail/20251124000000001800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     },
@@ -191,30 +250,12 @@
             22,
             20,
             16,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "股票里拉高出货的原理是什么?",
-          "url": "https://www.zhihu.com/question/482499515",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时24分]"
         }
       ]
     }
