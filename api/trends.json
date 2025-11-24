@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T07:20:55.851409+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2025-11-24T09:51:06.310025+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "泽连斯基：感谢美国，感谢特朗普",
+          "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 09时51分]"
         },
         {
           "title": "美国总统特朗普：乌克兰“领导层”对我们所做的一切毫无感激之情，而欧洲仍在继续从俄罗斯购买石油。",
@@ -174,6 +185,17 @@
           "time_info": "[00时25分 ~ 02时30分]"
         },
         {
+          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
+          "url": "https://wallstreetcn.com/articles/3759963",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：特朗普对我们今天向他提供的会谈报告感到满意。",
           "url": "https://flash.jin10.com/detail/20251124041441751800",
           "source": "金十数据",
@@ -184,6 +206,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时21分]"
+        },
+        {
+          "title": "若泽连斯基拒绝美方和平计划？特朗普：他可以和俄罗斯打个痛快",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32025122",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 09时51分]"
         },
         {
           "title": "特朗普称乌克兰领导层对美方努力“毫无感激之情”",
@@ -198,13 +231,24 @@
           "time_info": "[01时19分 ~ 02时30分]"
         },
         {
+          "title": "特朗普抱怨乌克兰“毫无感激之心”",
+          "url": "https://www.toutiao.com/trending/7576058791771524646/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
           "title": "特朗普拟推出新方案以修正奥巴马医改补贴政策",
           "url": "https://flash.jin10.com/detail/20251124062541114800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -215,7 +259,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -226,7 +270,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -244,47 +288,177 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "财经 期货 policy 股票 指数",
+      "match_count": 14,
       "titles": [
         {
-          "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
-          "url": "https://flash.jin10.com/detail/20251124071540282800",
-          "source": "金十数据",
+          "title": "股票里拉高出货的原理是什么?",
+          "url": "https://www.zhihu.com/question/482499515",
+          "source": "知乎",
           "ranks": [
-            1
+            10,
+            8,
+            11,
+            13,
+            14,
+            15,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
-          "title": "美股期货亚市盘初走高，标普500指数期货涨0.6%，纳斯达克100指数期货涨0.7%，道指期货涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3009206",
-          "source": "华尔街见闻-快讯",
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251124093111064800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "09时51分"
         },
         {
-          "title": "美股股指期货周一高开，纳指期货涨近1%。",
-          "url": "https://flash.jin10.com/detail/20251124070025048800",
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251124093106428800",
           "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约跌0.03%，10年期主力合约跌0.04%，5年期主力合约跌0.00%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3009264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "中证转债指数高开0.08%。卓镁转债涨30%触发临停，东时转债、沪工转债涨超3%，春23转债、福蓉转债、国城转债、振华转债涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3009263",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "09时51分"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2025年11月24日 周一",
+          "url": "https://flash.jin10.com/detail/20251124000000001800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            16,
+            26,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 07时20分]"
+        },
+        {
+          "title": "上证指数开盘报3848.66点，涨0.36%。 深证成指开盘报12605.13点，涨0.53%。 创业板指开盘报2946.46点，涨0.90%。 沪深300开盘报4473.16点，涨0.44%。 科创50开盘报1295.88点，涨0.78%。 中证500开盘报6856.75点，涨0.58%。 中证1000开盘报7105.64点，涨0.54%。",
+          "url": "https://wallstreetcn.com/livenews/3009259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "恒指高开0.92%，恒生科技指数涨1.13%",
+          "url": "https://wallstreetcn.com/livenews/3009258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约跌多涨少，苯乙烯（EB）跌近3%，低硫燃料油（LU）、液化石油气（LPG）、纯苯跌超2%，合成橡胶跌近2%。涨幅方面，多晶硅涨超1%，玉米、淀粉、花生涨近1%。",
+          "url": "https://flash.jin10.com/detail/20251124090002701800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨1.1%至26,731.41点。",
+          "url": "https://wallstreetcn.com/livenews/3009252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数高开0.6%报26,596.03点。",
+          "url": "https://wallstreetcn.com/livenews/3009251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "商品期货开盘，苯乙烯、LU燃油、液化气、纯苯主力合约跌超2%，碳酸锂、BR橡胶、棕榈油、原油、燃料油跌超1%。多晶硅涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3009250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初涨0.73%，上一个交易日夜盘收涨0.71%。",
+          "url": "https://wallstreetcn.com/livenews/3009248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "中国外汇交易中心（CFETS）：11月21日人民币汇率指数按周涨0.39至98.22。",
+          "url": "https://wallstreetcn.com/livenews/3009235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "万亿级券商或诞生 本周披露并购重组进展的A股名单一览",
@@ -315,58 +489,104 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
+          "title": "年末重新增配A股迎来契机？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2208280",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
+          "title": "A股三大指数集体高开",
+          "url": "https://wallstreetcn.com/livenews/3009262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-11-24）",
+          "url": "https://flash.jin10.com/detail/20251124090510787800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "分析称A股本轮上涨行情基础并未改变，短期调整或带来布局良机",
           "url": "https://wallstreetcn.com/livenews/3009195",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "天风证券：A股近期调整为攻坚牛蓄力 后续关注交易热度回升",
+          "url": "https://wallstreetcn.com/livenews/3009236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
+          "url": "https://flash.jin10.com/detail/20251124071540282800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美股期货亚市盘初走高，标普500指数期货涨0.6%，纳斯达克100指数期货涨0.7%，道指期货涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3009206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美股股指期货周一高开，纳指期货涨近1%。",
+          "url": "https://flash.jin10.com/detail/20251124070025048800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         }
       ]
     },
     {
-      "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "股票里拉高出货的原理是什么?",
-          "url": "https://www.zhihu.com/question/482499515",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            11,
-            13,
-            14,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2025年11月24日 周一",
-          "url": "https://flash.jin10.com/detail/20251124000000001800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            16,
-            26,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 07时20分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -379,11 +599,23 @@
             17,
             23,
             21,
-            28
+            28,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 09时51分]"
+        },
+        {
+          "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
+          "url": "https://wallstreetcn.com/livenews/3009237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     }
