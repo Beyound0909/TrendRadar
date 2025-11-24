@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T05:21:54.190442+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2025-11-25T06:22:13.647239+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 35,
+      "match_count": 44,
       "titles": [
         {
           "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
@@ -16,8 +16,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "中国金龙指数涨2% 百度涨超5%",
@@ -34,24 +34,13 @@
           "time_info": "[00时26分 ~ 04时26分]"
         },
         {
-          "title": "金十图示：2025年11月24日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251125050636470800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收涨约2.9%。 热门中概股里，文远知行初步收涨约14.6%，小马智行涨12.3%，阿特斯太阳能涨10%，大全新能源涨8.8%，万国数据涨8.1%，百度涨7.4%，阿里巴巴涨5.4%，网易涨4.2%，蔚来涨3.2%，小鹏涨2.8%，腾讯涨2.1%，百胜中国则跌0.9%，新东方跌1.6%。 ETF中，KWEB涨3%，CQQQ涨2.8%。",
           "url": "https://wallstreetcn.com/livenews/3009762",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -67,6 +56,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时16分 ~ 05时21分]"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251125050636470800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
         },
         {
           "title": "周一（11月24日）纽约尾盘，ICE原糖期货涨0.47%，ICE白糖期货涨0.35%。 ICE阿拉比卡咖啡期货涨2.14%，咖啡“C”期货涨2.21%。罗布斯塔咖啡期货跌0.78%。 纽约可可期货涨0.89%，伦敦可可期货跌1.60%。 ICE棉花期货涨0.21%。",
@@ -132,6 +133,18 @@
           "time_info": "[03时16分 ~ 05时21分]"
         },
         {
+          "title": "韩国11月消费者信心指数 112.4，前值109.8。",
+          "url": "https://flash.jin10.com/detail/20251125050002151800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
+        },
+        {
           "title": "WTI 1月原油期货收涨0.78美元，涨幅1.34%，报58.84美元/桶。 布伦特1月原油期货收涨0.81美元，涨幅1.29%，报63.37美元/桶。 NYMEX 12月天然气期货收报4.5490美元/百万英热单位。 NYMEX 12月汽油期货收报1.8966美元/加仑，NYMEX 12月取暖油期货收报2.4061美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3009738",
           "source": "华尔街见闻-快讯",
@@ -192,6 +205,18 @@
           "time_info": "[01时22分 ~ 02时34分]"
         },
         {
+          "title": "芝加哥小麦期货跌超1%",
+          "url": "https://wallstreetcn.com/livenews/3009749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
+        },
+        {
           "title": "美国11月达拉斯联储商业活动指数 -10.4，预期 -2，前值 -5。",
           "url": "https://wallstreetcn.com/livenews/3009675",
           "source": "华尔街见闻-快讯",
@@ -202,6 +227,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时22分]"
+        },
+        {
+          "title": "周一（11月24日）纽约尾盘，标普500股指期货最终上涨1.60%，道指期货涨0.46%，纳斯达克100股指期货涨2.69%。 罗素2000股指期货涨1.97%。",
+          "url": "https://wallstreetcn.com/livenews/3009780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "芝商所（CME）：11月21日，CME利率期货和期权产品组合共成交44,839,732份合约，创下历史第二高的日成交量。",
@@ -215,15 +251,26 @@
           "time_info": "01时22分"
         },
         {
-          "title": "韩国11月消费者信心指数 112.4，前值109.8。",
-          "url": "https://flash.jin10.com/detail/20251125050002151800",
-          "source": "金十数据",
+          "title": "周一（11月24日）纽约尾盘，现货白银涨2.69%，报51.3688美元/盎司。 COMEX白银期货涨2.53%，报51.175美元/盎司。 COMEX铜期货跌0.25%，报5.0025美元/磅，欧股开盘以来呈现出V形走势。 现货铂金涨1.86%，报1549.95美元/盎司；现货钯金涨0.90%，报1392.89美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3009779",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "06时22分"
+        },
+        {
+          "title": "周一（11月24日）纽约尾盘，现货黄金涨1.80%，报4138.26美元/盎司，北京时间13:22微跌至4040.25美元刷新日低，随后持续、平滑地上涨。 COMEX黄金期货涨1.44%，报4138.00美元/盎司，日内交投区间为4036.40-4138.20美元。",
+          "url": "https://wallstreetcn.com/livenews/3009776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "美国11月达拉斯联储制造业原材料支付价格指数 35.3，前值33.4。",
@@ -235,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "德银：明年标普500指数目标位上看8000点",
+          "url": "https://flash.jin10.com/detail/20251125052735475800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "德国DAX 30指数初步收涨0.75%，报23264.50点。 法国股指初步收涨0.18%，意大利股指初步收跌0.54%、银行指数跌1.76%，英国股指初步收涨0.13%。",
@@ -281,15 +339,15 @@
           "time_info": "00时26分"
         },
         {
-          "title": "芝加哥小麦期货跌超1%",
-          "url": "https://wallstreetcn.com/livenews/3009749",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2025年11月24日（周一）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20251125052149808800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "06时22分"
         },
         {
           "title": "美国11月达拉斯联储制成品价格指数 10.8，前值7.7。",
@@ -314,6 +372,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "周一（11月24日），降息赢家指数涨0.57%，报95.12点。",
+          "url": "https://wallstreetcn.com/livenews/3009769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "美国11月达拉斯联储制造业产出指数 20.5，前值5.2。",
           "url": "https://flash.jin10.com/detail/20251124233037173800",
           "source": "金十数据",
@@ -323,6 +392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "周一（11月24日），彭博电动汽车价格回报指数涨0.24%，报3258.67点，亚太时段呈现出V形反转——北京时间13:01跌至3221.40点刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3009768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "美国11月达拉斯联储商业活动指数 -10.4，预期-2，前值-5。",
@@ -347,6 +427,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "标普500指数收涨102.13点，涨幅1.55%，报6705.12点。 道琼斯工业平均指数收涨202.86点，涨幅0.44%，报46448.27点。 纳斯达克综合指数（纳指）收涨598.922点，涨幅2.69%，报22872.005点。 纳斯达克100指数收涨634.281点，涨幅2.62%，报24873.854点。",
+          "url": "https://wallstreetcn.com/livenews/3009764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "恒指期货夜盘收涨0.62%，报25874点，高水158点。",
           "url": "https://flash.jin10.com/detail/20251125030913627800",
           "source": "金十数据",
@@ -356,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨2.82%，报7726.23点。 ETF中，中概互联网指数ETF（KWEB）收涨2.91%，中国科技指数ETF（CQQQ）收涨2.82%。 中国ETF-iShares MSCI（MCHI）收涨1.71%，XtrackersHarvest中证50（ASHS）收涨0.90%，德银嘉实沪深300指数ETF（ASHR）收涨0.19%。",
+          "url": "https://wallstreetcn.com/livenews/3009762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "金十图示：2025年11月24日（周一）全球股市指数-美洲市场（盘初）",
@@ -416,7 +518,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 31,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -426,8 +528,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -437,8 +539,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -448,8 +550,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -459,8 +561,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
@@ -470,8 +572,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -481,8 +583,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
@@ -494,8 +596,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "曝特朗普最后一刻才知28点计划内容",
@@ -508,8 +610,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "“跌疯了”的币圈“阴谋论满天飞”：美国政府“抢钱”，华尔街“做空”，甚至是“摩根大通大战特朗普”",
@@ -520,8 +622,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "华尔街日报：特朗普顾问就新的医疗保健提案进行讨论",
@@ -533,6 +635,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "美对委“炮舰外交”或现缓和信号 特朗普计划与马杜罗直接对话",
+          "url": "https://flash.jin10.com/detail/20251125061314901800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普签署行政命令，以推动人工智能加速创新，并指示构建人工智能平台，以利用联邦科学数据集。",
+          "url": "https://flash.jin10.com/detail/20251125060430409800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "据AXIOS网站：美国总统特朗普已告知其顾问，他正计划直接与委内瑞拉总统马杜罗对话。",
+          "url": "https://flash.jin10.com/detail/20251125060154130800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美国总统特朗普告诉他的顾问们，他打算与委内瑞拉总统马杜罗通电话。 相关计划仍然处于“筹备阶段”。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3009781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "特朗普政府将裁减约31.7万名雇员，超过原来的预估",
@@ -548,6 +694,18 @@
           "time_info": "[02时34分 ~ 04时26分]"
         },
         {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普一直在对俄罗斯总统普京和乌克兰总统泽连斯基施加压力。",
+          "url": "https://wallstreetcn.com/livenews/3009755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
+        },
+        {
           "title": "美国联邦法官驳回了针对特朗普政治对手的起诉",
           "url": "https://flash.jin10.com/detail/20251125015856912800",
           "source": "金十数据",
@@ -560,48 +718,95 @@
           "time_info": "[02时34分 ~ 03时16分]"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普一直在对俄罗斯总统普京和乌克兰总统泽连斯基施加压力。",
-          "url": "https://wallstreetcn.com/livenews/3009755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国与乌克兰在上周末进行了富有成效的会谈。 美国总统特朗普仍然对达成俄乌和平协议的可能性持乐观态度。 在乌克兰（和平协议）问题上，只剩下几点分歧了。 美国向北约出售成吨的武器，不能永远那样做。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3009752",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
         },
         {
           "title": "美国白宫发言人：特朗普在俄乌冲突中偏袒一方的说法不属实。",
           "url": "https://flash.jin10.com/detail/20251125044304075800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
         },
         {
           "title": "美国白宫发言人：特朗普对打击“贩毒恐怖分子”的行动感到满意。",
           "url": "https://flash.jin10.com/detail/20251125043457425800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
+        },
+        {
+          "title": "泽连斯基发文感谢特朗普",
+          "url": "https://www.douyin.com/hot/2316213",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 06时22分]"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普签署了与人工智能研究相关的行政命令。",
+          "url": "https://flash.jin10.com/detail/20251125055922632800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "06时22分"
+        },
+        {
+          "title": "特朗普政府力阻马斯克为“解散美国国际开发署”案出庭作证",
+          "url": "https://flash.jin10.com/detail/20251125055653747800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美乌和谈现突破后压力传至莫斯科 俄方拒接方案或再遭特朗普指责",
+          "url": "https://flash.jin10.com/detail/20251125055012060800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美国白宫：特朗普启动程序，将部分穆斯林兄弟会分支机构列为外国恐怖主义组织和特别指定的全球恐怖分子。",
+          "url": "https://flash.jin10.com/detail/20251125051834696800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "美国白宫发言人：本周未安排特朗普与泽连斯基的会晤。",
@@ -610,7 +815,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -632,7 +837,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -643,7 +848,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -654,7 +859,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -665,7 +870,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
@@ -673,7 +878,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
@@ -684,8 +889,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -695,8 +900,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
@@ -707,19 +912,44 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251125050629924800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251125050520330800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
+        },
+        {
+          "title": "美股收盘：三大股指齐升 金龙指数涨近3%",
+          "url": "https://flash.jin10.com/detail/20251125050102306800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
         },
         {
           "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股盘中）",
@@ -758,26 +988,48 @@
           "time_info": "[02时34分 ~ 03时16分]"
         },
         {
-          "title": "金十图示：2025年11月24日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251125050520330800",
-          "source": "金十数据",
+          "title": "（美股）费城金银指数收涨5.51%，报299.78点。 纽约证交所ARCA金矿开采商指数收涨4.86%，报2163.29点，北京时间22:30美股开盘之前维持微幅上涨状态、持续交投于2070点附近，随后迅速扩大涨幅，并持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3009777",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "06时22分"
         },
         {
-          "title": "美股收盘：三大股指齐升 金龙指数涨近3%",
-          "url": "https://flash.jin10.com/detail/20251125050102306800",
-          "source": "金十数据",
+          "title": "周一（11月24日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨5.13%，报88940美元，日内交投于85200-89240美元区间。 CME以太币期货DCR主力合约涨7.24%，报2969.50美元，日内交投于2764.50-2987.50美元区间。 美股加密货币与加密货币关联指数涨11.00%，报64.60点，跳空高开之后持续走高。 最近24小时，MarketVector数字资产100小盘指数涨2%，暂报18562.84点，北京时间22:50刷新日低至17700.27点，之后持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3009775",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "06时22分"
+        },
+        {
+          "title": "半导体ETF收涨将近4%，领跑美股行业ETF，标普电信板块涨超3.9%",
+          "url": "https://wallstreetcn.com/livenews/3009774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "周一（11月24日），美股人工智能（AI）赢家指数涨4.06%，报275.03点。 AI 100指数涨3.39%。 AI电力指数涨3.33%，AI风险指数跌0.56%，AI风险敞口半导体指数涨5.59%。",
+          "url": "https://wallstreetcn.com/livenews/3009770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "减肥药概念股涨跌各异，ANAB美股盘初涨4.7%，Hims & Hers涨4.3%，渤健BIIB涨2.7%，礼来则微跌，雅培跌超0.6%，诺和诺德ADR跌超9%。",
@@ -804,6 +1056,78 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3009767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "标普500指数初步收涨1.5%，电信板块涨4.1%——成分股谷歌A涨6.5%，科技板块涨2.6%，可选消费板块涨约2%，能源板块大致持平。 纳斯达克100指数初步收涨2.6%，成分股中，博通初步收涨11.2%，迈威尔科技涨8.7%，美光科技涨8%，特斯拉涨7%，AMD涨5.9%，Adobe则跌1.7%，星巴克跌2.2%，康卡斯特跌4.5%，CPRT跌4.6%。 Merck初步收涨2.9%，亚马逊涨2.4%，IBM、高盛、英伟达至少涨约1.9%，领跑道指成分股，迪士尼、VZ、宝洁则跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3009764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
+          "url": "https://flash.jin10.com/detail/20251125052238827800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "谷歌云：Anthropico的全新Claude Opus 4.5现在Vertex AI上正式发布。",
+          "url": "https://flash.jin10.com/detail/20251125032925366800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
+          "url": "https://wallstreetcn.com/livenews/3009767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "谷歌母公司Alphabet盘中涨超6%。",
+          "url": "https://flash.jin10.com/detail/20251124231115068800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
@@ -816,8 +1140,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "OpenAI：还将在ChatGPT Pulse中提供购物搜索内容，目前该功能仅向ChatGPT专业版用户开放。",
@@ -870,56 +1194,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3009767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "标普500指数初步收涨1.5%，电信板块涨4.1%——成分股谷歌A涨6.5%，科技板块涨2.6%，可选消费板块涨约2%，能源板块大致持平。 纳斯达克100指数初步收涨2.6%，成分股中，博通初步收涨11.2%，迈威尔科技涨8.7%，美光科技涨8%，特斯拉涨7%，AMD涨5.9%，Adobe则跌1.7%，星巴克跌2.2%，康卡斯特跌4.5%，CPRT跌4.6%。 Merck初步收涨2.9%，亚马逊涨2.4%，IBM、高盛、英伟达至少涨约1.9%，领跑道指成分股，迪士尼、VZ、宝洁则跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3009764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "谷歌云：Anthropico的全新Claude Opus 4.5现在Vertex AI上正式发布。",
-          "url": "https://flash.jin10.com/detail/20251125032925366800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "谷歌母公司Alphabet盘中涨超6%。",
-          "url": "https://flash.jin10.com/detail/20251124231115068800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -928,22 +1202,24 @@
           "url": "https://wallstreetcn.com/livenews/3009750",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
         },
         {
           "title": "美元指数24日下跌",
           "url": "https://flash.jin10.com/detail/20251125043627852800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
         }
       ]
     },
@@ -960,8 +1236,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "期货热点追踪",
@@ -1002,11 +1278,12 @@
           "url": "https://wallstreetcn.com/livenews/3009761",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
         }
       ]
     }
