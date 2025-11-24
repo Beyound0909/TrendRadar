@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T12:36:32.693572+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2025-11-24T13:24:37.143224+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "股票里拉高出货的原理是什么?",
@@ -97,6 +97,42 @@
           "time_info": "[11时26分 ~ 12时36分]"
         },
         {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251124113110247800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时24分]"
+        },
+        {
+          "title": "上证指数早盘收报3821.68点，跌0.34%。 深证成指早盘收报12463.79点，跌0.59%。 创业板指早盘收报2897.68点，跌0.77%。 沪深300早盘收报4427.55点，跌0.59%。 科创50早盘收报1280.64点，跌0.40%。 中证500早盘收报6804.37点，跌0.19%。 中证1000早盘收报7071.44点，涨0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3009330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时24分]"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251124113105861800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时24分]"
+        },
+        {
           "title": "港股快速拉升，恒生科技指数涨幅扩大至2%，恒指涨1.4%。阿里巴巴快速拉升涨超4%，快手涨近5%。",
           "url": "https://wallstreetcn.com/livenews/3009299",
           "source": "华尔街见闻-快讯",
@@ -107,6 +143,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时26分 ~ 12时36分]"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.17%，10年期主力合约涨0.06%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3009327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时24分]"
         },
         {
           "title": "欧洲斯托克50指数期货延续涨势，上涨0.85%；英国富时100指数期货上涨0.63%；德国DAX指数期货上涨0.94%",
@@ -142,28 +190,6 @@
           "time_info": "09时51分"
         },
         {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20251124113110247800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "上证指数早盘收报3821.68点，跌0.34%。 深证成指早盘收报12463.79点，跌0.59%。 创业板指早盘收报2897.68点，跌0.77%。 沪深300早盘收报4427.55点，跌0.59%。 科创50早盘收报1280.64点，跌0.40%。 中证500早盘收报6804.37点，跌0.19%。 中证1000早盘收报7071.44点，涨0.05%。",
-          "url": "https://wallstreetcn.com/livenews/3009330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
           "title": "早盘开盘，国内期货主力合约跌多涨少，苯乙烯（EB）跌近3%，低硫燃料油（LU）、液化石油气（LPG）、纯苯跌超2%，合成橡胶跌近2%。涨幅方面，多晶硅涨超1%，玉米、淀粉、花生涨近1%。",
           "url": "https://flash.jin10.com/detail/20251124090002701800",
           "source": "金十数据",
@@ -175,15 +201,15 @@
           "time_info": "09时51分"
         },
         {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20251124113105861800",
+          "title": "韩国KOSPI指数转跌，回吐此前1.66%的涨幅。",
+          "url": "https://flash.jin10.com/detail/20251124122940076800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "13时24分"
         },
         {
           "title": "台湾证交所加权股价指数上涨1.1%至26,731.41点。",
@@ -214,7 +240,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -228,17 +254,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.17%，10年期主力合约涨0.06%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3009327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
         },
         {
           "title": "商品期货开盘，苯乙烯、LU燃油、液化气、纯苯主力合约跌超2%，碳酸锂、BR橡胶、棕榈油、原油、燃料油跌超1%。多晶硅涨超1%。",
@@ -258,7 +273,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -310,7 +325,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -336,6 +351,30 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 07时20分]"
+        },
+        {
+          "title": "泽连斯基：感谢美国，感谢特朗普",
+          "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 13时24分]"
+        },
+        {
+          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
+          "url": "https://wallstreetcn.com/articles/3759963",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 13时24分]"
         },
         {
           "title": "特朗普：普京只敢在拜登任内动手 我继承了一场本不该发生的“俄乌冲突”",
@@ -368,30 +407,6 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
-          "title": "泽连斯基：感谢美国，感谢特朗普",
-          "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 12时36分]"
-        },
-        {
-          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
-          "url": "https://wallstreetcn.com/articles/3759963",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 12时36分]"
-        },
-        {
           "title": "美国总统特朗普：乌克兰“领导层”对我们所做的一切毫无感激之情，而欧洲仍在继续从俄罗斯购买石油。",
           "url": "https://flash.jin10.com/detail/20251123221720269800",
           "source": "金十数据",
@@ -416,6 +431,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普：期待最高法院对关税问题的裁决。",
+          "url": "https://wallstreetcn.com/livenews/3009368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "美国财长贝森特：美国总统特朗普正向俄罗斯施压，要求其结束战争。",
@@ -602,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "泽连斯基被特朗普出卖了吗",
+          "url": "https://www.toutiao.com/trending/7576110842249219626/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
@@ -647,8 +684,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 13时24分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251124103936288800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时24分]"
         },
         {
           "title": "A股三大指数集体高开",
@@ -669,18 +719,6 @@
           "ranks": [
             11,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时36分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251124103936288800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -759,22 +797,24 @@
             23,
             21,
             28,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 11时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 13时24分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
           "url": "https://wallstreetcn.com/livenews/3009336",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时24分]"
         },
         {
           "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
