@@ -1,12 +1,47 @@
 {
-  "generated_at": "2025-11-25T02:34:26.109157+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-11-25T03:16:51.588478+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "恒生指数主连夜盘收涨0.62%，报25874点。 恒生科技指数主连夜盘收涨0.90%，报5603点。",
+          "url": "https://wallstreetcn.com/livenews/3009731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
+          "url": "https://www.cls.cn/detail/2209008",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
+        },
+        {
+          "title": "中国金龙指数涨2% 百度涨超5%",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E9%BE%99%E6%8C%87%E6%95%B0%E6%B6%A82%25+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
+        },
         {
           "title": "今日重点关注的财经数据与事件：2025年11月25日 周二",
           "url": "https://flash.jin10.com/detail/20251125000000001800",
@@ -20,29 +55,6 @@
           "time_info": "[00时26分 ~ 01时22分]"
         },
         {
-          "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
-          "url": "https://www.cls.cn/detail/2209008",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时34分]"
-        },
-        {
-          "title": "中国金龙指数涨2% 百度涨超5%",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E9%BE%99%E6%8C%87%E6%95%B0%E6%B6%A82%25+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%855%25",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时34分]"
-        },
-        {
           "title": "恐慌指数VIX波动率日内跌幅达10.0%，报21.12。",
           "url": "https://wallstreetcn.com/livenews/3009687",
           "source": "华尔街见闻-快讯",
@@ -54,6 +66,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 02时34分]"
+        },
+        {
+          "title": "标普500指数上涨1.55%，道指涨239点涨幅0.52%，纳指涨2.56%，半导体指数涨2.46%，小盘股指涨1.63%。",
+          "url": "https://wallstreetcn.com/livenews/3009716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时16分]"
         },
         {
           "title": "标普500指数涨1.15%，道指涨0.38%，纳指涨超2%，半导体指数涨3.4%。",
@@ -116,15 +140,15 @@
           "time_info": "[00时26分 ~ 01时22分]"
         },
         {
-          "title": "标普500指数上涨1.55%，道指涨239点涨幅0.52%，纳指涨2.56%，半导体指数涨2.46%，小盘股指涨1.63%。",
-          "url": "https://wallstreetcn.com/livenews/3009716",
+          "title": "上期所原油期货2501合约夜盘收涨0.94%，报449.80元人民币/桶。 沪金夜盘收涨0.64%，沪银收涨1.47%。",
+          "url": "https://wallstreetcn.com/livenews/3009727",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时34分"
+          "time_info": "03时16分"
         },
         {
           "title": "芝商所（CME）：11月21日，CME利率期货和期权产品组合共成交44,839,732份合约，创下历史第二高的日成交量。",
@@ -276,7 +300,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         },
@@ -306,7 +330,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -316,8 +340,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -327,8 +351,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -338,8 +362,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -349,8 +373,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
@@ -360,8 +384,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -371,8 +395,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
@@ -380,11 +404,23 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
+        },
+        {
+          "title": "华尔街日报：特朗普顾问就新的医疗保健提案进行讨论",
+          "url": "https://flash.jin10.com/detail/20251125024713901800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "曝特朗普最后一刻才知28点计划内容",
@@ -396,8 +432,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "“跌疯了”的币圈“阴谋论满天飞”：美国政府“抢钱”，华尔街“做空”，甚至是“摩根大通大战特朗普”",
@@ -408,30 +444,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "特朗普政府将裁减约31.7万名雇员，超过原来的预估",
           "url": "https://wallstreetcn.com/livenews/3009712",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时16分]"
         },
         {
           "title": "美国联邦法官驳回了针对特朗普政治对手的起诉",
           "url": "https://flash.jin10.com/detail/20251125015856912800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时16分]"
         }
       ]
     },
@@ -447,8 +485,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -458,8 +496,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
@@ -470,41 +508,44 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251125014657977800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时16分]"
         },
         {
           "title": "美股三大股指维持涨势，短线波动暂不大，道指现涨0.5%，标普500指数涨1.5%，纳指涨近2.6%。",
           "url": "https://flash.jin10.com/detail/20251125014426158800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时16分]"
         },
         {
           "title": "金十图示：2025年11月24日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251125013852584800",
           "source": "金十数据",
           "ranks": [
-            19
+            19,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时16分]"
         },
         {
           "title": "减肥药概念股涨跌各异，ANAB美股盘初涨4.7%，Hims & Hers涨4.3%，渤健BIIB涨2.7%，礼来则微跌，雅培跌超0.6%，诺和诺德ADR跌超9%。",
@@ -532,7 +573,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
@@ -542,30 +583,43 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
+        },
+        {
+          "title": "OpenAI：还将在ChatGPT Pulse中提供购物搜索内容，目前该功能仅向ChatGPT专业版用户开放。",
+          "url": "https://flash.jin10.com/detail/20251125024002118800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "OpenAI推出ChatGPT购物调研工具 为假期购物做准备",
           "url": "https://flash.jin10.com/detail/20251125020806120800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时16分]"
         },
         {
           "title": "OpenAI：在ChatGPT提供购物搜索功能。",
           "url": "https://wallstreetcn.com/livenews/3009721",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时16分]"
         },
         {
           "title": "新一轮AI超级周期正在开启，汇丰预计OpenAI到2030年或需高达2070亿美元新融资",
@@ -594,8 +648,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "期货热点追踪",
