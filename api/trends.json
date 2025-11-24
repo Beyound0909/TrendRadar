@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T20:47:43.849365+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2025-11-24T21:35:41.559337+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 71,
+      "match_count": 75,
       "titles": [
         {
           "title": "股票里拉高出货的原理是什么?",
@@ -35,8 +35,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时22分 ~ 20时47分]"
+          "appearance_count": 8,
+          "time_info": "[15时22分 ~ 21时35分]"
         },
         {
           "title": "国债期货早盘开盘",
@@ -48,17 +48,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "金十图示：2025年11月24日（周一）投机情绪指数",
-          "url": "https://flash.jin10.com/detail/20251124151027668800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         },
         {
           "title": "市场消息：印度尼西亚规模达520亿美元的国有社会保障基金的董事表示，该基金正在关注为人工智能产业提供基础设施的公司，作为其首批海外投资目标。该基金正在等待政府批准，以便将其总资产的最高5%投资于海外。该机构可以投资于美国、日本、韩国市场，用于购买AI供应链相关股票。",
@@ -94,6 +83,28 @@
           "time_info": "19时20分"
         },
         {
+          "title": "高乐股份：华统集团正在筹划转让其持有的公司股份或（及）委托表决权，本次筹划事项可能导致公司控制权发生变更，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3009622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "夜盘期货开盘，玻璃、焦煤、乙二醇涨逾1%，沥青、棉纱、甲醇、沪银等上涨；低硫燃油、棕榈油、菜油等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3009619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2025年11月24日 周一",
           "url": "https://flash.jin10.com/detail/20251124000000001800",
           "source": "金十数据",
@@ -106,6 +117,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时24分 ~ 14时35分]"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20251124151027668800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 21时35分]"
         },
         {
           "title": "上海港湾：经自查，发现部分平台已将公司股票纳入“商业航天概念股”、“钙钛矿电池概念股”。根据经审计的2024年公司财务数据显示，商业航天业务和钙钛矿太阳能业务占公司营收比例不足1%，规模较小，且尚未盈利。上述事项对公司当前主营业务的开展无实质影响。",
@@ -188,8 +211,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时47分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 21时35分]"
         },
         {
           "title": "德国DAX指数涨幅扩大至1%。",
@@ -412,6 +435,17 @@
           "time_info": "17时28分"
         },
         {
+          "title": "波罗的海干散货指数涨0.88%，至2295点。",
+          "url": "https://flash.jin10.com/detail/20251124210115779800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "恒指高开0.92%，恒生科技指数涨1.13%",
           "url": "https://wallstreetcn.com/livenews/3009258",
           "source": "华尔街见闻-快讯",
@@ -487,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约涨多跌少，玻璃、焦煤、乙二醇涨超1%，沥青、棉纱、甲醇、丙烯小幅上涨。跌幅方面，低硫燃料油、棕榈油、菜油小幅下跌。",
+          "url": "https://flash.jin10.com/detail/20251124210002150800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "台湾证交所加权股价指数上涨1.1%至26,731.41点。",
@@ -726,7 +771,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -847,8 +892,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时50分 ~ 20时47分]"
+          "appearance_count": 15,
+          "time_info": "[09时50分 ~ 21时35分]"
         },
         {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
@@ -871,11 +916,12 @@
           "ranks": [
             16,
             2,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 20时47分]"
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 21时35分]"
         },
         {
           "title": "特朗普28条能让俄乌停战吗",
@@ -1126,6 +1172,17 @@
           "time_info": "[09时50分 ~ 09时51分]"
         },
         {
+          "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32029092",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时35分]"
+        },
+        {
           "title": "特朗普称乌克兰领导层对美方努力“毫无感激之情”",
           "url": "https://wallstreetcn.com/livenews/3009128",
           "source": "华尔街见闻-快讯",
@@ -1215,17 +1272,6 @@
           "time_info": "11时26分"
         },
         {
-          "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32029092",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
           "title": "特朗普：关税带来的全部好处尚未计算",
           "url": "https://flash.jin10.com/detail/20251124183937041800",
           "source": "金十数据",
@@ -1288,6 +1334,18 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
+          "title": "A股三大指数全线收涨，阿里概念股大涨，港股高开高走，恒科指涨超2%，科网、新能源车反弹",
+          "url": "https://wallstreetcn.com/articles/3759974",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 21时35分]"
+        },
+        {
           "title": "北外宁强教授在敦煌突发疾病逝世",
           "url": "https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%96%E5%AE%81%E5%BC%BA%E6%95%99%E6%8E%88%E5%9C%A8%E6%95%A6%E7%85%8C%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E9%80%9D%E4%B8%96",
           "source": "百度热搜",
@@ -1304,18 +1362,6 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
-          "title": "A股三大指数全线收涨，阿里概念股大涨，港股高开高走，恒科指涨超2%，科网、新能源车反弹",
-          "url": "https://wallstreetcn.com/articles/3759974",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 20时47分]"
-        },
-        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20251124103936288800",
           "source": "金十数据",
@@ -1324,11 +1370,12 @@
             17,
             4,
             6,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 20时47分]"
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 21时35分]"
         },
         {
           "title": "年末重新增配A股迎来契机？投资主线有哪些？十大券商策略来了",
@@ -1515,7 +1562,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -1527,8 +1574,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时34分 ~ 20时47分]"
+          "appearance_count": 10,
+          "time_info": "[14时34分 ~ 21时35分]"
         },
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
@@ -1588,21 +1635,43 @@
           "time_info": "[17时28分 ~ 18时27分]"
         },
         {
+          "title": "美股期货延续涨势，欧股上涨，黄金下跌0.2%，比特币月内创三年最差表现",
+          "url": "https://wallstreetcn.com/articles/3759998",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "诺和诺德美股盘前跌超11%，其Ozempic片剂未能缓解阿尔茨海默病",
           "url": "https://wallstreetcn.com/livenews/3009588",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
+        },
+        {
+          "title": "诺和诺德美股盘前跌近12%，公司阿尔茨海默病相关试验失败",
+          "url": "https://wallstreetcn.com/livenews/3009588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -1622,6 +1691,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时25分 ~ 13时24分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet盘前涨幅扩大至高达4.1%。",
+          "url": "https://flash.jin10.com/detail/20251124211321112800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -1735,8 +1815,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 20时47分]"
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 21时35分]"
         }
       ]
     }
