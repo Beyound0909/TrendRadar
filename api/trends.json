@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-11-27T05:20:42.008480+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2025-11-27T06:22:03.682161+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
-          "title": "周三（11月26日），彭博电动汽车价格回报指数涨1.64%，报3369.06点，亚太早盘持续上涨，之后维持高位震荡状态。",
-          "url": "https://wallstreetcn.com/livenews/3011061",
+          "title": "天域半导体申请香港IPO。 寻求发行3000万股股票，发行价为每股58港元。",
+          "url": "https://wallstreetcn.com/livenews/3011078",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "06时22分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.03%，报25924点。 恒生科技指数主连夜盘收跌0.39%，报5595点。",
@@ -41,6 +41,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时20分]"
+        },
+        {
+          "title": "周三（11月26日），彭博电动汽车价格回报指数涨1.64%，报3369.06点，亚太早盘持续上涨，之后维持高位震荡状态。",
+          "url": "https://wallstreetcn.com/livenews/3011061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年11月27日 周四",
@@ -103,6 +115,18 @@
           "time_info": "[00时30分 ~ 01时21分]"
         },
         {
+          "title": "纳斯达克金龙中国指数收跌0.03%，报7750.79点。 热门中概股里，阿特斯太阳能涨8.4%，大全新能源涨3.2%，文远知行涨1.7%，金山云则跌3.9%。 ETF中，中概互联网指数ETF（KWEB）收跌0.64%，中国科技指数ETF（CQQQ）收跌0.27%。 XtrackersHarvest中证50（ASHS）收涨0.01%，德银嘉实沪深300指数ETF（ASHR）收涨0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3011058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
           "title": "斯托克欧洲600指数涨幅扩大至1%，创盘中新高。",
           "url": "https://flash.jin10.com/detail/20251126235050822800",
           "source": "金十数据",
@@ -139,6 +163,18 @@
           "time_info": "[04时25分 ~ 05时20分]"
         },
         {
+          "title": "标普500指数收涨46.73点，涨幅0.69%，报6812.61点。 道琼斯工业平均指数收涨314.67点，涨幅0.67%，报47427.12点。 纳斯达克综合指数（纳指）收涨189.099点，涨幅0.82%，报23214.69点。 纳斯达克100指数收涨218.579点，涨幅0.87%，报25236.939点。",
+          "url": "https://wallstreetcn.com/livenews/3011055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
           "title": "上期所原油期货2501合约夜盘收涨0.79%，报446.30元人民币/桶。 沪金夜盘收涨0.37%，沪银收涨2.73%。",
           "url": "https://wallstreetcn.com/livenews/3011019",
           "source": "华尔街见闻-快讯",
@@ -149,6 +185,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时25分]"
+        },
+        {
+          "title": "阿根廷MERVAL指数收涨4.27%，至298万点上方。",
+          "url": "https://wallstreetcn.com/livenews/3011053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨1.4%，连续三个交易日走高、创11月11日（收涨2.1%）以来最佳单日表现，报352.62点。 在十个板块中，北欧医疗保健板块涨幅最大。 权重股诺和诺德涨4.7%，在一众北欧个股里领跑。",
@@ -163,37 +211,48 @@
           "time_info": "[01时21分 ~ 02时29分]"
         },
         {
-          "title": "纳斯达克金龙中国指数收跌0.03%，报7750.79点。 热门中概股里，阿特斯太阳能涨8.4%，大全新能源涨3.2%，文远知行涨1.7%，金山云则跌3.9%。 ETF中，中概互联网指数ETF（KWEB）收跌0.64%，中国科技指数ETF（CQQQ）收跌0.27%。 XtrackersHarvest中证50（ASHS）收涨0.01%，德银嘉实沪深300指数ETF（ASHR）收涨0.16%。",
-          "url": "https://wallstreetcn.com/livenews/3011058",
+          "title": "周三（11月26日）纽约尾盘，标普500股指期货最终涨0.74%，道指期货涨0.71%，纳斯达克100股指期货涨0.93%。 罗素2000股指期货涨0.88%。",
+          "url": "https://wallstreetcn.com/livenews/3011074",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "06时22分"
         },
         {
-          "title": "标普500指数收涨46.73点，涨幅0.69%，报6812.61点。 道琼斯工业平均指数收涨314.67点，涨幅0.67%，报47427.12点。 纳斯达克综合指数（纳指）收涨189.099点，涨幅0.82%，报23214.69点。 纳斯达克100指数收涨218.579点，涨幅0.87%，报25236.939点。",
-          "url": "https://wallstreetcn.com/livenews/3011055",
+          "title": "周三（11月26日）纽约尾盘，现货黄金涨0.80%，报4163.78美元/盎司，日内交投于4129.91-4173.42美元，大部分时间高位震荡。 COMEX黄金期货涨0.46%，报4158.90美元/盎司；2月合约涨0.74%，报4196.40美元。",
+          "url": "https://wallstreetcn.com/livenews/3011069",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "06时22分"
         },
         {
-          "title": "阿根廷MERVAL指数收涨4.27%，至298万点上方。",
-          "url": "https://wallstreetcn.com/livenews/3011053",
+          "title": "标普500指数的11个板块普遍收涨，公用事业、信息技术/科技、原材料板块至多涨1.32%，能源板块涨0.68%，电信板块则收跌0.49%。",
+          "url": "https://wallstreetcn.com/livenews/3011067",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "06时22分"
+        },
+        {
+          "title": "金十图示：2025年11月26日（周三）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20251127052115751800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "德国DAX 30指数初步收涨0.96%，报23689.55点。 法国股指初步收涨0.80%，意大利股指初步收涨0.95%、银行指数涨1.09%，英国股指初步收涨0.94%。",
@@ -240,6 +299,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "金十图示：2025年11月26日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251127050546180800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "恒指期货夜盘收涨0.02%，报25906点，低水22点。",
           "url": "https://flash.jin10.com/detail/20251127031050649800",
           "source": "金十数据",
@@ -265,7 +335,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -275,8 +345,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -286,8 +356,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
@@ -298,8 +368,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -309,8 +379,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -321,11 +391,26 @@
             24,
             17,
             18,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普称不再给乌克兰设最后期限",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E5%86%8D%E7%BB%99%E4%B9%8C%E5%85%8B%E5%85%B0%E8%AE%BE%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            26,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "白宫发言人：美国总统特朗普已获悉两名国民警卫队成员遭枪击的事件。",
@@ -346,20 +431,6 @@
             24,
             28,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 05时20分]"
-        },
-        {
-          "title": "特朗普称不再给乌克兰设最后期限",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E5%86%8D%E7%BB%99%E4%B9%8C%E5%85%8B%E5%85%B0%E8%AE%BE%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            26,
-            28,
-            30
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -390,13 +461,25 @@
           "time_info": "[04时25分 ~ 05时20分]"
         },
         {
+          "title": "加拿大总理卡尼：周二与美国总统特朗普通电话。 与美国的贸易谈判还没有重启，加方已经做好准备。",
+          "url": "https://wallstreetcn.com/livenews/3011051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
           "title": "加拿大总理卡尼：将于下周在世界杯足球抽签期间会见美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20251127044545100800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -407,7 +490,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -423,15 +506,15 @@
           "time_info": "04时25分"
         },
         {
-          "title": "加拿大总理卡尼：周二与美国总统特朗普通电话。 与美国的贸易谈判还没有重启，加方已经做好准备。",
-          "url": "https://wallstreetcn.com/livenews/3011051",
-          "source": "华尔街见闻-快讯",
+          "title": "关系持续恶化 特朗普宣称将南非排除出明年的迈阿密G20峰会",
+          "url": "https://flash.jin10.com/detail/20251127052552606800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "06时22分"
         },
         {
           "title": "美国总统特朗普：南非将不会收到2026年二十国集团的邀请。",
@@ -456,13 +539,24 @@
           "time_info": "04时25分"
         },
         {
+          "title": "美国国防部长赫格塞思：美国总统特朗普已要求向华盛顿特区增派500名士兵，此前已有两名国民警卫队成员遭枪击。",
+          "url": "https://flash.jin10.com/detail/20251127052114658800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "美国总统特朗普：两名国民警卫队成员情况危急，嫌疑人也受了重伤。",
           "url": "https://flash.jin10.com/detail/20251127042659606800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -480,8 +574,162 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "降息预期升温，全球股市齐涨，美股集体高开，甲骨文涨超6%",
+          "url": "https://wallstreetcn.com/articles/3760164",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时22分]"
+        },
+        {
+          "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2212003",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时22分]"
+        },
+        {
+          "title": "Tilray Brands Inc.美股盘后跌20%。",
+          "url": "https://wallstreetcn.com/livenews/3011079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "阿里巴巴(BABA.N)美股短线跳水，现跌近3%。",
+          "url": "https://flash.jin10.com/detail/20251127021140906800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时18分]"
+        },
+        {
+          "title": "周三（11月26日），降息赢家指数涨0.76%，报99.70点，美股开盘后，涨势持续至北京时间01:30，04:17过后快速回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3011062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "金十图示：2025年11月26日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251127020217534800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "周三（11月26日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨3.29%，报90295.00美元，北京时间00:00-02:00出现一波显著上涨的行情。 CME以太币期货DCR主力合约涨3.50%，报3031.50美元。 美股加密货币与加密货币关联指数涨4.95%，报68.01点。 最近24小时，MarketVector数字资产100小盘指数涨3.18%，暂报18855.77点。",
+          "url": "https://wallstreetcn.com/livenews/3011073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨4.98%，报316.85点，全天持续走高。 纽约证交所ARCA金矿开采商指数收涨4.39%，报2274.52点；北京时间22:30美股开盘之前持平于2180点附近，之后“跳空高开”并持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3011070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "金十图示：2025年11月26日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251127015908455800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "半导体ETF收涨超2.2%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3011068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "金十图示：2025年11月26日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251127050533474800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "金十图示：2025年11月26日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251127050529434800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 人造肉概念股大涨",
+          "url": "https://flash.jin10.com/detail/20251127050057766800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -492,8 +740,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -505,6 +753,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 05时20分]"
+        },
+        {
+          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
+          "url": "https://wallstreetcn.com/articles/3760128",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -519,27 +780,27 @@
           "time_info": "[00时29分 ~ 05时20分]"
         },
         {
-          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
-          "url": "https://wallstreetcn.com/articles/3760128",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时20分]"
-        },
-        {
           "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
           "url": "https://wallstreetcn.com/livenews/3011063",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
+          "url": "https://wallstreetcn.com/articles/3760141",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 06时22分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至1%，成分股Applovin涨5.6%，迈威尔科技涨5.4%，阿斯麦ADR涨4.8%，AMD涨3.6%，英特尔涨3.4%，谷歌A则跌1.2%。 标普500指数涨超0.8%，道指涨352点涨幅0.7%，纳指涨超0.9%。半导体指数涨2.8%。",
@@ -555,81 +816,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "降息预期升温，全球股市齐涨，美股集体高开，甲骨文涨超6%",
-          "url": "https://wallstreetcn.com/articles/3760164",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时20分]"
-        },
-        {
-          "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2212003",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时20分]"
-        },
-        {
-          "title": "周三（11月26日），降息赢家指数涨0.76%，报99.70点，美股开盘后，涨势持续至北京时间01:30，04:17过后快速回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3011062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "阿里巴巴(BABA.N)美股短线跳水，现跌近3%。",
-          "url": "https://flash.jin10.com/detail/20251127021140906800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 03时18分]"
-        },
-        {
-          "title": "金十图示：2025年11月26日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251127020217534800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "金十图示：2025年11月26日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251127015908455800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
       "match_count": 6,
       "titles": [
@@ -641,8 +827,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "香港大埔突发大火",
@@ -711,11 +897,12 @@
           "url": "https://wallstreetcn.com/articles/3760166",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
@@ -740,11 +927,12 @@
           "url": "https://flash.jin10.com/detail/20251127045630156800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
         },
         {
           "title": "周三（11月26日）纽约尾盘，ICE美元指数跌0.08%，报99.585点，日内交投区间为99.959-99.555点，在一波冲高回落行情中、于北京时间22:01刷新日高。 彭博美元指数跌0.29%，报1219.49点，日内交投区间为1223.57-1219.49点。",
@@ -753,7 +941,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         }
@@ -768,11 +956,12 @@
           "url": "https://wallstreetcn.com/livenews/3011050",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
         }
       ]
     }
