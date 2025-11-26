@@ -1,22 +1,45 @@
 {
-  "generated_at": "2025-11-27T03:18:45.348132+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2025-11-27T04:25:25.366886+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
-          "title": "恒生指数主连夜盘收跌0.03%，报25924点。 恒生科技指数主连夜盘收跌0.39%，报5595点。",
-          "url": "https://wallstreetcn.com/livenews/3011029",
+          "title": "芝加哥玉米款期货涨超1.8%",
+          "url": "https://wallstreetcn.com/livenews/3011042",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时18分"
+          "time_info": "04时25分"
+        },
+        {
+          "title": "周三（11月26日）纽约尾盘，ICE原糖期货涨1.41%，ICE白糖期货涨1.26%。 ICE阿拉比卡咖啡期货跌0.63%，咖啡“C”期货跌0.89%。罗布斯塔咖啡期货跌0.81%。 纽约可可期货涨1.02%，伦敦可可期货涨0.66%。 芝加哥WCE双低油菜籽期货涨0.48%。 ICE棉花期货涨0.59%。",
+          "url": "https://wallstreetcn.com/livenews/3011036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.03%，报25924点。 恒生科技指数主连夜盘收跌0.39%，报5595点。",
+          "url": "https://wallstreetcn.com/livenews/3011029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时25分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年11月27日 周四",
@@ -41,6 +64,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "美国财政部针对通胀保值国债宣布10月份CPI的替代指数数值",
+          "url": "https://wallstreetcn.com/livenews/3011022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时25分]"
         },
         {
           "title": "欧洲STOXX 600日指数内涨幅达1.0%，报573.72点。",
@@ -79,6 +114,18 @@
           "time_info": "[01时21分 ~ 02时29分]"
         },
         {
+          "title": "上期所原油期货2501合约夜盘收涨0.79%，报446.30元人民币/桶。 沪金夜盘收涨0.37%，沪银收涨2.73%。",
+          "url": "https://wallstreetcn.com/livenews/3011019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时25分]"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数涨1.4%，连续三个交易日走高、创11月11日（收涨2.1%）以来最佳单日表现，报352.62点。 在十个板块中，北欧医疗保健板块涨幅最大。 权重股诺和诺德涨4.7%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3010987",
           "source": "华尔街见闻-快讯",
@@ -91,26 +138,15 @@
           "time_info": "[01时21分 ~ 02时29分]"
         },
         {
-          "title": "美国财政部针对通胀保值国债宣布10月份CPI的替代指数数值",
-          "url": "https://wallstreetcn.com/livenews/3011022",
+          "title": "WTI 1月原油期货收涨0.70美元，涨幅将近1.21%，报58.65美元/桶。 布伦特1月原油期货收报63.13美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3011032",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "上期所原油期货2501合约夜盘收涨0.79%，报446.30元人民币/桶。 沪金夜盘收涨0.37%，沪银收涨2.73%。",
-          "url": "https://wallstreetcn.com/livenews/3011019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "time_info": "04时25分"
         },
         {
           "title": "德国DAX 30指数初步收涨0.96%，报23689.55点。 法国股指初步收涨0.80%，意大利股指初步收涨0.95%、银行指数涨1.09%，英国股指初步收涨0.94%。",
@@ -146,6 +182,28 @@
           "time_info": "01时21分"
         },
         {
+          "title": "美国财政部针对通胀保值国债宣布10月份CPI的替代指数数值",
+          "url": "https://flash.jin10.com/detail/20251127031922638800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "恒指期货夜盘收涨0.02%，报25906点，低水22点。",
+          "url": "https://flash.jin10.com/detail/20251127031050649800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
           "title": "内盘期货夜市多数收涨，甲醇涨超1.8%，焦煤则跌约0.4%，焦炭跌超0.9%",
           "url": "https://wallstreetcn.com/livenews/3010948",
           "source": "华尔街见闻-快讯",
@@ -160,7 +218,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -170,8 +228,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时25分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -181,8 +239,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时25分]"
         },
         {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
@@ -193,8 +251,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时25分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -204,8 +262,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时25分]"
+        },
+        {
+          "title": "白宫发言人：美国总统特朗普已获悉两名国民警卫队成员遭枪击的事件。",
+          "url": "https://flash.jin10.com/detail/20251127035707574800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -214,11 +283,12 @@
           "ranks": [
             26,
             24,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时25分]"
         },
         {
           "title": "美财长：特朗普明年或将两次访华",
@@ -226,11 +296,12 @@
           "source": "抖音",
           "ranks": [
             24,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时25分]"
         },
         {
           "title": "特朗普称不再给乌克兰设最后期限",
@@ -238,11 +309,67 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时25分]"
+        },
+        {
+          "title": "美国总统特朗普：不会邀请南非参加2026年二十国集团（G20）峰会。 宣布停止对南非的补贴，将停止向南非支付所有款项和补贴；这一决定立即生效",
+          "url": "https://wallstreetcn.com/livenews/3011035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们将立即停止向他们支付所有款项和补贴。",
+          "url": "https://flash.jin10.com/detail/20251127034310737800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
+          "url": "https://wallstreetcn.com/livenews/3011041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：南非将不会收到2026年二十国集团的邀请。",
+          "url": "https://flash.jin10.com/detail/20251127034303790800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美联储褐皮书：两个地区称经济温和下滑，特朗普政府关门对消费者购买产生负面影响",
+          "url": "https://wallstreetcn.com/livenews/3011027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "美国佐治亚州法官斯科特·麦卡菲周三宣布驳回针对特朗普涉嫌干预2020年选举的全部剩余刑事指控，为这起因检察官不当行为而夭折的诉讼画上句号。",
@@ -251,7 +378,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         }
@@ -269,8 +396,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时25分]"
         },
         {
           "title": "香港大埔突发大火",
@@ -343,8 +470,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时25分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -354,8 +481,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时25分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -366,8 +493,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时25分]"
         },
         {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
@@ -377,8 +504,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时25分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至1%，成分股Applovin涨5.6%，迈威尔科技涨5.4%，阿斯麦ADR涨4.8%，AMD涨3.6%，英特尔涨3.4%，谷歌A则跌1.2%。 标普500指数涨超0.8%，道指涨352点涨幅0.7%，纳指涨超0.9%。半导体指数涨2.8%。",
@@ -405,8 +532,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时25分]"
         },
         {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
@@ -417,8 +544,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时25分]"
         },
         {
           "title": "阿里巴巴(BABA.N)美股短线跳水，现跌近3%。",
@@ -469,8 +596,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时25分]"
         },
         {
           "title": "暴跌40%！软银成为“OpenAI链”风向标",
@@ -480,8 +607,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时25分]"
         }
       ]
     }
