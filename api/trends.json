@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T17:26:54.722362+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2025-11-26T18:26:09.518526+08:00",
+  "total_titles_processed": 1592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 116,
+      "match_count": 117,
       "titles": [
         {
           "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
@@ -124,6 +124,19 @@
           "time_info": "[03时19分 ~ 05时21分]"
         },
         {
+          "title": "广期所公布钯、铂期货合约挂牌基准价",
+          "url": "https://wallstreetcn.com/livenews/3010765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时26分]"
+        },
+        {
           "title": "30年期国债期货（TL）主力合约日内跌超0.50%，现报114.70元。",
           "url": "https://flash.jin10.com/detail/20251126111127904800",
           "source": "金十数据",
@@ -208,16 +221,17 @@
           "time_info": "[13时22分 ~ 14时35分]"
         },
         {
-          "title": "广期所公布钯、铂期货合约挂牌基准价",
-          "url": "https://wallstreetcn.com/livenews/3010765",
+          "title": "恒生指数收盘涨0.13%，恒生科技指数涨0.11%。美团涨近6%，恒瑞医药涨近5%，万国数据涨超3%，京东集团涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3010760",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            23
+            5,
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时26分]"
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时26分]"
         },
         {
           "title": "国债期货午后跌幅扩大，30年期主力合约跌0.62%，10年期主力合约跌0.19%，5年期主力合约跌0.13%，2年期主力合约跌0.03%。",
@@ -256,16 +270,17 @@
           "time_info": "[15时22分 ~ 16时31分]"
         },
         {
-          "title": "恒生指数收盘涨0.13%，恒生科技指数涨0.11%。美团涨近6%，恒瑞医药涨近5%，万国数据涨超3%，京东集团涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3010760",
+          "title": "摩根大通策略师预计标普500指数到2026年底将上涨约11%",
+          "url": "https://wallstreetcn.com/livenews/3010759",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            25
+            6,
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时26分]"
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时26分]"
         },
         {
           "title": "标普500指数涨幅扩大至0.5%，道指涨475点涨幅超过1%，纳指涨0.1%，半导体指数跌1.4%。",
@@ -292,18 +307,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时19分 ~ 05时21分]"
-        },
-        {
-          "title": "摩根大通策略师预计标普500指数到2026年底将上涨约11%",
-          "url": "https://wallstreetcn.com/livenews/3010759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时26分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：10月14日当周，投机者所持COMEX黄金净多头头寸减少24,350手合约，至109,577手合约。 所持WTI原油净空头头寸增加7,089手合约，至49,576手合约。",
@@ -414,6 +417,18 @@
           "time_info": "[12时29分 ~ 13时22分]"
         },
         {
+          "title": "瑞士11月投资者信心指数 12.2，前值 -7.7。",
+          "url": "https://wallstreetcn.com/livenews/3010783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 18时26分]"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数涨1.1%，创11月11日（收涨2.1%）以来最佳单日表现，报348.14点。 在十个板块中，北欧医疗保健板块涨幅最大。 权重股诺和诺德反弹4.5%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3010328",
           "source": "华尔街见闻-快讯",
@@ -521,7 +536,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -598,7 +613,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -636,6 +651,17 @@
           "time_info": "14时35分"
         },
         {
+          "title": "印度Nifty 50指数扩大涨幅，最新涨1.25%。",
+          "url": "https://flash.jin10.com/detail/20251126173953966800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "截至早盘收盘，日经225指数涨1.9%，东证指数涨1.8%。",
           "url": "https://wallstreetcn.com/livenews/3010557",
           "source": "华尔街见闻-快讯",
@@ -645,17 +671,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
-        },
-        {
-          "title": "瑞士11月投资者信心指数 12.2，前值 -7.7。",
-          "url": "https://wallstreetcn.com/livenews/3010783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
         },
         {
           "title": "印度Nifty公共部门银行指数最高上涨2.11%，创下8665.70点的历史新高。",
@@ -697,7 +712,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -840,7 +855,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -1049,7 +1064,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -1093,7 +1108,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -1321,7 +1336,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -1358,8 +1373,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时44分 ~ 17时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时44分 ~ 18时26分]"
         },
         {
           "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
@@ -1368,11 +1383,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时22分 ~ 17时26分]"
+          "appearance_count": 16,
+          "time_info": "[06时22分 ~ 18时26分]"
         },
         {
           "title": "【早报】特朗普：俄乌和平协议已“非常接近达成”；商业航天，迎来政策利好",
@@ -1485,8 +1501,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时26分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时26分]"
+        },
+        {
+          "title": "中方回应是否请特朗普向高市传口信",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%AF%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E9%AB%98%E5%B8%82%E4%BC%A0%E5%8F%A3%E4%BF%A1",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时26分]"
         },
         {
           "title": "特朗普在白宫赦免火鸡 引全场爆笑",
@@ -1516,17 +1544,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时17分 ~ 15时22分]"
-        },
-        {
-          "title": "中方回应是否请特朗普向高市传口信",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%AF%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E9%AB%98%E5%B8%82%E4%BC%A0%E5%8F%A3%E4%BF%A1",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时26分]"
         },
         {
           "title": "特朗普想把特赦火鸡命名为佩洛西",
@@ -1605,7 +1622,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -1619,6 +1636,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时26分]"
         },
         {
           "title": "特朗普：想派国民警卫队进驻芝加哥。",
@@ -1683,6 +1711,19 @@
           "time_info": "[04时26分 ~ 06时23分]"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：欧洲必须继续向俄罗斯施压。 俄罗斯的策略没有改变。 欢迎美国总统特朗普所领导的努力。 需要更多努力。 不会接受对乌克兰武装部队的限制。 和平条约需要保障长期安全。",
+          "url": "https://wallstreetcn.com/livenews/3010763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时26分]"
+        },
+        {
           "title": "据MS NOW：特朗普考虑罢免卡什·帕特尔的FBI局长职务。",
           "url": "https://flash.jin10.com/detail/20251126025659614800",
           "source": "金十数据",
@@ -1708,18 +1749,6 @@
           "time_info": "[04时26分 ~ 06时23分]"
         },
         {
-          "title": "欧盟委员会主席冯德莱恩：欧洲必须继续向俄罗斯施压。 俄罗斯的策略没有改变。 欢迎美国总统特朗普所领导的努力。 需要更多努力。 不会接受对乌克兰武装部队的限制。 和平条约需要保障长期安全。",
-          "url": "https://wallstreetcn.com/livenews/3010763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时26分]"
-        },
-        {
           "title": "特朗普：将于明年4月访华",
           "url": "https://www.douyin.com/hot/2316962",
           "source": "抖音",
@@ -1742,6 +1771,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时22分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普作出让步",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%9C%E5%87%BA%E8%AE%A9%E6%AD%A5%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 18时26分]"
         },
         {
           "title": "泽连斯基拟于27日与特朗普会面，以达成和平协议",
@@ -1842,17 +1883,6 @@
           "time_info": "[09时44分 ~ 09时45分]"
         },
         {
-          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
-          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时26分]"
-        },
-        {
           "title": "美国总统特朗普：特使Witkoff将在莫斯科会见俄罗斯总统普京。 我期待很快会见普京和乌克兰总统泽连斯基。",
           "url": "https://wallstreetcn.com/livenews/3010375",
           "source": "华尔街见闻-快讯",
@@ -1900,6 +1930,17 @@
           "time_info": "[02时34分 ~ 03时19分]"
         },
         {
+          "title": "特朗普 先达成协议再说",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%20%E5%85%88%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E5%86%8D%E8%AF%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
           "title": "特朗普：我们从华盛顿特区撤离了1700人。",
           "url": "https://flash.jin10.com/detail/20251126011811118800",
           "source": "金十数据",
@@ -1942,17 +1983,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "特朗普作出让步",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%9C%E5%87%BA%E8%AE%A9%E6%AD%A5%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
         },
         {
           "title": "报道称，白宫官员表示，泽连斯基和特朗普之间尚未安排会晤。",
@@ -2049,7 +2079,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -2101,7 +2131,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -2111,8 +2141,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时44分 ~ 17时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时44分 ~ 18时26分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -2172,8 +2202,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时44分 ~ 17时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时44分 ~ 18时26分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -2233,11 +2263,25 @@
             11,
             10,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时34分 ~ 17时26分]"
+          "appearance_count": 8,
+          "time_info": "[14时34分 ~ 18时26分]"
+        },
+        {
+          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
+          "url": "https://www.cls.cn/detail/2211111",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 18时26分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -2277,6 +2321,17 @@
           "time_info": "[03时19分 ~ 04时26分]"
         },
         {
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时26分]"
+        },
+        {
           "title": "美股收盘：谷歌市值逼近4万亿美元",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B0%B7%E6%AD%8C%E5%B8%82%E5%80%BC%E9%80%BC%E8%BF%914%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -2287,19 +2342,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时44分 ~ 11时17分]"
-        },
-        {
-          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
-          "url": "https://www.cls.cn/detail/2211111",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 17时26分]"
         },
         {
           "title": "谷歌股价飙升，两位创始人分别成为世界第二、第三富豪",
@@ -2314,15 +2356,39 @@
           "time_info": "[00时31分 ~ 01时22分]"
         },
         {
-          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
-          "url": "https://wallstreetcn.com/articles/3760114",
-          "source": "华尔街见闻",
+          "title": "美股盘前，戴尔科技涨超4%，公司三季度营收不及预期但AI订单激增，全年AI服务器出货目标上调至250亿美元。博通涨约1%，谷歌A涨约1%，甲骨文涨0.1%，英伟达跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3010785",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时26分]"
+          "time_info": "[17时26分 ~ 18时26分]"
+        },
+        {
+          "title": "Gemini 3 发布是否预示着程序员真正可以被替代？",
+          "url": "https://www.zhihu.com/theater/73901?drama_id=1977055301153857730&source=isuda",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
+          "title": "【供货谷歌？中际旭创股价创历史新高，公司回应】11月26日，中际旭创大涨13.25%，报收543.22元/股，成交额达329.8亿元居A股第一，总市值破6000亿元大关，年内涨幅超342%。盘面上，CPO板块集体异动，“易中天”携手走强。有市场消息称，中际旭创是谷歌光模块供应商。中际旭创相关人士表示，公司本次股价上涨受综合因素影响，至于公司的“具体合作包括订单都不方便透露”。（21财经）",
+          "url": "https://wallstreetcn.com/livenews/3010775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 18时26分]"
         },
         {
           "title": "英伟达“市值神话”为何被谷歌击穿",
@@ -2337,17 +2403,6 @@
           "time_info": "[12时29分 ~ 13时22分]"
         },
         {
-          "title": "美股盘前，戴尔科技涨超4%，公司三季度营收不及预期但AI订单激增，全年AI服务器出货目标上调至250亿美元。博通涨约1%，谷歌A涨约1%，甲骨文涨0.1%，英伟达跌0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3010785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
           "title": "谷歌状态页面显示亚洲地区谷歌会议（Google Meet）服务出现问题。",
           "url": "https://flash.jin10.com/detail/20251126154853273800",
           "source": "金十数据",
@@ -2357,17 +2412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
-        {
-          "title": "【供货谷歌？中际旭创股价创历史新高，公司回应】11月26日，中际旭创大涨13.25%，报收543.22元/股，成交额达329.8亿元居A股第一，总市值破6000亿元大关，年内涨幅超342%。盘面上，CPO板块集体异动，“易中天”携手走强。有市场消息称，中际旭创是谷歌光模块供应商。中际旭创相关人士表示，公司本次股价上涨受综合因素影响，至于公司的“具体合作包括订单都不方便透露”。（21财经）",
-          "url": "https://wallstreetcn.com/livenews/3010775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
         },
         {
           "title": "如何评价谷歌 TPU 业务？",
@@ -2383,188 +2427,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
-          "url": "https://wallstreetcn.com/articles/3760086",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 07时20分]"
-        },
-        {
-          "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2210782",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 11时17分]"
-        },
-        {
-          "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251126050732950800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美股股指期货、现货黄金和WTI原油在周三开盘持稳。",
-          "url": "https://flash.jin10.com/detail/20251126070102125800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "金十图示：2025年11月25日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251126050728089800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "周二（11月25日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.35%，报87080美元。 CME以太币期货DCR主力合约跌1.38%，报2935.50美元。 美股加密货币与加密货币关联指数涨0.31%，报64.80点，呈现出W形走势。 最近24小时，MarketVector数字资产100小盘指数跌1.48%，暂报18261.32点。",
-          "url": "https://wallstreetcn.com/livenews/3010418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时20分]"
-        },
-        {
-          "title": "WTI原油期货约3%，报57.10美元/桶，美股盘前消息，美国官员称乌克兰同意和平协议条款。 布伦特原油跌破61美元/桶关口，报60.96美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3010317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.68%，报301.82点。 纽约证交所ARCA金矿开采商指数收涨0.77%，报2179.87点；北京时间22:30美股开盘之前持稳于2172点附近——保持微幅上涨状态、之后出现一波V形反转行情。",
-          "url": "https://wallstreetcn.com/livenews/3010414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时20分]"
-        },
-        {
-          "title": "区域银行ETF收涨超2.8%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3010410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时20分]"
-        },
-        {
-          "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251126013932256800",
-          "source": "金十数据",
-          "ranks": [
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时19分]"
-        },
-        {
-          "title": "金十图示：2025年11月25日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251126013741004800",
-          "source": "金十数据",
-          "ranks": [
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时19分]"
-        },
-        {
-          "title": "戴尔(DELL.N)营收展望大超预期，美股盘后一度上涨5%。",
-          "url": "https://flash.jin10.com/detail/20251126050642574800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "理想汽车美股盘前跌超4%，公司对第四季度营收指引低于市场预估。",
-          "url": "https://wallstreetcn.com/livenews/3010788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "美股收盘：三大股指低开高收 英伟达跌超2%",
-          "url": "https://flash.jin10.com/detail/20251126050102870800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "行业ETF美股盘初多数走高，银行业ETF涨1.54%，区域银行ETF涨1.51%，网络股指数ETF涨0.34%，科技行业ETF跌0.91%，全球科技股指数ETF跌1.26%，半导体ETF跌1.52%。",
-          "url": "https://wallstreetcn.com/livenews/3010287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "言短意长｜“36岁义乌男子王俊凯”被侦查，值得头条吗？",
@@ -2575,11 +2439,12 @@
             9,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时44分 ~ 17时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时44分 ~ 18时26分]"
         },
         {
           "title": "六旬老人做14个单杠大回环突发心梗",
@@ -2684,6 +2549,28 @@
           "time_info": "[15时21分 ~ 15时22分]"
         },
         {
+          "title": "香港大埔突发大火",
+          "url": "https://www.douyin.com/hot/2318550",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
+          "title": "香港大埔突发大火 涉多栋高层大厦",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%AA%81%E5%8F%91%E5%A4%A7%E7%81%AB+%E6%B6%89%E5%A4%9A%E6%A0%8B%E9%AB%98%E5%B1%82%E5%A4%A7%E5%8E%A6",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
           "title": "A股卫星互联网概念开盘活跃，雷科防务3连板，达华智能、航天智装、创远信科、天银机电等多股高开，消息上，工业和信息化部发布关于组织开展卫星物联网业务商用试验的通知。",
           "url": "https://wallstreetcn.com/livenews/3010499",
           "source": "华尔街见闻-快讯",
@@ -2737,6 +2624,261 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
+          "url": "https://wallstreetcn.com/articles/3760086",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 07时20分]"
+        },
+        {
+          "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2210782",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 11时17分]"
+        },
+        {
+          "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251126050732950800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美股股指期货、现货黄金和WTI原油在周三开盘持稳。",
+          "url": "https://flash.jin10.com/detail/20251126070102125800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "金十图示：2025年11月25日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251126050728089800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "周二（11月25日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.35%，报87080美元。 CME以太币期货DCR主力合约跌1.38%，报2935.50美元。 美股加密货币与加密货币关联指数涨0.31%，报64.80点，呈现出W形走势。 最近24小时，MarketVector数字资产100小盘指数跌1.48%，暂报18261.32点。",
+          "url": "https://wallstreetcn.com/livenews/3010418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时20分]"
+        },
+        {
+          "title": "WTI原油期货约3%，报57.10美元/桶，美股盘前消息，美国官员称乌克兰同意和平协议条款。 布伦特原油跌破61美元/桶关口，报60.96美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3010317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.68%，报301.82点。 纽约证交所ARCA金矿开采商指数收涨0.77%，报2179.87点；北京时间22:30美股开盘之前持稳于2172点附近——保持微幅上涨状态、之后出现一波V形反转行情。",
+          "url": "https://wallstreetcn.com/livenews/3010414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时20分]"
+        },
+        {
+          "title": "理想汽车美股盘前跌超4%，公司对第四季度营收指引低于市场预估。",
+          "url": "https://wallstreetcn.com/livenews/3010788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 18时26分]"
+        },
+        {
+          "title": "区域银行ETF收涨超2.8%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3010410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时20分]"
+        },
+        {
+          "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251126013932256800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时19分]"
+        },
+        {
+          "title": "金十图示：2025年11月25日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251126013741004800",
+          "source": "金十数据",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时19分]"
+        },
+        {
+          "title": "戴尔(DELL.N)营收展望大超预期，美股盘后一度上涨5%。",
+          "url": "https://flash.jin10.com/detail/20251126050642574800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美股收盘：三大股指低开高收 英伟达跌超2%",
+          "url": "https://flash.jin10.com/detail/20251126050102870800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "行业ETF美股盘初多数走高，银行业ETF涨1.54%，区域银行ETF涨1.51%，网络股指数ETF涨0.34%，科技行业ETF跌0.91%，全球科技股指数ETF跌1.26%，半导体ETF跌1.52%。",
+          "url": "https://wallstreetcn.com/livenews/3010287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
+          "url": "https://wallstreetcn.com/livenews/3010381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时23分]"
+        },
+        {
+          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
+          "url": "https://www.cls.cn/detail/2211503",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
+          "title": "OpenAI预计：到2030年，将至少有2.2亿人付费使用ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/3010480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "据The Information：截至7月，约有3500万人支付了ChatGPT Plus或Pro订阅费用，通常每月花费20美元和200美元。",
+          "url": "https://flash.jin10.com/detail/20251126090658105800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "据The Information：OpenAI预计到2030 年，将至少有2.2亿人付费使用ChatGPT。预计每周使用ChatGPT的用户中，至少有8.5%会付费订阅，高于目前约5%的水平。",
+          "url": "https://flash.jin10.com/detail/20251126090616429800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
+          "url": "https://flash.jin10.com/detail/20251126153143429800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     },
@@ -2812,69 +2954,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
-          "url": "https://wallstreetcn.com/livenews/3010381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 06时23分]"
-        },
-        {
-          "title": "OpenAI预计：到2030年，将至少有2.2亿人付费使用ChatGPT",
-          "url": "https://wallstreetcn.com/livenews/3010480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "据The Information：截至7月，约有3500万人支付了ChatGPT Plus或Pro订阅费用，通常每月花费20美元和200美元。",
-          "url": "https://flash.jin10.com/detail/20251126090658105800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "据The Information：OpenAI预计到2030 年，将至少有2.2亿人付费使用ChatGPT。预计每周使用ChatGPT的用户中，至少有8.5%会付费订阅，高于目前约5%的水平。",
-          "url": "https://flash.jin10.com/detail/20251126090616429800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
-          "url": "https://flash.jin10.com/detail/20251126153143429800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
         }
       ]
     },
