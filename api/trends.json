@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T19:20:38.917831+08:00",
-  "total_titles_processed": 1683,
+  "generated_at": "2025-11-26T20:48:29.602670+08:00",
+  "total_titles_processed": 1824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 120,
+      "match_count": 123,
       "titles": [
         {
           "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
@@ -547,7 +547,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -569,9 +569,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "英国富时100指数跌至日内低点，下跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3010876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         },
         {
           "title": "国债期货早盘收盘",
@@ -745,7 +756,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -880,6 +891,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "美国11月21日当周MBA抵押贷款申请活动指数周环比 0.2%，前值 -5.2%。",
+          "url": "https://wallstreetcn.com/livenews/3010863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         },
         {
           "title": "瑞士11月ZEW投资者信心指数将于十分钟后公布。",
@@ -1364,12 +1386,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "品茗科技：近期公司股票交易价格存在脱离当前基本面的风险",
+          "url": "https://wallstreetcn.com/livenews/3010849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 71,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -1408,8 +1441,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时22分 ~ 19时20分]"
+          "appearance_count": 18,
+          "time_info": "[06时22分 ~ 20时48分]"
         },
         {
           "title": "特朗普电话后，日本沮丧了三次",
@@ -1465,6 +1498,18 @@
           "time_info": "[11时17分 ~ 17时26分]"
         },
         {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 20时48分]"
+        },
+        {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
           "url": "https://news.ifeng.com/c/8oZtlTWZHWZ",
           "source": "凤凰网",
@@ -1474,18 +1519,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时30分 ~ 07时20分]"
-        },
-        {
-          "title": "中方是否请特朗普向高市传口信？外交部回应",
-          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 19时20分]"
         },
         {
           "title": "特朗普：俄乌和平协议已“非常接近达成”",
@@ -1545,11 +1578,12 @@
           "ranks": [
             2,
             4,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 19时20分]"
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 20时48分]"
         },
         {
           "title": "特朗普在白宫赦免火鸡 引全场爆笑",
@@ -1603,6 +1637,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时44分 ~ 13时22分]"
+        },
+        {
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 20时48分]"
         },
         {
           "title": "特朗普电话后 日本沮丧了三次",
@@ -1660,18 +1706,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
-        },
-        {
-          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
-          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 19时20分]"
         },
         {
           "title": "美国总统特朗普：陆军部长德里斯科尔将与乌克兰人会面。",
@@ -2016,7 +2050,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -2065,6 +2099,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：乌克兰已准备好在与特朗普和欧洲的和平协议框架下向前迈进。",
           "url": "https://flash.jin10.com/detail/20251126010120453800",
           "source": "金十数据",
@@ -2104,7 +2149,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -2153,6 +2198,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "俄罗斯副外长里亚布科夫：特朗普政府一直在释放改善美俄关系的信号，但仍然向乌克兰提供武器和情报 俄美外交正常化工作仍在继续，但恢复航空和其他领域方面没有取得重大进展。 俄罗斯在乌克兰问题的关键议题上没有做出任何让步。",
+          "url": "https://wallstreetcn.com/livenews/3010854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
           "title": "斯洛伐克外交部：斯洛伐克支持美国总统特朗普的乌克兰和平计划，并呼吁欧洲伙伴在这一进程中充分合作。",
           "url": "https://flash.jin10.com/detail/20251126153301745800",
           "source": "金十数据",
@@ -2184,23 +2240,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
           "url": "https://wallstreetcn.com/articles/3760086",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时44分 ~ 19时20分]"
+          "appearance_count": 15,
+          "time_info": "[09时44分 ~ 20时48分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -2239,6 +2307,19 @@
           "time_info": "[07时20分 ~ 15时22分]"
         },
         {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时44分 ~ 20时48分]"
+        },
+        {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
           "url": "https://www.cls.cn/detail/2210906",
           "source": "财联社热门",
@@ -2252,16 +2333,20 @@
           "time_info": "[07时20分 ~ 15时22分]"
         },
         {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
-          "source": "华尔街见闻",
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
           "ranks": [
+            11,
+            10,
+            7,
+            8,
             6,
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时44分 ~ 19时20分]"
+          "appearance_count": 10,
+          "time_info": "[14时34分 ~ 20时48分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -2301,21 +2386,6 @@
           "time_info": "[09时44分 ~ 15时22分]"
         },
         {
-          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
-          "url": "https://www.cls.cn/detail/2211188",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时34分 ~ 19时20分]"
-        },
-        {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
           "url": "https://wallstreetcn.com/articles/3760084",
           "source": "华尔街见闻",
@@ -2327,6 +2397,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时44分 ~ 15时22分]"
+        },
+        {
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 20时48分]"
         },
         {
           "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
@@ -2341,17 +2423,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时22分 ~ 19时20分]"
-        },
-        {
-          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
-          "url": "https://wallstreetcn.com/articles/3760114",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 19时20分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -2462,13 +2533,24 @@
           "time_info": "[12时29分 ~ 13时22分]"
         },
         {
+          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
+          "url": "https://wallstreetcn.com/articles/3760128",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
           "title": "金十整理：谷歌11月狂炸英伟达，巴菲特谢幕押注精准，软银躺枪",
           "url": "https://flash.jin10.com/detail/20251126182610952800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -2501,7 +2583,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         }
@@ -2509,7 +2591,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "言短意长｜“36岁义乌男子王俊凯”被侦查，值得头条吗？",
@@ -2525,8 +2607,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时44分 ~ 19时20分]"
+          "appearance_count": 15,
+          "time_info": "[09时44分 ~ 20时48分]"
         },
         {
           "title": "六旬老人做14个单杠大回环突发心梗",
@@ -2565,11 +2647,35 @@
             12,
             23,
             8,
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时17分 ~ 20时48分]"
+        },
+        {
+          "title": "香港大埔突发大火",
+          "url": "https://www.douyin.com/hot/2318550",
+          "source": "抖音",
+          "ranks": [
+            10,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时17分 ~ 17时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 20时48分]"
+        },
+        {
+          "title": "香港大埔突发大火致 13 死 28 伤，已有 7 栋楼起火，起火原因可能是什么？为什么火势这么严重？",
+          "url": "https://www.zhihu.com/question/1977087773132419081",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         },
         {
           "title": "A股算力硬件股持续走高，中际旭创大涨超13%，股价创历史新高，总市值超6000亿元，新易盛、永鼎股份、光库科技、天孚通信、剑桥科技等多股涨超5%。",
@@ -2594,17 +2700,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时34分 ~ 15时22分]"
-        },
-        {
-          "title": "香港大埔突发大火",
-          "url": "https://www.douyin.com/hot/2318550",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 19时20分]"
         },
         {
           "title": "A股收盘：创业板指低开高走涨超2%，大消费板块尾盘走强",
@@ -2670,7 +2765,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -2717,6 +2812,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "10个千亿级消费热点要来了",
+          "url": "https://s.weibo.com/weibo?q=%2310%E4%B8%AA%E5%8D%83%E4%BA%BF%E7%BA%A7%E6%B6%88%E8%B4%B9%E7%83%AD%E7%82%B9%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         }
       ]
     },
@@ -2895,7 +3001,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -2922,11 +3028,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 20时48分]"
         },
         {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
