@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T20:48:29.602670+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2025-11-26T21:36:57.655271+08:00",
+  "total_titles_processed": 1925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 123,
+      "match_count": 125,
       "titles": [
         {
           "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
@@ -580,7 +580,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -899,7 +899,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -946,6 +946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "波罗的海干散货指数涨3.98%，至2401点。",
+          "url": "https://wallstreetcn.com/livenews/3010899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "金十图示：2025年11月26日（周三）全球股市指数-欧洲市场（收盘）",
@@ -1001,6 +1012,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "夜盘期货开盘，焦炭、玻璃、沪银、焦煤涨逾1%，沪铝、液化石油气、国际铜等上涨；沥青、沪镍、塑料等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3010898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "国债期货午后跌幅扩大，30年期主力合约跌0.62%，10年期主力合约跌0.19%，5年期主力合约跌0.13%，2年期主力合约跌0.03%。",
@@ -1394,7 +1416,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         }
@@ -1441,8 +1463,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时22分 ~ 20时48分]"
+          "appearance_count": 19,
+          "time_info": "[06时22分 ~ 21时36分]"
         },
         {
           "title": "特朗普电话后，日本沮丧了三次",
@@ -1483,6 +1505,18 @@
           "time_info": "[00时30分 ~ 12时29分]"
         },
         {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 21时36分]"
+        },
+        {
           "title": "俄乌战争转机来了？特朗普：已“非常接近达成”和平协议，仅剩少数细节！",
           "url": "https://www.cls.cn/detail/2210988",
           "source": "财联社热门",
@@ -1496,18 +1530,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时17分 ~ 17时26分]"
-        },
-        {
-          "title": "中方是否请特朗普向高市传口信？外交部回应",
-          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时48分]"
         },
         {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
@@ -1579,11 +1601,24 @@
             2,
             4,
             8,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时48分]"
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 21时36分]"
+        },
+        {
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 21时36分]"
         },
         {
           "title": "特朗普在白宫赦免火鸡 引全场爆笑",
@@ -1637,18 +1672,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时44分 ~ 13时22分]"
-        },
-        {
-          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
-          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时48分]"
         },
         {
           "title": "特朗普电话后 日本沮丧了三次",
@@ -1976,6 +1999,18 @@
           "time_info": "[15时21分 ~ 15时22分]"
         },
         {
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时36分]"
+        },
+        {
           "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
           "url": "https://wallstreetcn.com/livenews/3010309",
           "source": "华尔街见闻-快讯",
@@ -2009,6 +2044,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时36分]"
         },
         {
           "title": "特朗普：我们从华盛顿特区撤离了1700人。",
@@ -2097,17 +2144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰已准备好在与特朗普和欧洲的和平协议框架下向前迈进。",
@@ -2204,7 +2240,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -2240,23 +2276,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "特朗普一通电话后 高市早苗只有沉默",
-          "url": "https://www.toutiao.com/trending/7576901878579990070/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -2267,8 +2292,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时44分 ~ 20时48分]"
+          "appearance_count": 16,
+          "time_info": "[09时44分 ~ 21时36分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -2316,8 +2341,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时44分 ~ 20时48分]"
+          "appearance_count": 16,
+          "time_info": "[09时44分 ~ 21时36分]"
         },
         {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
@@ -2404,11 +2429,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时48分]"
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 21时36分]"
         },
         {
           "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
@@ -2486,6 +2512,17 @@
           "time_info": "[00时31分 ~ 01时22分]"
         },
         {
+          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
+          "url": "https://wallstreetcn.com/articles/3760128",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时36分]"
+        },
+        {
           "title": "美股盘前，戴尔科技涨超4%，公司三季度营收不及预期但AI订单激增，全年AI服务器出货目标上调至250亿美元。博通涨约1%，谷歌A涨约1%，甲骨文涨0.1%，英伟达跌0.5%。",
           "url": "https://wallstreetcn.com/livenews/3010785",
           "source": "华尔街见闻-快讯",
@@ -2533,17 +2570,6 @@
           "time_info": "[12时29分 ~ 13时22分]"
         },
         {
-          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
-          "url": "https://wallstreetcn.com/articles/3760128",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
           "title": "金十整理：谷歌11月狂炸英伟达，巴菲特谢幕押注精准，软银躺枪",
           "url": "https://flash.jin10.com/detail/20251126182610952800",
           "source": "金十数据",
@@ -2553,6 +2579,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "广联达：CONCETTO智能设计产品已接入谷歌Nano Banana Pro",
+          "url": "https://wallstreetcn.com/livenews/3010908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "谷歌状态页面显示亚洲地区谷歌会议（Google Meet）服务出现问题。",
@@ -2591,7 +2628,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "言短意长｜“36岁义乌男子王俊凯”被侦查，值得头条吗？",
@@ -2607,8 +2644,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时44分 ~ 20时48分]"
+          "appearance_count": 16,
+          "time_info": "[09时44分 ~ 21时36分]"
         },
         {
           "title": "六旬老人做14个单杠大回环突发心梗",
@@ -2655,27 +2692,39 @@
           "time_info": "[11时17分 ~ 20时48分]"
         },
         {
-          "title": "香港大埔突发大火",
-          "url": "https://www.douyin.com/hot/2318550",
-          "source": "抖音",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 20时48分]"
-        },
-        {
           "title": "香港大埔突发大火致 13 死 28 伤，已有 7 栋楼起火，起火原因可能是什么？为什么火势这么严重？",
           "url": "https://www.zhihu.com/question/1977087773132419081",
           "source": "知乎",
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时36分]"
+        },
+        {
+          "title": "香港大埔突发大火",
+          "url": "https://www.douyin.com/hot/2318550",
+          "source": "抖音",
+          "ranks": [
+            10,
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 21时36分]"
+        },
+        {
+          "title": "香港大埔突发大火已致14死",
+          "url": "https://www.douyin.com/hot/2318838",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时48分"
+          "time_info": "21时36分"
         },
         {
           "title": "A股算力硬件股持续走高，中际旭创大涨超13%，股价创历史新高，总市值超6000亿元，新易盛、永鼎股份、光库科技、天孚通信、剑桥科技等多股涨超5%。",
@@ -2814,13 +2863,24 @@
           "time_info": "15时22分"
         },
         {
+          "title": "明天A股如何走",
+          "url": "https://www.toutiao.com/trending/7576993405557804586/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "10个千亿级消费热点要来了",
           "url": "https://s.weibo.com/weibo?q=%2310%E4%B8%AA%E5%8D%83%E4%BA%BF%E7%BA%A7%E6%B6%88%E8%B4%B9%E7%83%AD%E7%82%B9%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         }
@@ -3020,7 +3080,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
@@ -3032,8 +3092,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 20时48分]"
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 21时36分]"
         },
         {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
@@ -3047,6 +3107,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时26分 ~ 06时23分]"
+        },
+        {
+          "title": "暴跌40%！软银成为“OpenAI链”风向标",
+          "url": "https://wallstreetcn.com/articles/3760166",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "OpenAI预计：到2030年，将至少有2.2亿人付费使用ChatGPT",
