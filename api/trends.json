@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T07:21:00.037526+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2025-11-26T09:45:02.342181+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 54,
+      "match_count": 69,
       "titles": [
         {
           "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
@@ -25,9 +25,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "日经225指数日内涨幅达2.00%。",
+          "url": "https://flash.jin10.com/detail/20251126093434147800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "日经225指数日内涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3010504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，小马智行初步收涨6.1%。小鹏涨3.5%，万国数据、华住涨超1%，阿里则跌2.4%，蔚来跌4.5%。 ETF中，CQQQ涨1.2%，KWEB涨0.5%。",
@@ -50,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约跌0.17%，10年期主力合约跌0.02%，5年期主力合约与昨日持平，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3010500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "芝加哥小麦期货涨超0.6%",
@@ -218,9 +251,64 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251126093110287800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "中证转债指数高开0.04%。春23转债涨超6%，国城转债涨超3%，沪工转债涨超2%；欧通转债、利扬转债、伟测转债跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3010497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251126093106752800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "上证指数开盘报3867.43点，跌0.07%。 深证成指开盘报12769.93点，跌0.06%。 创业板指开盘报2976.70点，跌0.14%。 沪深300开盘报4490.20点，跌0.00%。 科创50开盘报1296.46点，跌0.44%。 中证500开盘报6946.08点，跌0.12%。 中证1000开盘报7236.66点，跌0.18%。",
+          "url": "https://wallstreetcn.com/livenews/3010495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "恒指高开0.59%，报26046.74点；恒生科技指数涨0.67%。美团涨超4%，ASMPT涨超3%，京东健康、比亚迪股份、小鹏汽车涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3010493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "罗素2000指数最新上涨1.3%，创下逾一周新高。",
@@ -254,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "集运指数欧线期货主力合约盘中一度跌超8%，碳酸锂期货主力合约涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3010488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "美国11月谘商会消费者信心指数88.7，创最近七个月最大单次降幅，前值94.6。",
@@ -344,6 +443,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "MSCI亚太指数上涨1%至222.05点。",
+          "url": "https://wallstreetcn.com/livenews/3010481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "美国11月谘商会消费者信心指数 88.7，预期 93.3，前值 94.6。",
           "url": "https://wallstreetcn.com/livenews/3010300",
           "source": "华尔街见闻-快讯",
@@ -410,6 +520,28 @@
           "time_info": "00时31分"
         },
         {
+          "title": "台湾证交所加权股价指数开高0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3010478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "集运指数（欧线）主力合约日内跌超8.00%，现报1381.2点。",
+          "url": "https://flash.jin10.com/detail/20251126090451483800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "美国10月成屋签约销售指数环比 1.9%，预期 0.2%，前值 0%。",
           "url": "https://wallstreetcn.com/livenews/3010296",
           "source": "华尔街见闻-快讯",
@@ -419,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "商品期货开盘，集运欧线主力合约跌超5%，焦炭、焦煤跌超2%，燃料油、20号胶、LU燃油、橡胶跌超1%。碳酸锂涨超2%，沪镍、沪银涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3010477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "美国11月里奇蒙德联储服务业收入指数 -4，前值4。",
@@ -474,6 +617,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初涨0.25%，上一个交易日夜盘收涨0.28%。",
+          "url": "https://wallstreetcn.com/livenews/3010473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "美国10月未季调成屋签约销售指数年率 -0.4%，前值1.50%。",
@@ -553,6 +707,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "浙江：深化与上海期货交易所战略合作 推广稳价订单等创新模式",
+          "url": "https://wallstreetcn.com/livenews/3010467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "截至23:00收盘，国内期货主力合约跌多涨少，玉米、淀粉涨超1%，豆粕、LPG小幅上涨。跌幅方面，焦煤、焦炭、燃料油、低硫燃料油跌超2%，20号胶、聚丙烯、塑料、橡胶、丙烯、BR橡胶、棕榈油跌超1%，",
           "url": "https://flash.jin10.com/detail/20251125230051438800",
           "source": "金十数据",
@@ -622,7 +787,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 50,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -647,8 +812,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 09时45分]"
         },
         {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
@@ -679,11 +844,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时22分 ~ 07时20分]"
+          "appearance_count": 5,
+          "time_info": "[06时22分 ~ 09时45分]"
         },
         {
           "title": "特朗普与中方通话后致电高市早苗，专家：信号明确",
@@ -692,9 +858,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时45分]"
+        },
+        {
+          "title": "【早报】特朗普：俄乌和平协议已“非常接近达成”；商业航天，迎来政策利好",
+          "url": "https://www.cls.cn/detail/2210938",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "特朗普电话后，日本沮丧了三次",
+          "url": "https://news.ifeng.com/c/8oaWYOeMQ8b",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "特朗普电话后日本沮丧了三次",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%B5%E8%AF%9D%E5%90%8E%E6%97%A5%E6%9C%AC%E6%B2%AE%E4%B8%A7%E4%BA%86%E4%B8%89%E6%AC%A1%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
         },
         {
           "title": "特朗普：我们准备进军芝加哥，我们可以在4周内让芝加哥成为一座安全的城市。",
@@ -878,6 +1077,18 @@
           "time_info": "[01时22分 ~ 03时19分]"
         },
         {
+          "title": "特朗普：俄乌和平协议已“非常接近达成”",
+          "url": "https://www.cls.cn/detail/2210903",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时45分]"
+        },
+        {
           "title": "台评论员称高市可能被特朗普骂了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%E7%A7%B0%E9%AB%98%E5%B8%82%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%E4%BA%86%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -888,6 +1099,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时30分 ~ 02时34分]"
+        },
+        {
+          "title": "特朗普想重启成龙电影尖峰时刻",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E9%87%8D%E5%90%AF%E6%88%90%E9%BE%99%E7%94%B5%E5%BD%B1%E5%B0%96%E5%B3%B0%E6%97%B6%E5%88%BB%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "美国财长预告：特朗普“极有可能”在1个月内提名新美联储主席",
+          "url": "https://www.cls.cn/detail/2210885",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
         },
         {
           "title": "美国总统特朗普：特使Witkoff将在莫斯科会见俄罗斯总统普京。 我期待很快会见普京和乌克兰总统泽连斯基。",
@@ -902,6 +1135,50 @@
           "time_info": "[04时26分 ~ 05时21分]"
         },
         {
+          "title": "特朗普：俄乌和平协议非常接近达成",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E9%9D%9E%E5%B8%B8%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "2026年11月深圳的APEC会议，特朗普要来了？",
+          "url": "https://news.ifeng.com/c/8oZweOPfKbO",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "特朗普：俄乌和平协议已非常接近达成",
+          "url": "https://www.toutiao.com/trending/7576122161153281599/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "特朗普电话后 日本沮丧了三次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%B5%E8%AF%9D%E5%90%8E+%E6%97%A5%E6%9C%AC%E6%B2%AE%E4%B8%A7%E4%BA%86%E4%B8%89%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
           "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
           "url": "https://wallstreetcn.com/livenews/3010309",
           "source": "华尔街见闻-快讯",
@@ -914,6 +1191,17 @@
           "time_info": "[00时31分 ~ 01时22分]"
         },
         {
+          "title": "特朗普在白宫赦免火鸡 引全场爆笑",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%99%BD%E5%AE%AB%E8%B5%A6%E5%85%8D%E7%81%AB%E9%B8%A1+%E5%BC%95%E5%85%A8%E5%9C%BA%E7%88%86%E7%AC%91",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
           "title": "美国总统特朗普：我认为接近达成乌克兰（和平）协议。 认为在结束乌克兰境内战事方面取得进展。",
           "url": "https://wallstreetcn.com/livenews/3010344",
           "source": "华尔街见闻-快讯",
@@ -924,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时19分]"
+        },
+        {
+          "title": "唐湘龙：特朗普的沉默重创日本",
+          "url": "https://www.toutiao.com/trending/7576350523666726958/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
         },
         {
           "title": "特朗普：我们从华盛顿特区撤离了1700人。",
@@ -981,15 +1280,15 @@
           "time_info": "01时22分"
         },
         {
-          "title": "特朗普：俄乌和平协议已“非常接近达成”",
-          "url": "https://www.cls.cn/detail/2210903",
-          "source": "财联社热门",
+          "title": "美印关系紧张下，特朗普将芬太尼指控引向至印度",
+          "url": "https://flash.jin10.com/detail/20251126092036686800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "09时45分"
         },
         {
           "title": "美国白宫：美国总统特朗普不考虑直接延长两年补贴，将在近期提出医改政策改进建议。",
@@ -998,7 +1297,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -1071,6 +1370,188 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
+          "url": "https://www.cls.cn/detail/2210485",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 07时20分]"
+        },
+        {
+          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
+          "url": "https://www.cls.cn/detail/2210305",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 06时23分]"
+        },
+        {
+          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
+          "url": "https://wallstreetcn.com/articles/3760047",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 07时20分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
+          "url": "https://www.cls.cn/detail/2210371",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 06时23分]"
+        },
+        {
+          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
+          "url": "https://wallstreetcn.com/articles/3760086",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
+          "url": "https://www.cls.cn/detail/2210921",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时45分]"
+        },
+        {
+          "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
+          "url": "https://www.cls.cn/detail/2210906",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时45分]"
+        },
+        {
+          "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
+          "url": "https://wallstreetcn.com/livenews/3010363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时21分]"
+        },
+        {
+          "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
+          "url": "https://flash.jin10.com/detail/20251126024316318800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时26分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：我们的GPU比谷歌的AI芯片领先一代。",
+          "url": "https://flash.jin10.com/detail/20251126023611975800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时26分]"
+        },
+        {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "谷歌股价飙升，两位创始人分别成为世界第二、第三富豪",
+          "url": "https://wallstreetcn.com/livenews/3010316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
+          "url": "https://wallstreetcn.com/articles/3760076",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "美股收盘：谷歌市值逼近4万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B0%B7%E6%AD%8C%E5%B8%82%E5%80%BC%E9%80%BC%E8%BF%914%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
+          "url": "https://wallstreetcn.com/articles/3760084",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 14,
       "titles": [
@@ -1096,8 +1577,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 09时45分]"
         },
         {
           "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股收盘）",
@@ -1117,7 +1598,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -1240,133 +1721,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
-          "url": "https://www.cls.cn/detail/2210485",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 07时20分]"
-        },
-        {
-          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
-          "url": "https://www.cls.cn/detail/2210305",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 06时23分]"
-        },
-        {
-          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
-          "url": "https://wallstreetcn.com/articles/3760047",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 07时20分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
-          "url": "https://www.cls.cn/detail/2210371",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 06时23分]"
-        },
-        {
-          "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
-          "url": "https://wallstreetcn.com/livenews/3010363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 05时21分]"
-        },
-        {
-          "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
-          "url": "https://flash.jin10.com/detail/20251126024316318800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时26分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：我们的GPU比谷歌的AI芯片领先一代。",
-          "url": "https://flash.jin10.com/detail/20251126023611975800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时26分]"
-        },
-        {
-          "title": "谷歌股价飙升，两位创始人分别成为世界第二、第三富豪",
-          "url": "https://wallstreetcn.com/livenews/3010316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
-        },
-        {
-          "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
-          "url": "https://www.cls.cn/detail/2210921",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
-          "url": "https://www.cls.cn/detail/2210906",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数日内跌幅达0.5%，报99.6766。",
@@ -1425,6 +1781,136 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "澳元/美元短线小幅走高，此前澳大利亚10月CPI高于预期。 澳大利亚S&P/ASX200指数涨幅收窄至0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3010466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "China A股 热点 头条 突发 breaking news",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "六旬老人做14个单杠大回环突发心梗",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AD%E6%97%AC%E8%80%81%E4%BA%BA%E5%81%9A14%E4%B8%AA%E5%8D%95%E6%9D%A0%E5%A4%A7%E5%9B%9E%E7%8E%AF%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            17,
+            14,
+            13,
+            8,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 09时45分]"
+        },
+        {
+          "title": "“36岁义乌男子王俊凯”被侦查，值得头条吗？",
+          "url": "https://news.ifeng.com/c/8oaUqYk7kR8",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "言短意长｜“36岁义乌男子王俊凯”被侦查，值得头条吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32043645",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "A股卫星互联网概念开盘活跃，雷科防务3连板，达华智能、航天智装、创远信科、天银机电等多股高开，消息上，工业和信息化部发布关于组织开展卫星物联网业务商用试验的通知。",
+          "url": "https://wallstreetcn.com/livenews/3010499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-11-26）",
+          "url": "https://flash.jin10.com/detail/20251126090444959800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
+          "url": "https://wallstreetcn.com/livenews/3010381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时23分]"
+        },
+        {
+          "title": "OpenAI预计：到2030年，将至少有2.2亿人付费使用ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/3010480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "据The Information：截至7月，约有3500万人支付了ChatGPT Plus或Pro订阅费用，通常每月花费20美元和200美元。",
+          "url": "https://flash.jin10.com/detail/20251126090658105800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "据The Information：OpenAI预计到2030 年，将至少有2.2亿人付费使用ChatGPT。预计每周使用ChatGPT的用户中，至少有8.5%会付费订阅，高于目前约5%的水平。",
+          "url": "https://flash.jin10.com/detail/20251126090616429800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         }
       ]
     },
@@ -1466,48 +1952,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
-          "url": "https://wallstreetcn.com/livenews/3010381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 06时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "六旬老人做14个单杠大回环突发心梗",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AD%E6%97%AC%E8%80%81%E4%BA%BA%E5%81%9A14%E4%B8%AA%E5%8D%95%E6%9D%A0%E5%A4%A7%E5%9B%9E%E7%8E%AF%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            17,
-            14,
-            13,
-            8,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 07时20分]"
         }
       ]
     }
