@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T16:32:10.837259+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2025-11-27T17:26:26.817674+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 83,
+      "match_count": 91,
       "titles": [
         {
           "title": "花旗中国人形机器人公司调研：所有人都很乐观，2026年行业或实现指数级增长，至少翻倍！",
@@ -27,7 +27,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -43,15 +43,15 @@
           "time_info": "15时23分"
         },
         {
-          "title": "香港恒生指数收盘上涨0.07%，恒生科技指数跌0.36%。小米集团收涨2.49%。万科企业跌超7%，世茂集团跌超6%，龙湖集团跌超3%。泡泡玛特涨近7%。",
-          "url": "https://wallstreetcn.com/livenews/3011431",
+          "title": "机构：2026年对中国股票市场更为乐观 更广泛牛市迹象已可见",
+          "url": "https://wallstreetcn.com/livenews/3011462",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "17时26分"
         },
         {
           "title": "铂期货主力合约涨幅超12%，现报455元/克。钯期货主力合约涨幅超11%，现报405元/克。",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "意大利11月Istat消费者信心指数 95，预期 97.6，前值 97.6。",
+          "url": "https://wallstreetcn.com/livenews/3011460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.03%，报25924点。 恒生科技指数主连夜盘收跌0.39%，报5595点。",
@@ -186,6 +197,18 @@
           "time_info": "[15时23分 ~ 16时32分]"
         },
         {
+          "title": "香港恒生指数收盘上涨0.07%，恒生科技指数跌0.36%。小米集团收涨2.49%。万科企业跌超7%，世茂集团跌超6%，龙湖集团跌超3%。泡泡玛特涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3011431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时26分]"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2025年11月27日 周四",
           "url": "https://flash.jin10.com/detail/20251127000000001800",
           "source": "金十数据",
@@ -244,6 +267,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "欧洲斯托克600指数开盘基本持平，英国富时100指数涨0.05%，法国CAC40指数涨0.02%，德国DAX30指数涨0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3011428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时26分]"
         },
         {
           "title": "金十图示：2025年11月27日（周四）投机情绪指数",
@@ -450,15 +485,26 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
-          "title": "欧洲斯托克600指数开盘基本持平，英国富时100指数涨0.05%，法国CAC40指数涨0.02%，德国DAX30指数涨0.16%。",
-          "url": "https://wallstreetcn.com/livenews/3011428",
+          "title": "富达国际投资主管：2026年对中国股票市场更为乐观 更广泛牛市迹象已可见",
+          "url": "https://flash.jin10.com/detail/20251127171141055800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "意大利11月Istat商业信心指数 89.6，预期 88.2，前值 88.3。",
+          "url": "https://wallstreetcn.com/livenews/3011459",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "17时26分"
         },
         {
           "title": "钯期货主力合约直线拉升，涨幅超8%，现报396元/克。",
@@ -500,9 +546,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
+          "url": "https://wallstreetcn.com/articles/3760222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "早盘开盘，国内期货主力合约涨跌不一。沪银涨超3%，甲醇、玻璃、花生、SC原油涨超1%，沪锡、苯乙烯涨近1%。跌幅方面，沪铅跌超1%，焦炭、纸浆、碳酸锂跌近1%。",
@@ -533,7 +590,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -555,7 +612,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -582,6 +639,17 @@
           "time_info": "15时23分"
         },
         {
+          "title": "证监会：同意强一半导体（苏州）股份有限公司首次公开发行股票注册。",
+          "url": "https://wallstreetcn.com/livenews/3011453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "早盘收盘，国内期货主力合约涨多跌少，铂涨近7%，钯涨近3%，沪银涨超2%，沪锡、工业硅、鸡蛋涨近2%，玻璃、棕榈油、豆油、尿素涨超1%。跌幅方面，集运欧线、短纤、沥青、碳酸锂跌超1%。",
           "url": "https://flash.jin10.com/detail/20251127113112054800",
           "source": "金十数据",
@@ -599,7 +667,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -665,7 +733,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -709,9 +777,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "意大利11月Istat消费者信心指数 95，预期97.6，前值97.6。",
+          "url": "https://flash.jin10.com/detail/20251127170033948800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "德国DAX 30指数初步收涨0.96%，报23689.55点。 法国股指初步收涨0.80%，意大利股指初步收涨0.95%、银行指数涨1.09%，英国股指初步收涨0.94%。",
@@ -745,6 +824,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "意大利11月Istat制造业信心指数 89.6，预期88.5，前值由88.3修正为88.4。",
+          "url": "https://flash.jin10.com/detail/20251127170033928800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨1.07%，报574.07点。 欧元区STOXX 50指数初步收涨1.33%，报5648.04点。 富时泛欧绩优300指数初步收涨1.08%，报2288.16点。",
@@ -973,22 +1063,6 @@
           "time_info": "[00时29分 ~ 07时21分]"
         },
         {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.toutiao.com/trending/7576971637803716150/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            2,
-            4,
-            9,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时43分 ~ 16时32分]"
-        },
-        {
           "title": "特朗普一通电话后 高市早苗只有沉默",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E5%90%8E+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%AA%E6%9C%89%E6%B2%89%E9%BB%98",
           "source": "百度热搜",
@@ -999,6 +1073,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时29分 ~ 09时43分]"
+        },
+        {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.toutiao.com/trending/7576971637803716150/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            2,
+            4,
+            9,
+            5,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时43分 ~ 17时26分]"
         },
         {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
@@ -1024,11 +1115,40 @@
             12,
             13,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 16时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 17时26分]"
+        },
+        {
+          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1976945155765465978",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时13分 ~ 17时26分]"
+        },
+        {
+          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时13分 ~ 17时26分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -1048,34 +1168,6 @@
           "time_info": "[00时29分 ~ 07时21分]"
         },
         {
-          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1976945155765465978",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时13分 ~ 16时32分]"
-        },
-        {
-          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时13分 ~ 16时32分]"
-        },
-        {
           "title": "特朗普电话后日本沮丧了三次",
           "url": "https://www.toutiao.com/trending/7576542938412007450/",
           "source": "今日头条",
@@ -1089,6 +1181,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时43分 ~ 14时36分]"
+        },
+        {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            7,
+            11,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 17时26分]"
         },
         {
           "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
@@ -1105,18 +1212,15 @@
           "time_info": "[09时43分 ~ 16时32分]"
         },
         {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "title": "特朗普下令增兵：行凶者必付出代价",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
           "source": "百度热搜",
           "ranks": [
-            19,
-            7,
-            11,
-            15
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 16时32分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 17时26分]"
         },
         {
           "title": "白宫附近发生枪击 特朗普要求向华盛顿增派数百名士兵 | 环球市场",
@@ -1131,17 +1235,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时13分 ~ 15时23分]"
-        },
-        {
-          "title": "特朗普下令增兵：行凶者必付出代价",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 16时32分]"
         },
         {
           "title": "特朗普称不再给乌克兰设最后期限",
@@ -1206,6 +1299,18 @@
           "time_info": "[00时29分 ~ 05时20分]"
         },
         {
+          "title": "特朗普致电高市：别在台湾问题上挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 17时26分]"
+        },
+        {
           "title": "高市早苗与特朗普通话内容曝光",
           "url": "https://news.ifeng.com/c/8ocSbqgk7N4",
           "source": "凤凰网",
@@ -1249,17 +1354,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时43分 ~ 11时14分]"
-        },
-        {
-          "title": "特朗普致电高市：别在台湾问题上挑衅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 16时32分]"
         },
         {
           "title": "要乌方让出的土地太多？特朗普回应",
@@ -1637,7 +1731,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "言短意长｜“36岁义乌男子王俊凯”被侦查，值得头条吗？",
@@ -1674,6 +1768,20 @@
           "time_info": "[11时13分 ~ 12时28分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251126234704534800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            19,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 17时26分]"
+        },
+        {
           "title": "香港大埔突发大火",
           "url": "https://www.douyin.com/hot/2318550",
           "source": "抖音",
@@ -1696,20 +1804,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 14时36分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251126234704534800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            19,
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 16时32分]"
         },
         {
           "title": "香港大埔突发大火致 14 死多人受伤，已有 7 栋楼起火，起火原因可能是什么？为什么火势这么严重？",
@@ -1756,6 +1850,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "午后全线跳水 A股反弹还能否延续",
+          "url": "https://www.toutiao.com/trending/7577305771424091698/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "A股陕西板块午后拉升，西安饮食拉升涨停，西安旅游、天地源、曲江文旅、陕西华达、广电网络、标准股份涨停。",
           "url": "https://wallstreetcn.com/livenews/3011296",
           "source": "华尔街见闻-快讯",
@@ -1792,7 +1897,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -1802,8 +1907,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时43分 ~ 16时32分]"
+          "appearance_count": 11,
+          "time_info": "[09时43分 ~ 17时26分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -1842,6 +1947,19 @@
           "time_info": "[00时29分 ~ 07时21分]"
         },
         {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时35分 ~ 17时26分]"
+        },
+        {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
           "url": "https://wallstreetcn.com/articles/3760141",
           "source": "华尔街见闻",
@@ -1867,17 +1985,15 @@
           "time_info": "[00时29分 ~ 05时20分]"
         },
         {
-          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
-          "url": "https://www.cls.cn/detail/2212466",
-          "source": "财联社热门",
+          "title": "【长盈精密：与谷歌合作十年 正配合开发新品】长盈精密在互动平台表示，谷歌是公司前十大客户，公司已与其合作十年。目前正积极配合客户开发新品，鉴于保密原因不方便透露具体项目。",
+          "url": "https://wallstreetcn.com/livenews/3011463",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            6,
             3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时35分 ~ 16时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
@@ -1965,8 +2081,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 17时26分]"
         }
       ]
     },
