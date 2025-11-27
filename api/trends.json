@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T20:47:09.909390+08:00",
-  "total_titles_processed": 1818,
+  "generated_at": "2025-11-27T21:34:20.714966+08:00",
+  "total_titles_processed": 1864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 104,
+      "match_count": 107,
       "titles": [
         {
           "title": "花旗中国人形机器人公司调研：所有人都很乐观，2026年行业或实现指数级增长，至少翻倍！",
@@ -19,6 +19,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时43分 ~ 16时32分]"
+        },
+        {
+          "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
+          "url": "https://wallstreetcn.com/articles/3760222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时26分 ~ 21时34分]"
         },
         {
           "title": "金十图示：2025年11月27日（周四）全球股市指数-欧洲市场（盘初）",
@@ -65,16 +77,41 @@
           "time_info": "19时20分"
         },
         {
-          "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
-          "url": "https://wallstreetcn.com/articles/3760222",
-          "source": "华尔街见闻",
+          "title": "夜盘期货开盘，沪银、燃油、原油、棕榈油涨逾1%，低硫燃油、豆油、豆粕等上涨；焦炭、焦煤、沪锌、沪铝等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3011554",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
+          "url": "https://www.cls.cn/detail/2212827",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时26分 ~ 20时47分]"
+          "time_info": "[18时26分 ~ 21时34分]"
+        },
+        {
+          "title": "金十图示：2025年11月27日（周四）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20251127084017594800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 21时34分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.03%，报25924点。 恒生科技指数主连夜盘收跌0.39%，报5595点。",
@@ -284,19 +321,6 @@
           "time_info": "[18时26分 ~ 19时20分]"
         },
         {
-          "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
-          "url": "https://www.cls.cn/detail/2212827",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 20时47分]"
-        },
-        {
           "title": "意大利11月Istat商业信心指数 89.6，预期 88.2，前值 88.3。",
           "url": "https://wallstreetcn.com/livenews/3011459",
           "source": "华尔街见闻-快讯",
@@ -358,18 +382,6 @@
           "time_info": "[18时26分 ~ 19时20分]"
         },
         {
-          "title": "金十图示：2025年11月27日（周四）投机情绪指数",
-          "url": "https://flash.jin10.com/detail/20251127084017594800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 15时23分]"
-        },
-        {
           "title": "欧洲STOXX 600日指数内涨幅达1.0%，报573.72点。",
           "url": "https://wallstreetcn.com/livenews/3010970",
           "source": "华尔街见闻-快讯",
@@ -404,6 +416,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时26分 ~ 19时20分]"
+        },
+        {
+          "title": "天普股份：股价涨幅异常，股票停牌核查",
+          "url": "https://wallstreetcn.com/livenews/3011540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时34分]"
         },
         {
           "title": "斯托克欧洲600指数涨幅扩大至1%，创盘中新高。",
@@ -656,15 +680,15 @@
           "time_info": "09时43分"
         },
         {
-          "title": "天普股份：股价涨幅异常，股票停牌核查",
-          "url": "https://wallstreetcn.com/livenews/3011540",
-          "source": "华尔街见闻-快讯",
+          "title": "夜盘开盘，国内期货主力合约涨多跌少，沪银、燃料油、原油、棕榈油涨超1%，低硫燃料油、BR橡胶、豆油小幅上涨。跌幅方面，铝合金、焦炭、焦煤、沪锌小幅下跌。",
+          "url": "https://flash.jin10.com/detail/20251127210002720800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时47分"
+          "time_info": "21时34分"
         },
         {
           "title": "铂期货今日在广期所上市交易，挂牌基准价为405元/克，其中主力合约（PT2606合约）首日上市大幅高开，涨幅近9%，现报441元/克。钯期货今日在广期所上市交易，挂牌基准价为365元/克，其中主力合约（PD2606合约）首日上市高开，涨幅超3%，现报377元/克。",
@@ -698,6 +722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "波罗的海干散货指数涨3.29%，至2480点。",
+          "url": "https://flash.jin10.com/detail/20251127205958019800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "早盘开盘，国内期货主力合约涨跌不一。沪银涨超3%，甲醇、玻璃、花生、SC原油涨超1%，沪锡、苯乙烯涨近1%。跌幅方面，沪铅跌超1%，焦炭、纸浆、碳酸锂跌近1%。",
@@ -1249,8 +1284,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时43分 ~ 20时47分]"
+          "appearance_count": 15,
+          "time_info": "[09时43分 ~ 21时34分]"
         },
         {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
@@ -1276,11 +1311,12 @@
             11,
             15,
             13,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时13分 ~ 20时47分]"
+          "appearance_count": 13,
+          "time_info": "[11时13分 ~ 21时34分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -1314,8 +1350,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时13分 ~ 20时47分]"
+          "appearance_count": 15,
+          "time_info": "[11时13分 ~ 21时34分]"
         },
         {
           "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
@@ -1477,6 +1513,19 @@
           "time_info": "[00时29分 ~ 05时20分]"
         },
         {
+          "title": "特朗普所有刑事指控已终结",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 21时34分]"
+        },
+        {
           "title": "高市早苗与特朗普通话内容曝光",
           "url": "https://news.ifeng.com/c/8ocSbqgk7N4",
           "source": "凤凰网",
@@ -1497,18 +1546,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时43分 ~ 11时14分]"
-        },
-        {
-          "title": "特朗普所有刑事指控已终结",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 20时47分]"
         },
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -1797,6 +1834,30 @@
           "time_info": "[13时23分 ~ 14时36分]"
         },
         {
+          "title": "安徽亳州通报乡镇突发巨响",
+          "url": "https://www.toutiao.com/trending/7577177374598332422/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 21时34分]"
+        },
+        {
+          "title": "辰安科技：正筹划向特定对象合肥国投发行A股股票事宜，该事项可能导致公司控制权发生变更，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3011544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时34分]"
+        },
+        {
           "title": "香港大埔突发大火致 14 死多人受伤，已有 7 栋楼起火，起火原因可能是什么？为什么火势这么严重？",
           "url": "https://www.zhihu.com/question/1977087773132419081",
           "source": "知乎",
@@ -1808,17 +1869,6 @@
           "time_info": "[00时29分 ~ 00时30分]"
         },
         {
-          "title": "安徽亳州通报乡镇突发巨响",
-          "url": "https://www.toutiao.com/trending/7577177374598332422/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时47分]"
-        },
-        {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-11-27）",
           "url": "https://flash.jin10.com/detail/20251127151111804800",
           "source": "金十数据",
@@ -1828,17 +1878,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
-        },
-        {
-          "title": "辰安科技：正筹划向特定对象合肥国投发行A股股票事宜，该事项可能导致公司控制权发生变更，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3011544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
         },
         {
           "title": "A股收盘：创业板指冲高回落跌0.44%，有机硅、固态电池概念股走强",
@@ -2142,8 +2181,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时43分 ~ 20时47分]"
+          "appearance_count": 16,
+          "time_info": "[09时43分 ~ 21时34分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -2222,6 +2261,19 @@
           "time_info": "[00时29分 ~ 05时20分]"
         },
         {
+          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
+          "url": "https://www.cls.cn/detail/2213001",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 21时34分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
           "url": "https://wallstreetcn.com/livenews/3011063",
           "source": "华尔街见闻-快讯",
@@ -2248,18 +2300,6 @@
           "time_info": "[17时26分 ~ 19时20分]"
         },
         {
-          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
-          "url": "https://www.cls.cn/detail/2213001",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时47分]"
-        },
-        {
           "title": "纳斯达克100指数涨幅扩大至1%，成分股Applovin涨5.6%，迈威尔科技涨5.4%，阿斯麦ADR涨4.8%，AMD涨3.6%，英特尔涨3.4%，谷歌A则跌1.2%。 标普500指数涨超0.8%，道指涨352点涨幅0.7%，纳指涨超0.9%。半导体指数涨2.8%。",
           "url": "https://wallstreetcn.com/livenews/3010979",
           "source": "华尔街见闻-快讯",
@@ -2274,7 +2314,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "暴跌40%！软银成为“OpenAI链”风向标",
@@ -2302,6 +2342,18 @@
           "time_info": "[00时29分 ~ 04时25分]"
         },
         {
+          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
+          "url": "https://wallstreetcn.com/articles/3760202",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时23分 ~ 21时34分]"
+        },
+        {
           "title": "汇丰：万亿算力账单重压之下 OpenAI在2030年前料难盈利",
           "url": "https://flash.jin10.com/detail/20251127064701943800",
           "source": "金十数据",
@@ -2311,18 +2363,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
-          "url": "https://wallstreetcn.com/articles/3760202",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时23分 ~ 20时47分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
@@ -2335,6 +2375,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 14时36分]"
+        },
+        {
+          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
+          "url": "https://www.cls.cn/detail/2213059",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         }
       ]
     },
@@ -2379,6 +2430,36 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek发布可自验证数学模型DeepSeekMath-V2",
+          "url": "https://wallstreetcn.com/livenews/3011557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "用DeepSeek搜巴黎男乒冠军显示王楚钦",
+          "url": "https://www.toutiao.com/trending/7576229938517852170/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 16时32分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -2404,25 +2485,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "用DeepSeek搜巴黎男乒冠军显示王楚钦",
-          "url": "https://www.toutiao.com/trending/7576229938517852170/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时35分 ~ 16时32分]"
         }
       ]
     },
