@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T05:20:03.918045+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2025-11-29T06:21:22.251738+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "数据中心“制冷问题”，芝商所“宕机”，各类期货交易停摆，网友戏言“白银新高有人压力太大？”",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "【每日收评】三大指数探底回升全线收红，两市成交额不足1.6万亿，商业航天概念再迎爆发",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "白银期货创新高，中国库存位于近十年低位",
@@ -39,19 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 05时20分]"
-        },
-        {
-          "title": "芝加哥大豆期货11月涨约2%，大豆油跌超6%",
-          "url": "https://wallstreetcn.com/livenews/3012387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。",
@@ -93,11 +82,12 @@
           "ranks": [
             3,
             11,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时20分]"
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 06时21分]"
         },
         {
           "title": "周五（11月28日），彭博电动汽车价格回报指数涨1.16%，报3418.76点，11月份累跌2.20%，整体呈现出W形走势。",
@@ -106,11 +96,24 @@
           "ranks": [
             4,
             12,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时20分]"
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 06时21分]"
+        },
+        {
+          "title": "芝加哥大豆期货11月涨约2%，大豆油跌超6%",
+          "url": "https://wallstreetcn.com/livenews/3012387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时21分]"
         },
         {
           "title": "波罗的海干散货运价指数（BDI）周线录得涨幅",
@@ -137,6 +140,45 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
+          "title": "周五（11月28日），降息赢家指数涨0.21%，报99.91点，本周累计上涨5.64%，11月份累计上涨3.57%。",
+          "url": "https://wallstreetcn.com/livenews/3012368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 06时21分]"
+        },
+        {
+          "title": "周五（11月28日）纽约尾盘，标普500股指期货最终上涨0.48%，道指期货涨0.57%，纳斯达克100股指期货涨0.78%。 罗素2000股指期货涨0.29%。",
+          "url": "https://wallstreetcn.com/livenews/3012379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时21分]"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20251129031743032800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时21分]"
+        },
+        {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌0.42%，暂报18939.68点，北京时间22:00以来呈现出M形走势。 11月份迄今，该指数累计下跌16.79%，11月2日微幅上扬至23268.94点，随后转跌，11月11-21日持续走低，最低至16701.45点，之后跌幅有所收窄。",
           "url": "https://wallstreetcn.com/livenews/3012345",
           "source": "华尔街见闻-快讯",
@@ -148,19 +190,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 03时18分]"
-        },
-        {
-          "title": "周五（11月28日），降息赢家指数涨0.21%，报99.91点，本周累计上涨5.64%，11月份累计上涨3.57%。",
-          "url": "https://wallstreetcn.com/livenews/3012368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时20分]"
         },
         {
           "title": "11月份，伦敦可可期货累跌9.80%，周五（11月28日）欧市尾盘报4045美元/吨，11月5日涨至4864美元之后持续走低，11月25日跌至3650美元。",
@@ -200,30 +229,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 05时20分]"
-        },
-        {
-          "title": "周五（11月28日）纽约尾盘，标普500股指期货最终上涨0.48%，道指期货涨0.57%，纳斯达克100股指期货涨0.78%。 罗素2000股指期货涨0.29%。",
-          "url": "https://wallstreetcn.com/livenews/3012379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时20分]"
-        },
-        {
-          "title": "金十图示：2025年11月28日（周五）华尔街恐惧与贪婪指数（美盘后）",
-          "url": "https://flash.jin10.com/detail/20251129031743032800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时20分]"
         },
         {
           "title": "世界贸易组织（WTO）：9月份总体贸易景气指数降至101.8，低于6月份的102.2。",
@@ -316,7 +321,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -352,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "美国原油期货11月累跌约3.4%，纽约天然气累涨11%",
+          "url": "https://wallstreetcn.com/livenews/3012380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.33%，报576.91点，11月份累涨约0.8%。 欧元区STOXX 50指数初步收涨0.38%，报5674.51点，11月份累涨0.2%。 富时泛欧绩优300指数初步收涨0.35%，报2298.19点。",
@@ -424,8 +440,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "芝商所重启交易，美股指集体上涨，“黑五购物节”提振零售板块，白银、LME期铜创新高",
@@ -437,8 +453,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -449,20 +465,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 05时20分]"
-        },
-        {
-          "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
-          "url": "https://wallstreetcn.com/livenews/3012382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "美股三大股指收涨 英特尔涨超10%",
@@ -475,8 +479,21 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时31分 ~ 05时20分]"
+          "appearance_count": 5,
+          "time_info": "[02时31分 ~ 06时21分]"
+        },
+        {
+          "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
+          "url": "https://wallstreetcn.com/livenews/3012382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时21分]"
         },
         {
           "title": "美股七巨头收盘播报｜Meta收涨超2.2%，英伟达跌1.8%",
@@ -485,11 +502,26 @@
           "ranks": [
             5,
             13,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时20分]"
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 06时21分]"
+        },
+        {
+          "title": "半导体ETF+能源业ETF收涨1.3%，领跑美股行业ETF，11月网络股ETF、科技行业ETF跌超4.8%",
+          "url": "https://wallstreetcn.com/livenews/3012370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 06时21分]"
         },
         {
           "title": "高盛交易员：进入12月之际美股格局已变得更加清晰",
@@ -504,17 +536,28 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
-          "title": "半导体ETF+能源业ETF收涨1.3%，领跑美股行业ETF，11月网络股ETF、科技行业ETF跌超4.8%",
-          "url": "https://wallstreetcn.com/livenews/3012370",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251129031455925800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            14,
-            16
+            21,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时20分]"
+          "time_info": "[04时24分 ~ 06时21分]"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251129031224808800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时21分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股盘中）",
@@ -541,30 +584,6 @@
           "time_info": "[02时31分 ~ 03时18分]"
         },
         {
-          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251129031455925800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时20分]"
-        },
-        {
-          "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251129031224808800",
-          "source": "金十数据",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时20分]"
-        },
-        {
           "title": "行业ETF美股盘初多数走高，网络股指数ETF涨0.73%，可选消费ETF涨0.41%，全球科技股指数ETF涨0.21%，半导体ETF涨0.16%，医疗业ETF跌0.2%。",
           "url": "https://wallstreetcn.com/livenews/3012297",
           "source": "华尔街见闻-快讯",
@@ -579,7 +598,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
@@ -590,8 +609,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "特朗普：将永久停止第三世界国家移民",
@@ -601,8 +620,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
@@ -612,8 +631,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -626,8 +645,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 06时21分]"
         },
         {
           "title": "美国总统特朗普：任何由美国前总统拜登使用自动笔签署的文件（约占其签署文件的92%）即日起全部终止生效，不再具有任何法律效力。",
@@ -638,8 +657,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时21分]"
         },
         {
           "title": "美媒：特朗普上周与马杜罗通话 讨论举行会晤的可能性",
@@ -650,8 +669,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时21分]"
         },
         {
           "title": "特朗普：撤销前总统拜登通过自动签名装置签署的所有文件",
@@ -660,9 +679,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时21分]"
+        },
+        {
+          "title": "乌克兰代表团前往美国，将与总统特朗普的特使Witkoff会谈。",
+          "url": "https://wallstreetcn.com/livenews/3012397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "06时21分"
         },
         {
           "title": "特朗普称将暂停“第三世界国家”移民",
@@ -674,8 +704,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时17分 ~ 05时20分]"
+          "appearance_count": 6,
+          "time_info": "[03时17分 ~ 06时21分]"
         },
         {
           "title": "美国财长贝森特：在美国总统特朗普的指示下，我们正努力取消向非法移民提供的联邦福利，并将这些福利保留给美国公民。",
@@ -687,19 +717,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时20分]"
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 06时21分]"
         },
         {
           "title": "日本学者点破特朗普真实想法",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AD%A6%E8%80%85%E7%82%B9%E7%A0%B4%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%9F%E5%AE%9E%E6%83%B3%E6%B3%95%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 05时20分]"
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 06时21分]"
         },
         {
           "title": "据纽约时报：美国总统特朗普上周与委内瑞拉领导人马杜罗通了电话，讨论了会晤事宜。",
@@ -710,8 +741,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时21分]"
         },
         {
           "title": "美国总统特朗普上周与委内瑞拉总统马杜罗通电话。 双方讨论了潜在的会晤事宜。（纽约时报）",
@@ -719,11 +750,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时21分]"
         }
       ]
     },
@@ -740,8 +772,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 06时21分]"
         }
       ]
     },
@@ -755,11 +787,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时21分]"
         }
       ]
     },
@@ -773,11 +806,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时21分]"
         }
       ]
     },
@@ -793,8 +827,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 06时21分]"
         }
       ]
     }
