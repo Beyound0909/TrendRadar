@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T09:42:56.302080+08:00",
-  "total_titles_processed": 749,
+  "generated_at": "2025-11-28T11:13:42.772318+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 09时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 11时13分]"
         },
         {
           "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
@@ -64,29 +64,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约涨0.11%，10年期主力合约涨0.02%，5年期主力合约涨0.01%，2年期主力合约涨0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3011764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "中证转债指数高开0.03%。福新转债涨超4%，大中转债涨超3%，国城转债、佳禾转债涨超2%；宏柏转债、利扬转债、东时转债、运机转债、能辉转债跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3011762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -103,17 +81,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时18分 ~ 06时21分]"
-        },
-        {
-          "title": "上证指数开盘报3870.94点，跌0.11%。 深证成指开盘报12869.66点，跌0.04%。 创业板指开盘报3029.98点，跌0.04%。 沪深300开盘报4511.50点，跌0.09%。 科创50开盘报1307.96点，跌0.21%。 中证500开盘报6947.24点，跌0.06%。 中证1000开盘报7257.17点，跌0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3011761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.03%，报25935点。 恒生科技指数主连夜盘收涨0.02%，报5610点。",
@@ -168,6 +135,18 @@
           "time_info": "[05时20分 ~ 07时21分]"
         },
         {
+          "title": "国债期货开盘，30年期主力合约涨0.11%，10年期主力合约涨0.02%，5年期主力合约涨0.01%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3011764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时13分]"
+        },
+        {
           "title": "纽约证交所ARCA金矿开采商指数收涨0.18%，报2278.81点。",
           "url": "https://wallstreetcn.com/livenews/3011672",
           "source": "华尔街见闻-快讯",
@@ -180,6 +159,18 @@
           "time_info": "[06时21分 ~ 07时21分]"
         },
         {
+          "title": "中证转债指数高开0.03%。福新转债涨超4%，大中转债涨超3%，国城转债、佳禾转债涨超2%；宏柏转债、利扬转债、东时转债、运机转债、能辉转债跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3011762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时13分]"
+        },
+        {
           "title": "周四（11月27日）纽约尾盘，现货黄金跌0.11%，报4157.61美元/盎司，交投区间为4168.85-4142.79美元。 COMEX黄金期货跌0.28%，报4153.60美元/盎司；2月合约跌0.30%，报4189.60美元，北京时间12:08跌至4174.60美元刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3011671",
           "source": "华尔街见闻-快讯",
@@ -190,6 +181,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
+          "title": "上证指数开盘报3870.94点，跌0.11%。 深证成指开盘报12869.66点，跌0.04%。 创业板指开盘报3029.98点，跌0.04%。 沪深300开盘报4511.50点，跌0.09%。 科创50开盘报1307.96点，跌0.21%。 中证500开盘报6947.24点，跌0.06%。 中证1000开盘报7257.17点，跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3011761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时13分]"
         },
         {
           "title": "上期所原油期货2501合约夜盘收涨1.46%，报451.60元人民币/桶。 沪金夜盘收涨0.02%，沪银收涨1.29%。",
@@ -233,6 +236,18 @@
           "time_info": "[01时19分 ~ 03时18分]"
         },
         {
+          "title": "恒指高开0.25%，报26011.06点；恒生科技指数涨0.43%。中芯国际涨1.8%，哔哩哔哩涨近1%，华虹半导体、阿里巴巴涨0.8%。中铝国际高开6%，公司联合体中标青铜峡电解槽升级改造项目。",
+          "url": "https://wallstreetcn.com/livenews/3011759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时13分]"
+        },
+        {
           "title": "新西兰11月消费者信心指数创6月以来新高",
           "url": "https://flash.jin10.com/detail/20251128050932583800",
           "source": "金十数据",
@@ -255,6 +270,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时31分]"
+        },
+        {
+          "title": "11月28日投资避雷针：8月22日至11月27日累计上涨452% 这只股票今起停牌核查",
+          "url": "https://www.cls.cn/detail/2213415",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时13分]"
         },
         {
           "title": "内盘期货夜市涨跌各异，玻璃收涨超1.9%，铁矿石则跌约0.9%，焦煤跌超1.7%，焦炭跌约2.3%",
@@ -281,6 +308,41 @@
           "time_info": "[01时19分 ~ 02时31分]"
         },
         {
+          "title": "台湾证交所加权股价指数开盘变动不大。",
+          "url": "https://wallstreetcn.com/livenews/3011752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时13分]"
+        },
+        {
+          "title": "摩根大通上调中国股票至“超配” 直言近期调整是入场好时点",
+          "url": "https://www.cls.cn/detail/2213229",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时13分]"
+        },
+        {
+          "title": "商品期货开盘，焦炭、碳酸锂、钯主力合约跌超2%，焦煤、多晶硅、沥青跌超1%。玻璃、棕榈油、沪银、橡胶、国际铜、原油、集运欧线、纯碱涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3011751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时13分]"
+        },
+        {
           "title": "金十图示：2025年11月28日（周五）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251128004607764800",
           "source": "金十数据",
@@ -293,15 +355,15 @@
           "time_info": "[01时19分 ~ 02时31分]"
         },
         {
-          "title": "恒指高开0.25%，报26011.06点；恒生科技指数涨0.43%。中芯国际涨1.8%，哔哩哔哩涨近1%，华虹半导体、阿里巴巴涨0.8%。中铝国际高开6%，公司联合体中标青铜峡电解槽升级改造项目。",
-          "url": "https://wallstreetcn.com/livenews/3011759",
+          "title": "截至早盘收盘，日经225指数跌0.04%，东证指数涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3011809",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时42分"
+          "time_info": "11时13分"
         },
         {
           "title": "金十图示：2025年11月27日（周四）全球股市指数-美洲市场（盘初）",
@@ -315,37 +377,26 @@
           "time_info": "00时29分"
         },
         {
-          "title": "11月28日投资避雷针：8月22日至11月27日累计上涨452% 这只股票今起停牌核查",
-          "url": "https://www.cls.cn/detail/2213415",
-          "source": "财联社热门",
+          "title": "金十图示：2025年11月28日（周五）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20251128103227197800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "金十期货11月28日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌900元/吨，中间价报93300元/吨。",
+          "url": "https://flash.jin10.com/detail/20251128103225122800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "台湾证交所加权股价指数开盘变动不大。",
-          "url": "https://wallstreetcn.com/livenews/3011752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "摩根大通上调中国股票至“超配” 直言近期调整是入场好时点",
-          "url": "https://www.cls.cn/detail/2213229",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
+          "time_info": "11时13分"
         },
         {
           "title": "早盘开盘，国内期货主力合约涨多跌少，玻璃涨近2%，橡胶、棕榈油、国际铜、SC原油、沪银、20号胶、纯碱涨超1%。跌幅方面，焦炭、碳酸锂、钯跌超2%，焦煤跌近2%，沥青、多晶硅跌超1%。",
@@ -354,18 +405,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "商品期货开盘，焦炭、碳酸锂、钯主力合约跌超2%，焦煤、多晶硅、沥青跌超1%。玻璃、棕榈油、沪银、橡胶、国际铜、原油、集运欧线、纯碱涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3011751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -376,7 +416,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -387,7 +427,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -409,7 +449,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -431,7 +471,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -464,7 +504,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         }
@@ -472,7 +512,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -510,19 +550,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 09时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 11时13分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
           "url": "https://www.toutiao.com/trending/7577565560364338698/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时13分]"
         },
         {
           "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
@@ -539,6 +580,30 @@
           "time_info": "[03时18分 ~ 06时21分]"
         },
         {
+          "title": "中方回应特朗普要求高市降低声调",
+          "url": "https://www.douyin.com/hot/2319515",
+          "source": "抖音",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时13分]"
+        },
+        {
+          "title": "特朗普：将对委内瑞拉展开地面行动",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%B1%95%E5%BC%80%E5%9C%B0%E9%9D%A2%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时13分]"
+        },
+        {
           "title": "国民警卫队枪击案后 特朗普政府宣布将全面审查移民政策",
           "url": "https://flash.jin10.com/detail/20251128052114993800",
           "source": "金十数据",
@@ -549,6 +614,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普拒邀南非参加明年G20峰会，南非反击：不接受侮辱",
+          "url": "https://news.ifeng.com/c/8odIMcYqHFR",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时13分]"
+        },
+        {
+          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时13分]"
         },
         {
           "title": "德国总理默茨：我将设法劝说美国（总统特朗普），进而让南非获得参与2026年（由美方轮值主办的）二十国集团（G20）峰会。",
@@ -563,37 +651,16 @@
           "time_info": "[00时29分 ~ 01时19分]"
         },
         {
-          "title": "中方回应特朗普要求高市降低声调",
-          "url": "https://www.douyin.com/hot/2319515",
+          "title": "特朗普称将对委内瑞拉展开地面行动",
+          "url": "https://www.douyin.com/hot/2319972",
           "source": "抖音",
           "ranks": [
-            6
+            20,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "特朗普：将对委内瑞拉展开地面行动",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%B1%95%E5%BC%80%E5%9C%B0%E9%9D%A2%E8%A1%8C%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "特朗普拒邀南非参加明年G20峰会，南非反击：不接受侮辱",
-          "url": "https://news.ifeng.com/c/8odIMcYqHFR",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时13分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：如果去参加世界杯抽签，可能会考虑与特朗普会面。",
@@ -613,31 +680,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
         {
-          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
-          "source": "澎湃新闻",
+          "title": "深扒特朗普关税操盘手卢特尼克",
+          "url": "https://www.toutiao.com/trending/7576615723494260762/",
+          "source": "今日头条",
           "ranks": [
-            16
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "特朗普称将对委内瑞拉展开地面行动",
-          "url": "https://www.douyin.com/hot/2319972",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
+          "time_info": "11时13分"
         }
       ]
     },
@@ -650,11 +706,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%BA%B3%E5%B7%9E%E9%80%9A%E6%8A%A5%E4%B8%80%E4%B9%A1%E9%95%87%E7%AA%81%E5%8F%91%E5%B7%A8%E5%93%8D",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 09时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 11时13分]"
         },
         {
           "title": "安徽亳州通报乡镇突发巨响",
@@ -678,8 +735,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 09时42分]"
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 11时13分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-11-28）",
@@ -688,7 +745,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -697,17 +754,18 @@
           "url": "https://flash.jin10.com/detail/20251127234314388800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 11时13分]"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek开源新模型",
@@ -715,11 +773,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 09时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 11时13分]"
         },
         {
           "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
@@ -729,8 +788,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 09时42分]"
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 11时13分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -741,8 +800,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 09时42分]"
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 11时13分]"
+        },
+        {
+          "title": "DeepSeek推出新模型",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%8E%A8%E5%87%BA%E6%96%B0%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         }
       ]
     },
@@ -785,6 +855,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
+          "url": "https://www.cls.cn/detail/2213059",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时42分]"
+        },
+        {
+          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
+          "url": "https://wallstreetcn.com/articles/3760202",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时20分]"
+        },
+        {
+          "title": "维珍澳大利亚航空：宣布成为首家与OpenAI合作的澳大利亚航空公司。",
+          "url": "https://flash.jin10.com/detail/20251128095923576800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         }
       ]
     },
@@ -833,37 +945,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
-          "url": "https://www.cls.cn/detail/2213059",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 09时42分]"
-        },
-        {
-          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
-          "url": "https://wallstreetcn.com/articles/3760202",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 05时20分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -872,11 +953,12 @@
           "url": "https://wallstreetcn.com/articles/3760251",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时13分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
@@ -888,6 +970,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月28日（周五）上海金早盘价为948.94元/克，较国际金价(952.33元/克)，低3.39元/克",
+          "url": "https://flash.jin10.com/detail/20251128105205543800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         }
       ]
     }
