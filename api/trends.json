@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T21:32:51.825325+08:00",
-  "total_titles_processed": 1793,
+  "generated_at": "2025-11-28T22:23:13.652586+08:00",
+  "total_titles_processed": 1859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 96,
+      "match_count": 100,
       "titles": [
         {
           "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
@@ -50,19 +50,6 @@
           "time_info": "[09时42分 ~ 17时24分]"
         },
         {
-          "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
-          "url": "https://www.cls.cn/detail/2212827",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时21分]"
-        },
-        {
           "title": "【每日收评】三大指数探底回升全线收红，两市成交额不足1.6万亿，商业航天概念再迎爆发",
           "url": "https://www.cls.cn/detail/2214082",
           "source": "财联社热门",
@@ -74,8 +61,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时24分 ~ 21时32分]"
+          "appearance_count": 9,
+          "time_info": "[17时24分 ~ 22时23分]"
+        },
+        {
+          "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
+          "url": "https://www.cls.cn/detail/2212827",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年11月27日 周四<br/>① 07:30 日本10月失业率<br/>② 15:45 法国11月CPI月率初值<br/>③ 15:45 法国第三季度GDP年率终值<br/>④ 16:00 瑞士11月KOF经济领先指标<br/>⑤ 16:55 德国11月季调后失业人数(万人)<br/>⑥ 16:55 德国11月季调后失业率<br/>⑦ 21:00 德国11月CPI月率初值<br/>⑧ 21:30 加拿大9月GDP月率",
@@ -132,6 +132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "沪银期货主力合约日内涨超2%，现报12798元/千克。",
+          "url": "https://flash.jin10.com/detail/20251128220203426800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "金十图示：2025年11月28日（周五）富时中国A50指数成分股今日收盘行情一览：银行、保险股飘绿，半导体、消费电子股走强",
@@ -291,6 +302,19 @@
           "time_info": "[05时20分 ~ 07时21分]"
         },
         {
+          "title": "远大智能：股票简称由“远大智能”变更为“ST远智”，股票复牌",
+          "url": "https://wallstreetcn.com/livenews/3012240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 22时23分]"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约涨0.11%，10年期主力合约涨0.02%，5年期主力合约涨0.01%，2年期主力合约涨0.02%。",
           "url": "https://wallstreetcn.com/livenews/3011764",
           "source": "华尔街见闻-快讯",
@@ -375,18 +399,6 @@
           "time_info": "[19时20分 ~ 20时45分]"
         },
         {
-          "title": "远大智能：股票简称由“远大智能”变更为“ST远智”，股票复牌",
-          "url": "https://wallstreetcn.com/livenews/3012240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 21时32分]"
-        },
-        {
           "title": "上期所原油期货2501合约夜盘收涨1.46%，报451.60元人民币/桶。 沪金夜盘收涨0.02%，沪银收涨1.29%。",
           "url": "https://wallstreetcn.com/livenews/3011636",
           "source": "华尔街见闻-快讯",
@@ -426,6 +438,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 03时18分]"
+        },
+        {
+          "title": "数据中心“制冷问题”，芝商所“宕机”，各类期货交易停摆，网友戏言“白银新高有人压力太大？”",
+          "url": "https://wallstreetcn.com/articles/3760314",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 22时23分]"
         },
         {
           "title": "恒指高开0.25%，报26011.06点；恒生科技指数涨0.43%。中芯国际涨1.8%，哔哩哔哩涨近1%，华虹半导体、阿里巴巴涨0.8%。中铝国际高开6%，公司联合体中标青铜峡电解槽升级改造项目。",
@@ -524,6 +548,18 @@
           "time_info": "[01时19分 ~ 02时31分]"
         },
         {
+          "title": "波罗的海干散货指数涨3.23%，至2560点，为连续第12个交易日上涨。",
+          "url": "https://wallstreetcn.com/livenews/3012263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时23分]"
+        },
+        {
           "title": "内盘期货夜市涨跌各异，玻璃收涨超1.9%，铁矿石则跌约0.9%，焦煤跌超1.7%，焦炭跌约2.3%",
           "url": "https://wallstreetcn.com/livenews/3011591",
           "source": "华尔街见闻-快讯",
@@ -596,6 +632,18 @@
           "time_info": "[14时35分 ~ 15时22分]"
         },
         {
+          "title": "夜盘期货开盘，沪锡、沪银涨逾1%，塑料、棕榈油、沪铝、沪铜等上涨；烧碱、氧化铝、纯碱等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3012259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时23分]"
+        },
+        {
           "title": "商品期货开盘，焦炭、碳酸锂、钯主力合约跌超2%，焦煤、多晶硅、沥青跌超1%。玻璃、棕榈油、沪银、橡胶、国际铜、原油、集运欧线、纯碱涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3011751",
           "source": "华尔街见闻-快讯",
@@ -653,6 +701,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时31分]"
+        },
+        {
+          "title": "芝商所（CME）：Globex期货及期权市场将于中部时间7:30开盘",
+          "url": "https://wallstreetcn.com/livenews/3012251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时23分]"
         },
         {
           "title": "股指期货早盘收盘",
@@ -754,28 +814,6 @@
           "time_info": "16时31分"
         },
         {
-          "title": "波罗的海干散货指数涨3.23%，至2560点，为连续第12个交易日上涨。",
-          "url": "https://wallstreetcn.com/livenews/3012263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "数据中心“制冷问题”，芝商所“宕机”，各类期货交易停摆，网友戏言“白银新高有人压力太大？”",
-          "url": "https://wallstreetcn.com/articles/3760314",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "金十期货11月28日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌900元/吨，中间价报93300元/吨。",
           "url": "https://flash.jin10.com/detail/20251128103225122800",
           "source": "金十数据",
@@ -831,17 +869,6 @@
           "time_info": "16时31分"
         },
         {
-          "title": "夜盘期货开盘，沪锡、沪银涨逾1%，塑料、棕榈油、沪铝、沪铜等上涨；烧碱、氧化铝、纯碱等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3012259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "早盘开盘，国内期货主力合约涨多跌少，玻璃涨近2%，橡胶、棕榈油、国际铜、SC原油、沪银、20号胶、纯碱涨超1%。跌幅方面，焦炭、碳酸锂、钯跌超2%，焦煤跌近2%，沥青、多晶硅跌超1%。",
           "url": "https://flash.jin10.com/detail/20251128090002460800",
           "source": "金十数据",
@@ -892,7 +919,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -996,15 +1023,15 @@
           "time_info": "18时25分"
         },
         {
-          "title": "芝商所（CME）：Globex期货及期权市场将于中部时间7:30开盘",
-          "url": "https://wallstreetcn.com/livenews/3012251",
-          "source": "华尔街见闻-快讯",
+          "title": "WTI原油期货在芝商所（CME）恢复交易后上涨0.3%。",
+          "url": "https://flash.jin10.com/detail/20251128213140091800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时32分"
+          "time_info": "22时23分"
         },
         {
           "title": "夜盘开盘，国内期货主力合约涨多跌少，沪锡、沪银、丙烯涨超1%，瓶片、聚丙烯、塑料、棕榈油小幅上涨。跌幅方面，烧碱、氧化铝、纯碱、菜粕小幅下跌。",
@@ -1013,9 +1040,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
+        },
+        {
+          "title": "美国天然气期货在交易恢复后上涨2.5%。",
+          "url": "https://flash.jin10.com/detail/20251128213117522800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "证监会就《证券期货市场监督管理措施实施办法（征求意见稿）》公开征求意见",
@@ -1027,6 +1065,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "标普500指数和纳斯达克100指数期货在中断后恢复交易。标普500指数期货涨0.2%，纳斯达克100指数期货涨0.3%。",
+          "url": "https://flash.jin10.com/detail/20251128213026389800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "英国央行货币政策委员格林：消费者物价指数预期处于我们可解释的区间的上限。",
@@ -1057,7 +1106,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1131,7 +1180,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
@@ -1185,8 +1234,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时42分 ~ 21时32分]"
+          "appearance_count": 16,
+          "time_info": "[09时42分 ~ 22时23分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -1454,6 +1503,17 @@
           "time_info": "19时20分"
         },
         {
+          "title": "美国国土安全部在被问及特朗普认为哪些国家属于“第三世界”时，提到了旅行禁令中列出的19个国家。",
+          "url": "https://flash.jin10.com/detail/20251128212638656800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "特朗普能否影响高市改善中日关系",
           "url": "https://www.toutiao.com/trending/7577703090468425243/",
           "source": "今日头条",
@@ -1505,8 +1565,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时20分 ~ 21时32分]"
+          "appearance_count": 19,
+          "time_info": "[07时20分 ~ 22时23分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -1531,11 +1591,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时35分 ~ 21时32分]"
+          "appearance_count": 12,
+          "time_info": "[14时35分 ~ 22时23分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -1717,6 +1778,18 @@
           "time_info": "[00时28分 ~ 12时28分]"
         },
         {
+          "title": "涉及中际旭创、胜宏科技等，A股多条重要指数样本股调整",
+          "url": "https://www.cls.cn/detail/2214409",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时44分 ~ 22时23分]"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20251127234314388800",
           "source": "金十数据",
@@ -1745,18 +1818,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "涉及中际旭创、胜宏科技等，A股多条重要指数样本股调整",
-          "url": "https://www.cls.cn/detail/2214409",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时44分 ~ 21时32分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-11-28）",
@@ -1885,7 +1946,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -1896,8 +1957,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时42分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[09时42分 ~ 22时23分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3012282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "新一轮牛市已在路上？华尔街纷纷给美股定下高目标价",
@@ -1936,7 +2008,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数上涨3.55%，暂报19017.39点，北京时间02:00过后出现一波短线拉升行情，之后持续高位震荡。 目前，比特币涨1.74%，暂报91435美元；以太坊涨0.04%，Solana跌0.9%，狗狗币跌1.39%。",
@@ -1975,6 +2047,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
+          "title": "芝商所旗下Globex开盘时，美元指数变化不大。",
+          "url": "https://flash.jin10.com/detail/20251128213332711800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         }
       ]
     },
@@ -2004,6 +2087,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时13分 ~ 12时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普500指数期货、纳斯达克100指数期货、WTI原油、美债恢复交易",
+          "url": "https://wallstreetcn.com/livenews/3012277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         }
       ]
     }
