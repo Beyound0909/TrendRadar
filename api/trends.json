@@ -1,12 +1,46 @@
 {
-  "generated_at": "2025-11-29T01:20:08.243514+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2025-11-29T02:31:40.333711+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3012362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "11月份，标普大致持平，道指涨0.2%，纳指跌1.7%。 周五当天，标普500指数初步收涨0.5%，能源板块涨1.3%，可选消费板块涨0.7%，电信板块涨0.5%。 纳斯达克100指数初步收涨0.7%，成分股中，英特尔涨约10%，吉利德科学则跌1.4%，英伟达跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3012360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "数据中心“制冷问题”，芝商所“宕机”，各类期货交易停摆，网友戏言“白银新高有人压力太大？”",
+          "url": "https://wallstreetcn.com/articles/3760314",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
+        },
         {
           "title": "波罗的海干散货运价指数（BDI）周线录得涨幅",
           "url": "https://flash.jin10.com/detail/20251128233902529800",
@@ -32,16 +66,16 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
-          "title": "数据中心“制冷问题”，芝商所“宕机”，各类期货交易停摆，网友戏言“白银新高有人压力太大？”",
-          "url": "https://wallstreetcn.com/articles/3760314",
-          "source": "华尔街见闻",
+          "title": "【每日收评】三大指数探底回升全线收红，两市成交额不足1.6万亿，商业航天概念再迎爆发",
+          "url": "https://www.cls.cn/detail/2214082",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            8
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "白银期货创新高，中国库存位于近十年低位",
@@ -51,19 +85,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时20分]"
-        },
-        {
-          "title": "【每日收评】三大指数探底回升全线收红，两市成交额不足1.6万亿，商业航天概念再迎爆发",
-          "url": "https://www.cls.cn/detail/2214082",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "世界贸易组织（WTO）：9月份总体贸易景气指数降至101.8，低于6月份的102.2。",
@@ -90,6 +113,18 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌0.42%，暂报18939.68点，北京时间22:00以来呈现出M形走势。 11月份迄今，该指数累计下跌16.79%，11月2日微幅上扬至23268.94点，随后转跌，11月11-21日持续走低，最低至16701.45点，之后跌幅有所收窄。",
+          "url": "https://wallstreetcn.com/livenews/3012345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时31分]"
+        },
+        {
           "title": "标普道琼斯指数公司：所有遭受（芝商所CME服务中断）影响的指数都恢复正常运作。",
           "url": "https://wallstreetcn.com/livenews/3012322",
           "source": "华尔街见闻-快讯",
@@ -114,48 +149,52 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
-          "title": "最近24小时，MarketVector数字资产100小盘指数跌0.42%，暂报18939.68点，北京时间22:00以来呈现出M形走势。 11月份迄今，该指数累计下跌16.79%，11月2日微幅上扬至23268.94点，随后转跌，11月11-21日持续走低，最低至16701.45点，之后跌幅有所收窄。",
-          "url": "https://wallstreetcn.com/livenews/3012345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
           "title": "11月份，伦敦可可期货累跌9.80%，周五（11月28日）欧市尾盘报4045美元/吨，11月5日涨至4864美元之后持续走低，11月25日跌至3650美元。",
           "url": "https://wallstreetcn.com/livenews/3012343",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时31分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251129004629972800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时31分]"
         },
         {
           "title": "11月份，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货累计下跌2.98%，周五（11月28日）欧市尾盘报187.25欧元/吨。 油菜籽期货累涨0.73%，报484欧元/吨。",
           "url": "https://wallstreetcn.com/livenews/3012342",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时31分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.4%，连续五个交易日走高，报355.87点，11月份累跌超1.06%。 在十个板块中，北欧医疗保健板块涨幅最大。 权重股诺和诺德涨2.0%，对指数贡献最大；国际供热技术公司Nibe Industrier涨3.3%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3012339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时31分]"
         },
         {
           "title": "美国天然气期货涨5%，报4.77美元/百万英热。",
@@ -164,18 +203,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数涨0.4%，连续五个交易日走高，报355.87点，11月份累跌超1.06%。 在十个板块中，北欧医疗保健板块涨幅最大。 权重股诺和诺德涨2.0%，对指数贡献最大；国际供热技术公司Nibe Industrier涨3.3%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3012339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -186,7 +214,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -197,7 +225,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -249,7 +277,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -260,8 +288,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
+        },
+        {
+          "title": "美股三大股指收涨 英特尔涨超10%",
+          "url": "https://flash.jin10.com/detail/20251129020833506800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "芝商所重启交易，美股指集体上涨，“黑五购物节”提振零售板块，白银、LME期铜创新高",
+          "url": "https://wallstreetcn.com/articles/3760330",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "高盛交易员：进入12月之际美股格局已变得更加清晰",
@@ -276,27 +327,38 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
-          "title": "芝商所重启交易，美股指集体上涨，“黑五购物节”提振零售板块，白银、LME期铜创新高",
-          "url": "https://wallstreetcn.com/articles/3760330",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时20分]"
-        },
-        {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
           "url": "https://www.cls.cn/detail/2214556",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251129013457427800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251129013346097800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "行业ETF美股盘初多数走高，网络股指数ETF涨0.73%，可选消费ETF涨0.41%，全球科技股指数ETF涨0.21%，半导体ETF涨0.16%，医疗业ETF跌0.2%。",
@@ -324,8 +386,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "特朗普：将永久停止第三世界国家移民",
@@ -335,8 +397,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
@@ -346,8 +408,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -357,8 +419,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 02时31分]"
         }
       ]
     },
@@ -375,8 +437,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         }
       ]
     },
@@ -392,8 +454,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         }
       ]
     }
