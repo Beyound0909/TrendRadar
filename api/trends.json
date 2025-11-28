@@ -1,77 +1,47 @@
 {
-  "generated_at": "2025-11-29T00:28:49.469270+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-29T01:20:08.243514+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
         {
           "title": "波罗的海干散货运价指数（BDI）周线录得涨幅",
           "url": "https://flash.jin10.com/detail/20251128233902529800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "标普道琼斯指数公司表示，所有受影响的指数现已恢复运行。",
           "url": "https://flash.jin10.com/detail/20251128233502523800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "数据中心“制冷问题”，芝商所“宕机”，各类期货交易停摆，网友戏言“白银新高有人压力太大？”",
           "url": "https://wallstreetcn.com/articles/3760314",
           "source": "华尔街见闻",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "世界贸易组织（WTO）：9月份总体贸易景气指数降至101.8，低于6月份的102.2。",
-          "url": "https://flash.jin10.com/detail/20251128233401501800",
-          "source": "金十数据",
-          "ranks": [
+            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "希腊雅典证交所综合指数收跌0.79%，报2083.15点，本周累计上涨1.04%，11月份累计上涨4.41%。",
-          "url": "https://wallstreetcn.com/livenews/3012323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "标普道琼斯指数公司：所有遭受（芝商所CME服务中断）影响的指数都恢复正常运作。",
-          "url": "https://wallstreetcn.com/livenews/3012322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "白银期货创新高，中国库存位于近十年低位",
@@ -81,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "【每日收评】三大指数探底回升全线收红，两市成交额不足1.6万亿，商业航天概念再迎爆发",
@@ -92,19 +62,144 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "世界贸易组织（WTO）：9月份总体贸易景气指数降至101.8，低于6月份的102.2。",
+          "url": "https://flash.jin10.com/detail/20251128233401501800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "希腊雅典证交所综合指数收跌0.79%，报2083.15点，本周累计上涨1.04%，11月份累计上涨4.41%。",
+          "url": "https://wallstreetcn.com/livenews/3012323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "标普道琼斯指数公司：所有遭受（芝商所CME服务中断）影响的指数都恢复正常运作。",
+          "url": "https://wallstreetcn.com/livenews/3012322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "世界贸易组织（WTO）：随着晴雨表指数下跌，全球货物贸易增长势头预计将放缓。",
           "url": "https://flash.jin10.com/detail/20251128233252712800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌0.42%，暂报18939.68点，北京时间22:00以来呈现出M形走势。 11月份迄今，该指数累计下跌16.79%，11月2日微幅上扬至23268.94点，随后转跌，11月11-21日持续走低，最低至16701.45点，之后跌幅有所收窄。",
+          "url": "https://wallstreetcn.com/livenews/3012345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "01时20分"
+        },
+        {
+          "title": "11月份，伦敦可可期货累跌9.80%，周五（11月28日）欧市尾盘报4045美元/吨，11月5日涨至4864美元之后持续走低，11月25日跌至3650美元。",
+          "url": "https://wallstreetcn.com/livenews/3012343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251129004629972800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "11月份，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货累计下跌2.98%，周五（11月28日）欧市尾盘报187.25欧元/吨。 油菜籽期货累涨0.73%，报484欧元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3012342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "美国天然气期货涨5%，报4.77美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20251129003549932800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.4%，连续五个交易日走高，报355.87点，11月份累跌超1.06%。 在十个板块中，北欧医疗保健板块涨幅最大。 权重股诺和诺德涨2.0%，对指数贡献最大；国际供热技术公司Nibe Industrier涨3.3%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3012339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "德国DAX 30指数初步收涨0.37%，报23857.53点，11月份累跌0.4%。 法国股指初步收涨0.33%，意大利股指初步收涨0.33%、银行指数跌0.09%，英国股指初步收涨0.40%。",
+          "url": "https://wallstreetcn.com/livenews/3012336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收涨0.33%，报576.91点，11月份累涨约0.8%。 欧元区STOXX 50指数初步收涨0.38%，报5674.51点，11月份累涨0.2%。 富时泛欧绩优300指数初步收涨0.35%，报2298.19点。",
+          "url": "https://wallstreetcn.com/livenews/3012335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
           "title": "金十图示：2025年11月28日（周五）全球股市指数-美洲市场（盘初）",
@@ -161,33 +256,36 @@
           "url": "https://wallstreetcn.com/articles/3760251",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "高盛交易员：进入12月之际美股格局已变得更加清晰",
           "url": "https://wallstreetcn.com/livenews/3012326",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "芝商所重启交易，美股指集体上涨，“黑五购物节”提振零售板块，白银、LME期铜创新高",
           "url": "https://wallstreetcn.com/articles/3760330",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -197,8 +295,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "行业ETF美股盘初多数走高，网络股指数ETF涨0.73%，可选消费ETF涨0.41%，全球科技股指数ETF涨0.21%，半导体ETF涨0.16%，医疗业ETF跌0.2%。",
@@ -215,18 +313,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
           "url": "https://www.toutiao.com/trending/7577677708164186166/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "特朗普：将永久停止第三世界国家移民",
@@ -236,8 +335,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
@@ -247,8 +346,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "特朗普称将对委内瑞拉展开地面行动",
+          "url": "https://www.douyin.com/hot/2319972",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 01时20分]"
         }
       ]
     },
@@ -261,11 +371,12 @@
           "url": "https://wallstreetcn.com/articles/3760294",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         }
       ]
     },
@@ -281,8 +392,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         }
       ]
     }
