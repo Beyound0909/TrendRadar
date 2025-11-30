@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T07:21:03.139457+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2025-11-30T09:55:24.438512+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -46,44 +46,48 @@
           "url": "https://wallstreetcn.com/livenews/3012482",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 09时55分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
           "url": "https://flash.jin10.com/detail/20251129220829620800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 09时55分]"
         },
         {
           "title": "美国总统特朗普：我们应该会在中期选举中以创纪录的票数获胜。我是“平价医疗总统”。",
           "url": "https://flash.jin10.com/detail/20251129211916234800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 09时55分]"
         },
         {
           "title": "美国总统特朗普：因为我为美国争取到了最惠国待遇，药品价格正以前所未有的速度下降，降幅高达500%、600%、700%甚至更多。没有哪位总统能做到这一点，但我做到了。",
           "url": "https://flash.jin10.com/detail/20251129211849546800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 09时55分]"
         },
         {
           "title": "特朗普向委内瑞拉发出威胁信号",
@@ -155,7 +159,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "蓝箭航天朱雀三号即将首飞 火箭产业链价值量及其占比超5%的A股名单一览",
@@ -165,8 +169,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "龙头15天10板 本周披露并购重组进展的A股名单一览",
@@ -176,8 +180,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "电解液细分龙头盘中创历史新高 VC、FEC等电解液添加剂产能A股名单一览",
@@ -187,8 +191,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "六旬老人做 14 个单杠大回环突发心梗，突发心梗诱因有哪些？老年人高强度运动有什么注意事项？",
@@ -199,8 +203,41 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 09时55分]"
+        },
+        {
+          "title": "A股指数重大调整！涉及胜宏科技、中际旭创等",
+          "url": "https://wallstreetcn.com/articles/3760373",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2214825",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "A股下周能否延续反弹",
+          "url": "https://www.toutiao.com/trending/7578289636359802411/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     },
@@ -217,30 +254,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
           "url": "https://wallstreetcn.com/articles/3760377",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时55分]"
         }
       ]
     },
@@ -259,8 +298,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -268,11 +307,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时17分 ~ 07时21分]"
+          "appearance_count": 8,
+          "time_info": "[03时17分 ~ 09时55分]"
         }
       ]
     },
@@ -290,6 +330,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财经 期货 policy 股票 指数",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家统计局：11月份制造业采购经理指数小幅回升，非制造业商务活动指数有所回落",
+          "url": "https://wallstreetcn.com/livenews/3012504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     }
