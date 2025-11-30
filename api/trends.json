@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T19:18:04.546699+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2025-11-30T20:41:24.650234+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时33分 ~ 19时18分]"
+          "appearance_count": 9,
+          "time_info": "[14时33分 ~ 20时41分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -106,6 +106,17 @@
           "time_info": "[00时27分 ~ 09时55分]"
         },
         {
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 20时41分]"
+        },
+        {
           "title": "特朗普向委内瑞拉发出威胁信号",
           "url": "https://flash.jin10.com/detail/20251129210108575800",
           "source": "金十数据",
@@ -172,15 +183,15 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
-          "title": "美媒：特朗普直接要求马杜罗下台",
-          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
-          "source": "凤凰网",
+          "title": "特朗普与委总统通话 直接要求其下台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%A7%94%E6%80%BB%E7%BB%9F%E9%80%9A%E8%AF%9D+%E7%9B%B4%E6%8E%A5%E8%A6%81%E6%B1%82%E5%85%B6%E4%B8%8B%E5%8F%B0",
+          "source": "百度热搜",
           "ranks": [
-            1
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
@@ -188,11 +199,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时18分]"
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时41分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -210,7 +222,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "蓝箭航天朱雀三号即将首飞 火箭产业链价值量及其占比超5%的A股名单一览",
@@ -244,8 +256,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时26分 ~ 19时18分]"
+          "appearance_count": 25,
+          "time_info": "[00时26分 ~ 20时41分]"
         },
         {
           "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
@@ -260,8 +272,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时55分 ~ 19时18分]"
+          "appearance_count": 14,
+          "time_info": "[09时55分 ~ 20时41分]"
         },
         {
           "title": "下周A股将迎接新一轮行情",
@@ -296,8 +308,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 20时41分]"
         },
         {
           "title": "A股指数重大调整！涉及胜宏科技、中际旭创等",
@@ -309,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "博主：调整中的A股静待新故事爆发",
+          "url": "https://www.toutiao.com/trending/7578466413241699866/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "A股成交创4个月新低释放什么信号",
@@ -347,7 +370,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -388,6 +411,28 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时26分 ~ 15时20分]"
+        },
+        {
+          "title": "Gemini升级了哪些地方",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
+          "url": "https://www.cls.cn/detail/2215087",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
@@ -407,11 +452,12 @@
             12,
             14,
             17,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时55分 ~ 19时18分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 20时41分]"
         },
         {
           "title": "中微公司：持股14.93%的股东上海创业投资有限公司拟通过大宗交易方式减持公司股票不超过总股本的1%，即6,261,453股。",
@@ -421,11 +467,12 @@
             2,
             4,
             7,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时18分]"
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 20时41分]"
         },
         {
           "title": "周末要闻汇总：沪深300等指数样本定期调整公布，央行：持续打击虚拟货币相关非法金融活动",
@@ -433,11 +480,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时41分]"
         }
       ]
     },
@@ -458,11 +506,12 @@
             14,
             13,
             16,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时26分 ~ 19时18分]"
+          "appearance_count": 25,
+          "time_info": "[00时26分 ~ 20时41分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -493,8 +542,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 20时41分]"
         }
       ]
     },
