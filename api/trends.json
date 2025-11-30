@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T03:18:27.084217+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2025-12-01T04:25:00.807562+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 04时25分]"
         },
         {
           "title": "A股需要内需的变化打开高度",
@@ -26,8 +26,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 04时25分]"
+        },
+        {
+          "title": "日本京都著名景点突发火灾",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BA%AC%E9%83%BD%E8%91%97%E5%90%8D%E6%99%AF%E7%82%B9%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时30分 ~ 04时25分]"
         },
         {
           "title": "谁让A股变冷了",
@@ -36,18 +49,6 @@
           "ranks": [
             12,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时30分 ~ 03时18分]"
-        },
-        {
-          "title": "日本京都著名景点突发火灾",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BA%AC%E9%83%BD%E8%91%97%E5%90%8D%E6%99%AF%E7%82%B9%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            24
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -78,8 +79,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 04时25分]"
         },
         {
           "title": "“特朗普交易”遭重创",
@@ -89,8 +90,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 04时25分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
@@ -100,67 +101,26 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时25分]"
         },
         {
           "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
           "url": "https://flash.jin10.com/detail/20251130201511290800",
           "source": "金十数据",
           "ranks": [
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
-          "url": "https://flash.jin10.com/detail/20251130233204525800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时18分]"
-        },
-        {
-          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
-          "url": "https://www.cls.cn/detail/2215087",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 03时18分]"
-        },
-        {
-          "title": "Gemini升级了哪些地方",
-          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            28,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时25分]"
         }
       ]
     },
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周末要闻汇总：沪深300等指数样本定期调整公布，央行：持续打击虚拟货币相关非法金融活动",
@@ -170,19 +130,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 04时25分]"
         },
         {
           "title": "金十期货图示",
           "url": "https://flash.jin10.com/detail/20251130233637369800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时25分]"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2025年12月1日 周一",
+          "url": "https://flash.jin10.com/detail/20251201000000001800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "中微公司：持股14.93%的股东上海创业投资有限公司拟通过大宗交易方式减持公司股票不超过总股本的1%，即6,261,453股。",
@@ -192,8 +164,52 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
+          "url": "https://www.cls.cn/detail/2215087",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 04时25分]"
+        },
+        {
+          "title": "Gemini升级了哪些地方",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            28,
+            22,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 04时25分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
+          "url": "https://flash.jin10.com/detail/20251130233204525800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时25分]"
         }
       ]
     },
@@ -209,8 +225,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 04时25分]"
         }
       ]
     },
@@ -226,8 +242,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 04时25分]"
         }
       ]
     }
