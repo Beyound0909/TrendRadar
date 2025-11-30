@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T17:21:33.680447+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2025-11-30T18:22:32.942268+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -94,6 +94,18 @@
           "time_info": "[00时27分 ~ 09时55分]"
         },
         {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 18时22分]"
+        },
+        {
           "title": "特朗普向委内瑞拉发出威胁信号",
           "url": "https://flash.jin10.com/detail/20251129210108575800",
           "source": "金十数据",
@@ -160,16 +172,15 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
+          "url": "https://flash.jin10.com/detail/20251130174813876800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            3
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 17时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -187,7 +198,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "蓝箭航天朱雀三号即将首飞 火箭产业链价值量及其占比超5%的A股名单一览",
@@ -221,8 +232,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时26分 ~ 17时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 18时22分]"
         },
         {
           "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
@@ -236,8 +247,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时55分 ~ 17时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 18时22分]"
         },
         {
           "title": "下周A股将迎接新一轮行情",
@@ -296,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "券商：A股仍处牛市但短期或宽幅震荡",
+          "url": "https://www.toutiao.com/trending/7578433550261685823/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     },
@@ -346,6 +368,53 @@
       ]
     },
     {
+      "keyword_group": "财经 期货 policy 股票 指数",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国家统计局：11月份制造业采购经理指数小幅回升，非制造业商务活动指数有所回落",
+          "url": "https://wallstreetcn.com/livenews/3012504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            7,
+            8,
+            12,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 18时22分]"
+        },
+        {
+          "title": "中微公司：持股14.93%的股东上海创业投资有限公司拟通过大宗交易方式减持公司股票不超过总股本的1%，即6,261,453股。",
+          "url": "https://wallstreetcn.com/livenews/3012517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时22分]"
+        },
+        {
+          "title": "周末要闻汇总：沪深300等指数样本定期调整公布，央行：持续打击虚拟货币相关非法金融活动",
+          "url": "https://www.cls.cn/detail/2215083",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -365,8 +434,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时26分 ~ 17时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 18时22分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -384,40 +453,6 @@
       ]
     },
     {
-      "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国家统计局：11月份制造业采购经理指数小幅回升，非制造业商务活动指数有所回落",
-          "url": "https://wallstreetcn.com/livenews/3012504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            7,
-            8,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 17时21分]"
-        },
-        {
-          "title": "中微公司：持股14.93%的股东上海创业投资有限公司拟通过大宗交易方式减持公司股票不超过总股本的1%，即6,261,453股。",
-          "url": "https://wallstreetcn.com/livenews/3012517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 17时21分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -427,11 +462,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 17时21分]"
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时22分]"
         }
       ]
     },
