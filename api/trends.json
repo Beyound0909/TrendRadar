@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T18:22:32.942268+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2025-11-30T19:18:04.546699+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时26分 ~ 07时21分]"
+        },
+        {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时33分 ~ 19时18分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -94,18 +106,6 @@
           "time_info": "[00时27分 ~ 09时55分]"
         },
         {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时33分 ~ 18时22分]"
-        },
-        {
           "title": "特朗普向委内瑞拉发出威胁信号",
           "url": "https://flash.jin10.com/detail/20251129210108575800",
           "source": "金十数据",
@@ -172,15 +172,27 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
           "url": "https://flash.jin10.com/detail/20251130174813876800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时18分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -198,7 +210,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "蓝箭航天朱雀三号即将首飞 火箭产业链价值量及其占比超5%的A股名单一览",
@@ -232,8 +244,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 18时22分]"
+          "appearance_count": 24,
+          "time_info": "[00时26分 ~ 19时18分]"
         },
         {
           "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
@@ -244,11 +256,12 @@
             7,
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时55分 ~ 18时22分]"
+          "appearance_count": 13,
+          "time_info": "[09时55分 ~ 19时18分]"
         },
         {
           "title": "下周A股将迎接新一轮行情",
@@ -274,6 +287,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 09时55分]"
+        },
+        {
+          "title": "A股需要内需的变化打开高度",
+          "url": "https://wallstreetcn.com/articles/3760402",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
         },
         {
           "title": "A股指数重大调整！涉及胜宏科技、中际旭创等",
@@ -315,7 +339,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
@@ -382,11 +406,12 @@
             8,
             12,
             14,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 18时22分]"
+          "appearance_count": 10,
+          "time_info": "[09时55分 ~ 19时18分]"
         },
         {
           "title": "中微公司：持股14.93%的股东上海创业投资有限公司拟通过大宗交易方式减持公司股票不超过总股本的1%，即6,261,453股。",
@@ -395,22 +420,24 @@
           "ranks": [
             2,
             4,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 19时18分]"
         },
         {
           "title": "周末要闻汇总：沪深300等指数样本定期调整公布，央行：持续打击虚拟货币相关非法金融活动",
           "url": "https://www.cls.cn/detail/2215083",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 19时18分]"
         }
       ]
     },
@@ -434,8 +461,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 18时22分]"
+          "appearance_count": 24,
+          "time_info": "[00时26分 ~ 19时18分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -466,8 +493,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 18时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 19时18分]"
         }
       ]
     },
