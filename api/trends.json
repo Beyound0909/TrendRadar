@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T17:32:15.282277+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2025-12-01T18:28:07.936203+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "周末要闻汇总：沪深300等指数样本定期调整公布，央行：持续打击虚拟货币相关非法金融活动",
@@ -68,18 +68,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "拓普集团：筹划发行H股股票并在香港联交所上市。",
-          "url": "https://wallstreetcn.com/livenews/3012943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -162,6 +151,30 @@
           "time_info": "[12时12分 ~ 13时31分]"
         },
         {
+          "title": "拓普集团：筹划发行H股股票并在香港联交所上市。",
+          "url": "https://wallstreetcn.com/livenews/3012943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 18时28分]"
+        },
+        {
+          "title": "【每日收评】三大指数震荡走强放量收红！沪指重返3900点，AI端侧方向迎集体爆发",
+          "url": "https://www.cls.cn/detail/2215927",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 18时28分]"
+        },
+        {
           "title": "日经225指数日内跌幅达2%。",
           "url": "https://wallstreetcn.com/livenews/3012806",
           "source": "华尔街见闻-快讯",
@@ -222,17 +235,6 @@
           "time_info": "[16时35分 ~ 17时32分]"
         },
         {
-          "title": "【每日收评】三大指数震荡走强放量收红！沪指重返3900点，AI端侧方向迎集体爆发",
-          "url": "https://www.cls.cn/detail/2215927",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
-        },
-        {
           "title": "金十图示：2025年12月01日（周一）富时中国A50指数成分股今日收盘行情一览：银行股全天走势分化，石油板块午后延续涨势",
           "url": "https://flash.jin10.com/detail/20251201150311817800",
           "source": "金十数据",
@@ -264,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20251201180104495800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "上证指数收报3914.01点，涨0.65%。 深证成指收报13146.72点，涨1.25%。 创业板指收报3092.50点，涨1.31%。 沪深300收报4576.49点，涨1.10%。 科创50收报1336.76点，涨0.72%。 中证500收报7101.83点，涨1.00%。 中证1000收报7386.68点，涨0.72%。",
@@ -330,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "德国DAX指数日内跌幅达1.00%。",
+          "url": "https://flash.jin10.com/detail/20251201175308313800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "中证转债指数高开0.05%。凯众转债涨7.9%，豫光转债涨5.6%，国城转债涨5%，东时转债涨近3%。中旗转债跌2.3%，冠中转债、春23转债、天源转债跌超1%。",
@@ -478,7 +502,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "美媒：特朗普直接要求马杜罗下台",
@@ -512,8 +536,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时12分 ~ 17时32分]"
+          "appearance_count": 9,
+          "time_info": "[12时12分 ~ 18时28分]"
         },
         {
           "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
@@ -541,6 +565,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 06时21分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-01）",
+          "url": "https://flash.jin10.com/detail/20251201181724483800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "据Politico：欧盟一名高级官员警告称，美国总统特朗普为乌克兰和平所做的努力，绝不能让俄罗斯总统普京逃脱俄军队所犯战争罪的责任，这实际上为达成协议划定了新的红线。",
@@ -623,6 +658,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
+          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 18时28分]"
         },
         {
           "title": "美国总统特朗普：我做了个核磁共振，但不是大脑方面的问题。",
@@ -717,17 +763,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
-          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "美国总统特朗普：某些国家的公民可能将长期无法获得美国庇护。",
@@ -882,7 +917,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
@@ -907,6 +942,17 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时26分 ~ 16时35分]"
+        },
+        {
+          "title": "一图看懂|A股上市公司“花式整活” 送卡送酒还送旅游",
+          "url": "https://www.cls.cn/detail/2216038",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "A股电池板块盘初活跃，天华新能涨超10%，德赛电池、星源材质、海科新源、西藏城投、藏格矿业等涨超5%，工信部11月28日组织召开动力和储能电池行业制造业企业座谈会，工信部部长李乐成指出，加快推出针对性政策举措，依法依规治理动力和储能电池产业非理性竞争。",
@@ -980,6 +1026,18 @@
           "time_info": "[02时30分 ~ 03时18分]"
         },
         {
+          "title": "A股中兴通讯封板涨停",
+          "url": "https://www.toutiao.com/trending/7578329760536264758/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时28分]"
+        },
+        {
           "title": "广州沙园地铁站附近突发火情",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%B2%99%E5%9B%AD%E5%9C%B0%E9%93%81%E7%AB%99%E9%99%84%E8%BF%91%E7%AA%81%E5%8F%91%E7%81%AB%E6%83%85%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -1002,6 +1060,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时37分 ~ 16时35分]"
+        },
+        {
+          "title": "年内新纪录！A股平均股价连升6日，5元以下股不足10%，破净股年内已减三成",
+          "url": "https://www.cls.cn/detail/2216057",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "当地应急回应广州突发火情",
@@ -1079,17 +1148,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "A股中兴通讯封板涨停",
-          "url": "https://www.toutiao.com/trending/7578329760536264758/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
         }
       ]
     },
@@ -1146,6 +1204,19 @@
           "time_info": "[00时26分 ~ 05时20分]"
         },
         {
+          "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
+          "url": "https://www.cls.cn/detail/2215337",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 18时28分]"
+        },
+        {
           "title": "亚马逊和谷歌共推多云网络服务，加快云端互联",
           "url": "https://wallstreetcn.com/livenews/3012823",
           "source": "华尔街见闻-快讯",
@@ -1158,26 +1229,13 @@
           "time_info": "[14时37分 ~ 15时25分]"
         },
         {
-          "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
-          "url": "https://www.cls.cn/detail/2215337",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 17时32分]"
-        },
-        {
           "title": "美股盘前，科技股多数下跌，英伟达跌超1%，谷歌、苹果跌近1%，特斯拉跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3012928",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         }
@@ -1185,7 +1243,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "最高8000点！华尔街“2026美股预测”陆续出炉，一个比一个乐观……",
@@ -1220,6 +1278,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "加密货币相关股票美股盘前下跌，Riot Platforms跌3.1%，MARA Holdings跌4%，Coinbase跌3.3%，Strategy跌3.5%，Circle Internet跌2.8%，Bullish跌3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3012978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 14时37分]"
+        },
+        {
+          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
+          "url": "https://wallstreetcn.com/articles/3760419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         }
       ]
     },
@@ -1237,23 +1334,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时26分 ~ 07时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 14时37分]"
         }
       ]
     },
