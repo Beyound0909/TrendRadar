@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T07:21:06.588100+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2025-12-01T10:02:46.016243+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "美媒：特朗普直接要求马杜罗下台",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3760394",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 10时02分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
@@ -186,6 +187,50 @@
           "time_info": "[06时21分 ~ 07时21分]"
         },
         {
+          "title": "特朗普：俄乌和平协议“很有可能”达成",
+          "url": "https://news.ifeng.com/c/8oikvl8KaCy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
+          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "特朗普：俄乌和平协议“很可能”达成",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E2%80%9C%E5%BE%88%E5%8F%AF%E8%83%BD%E2%80%9D%E8%BE%BE%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
+          "url": "https://www.cls.cn/detail/2215261",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "特朗普：不要过度解读关闭委内瑞拉空域之举",
           "url": "https://flash.jin10.com/detail/20251201054410581800",
           "source": "金十数据",
@@ -203,7 +248,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -236,7 +281,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -247,101 +292,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2214825",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
-          "title": "A股需要内需的变化打开高度",
-          "url": "https://wallstreetcn.com/articles/3760402",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 07时21分]"
-        },
-        {
-          "title": "日本京都著名景点突发火灾",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BA%AC%E9%83%BD%E8%91%97%E5%90%8D%E6%99%AF%E7%82%B9%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE",
+          "title": "特朗普：已选定下任美联储主席",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
           "source": "百度热搜",
           "ranks": [
-            30,
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时30分 ~ 04时25分]"
-        },
-        {
-          "title": "谁让A股变冷了",
-          "url": "https://www.toutiao.com/trending/7578479529144880681/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时30分 ~ 03时18分]"
-        },
-        {
-          "title": "A股增量资金持续涌入，科技主题基金迎“上新”潮",
-          "url": "https://wallstreetcn.com/livenews/3012573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "A股持续高位震荡，机构：跨年行情可期",
-          "url": "https://wallstreetcn.com/livenews/3012570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "A股连续缩量说明了什么",
-          "url": "https://www.toutiao.com/trending/7578495650929577482/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "10时02分"
         }
       ]
     },
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 5,
+      "match_count": 13,
       "titles": [
         {
           "title": "周末要闻汇总：沪深300等指数样本定期调整公布，央行：持续打击虚拟货币相关非法金融活动",
@@ -351,8 +321,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 10时02分]"
         },
         {
           "title": "金十期货图示",
@@ -381,6 +351,17 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
+          "title": "铂期货主力合约持续走高，涨幅超5%，现报456.2元/克。",
+          "url": "https://flash.jin10.com/detail/20251201094916234800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2025年12月1日 周一",
           "url": "https://flash.jin10.com/detail/20251201000000001800",
           "source": "金十数据",
@@ -401,9 +382,195 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约跌0.01%，10年期主力合约涨0.00%，5年期主力合约涨0.01%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3012675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "中证转债指数高开0.05%。凯众转债涨7.9%，豫光转债涨5.6%，国城转债涨5%，东时转债涨近3%。中旗转债跌2.3%，冠中转债、春23转债、天源转债跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3012671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "上证指数开盘报3894.21点，涨0.14%。 深证成指开盘报13038.16点，涨0.42%。 创业板指开盘报3060.56点，涨0.26%。 沪深300开盘报4539.19点，涨0.28%。 科创50开盘报1329.42点，涨0.17%。 中证500开盘报7053.85点，涨0.32%。 中证1000开盘报7356.51点，涨0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3012669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "铂期货主力合约涨幅超4%，现报453.75元/克。",
+          "url": "https://flash.jin10.com/detail/20251201093409167800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "恒指高开0.34%，报25945.87点；恒生科技指数涨0.21%。美团跌2.3%，此前发布财报；网易涨1.3%，阿里巴巴涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3012665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "日经225指数延续跌势，最新下跌1.5%，报49520.70点。",
+          "url": "https://flash.jin10.com/detail/20251201092446207800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "日本东证指数跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3012654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "China A股 热点 头条 突发 breaking news",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2214825",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 07时21分]"
+        },
+        {
+          "title": "A股需要内需的变化打开高度",
+          "url": "https://wallstreetcn.com/articles/3760402",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 10时02分]"
+        },
+        {
+          "title": "A股电池板块盘初活跃，天华新能涨超10%，德赛电池、星源材质、海科新源、西藏城投、藏格矿业等涨超5%，工信部11月28日组织召开动力和储能电池行业制造业企业座谈会，工信部部长李乐成指出，加快推出针对性政策举措，依法依规治理动力和储能电池产业非理性竞争。",
+          "url": "https://wallstreetcn.com/livenews/3012697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "日本京都著名景点突发火灾",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BA%AC%E9%83%BD%E8%91%97%E5%90%8D%E6%99%AF%E7%82%B9%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时30分 ~ 04时25分]"
+        },
+        {
+          "title": "谁让A股变冷了",
+          "url": "https://www.toutiao.com/trending/7578479529144880681/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 03时18分]"
+        },
+        {
+          "title": "A股商业航天概念开盘活跃，雷科防务6天5板，通宇通讯3连板，顺灏股份2连板，超卓航科涨超10%，航天发展、利君股份等多股高开，据国家航天局消息，该局已于近期设立商业航天司，相关业务正在逐步开展，标志着我国商业航天产业迎来专职监管机构。",
+          "url": "https://wallstreetcn.com/livenews/3012674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "A股增量资金持续涌入，科技主题基金迎“上新”潮",
+          "url": "https://wallstreetcn.com/livenews/3012573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "A股持续高位震荡，机构：跨年行情可期",
+          "url": "https://wallstreetcn.com/livenews/3012570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "A股连续缩量说明了什么",
+          "url": "https://www.toutiao.com/trending/7578495650929577482/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
         }
       ]
     },
@@ -417,11 +584,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 10时02分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -432,11 +600,12 @@
             28,
             22,
             23,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 10时02分]"
         },
         {
           "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
@@ -482,8 +651,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 10时02分]"
         }
       ]
     },
@@ -498,9 +667,26 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数跌至两周低点99.352。",
+          "url": "https://wallstreetcn.com/livenews/3012656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     }
