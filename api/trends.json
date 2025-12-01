@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T12:12:26.356630+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2025-12-01T13:31:21.221900+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
@@ -49,9 +49,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时31分]"
         },
         {
           "title": "据Politico：欧盟一名高级官员警告称，美国总统特朗普为乌克兰和平所做的努力，绝不能让俄罗斯总统普京逃脱俄军队所犯战争罪的责任，这实际上为达成协议划定了新的红线。",
@@ -60,7 +60,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -75,6 +75,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 04时25分]"
+        },
+        {
+          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
+          "url": "https://www.cls.cn/detail/2215261",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 13时31分]"
         },
         {
           "title": "美国总统特朗普：美国中东问题特使威特科夫将于下周（北京时间本周）某个时候与俄罗斯总统普京会面。",
@@ -149,6 +162,52 @@
           "time_info": "[06时21分 ~ 07时21分]"
         },
         {
+          "title": "特朗普：俄乌和平协议“很有可能”达成",
+          "url": "https://news.ifeng.com/c/8oikvl8KaCy",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
+          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普：已选定下任美联储主席",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普：已确定美联储主席继任者，很快就会宣布",
+          "url": "https://news.ifeng.com/c/8oizWNiI4Dt",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时31分]"
+        },
+        {
           "title": "美国总统特朗普：暂停庇护没有设定具体时间表，我们不希望接收来自某些国家的人。",
           "url": "https://flash.jin10.com/detail/20251201054935386800",
           "source": "金十数据",
@@ -161,30 +220,6 @@
           "time_info": "[06时21分 ~ 07时21分]"
         },
         {
-          "title": "特朗普：俄乌和平协议“很有可能”达成",
-          "url": "https://news.ifeng.com/c/8oikvl8KaCy",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 12时12分]"
-        },
-        {
-          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
-          "url": "https://www.cls.cn/detail/2215261",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 12时12分]"
-        },
-        {
           "title": "美国总统特朗普：某些国家的公民可能将长期无法获得美国庇护。",
           "url": "https://flash.jin10.com/detail/20251201054919490800",
           "source": "金十数据",
@@ -195,18 +230,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
-          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 12时12分]"
         },
         {
           "title": "美国总统特朗普：赫格塞思说他没有下令杀害船上的两名男子。",
@@ -257,35 +280,13 @@
           "time_info": "[06时21分 ~ 07时21分]"
         },
         {
-          "title": "特朗普：已选定下任美联储主席",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 12时12分]"
-        },
-        {
-          "title": "特朗普：已确定美联储主席继任者，很快就会宣布",
-          "url": "https://news.ifeng.com/c/8oizWNiI4Dt",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
           "title": "特朗普与委总统通话，直接要求对方下台！",
           "url": "https://wallstreetcn.com/articles/3760404",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -362,7 +363,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -370,7 +371,7 @@
     },
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "周末要闻汇总：沪深300等指数样本定期调整公布，央行：持续打击虚拟货币相关非法金融活动",
@@ -410,17 +411,6 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
-          "title": "泰国股指SET指数涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3012780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
           "title": "铂期货主力合约持续走高，涨幅超5%，现报456.2元/克。",
           "url": "https://flash.jin10.com/detail/20251201094916234800",
           "source": "金十数据",
@@ -438,7 +428,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -449,9 +439,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "日经225指数日内跌幅达2%。",
+          "url": "https://wallstreetcn.com/livenews/3012806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月1日 周一",
@@ -466,6 +467,42 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时25分 ~ 07时21分]"
+        },
+        {
+          "title": "泰国股指SET指数涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3012780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时31分]"
+        },
+        {
+          "title": "上证指数早盘收报3904.90点，涨0.42%。 深证成指早盘收报13106.95点，涨0.95%。 创业板指早盘收报3080.16点，涨0.90%。 沪深300早盘收报4560.67点，涨0.75%。 科创50早盘收报1337.35点，涨0.77%。 中证500早盘收报7086.13点，涨0.78%。 中证1000早盘收报7381.69点，涨0.65%。",
+          "url": "https://wallstreetcn.com/livenews/3012767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时31分]"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.02%，10年期主力合约涨0.05%，5年期主力合约涨0.03%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3012763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时31分]"
         },
         {
           "title": "WTI原油期货盘初涨超1.5%，此前OPEC+维持2026年一季度暂停增产的计划不变。",
@@ -485,18 +522,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "上证指数早盘收报3904.90点，涨0.42%。 深证成指早盘收报13106.95点，涨0.95%。 创业板指早盘收报3080.16点，涨0.90%。 沪深300早盘收报4560.67点，涨0.75%。 科创50早盘收报1337.35点，涨0.77%。 中证500早盘收报7086.13点，涨0.78%。 中证1000早盘收报7381.69点，涨0.65%。",
-          "url": "https://wallstreetcn.com/livenews/3012767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -510,17 +536,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.02%，10年期主力合约涨0.05%，5年期主力合约涨0.03%，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3012763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         },
         {
           "title": "中证转债指数高开0.05%。凯众转债涨7.9%，豫光转债涨5.6%，国城转债涨5%，东时转债涨近3%。中旗转债跌2.3%，冠中转债、春23转债、天源转债跌超1%。",
@@ -551,7 +566,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -565,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "日经225指数日内跌幅达2.00%。",
+          "url": "https://flash.jin10.com/detail/20251201130524196800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "恒指高开0.34%，报25945.87点；恒生科技指数涨0.21%。美团跌2.3%，此前发布财报；网易涨1.3%，阿里巴巴涨近1%。",
@@ -595,7 +621,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -606,7 +632,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -620,12 +646,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "日本央行审议委员中村豊明：我们必须警惕人工智能相关股票可能出现的估值过高问题。",
+          "url": "https://flash.jin10.com/detail/20251201125304161800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
@@ -648,8 +685,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 12时12分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 13时31分]"
         },
         {
           "title": "A股电池板块盘初活跃，天华新能涨超10%，德赛电池、星源材质、海科新源、西藏城投、藏格矿业等涨超5%，工信部11月28日组织召开动力和储能电池行业制造业企业座谈会，工信部部长李乐成指出，加快推出针对性政策举措，依法依规治理动力和储能电池产业非理性竞争。",
@@ -661,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "A股存储芯片板块午后拉升，北京君正涨超13%，兆易创新涨超5%，佰维存储、华海诚科、复旦微电纷纷拉升。",
+          "url": "https://wallstreetcn.com/livenews/3012805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "日本京都著名景点突发火灾",
@@ -716,7 +764,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -738,7 +786,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -806,6 +854,34 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股期货亚市盘初波动不大，三大股指期货基本持平。",
+          "url": "https://wallstreetcn.com/livenews/3012579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "比特币跌破8.6万美元，24小时跌幅近6%。 美股期货跌幅逐步扩大，纳斯达克100指数期货跌近0.9%，标普500股指期货跌近0.7%，道琼斯指数期货跌0.45%。",
+          "url": "https://wallstreetcn.com/livenews/3012789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -834,25 +910,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 12时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股期货亚市盘初波动不大，三大股指期货基本持平。",
-          "url": "https://wallstreetcn.com/livenews/3012579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 13时31分]"
         }
       ]
     },
