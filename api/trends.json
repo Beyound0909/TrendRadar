@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T16:35:23.518733+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2025-12-01T17:32:15.282277+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "周末要闻汇总：沪深300等指数样本定期调整公布，央行：持续打击虚拟货币相关非法金融活动",
@@ -27,11 +27,12 @@
             5,
             11,
             30,
-            25
+            25,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 15时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 17时32分]"
         },
         {
           "title": "中微公司：持股14.93%的股东上海创业投资有限公司拟通过大宗交易方式减持公司股票不超过总股本的1%，即6,261,453股。",
@@ -59,6 +60,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时25分 ~ 14时37分]"
+        },
+        {
+          "title": "印度Nifty汽车指数创历史新高，现涨0.8%。",
+          "url": "https://flash.jin10.com/detail/20251201170412970800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "拓普集团：筹划发行H股股票并在香港联交所上市。",
+          "url": "https://wallstreetcn.com/livenews/3012943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "铂期货主力合约持续走高，涨幅超5%，现报456.2元/克。",
@@ -187,6 +210,29 @@
           "time_info": "[14时37分 ~ 15时25分]"
         },
         {
+          "title": "恒生指数收盘涨0.67%，恒生科技指数涨0.82%。中兴通讯涨约14%，舜宇光学科技涨约6%，文远知行涨约5%，中国中免涨约5%，东方甄选涨约5%。",
+          "url": "https://wallstreetcn.com/livenews/3012903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时32分]"
+        },
+        {
+          "title": "【每日收评】三大指数震荡走强放量收红！沪指重返3900点，AI端侧方向迎集体爆发",
+          "url": "https://www.cls.cn/detail/2215927",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
           "title": "金十图示：2025年12月01日（周一）富时中国A50指数成分股今日收盘行情一览：银行股全天走势分化，石油板块午后延续涨势",
           "url": "https://flash.jin10.com/detail/20251201150311817800",
           "source": "金十数据",
@@ -273,17 +319,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "恒生指数收盘涨0.67%，恒生科技指数涨0.82%。中兴通讯涨约14%，舜宇光学科技涨约6%，文远知行涨约5%，中国中免涨约5%，东方甄选涨约5%。",
-          "url": "https://wallstreetcn.com/livenews/3012903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
         },
         {
           "title": "WTI原油期货日内涨幅达2.00%，现报59.73美元/桶。",
@@ -424,7 +459,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -443,7 +478,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "美媒：特朗普直接要求马杜罗下台",
@@ -469,6 +504,33 @@
           "time_info": "[00时26分 ~ 10时02分]"
         },
         {
+          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
+          "url": "https://wallstreetcn.com/articles/3760417",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 17时32分]"
+        },
+        {
+          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
+          "url": "https://www.cls.cn/detail/2215261",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时02分 ~ 17时32分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
           "url": "https://wallstreetcn.com/livenews/3012550",
           "source": "华尔街见闻-快讯",
@@ -479,32 +541,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
-          "url": "https://wallstreetcn.com/articles/3760417",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时12分 ~ 16时35分]"
-        },
-        {
-          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
-          "url": "https://www.cls.cn/detail/2215261",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时02分 ~ 16时35分]"
         },
         {
           "title": "据Politico：欧盟一名高级官员警告称，美国总统特朗普为乌克兰和平所做的努力，绝不能让俄罗斯总统普京逃脱俄军队所犯战争罪的责任，这实际上为达成协议划定了新的红线。",
@@ -649,6 +685,17 @@
           "time_info": "[10时02分 ~ 13时31分]"
         },
         {
+          "title": "特朗普与委总统通话，直接要求对方下台！",
+          "url": "https://wallstreetcn.com/articles/3760404",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 17时32分]"
+        },
+        {
           "title": "特朗普：已确定美联储主席继任者，很快就会宣布",
           "url": "https://news.ifeng.com/c/8oizWNiI4Dt",
           "source": "凤凰网",
@@ -670,6 +717,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
+          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "美国总统特朗普：某些国家的公民可能将长期无法获得美国庇护。",
@@ -742,17 +800,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时37分 ~ 15时25分]"
-        },
-        {
-          "title": "特朗普与委总统通话，直接要求对方下台！",
-          "url": "https://wallstreetcn.com/articles/3760404",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         },
         {
           "title": "特朗普：不要过度解读关闭委内瑞拉空域之举",
@@ -909,6 +956,18 @@
           "time_info": "[13时31分 ~ 14时37分]"
         },
         {
+          "title": "广州街头突发火情疑似车油泄漏",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%A1%97%E5%A4%B4%E7%AA%81%E5%8F%91%E7%81%AB%E6%83%85%E7%96%91%E4%BC%BC%E8%BD%A6%E6%B2%B9%E6%B3%84%E6%BC%8F%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 17时32分]"
+        },
+        {
           "title": "谁让A股变冷了",
           "url": "https://www.toutiao.com/trending/7578479529144880681/",
           "source": "今日头条",
@@ -954,17 +1013,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
-        },
-        {
-          "title": "广州街头突发火情疑似车油泄漏",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%A1%97%E5%A4%B4%E7%AA%81%E5%8F%91%E7%81%AB%E6%83%85%E7%96%91%E4%BC%BC%E8%BD%A6%E6%B2%B9%E6%B3%84%E6%BC%8F%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
         },
         {
           "title": "A股商业航天概念开盘活跃，雷科防务6天5板，通宇通讯3连板，顺灏股份2连板，超卓航科涨超10%，航天发展、利君股份等多股高开，据国家航天局消息，该局已于近期设立商业航天司，相关业务正在逐步开展，标志着我国商业航天产业迎来专职监管机构。",
@@ -1039,7 +1087,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         }
@@ -1047,7 +1095,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -1077,11 +1125,12 @@
             18,
             26,
             24,
-            27
+            27,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 16时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 17时32分]"
         },
         {
           "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
@@ -1114,18 +1163,41 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 17时32分]"
+        },
+        {
+          "title": "美股盘前，科技股多数下跌，英伟达跌超1%，谷歌、苹果跌近1%，特斯拉跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3012928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "最高8000点！华尔街“2026美股预测”陆续出炉，一个比一个乐观……",
+          "url": "https://www.cls.cn/detail/2215285",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
         {
           "title": "比特币跌破8.6万美元，24小时跌幅近6%。 美股期货跌幅逐步扩大，纳斯达克100指数期货跌近0.9%，标普500股指期货跌近0.7%，道琼斯指数期货跌0.45%。",
           "url": "https://wallstreetcn.com/livenews/3012789",
