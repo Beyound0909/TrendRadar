@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-12-02T04:24:57.055137+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2025-12-02T05:19:50.227557+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
-          "title": "芝加哥大豆期货跌超1.2%，小麦跌超1.8%",
-          "url": "https://wallstreetcn.com/livenews/3013203",
+          "title": "周一（12月1日）纽约尾盘，ICE原糖期货跌3.09%，ICE白糖期货跌3.35%。",
+          "url": "https://wallstreetcn.com/livenews/3013205",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "05时19分"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌8.73%，暂报17386.01点。",
@@ -33,16 +33,29 @@
           "time_info": "[01时24分 ~ 04时24分]"
         },
         {
+          "title": "芝加哥大豆期货跌超1.2%，小麦跌超1.8%",
+          "url": "https://wallstreetcn.com/livenews/3013203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 05时19分]"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.63%，报26219点。 恒生科技指数主连夜盘收涨0.65%，报5703点。",
           "url": "https://wallstreetcn.com/livenews/3013190",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时19分]"
         },
         {
           "title": "恒指期货夜盘收涨0.63%，报26219点，高水186点。",
@@ -50,11 +63,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时19分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.3%，报354.79点。 在十个板块中，北欧电信板块跌幅最大。 军工股萨博跌2.7%，在一众北欧个股里表现最差。",
@@ -70,6 +84,20 @@
           "time_info": "[01时24分 ~ 03时24分]"
         },
         {
+          "title": "纳斯达克100指数指数转涨，此前一度下跌1.1%",
+          "url": "https://wallstreetcn.com/livenews/3013174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 05时19分]"
+        },
+        {
           "title": "金十图示：2025年12月02日（周二）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251202004530090800",
           "source": "金十数据",
@@ -82,30 +110,18 @@
           "time_info": "[01时24分 ~ 02时37分]"
         },
         {
-          "title": "纳斯达克100指数指数转涨，此前一度下跌1.1%",
-          "url": "https://wallstreetcn.com/livenews/3013174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 04时24分]"
-        },
-        {
           "title": "纳斯达克金龙中国指数涨幅重新扩大至超过1%。",
           "url": "https://wallstreetcn.com/livenews/3013173",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
             16,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 05时19分]"
         },
         {
           "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
@@ -114,11 +130,12 @@
           "ranks": [
             8,
             17,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 05时19分]"
         },
         {
           "title": "周一（12月1日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货涨0.59%，报245.15欧元/吨，全天呈现出W形反转。 油菜籽期货跌1.14%，报477.75欧元/吨。",
@@ -127,11 +144,12 @@
           "ranks": [
             11,
             20,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 05时19分]"
         },
         {
           "title": "芝加哥小麦期货再度下跌0.6%，南半球大获丰收。",
@@ -182,6 +200,18 @@
           "time_info": "[02时37分 ~ 03时24分]"
         },
         {
+          "title": "据消息人士透露，城堡证券全球股票基金11月份上涨2.5%，截至11月年内累计涨幅13.2%。",
+          "url": "https://flash.jin10.com/detail/20251202030737523800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 05时19分]"
+        },
+        {
           "title": "希腊雅典证交所综合指数收涨0.78%，报2099.35点。",
           "url": "https://wallstreetcn.com/livenews/3013141",
           "source": "华尔街见闻-快讯",
@@ -214,17 +244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        },
-        {
-          "title": "据消息人士透露，城堡证券全球股票基金11月份上涨2.5%，截至11月年内累计涨幅13.2%。",
-          "url": "https://flash.jin10.com/detail/20251202030737523800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
         },
         {
           "title": "欧洲STOXX 600指数收跌0.20%，报575.27点。 欧元区STOXX 50指数收跌0.01%，报5667.48点，全天呈现出V形走势。 富时泛欧绩优300指数收跌0.19%，报2291.33点。",
@@ -318,7 +337,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -328,8 +347,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时19分]"
         },
         {
           "title": "特朗普对马杜罗下最后通牒",
@@ -339,11 +358,12 @@
             27,
             17,
             16,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时19分]"
         },
         {
           "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
@@ -355,8 +375,21 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时19分]"
+        },
+        {
+          "title": "美国白宫：总统特朗普将与国家安全团队就委内瑞拉问题举行会议。",
+          "url": "https://flash.jin10.com/detail/20251202025230331800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时19分]"
         },
         {
           "title": "特朗普：美国对叙利亚取得的成果感到非常满意",
@@ -371,16 +404,17 @@
           "time_info": "[00时32分 ~ 01时24分]"
         },
         {
-          "title": "美国白宫：总统特朗普将与国家安全团队就委内瑞拉问题举行会议。",
-          "url": "https://flash.jin10.com/detail/20251202025230331800",
-          "source": "金十数据",
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
+          "url": "https://wallstreetcn.com/livenews/3013186",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            18
+            6,
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时19分]"
         },
         {
           "title": "美国白宫：（回应特朗普核磁共振检查结果）检查系出于预防性目的，心脏影像检查结果正常，未发现动脉狭窄的迹象，腹部影像亦正常，特朗普整体健康状况仍然极佳。",
@@ -389,18 +423,6 @@
           "ranks": [
             6,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时24分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
-          "url": "https://wallstreetcn.com/livenews/3013186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -551,6 +573,17 @@
           "time_info": "[03时24分 ~ 04时24分]"
         },
         {
+          "title": "美国参议院少数党领袖舒默：特朗普“把加勒比地区变成了一个火药桶”。",
+          "url": "https://flash.jin10.com/detail/20251202043236277800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
           "title": "据以色列媒体报道，以色列总理与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20251202011542425800",
           "source": "金十数据",
@@ -597,64 +630,22 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
-          "url": "https://wallstreetcn.com/articles/3760461",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
-        },
-        {
-          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
-          "url": "https://wallstreetcn.com/articles/3760468",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
-        },
-        {
-          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1978819912970555965",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
-        },
-        {
-          "title": "DeepSeek同时发布两个正式版模型",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2216342",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时19分]"
+        },
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
           "url": "https://wallstreetcn.com/articles/3760444",
@@ -663,20 +654,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时19分]"
         },
         {
-          "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2216342",
-          "source": "财联社热门",
+          "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251202050542973800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "美股收盘：三大股指齐跌 阿里巴巴涨超4%",
+          "url": "https://flash.jin10.com/detail/20251202050101474800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股盘中）",
@@ -705,27 +706,136 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1978819912970555965",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时19分]"
+        },
+        {
+          "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
+          "url": "https://wallstreetcn.com/articles/3760461",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时19分]"
+        },
+        {
+          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
+          "url": "https://wallstreetcn.com/articles/3760468",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时19分]"
+        },
+        {
+          "title": "DeepSeek同时发布两个正式版模型",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
+          "url": "https://wallstreetcn.com/articles/3760440",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时19分]"
+        },
+        {
+          "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
+          "url": "https://wallstreetcn.com/livenews/3013202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 05时19分]"
+        },
+        {
+          "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
+          "url": "https://flash.jin10.com/detail/20251202040715444800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "谷歌：将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区，支持英文。",
+          "url": "https://flash.jin10.com/detail/20251202040501133800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
       "match_count": 3,
       "titles": [
-        {
-          "title": "一图看懂|A股上市公司“花式整活” 送卡送酒还送旅游",
-          "url": "https://www.cls.cn/detail/2216038",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
-        },
         {
           "title": "年内新纪录！A股平均股价连升6日，5元以下股不足10%，破净股年内已减三成",
           "url": "https://www.cls.cn/detail/2216057",
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时19分]"
+        },
+        {
+          "title": "一图看懂|A股上市公司“花式整活” 送卡送酒还送旅游",
+          "url": "https://www.cls.cn/detail/2216038",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -745,35 +855,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
-          "url": "https://wallstreetcn.com/articles/3760440",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
-        },
-        {
-          "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
-          "url": "https://wallstreetcn.com/livenews/3013202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -783,11 +864,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时19分]"
         },
         {
           "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
@@ -799,6 +881,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中长期美债收益率涨约8个基点",
+          "url": "https://wallstreetcn.com/livenews/3013206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（12月1日）纽约尾盘，ICE美元指数跌0.05%，报99.402点，日内交投区间为99.009-99.513点，北京时间14:00以来呈现出V形走势，21:05刷新日低。 彭博美元指数大致持平，报1217.91点，日内交投区间为1213.89-1218.72点。",
+          "url": "https://wallstreetcn.com/livenews/3013204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         }
       ]
     }
