@@ -1,55 +1,114 @@
 {
-  "generated_at": "2025-12-02T00:32:19.554645+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-02T01:24:46.689008+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌8.73%，暂报17386.01点。",
+          "url": "https://wallstreetcn.com/livenews/3013163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "金十图示：2025年12月02日（周二）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251202004530090800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.3%，报354.79点。 在十个板块中，北欧电信板块跌幅最大。 军工股萨博跌2.7%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3013161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
         {
           "title": "芝加哥小麦期货再度下跌0.6%，南半球大获丰收。",
           "url": "https://wallstreetcn.com/livenews/3013146",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月2日 周二",
           "url": "https://flash.jin10.com/detail/20251202000000001800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "非洲股市收盘播报｜周一（12月1日），南非富时/JSE非洲领先40可交易指数收涨1.10%，逼近10.45万点。",
           "url": "https://wallstreetcn.com/livenews/3013145",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "希腊雅典证交所综合指数收涨0.78%，报2099.35点。",
           "url": "https://wallstreetcn.com/livenews/3013141",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            23
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
+        },
+        {
+          "title": "德国DAX 30指数初步收跌1.05%，报23587.06点。 法国股指初步收跌0.17%，意大利股指初步收跌0.34%、银行指数跌0.12%，英国股指初步收跌0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3013158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时24分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收跌0.25%，报574.98点。 欧元区STOXX 50指数初步收跌0.06%，报5664.63点。 富时泛欧绩优300指数初步收跌0.21%，报2291.01点。",
+          "url": "https://wallstreetcn.com/livenews/3013157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "美国10年期国债收益率回落至4.08%下方，日内涨幅收窄至不足7个基点，美国ISM制造业指数发布前还曾达到4.0923%。",
@@ -142,63 +201,79 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "特朗普：美国对叙利亚取得的成果感到非常满意",
           "url": "https://flash.jin10.com/detail/20251202000727981800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "美国总统特朗普：任何事情都不应妨碍叙利亚的改变。",
           "url": "https://flash.jin10.com/detail/20251201235818685800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "美国总统特朗普：美国对叙利亚的成果非常满意。",
           "url": "https://flash.jin10.com/detail/20251201235744690800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "美国总统特朗普：以色列与叙利亚保持强大而真诚的对话非常重要。",
           "url": "https://flash.jin10.com/detail/20251201235722550800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32077222",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
+        },
+        {
+          "title": "特朗普对马杜罗下最后通牒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "乌克兰总统泽连斯基：我们预计将与特朗普就关键计划问题进行讨论。",
@@ -232,17 +307,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普对马杜罗下最后通牒",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
         }
       ]
     },
@@ -258,8 +322,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
@@ -269,19 +333,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
           "url": "https://www.zhihu.com/question/1978819912970555965",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -291,8 +356,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         }
       ]
     },
@@ -308,8 +373,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "年内新纪录！A股平均股价连升6日，5元以下股不足10%，破净股年内已减三成",
@@ -319,8 +384,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "期货热点追踪",
@@ -347,8 +412,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         },
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -358,8 +423,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         }
       ]
     },
@@ -375,8 +440,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时24分]"
         }
       ]
     },
