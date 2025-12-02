@@ -1,44 +1,34 @@
 {
-  "generated_at": "2025-12-02T13:23:09.116180+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2025-12-02T14:36:39.457735+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 57,
+      "match_count": 63,
       "titles": [
         {
           "title": "宁波富豪34亿元股票分给子女",
           "url": "https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E5%AF%8C%E8%B1%AA34%E4%BA%BF%E5%85%83%E8%82%A1%E7%A5%A8%E5%88%86%E7%BB%99%E5%AD%90%E5%A5%B3",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时36分]"
         },
         {
-          "title": "日本11月家庭消费者信心指数 37.5，预期36.2，前值35.8。",
-          "url": "https://flash.jin10.com/detail/20251202130017230800",
+          "title": "金十期货热图",
+          "url": "https://flash.jin10.com/detail/20251202140850741800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "日本11月家庭消费者信心指数 37.5，预期 36.2，前值 35.8。",
-          "url": "https://wallstreetcn.com/livenews/3013484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "14时36分"
         },
         {
           "title": "国债期货开盘，30年期主力合约跌0.10%，10年期主力合约跌0.04%，5年期主力合约跌0.03%，2年期主力合约涨0.01%。",
@@ -116,6 +106,18 @@
           "time_info": "[03时24分 ~ 05时19分]"
         },
         {
+          "title": "日本11月家庭消费者信心指数 37.5，预期36.2，前值35.8。",
+          "url": "https://flash.jin10.com/detail/20251202130017230800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时36分]"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌0.3%，报354.79点。 在十个板块中，北欧电信板块跌幅最大。 军工股萨博跌2.7%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3013161",
           "source": "华尔街见闻-快讯",
@@ -127,6 +129,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时24分 ~ 03时24分]"
+        },
+        {
+          "title": "日本11月家庭消费者信心指数 37.5，预期 36.2，前值 35.8。",
+          "url": "https://wallstreetcn.com/livenews/3013484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时36分]"
         },
         {
           "title": "周一（12月1日）纽约尾盘，标普500股指期货最终跌0.50%，道指期货跌0.87%，纳斯达克100股指期货跌0.34%。 罗素2000股指期货跌1.14%。",
@@ -221,24 +235,25 @@
           "time_info": "[02时37分 ~ 05时19分]"
         },
         {
+          "title": "今日重点关注的财经数据与事件：2025年12月2日 周二",
+          "url": "https://flash.jin10.com/detail/20251202000000001800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 14时36分]"
+        },
+        {
           "title": "芝加哥小麦期货再度下跌0.6%，南半球大获丰收。",
           "url": "https://wallstreetcn.com/livenews/3013146",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时24分]"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2025年12月2日 周二",
-          "url": "https://flash.jin10.com/detail/20251202000000001800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -411,6 +426,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "台湾证交所加权股价指数收涨0.8%，报27,564.27点。",
+          "url": "https://wallstreetcn.com/livenews/3013503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "德国DAX 30指数初步收跌1.05%，报23587.06点。 法国股指初步收跌0.17%，意大利股指初步收跌0.34%、银行指数跌0.12%，英国股指初步收跌0.13%。",
           "url": "https://wallstreetcn.com/livenews/3013158",
           "source": "华尔街见闻-快讯",
@@ -455,6 +481,17 @@
           "time_info": "11时21分"
         },
         {
+          "title": "斯里兰卡科伦坡全股指数上涨2%，至22,462.60点。",
+          "url": "https://wallstreetcn.com/livenews/3013493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "台湾证交所加权股价指数上涨1%至27,615.96点。",
           "url": "https://flash.jin10.com/detail/20251202090348784800",
           "source": "金十数据",
@@ -466,6 +503,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "金十期货·贵金属专题",
+          "url": "https://flash.jin10.com/detail/20251202134337508800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "台湾证交所加权股价指数上涨1%至27,615.96点。",
           "url": "https://wallstreetcn.com/livenews/3013333",
           "source": "华尔街见闻-快讯",
@@ -475,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "宁波富豪34亿元股票分给子女",
+          "url": "https://www.toutiao.com/trending/7578845366410510374/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "早盘开盘，国内期货主力合约涨多跌少。沪银涨超3%，甲醇、焦煤、焦炭、纯碱涨超1%。跌幅方面，多晶硅、钯跌超2%，铂、鸡蛋、沥青跌超1%。",
@@ -497,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "富宝资讯：碳酸锂期货盘面偏弱整理，富宝电池级碳酸锂报93450元/吨",
+          "url": "https://flash.jin10.com/detail/20251202132304993800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "周一（12月1日），彭博电动汽车价格回报指数大致持平，报3418.80点，北京时间09:30之前开始一波短线拉升行情、10:05涨至3450.54点刷新日高，随后快速回吐这一波涨幅，日内大部分时间持稳于3425点一线。",
@@ -701,11 +771,12 @@
             16,
             17,
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 13时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 14时36分]"
         },
         {
           "title": "特朗普对马杜罗下最后通牒",
@@ -731,8 +802,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时36分]"
         },
         {
           "title": "美国总统特朗普：看起来洪都拉斯似乎正试图篡改其总统选举结果。如果他们这么做了，他们会付出惨重代价。选举委员会必须完成计票工作。",
@@ -793,6 +864,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时24分 ~ 05时19分]"
+        },
+        {
+          "title": "特朗普面临支持率“大麻烦”",
+          "url": "https://www.toutiao.com/trending/7578565783584784438/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 14时36分]"
         },
         {
           "title": "美国白宫：（回应特朗普核磁共振检查结果）检查系出于预防性目的，心脏影像检查结果正常，未发现动脉狭窄的迹象，腹部影像亦正常，特朗普整体健康状况仍然极佳。",
@@ -951,17 +1034,6 @@
           "time_info": "[03时24分 ~ 04时24分]"
         },
         {
-          "title": "特朗普面临支持率“大麻烦”",
-          "url": "https://www.toutiao.com/trending/7578565783584784438/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
-        },
-        {
           "title": "据华尔街日报：特朗普政府将入股芯片初创公司Xlight，据悉政府已同意向这家初创公司注资至多1.5亿美元。",
           "url": "https://flash.jin10.com/detail/20251202091517906800",
           "source": "金十数据",
@@ -1080,6 +1152,19 @@
           "time_info": "[00时32分 ~ 09时47分]"
         },
         {
+          "title": "美股收盘：三大指数“五连阳”戛然而止 中国资产逆势走强",
+          "url": "https://www.cls.cn/detail/2216490",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 14时36分]"
+        },
+        {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
           "url": "https://wallstreetcn.com/articles/3760444",
           "source": "华尔街见闻",
@@ -1089,18 +1174,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 06时22分]"
-        },
-        {
-          "title": "美股收盘：三大指数“五连阳”戛然而止 中国资产逆势走强",
-          "url": "https://www.cls.cn/detail/2216490",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 13时23分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
@@ -1248,8 +1321,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 13时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 14时36分]"
         },
         {
           "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
@@ -1260,8 +1333,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时36分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -1281,11 +1354,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 14时36分]"
         },
         {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
@@ -1345,107 +1419,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
-          "url": "https://wallstreetcn.com/articles/3760468",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 13时23分]"
-        },
-        {
-          "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
-          "url": "https://wallstreetcn.com/articles/3760461",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 13时23分]"
-        },
-        {
-          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
-          "url": "https://www.cls.cn/detail/2216499",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时23分]"
-        },
-        {
-          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1978819912970555965",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            6,
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
-        },
-        {
-          "title": "DeepSeek同时发布两个正式版模型",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时21分]"
-        },
-        {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时23分]"
-        },
-        {
-          "title": "DeepSeek新模型追平Gemini",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时23分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "年内新纪录！A股平均股价连升6日，5元以下股不足10%，破净股年内已减三成",
@@ -1470,6 +1445,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 04时24分]"
+        },
+        {
+          "title": "A股航运板块走弱，招商轮船触及跌停，中远海能、招商南油、华光源海、海航科技、中远海科、宁波远洋等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3013512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "A股福建本地股午后持续走高，东百集团直线涨停，此前招标股份、平潭发展、海欣食品、太阳电缆、榕基软件等十余股涨停，恒锋信息、海峡创新涨超10％。",
+          "url": "https://wallstreetcn.com/livenews/3013498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-02）",
@@ -1518,6 +1515,108 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
+          "url": "https://wallstreetcn.com/articles/3760468",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 14时36分]"
+        },
+        {
+          "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
+          "url": "https://wallstreetcn.com/articles/3760461",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 14时36分]"
+        },
+        {
+          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
+          "url": "https://www.cls.cn/detail/2216499",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时36分]"
+        },
+        {
+          "title": "实测DeepSeekV3.2正式版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时36分]"
+        },
+        {
+          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1978819912970555965",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            6,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时22分]"
+        },
+        {
+          "title": "DeepSeek同时发布两个正式版模型",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
+        },
+        {
+          "title": "DeepSeek新模型追平Gemini",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时36分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -1541,8 +1640,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 14时36分]"
         },
         {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
