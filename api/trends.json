@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T11:21:15.535779+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2025-12-02T12:33:25.420951+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "国债期货开盘，30年期主力合约跌0.10%，10年期主力合约跌0.04%，5年期主力合约跌0.03%，2年期主力合约涨0.01%。",
@@ -195,8 +195,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 11时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时33分]"
         },
         {
           "title": "芝加哥小麦期货再度下跌0.6%，南半球大获丰收。",
@@ -259,6 +259,18 @@
           "time_info": "[02时37分 ~ 03时24分]"
         },
         {
+          "title": "国债期货跌幅扩大，30年期主力合约跌0.49%，10年期主力合约跌0.06%。",
+          "url": "https://wallstreetcn.com/livenews/3013422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 12时33分]"
+        },
+        {
           "title": "据消息人士透露，城堡证券全球股票基金11月份上涨2.5%，截至11月年内累计涨幅13.2%。",
           "url": "https://flash.jin10.com/detail/20251202030737523800",
           "source": "金十数据",
@@ -283,6 +295,18 @@
           "time_info": "[00时32分 ~ 01时24分]"
         },
         {
+          "title": "截至早盘收盘，日经225指数涨0.4%，东证指数涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3013412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 12时33分]"
+        },
+        {
           "title": "金十图示：2025年12月01日（周一）华尔街恐惧与贪婪指数（美盘后）",
           "url": "https://flash.jin10.com/detail/20251202052016812800",
           "source": "金十数据",
@@ -301,7 +325,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -356,20 +380,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
         {
-          "title": "国债期货跌幅扩大，30年期主力合约跌0.49%，10年期主力合约跌0.06%。",
-          "url": "https://wallstreetcn.com/livenews/3013422",
+          "title": "上证指数早盘收报3892.55点，跌0.55%。 深证成指早盘收报13045.95点，跌0.77%。 创业板指早盘收报3065.15点，跌0.88%。 沪深300早盘收报4548.78点，跌0.61%。 科创50早盘收报1320.98点，跌1.18%。 中证500早盘收报7036.99点，跌0.91%。 中证1000早盘收报7310.97点，跌1.03%。",
+          "url": "https://wallstreetcn.com/livenews/3013453",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时21分"
+          "time_info": "12时33分"
         },
         {
           "title": "台湾证交所加权股价指数上涨1%至27,615.96点。",
@@ -383,6 +407,39 @@
           "time_info": "09时47分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.44%，10年期主力合约跌0.06%，5年期主力合约跌0.05%，2年期主力合约跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3013450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "金十图示：2025年12月02日（周二）富时中国A50指数成分股午盘收盘行情一览：酿酒、半导体行业普遍回调，石油铁路领涨",
+          "url": "https://flash.jin10.com/detail/20251202113242075800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌不一。合成橡胶涨超3%，沪银涨近3%，纸浆、集运欧线、焦炭、焦煤涨超1%。跌幅方面，多晶硅跌近3%，沥青、钯跌超2%，铂、工业硅、液化气跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251202113030659800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "台湾证交所加权股价指数上涨1%至27,615.96点。",
           "url": "https://wallstreetcn.com/livenews/3013333",
           "source": "华尔街见闻-快讯",
@@ -392,17 +449,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        },
-        {
-          "title": "截至早盘收盘，日经225指数涨0.4%，东证指数涨0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3013412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
         },
         {
           "title": "早盘开盘，国内期货主力合约涨多跌少。沪银涨超3%，甲醇、焦煤、焦炭、纯碱涨超1%。跌幅方面，多晶硅、钯跌超2%，铂、鸡蛋、沥青跌超1%。",
@@ -628,11 +674,12 @@
             15,
             16,
             17,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 11时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 12时33分]"
         },
         {
           "title": "特朗普对马杜罗下最后通牒",
@@ -657,7 +704,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -668,7 +715,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -686,6 +733,17 @@
           "time_info": "[03时24分 ~ 05时19分]"
         },
         {
+          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
+          "url": "https://news.ifeng.com/c/8okTPLnScLu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时33分]"
+        },
+        {
           "title": "特朗普：美国对叙利亚取得的成果感到非常满意",
           "url": "https://flash.jin10.com/detail/20251202000727981800",
           "source": "金十数据",
@@ -696,17 +754,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时24分]"
-        },
-        {
-          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
-          "url": "https://news.ifeng.com/c/8okTPLnScLu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 11时21分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
@@ -895,7 +942,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -980,7 +1027,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -1015,8 +1062,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 11时21分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 12时33分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
@@ -1115,6 +1162,17 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
+          "title": "美股市场全线杀跌发生了什么",
+          "url": "https://www.toutiao.com/trending/7579051553873481270/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "周一（12月1日），降息赢家指数涨0.17%，报100.08点，跳空低开之后，在美股盘初快速转涨。",
           "url": "https://wallstreetcn.com/livenews/3013216",
           "source": "华尔街见闻-快讯",
@@ -1152,8 +1210,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 11时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 12时33分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -1177,8 +1235,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 11时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时33分]"
         },
         {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
@@ -1231,7 +1289,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         }
@@ -1250,11 +1308,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 11时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 12时33分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -1266,8 +1325,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 11时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 12时33分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -1285,6 +1344,17 @@
           "time_info": "[00时32分 ~ 06时22分]"
         },
         {
+          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
+          "url": "https://www.cls.cn/detail/2216499",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时33分]"
+        },
+        {
           "title": "DeepSeek同时发布两个正式版模型",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
           "source": "百度热搜",
@@ -1297,27 +1367,17 @@
           "time_info": "[00时32分 ~ 07时21分]"
         },
         {
-          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
-          "url": "https://www.cls.cn/detail/2216499",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 11时21分]"
-        },
-        {
           "title": "实测DeepSeekV3.2正式版",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 11时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时33分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -1325,17 +1385,18 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 11时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时33分]"
         }
       ]
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "年内新纪录！A股平均股价连升6日，5元以下股不足10%，破净股年内已减三成",
@@ -1379,9 +1440,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "期货热点追踪",
@@ -1398,8 +1470,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
+          "url": "https://flash.jin10.com/detail/20251202121909836800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时20分 ~ 12时33分]"
+        },
         {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
           "url": "https://wallstreetcn.com/livenews/3013184",
@@ -1412,17 +1506,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时24分 ~ 05时19分]"
-        },
-        {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 11时21分]"
         },
         {
           "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
@@ -1448,7 +1531,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
