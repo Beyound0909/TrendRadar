@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T20:49:52.956122+08:00",
-  "total_titles_processed": 1692,
+  "generated_at": "2025-12-02T21:38:58.830342+08:00",
+  "total_titles_processed": 1759,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 83,
+      "match_count": 85,
       "titles": [
         {
           "title": "宁波富豪34亿元股票分给子女",
@@ -111,6 +111,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时24分 ~ 04时24分]"
+        },
+        {
+          "title": "【每日收评】三大指数缩量震荡全线收跌，全市场超3700股飘绿，福建本地股逆势爆发",
+          "url": "https://www.cls.cn/detail/2217151",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 21时38分]"
         },
         {
           "title": "芝加哥大豆期货跌超1.2%，小麦跌超1.8%",
@@ -279,19 +292,6 @@
           "time_info": "[02时37分 ~ 05时19分]"
         },
         {
-          "title": "【每日收评】三大指数缩量震荡全线收跌，全市场超3700股飘绿，福建本地股逆势爆发",
-          "url": "https://www.cls.cn/detail/2217151",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 20时49分]"
-        },
-        {
           "title": "周一（12月1日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货涨0.59%，报245.15欧元/吨，全天呈现出W形反转。 油菜籽期货跌1.14%，报477.75欧元/吨。",
           "url": "https://wallstreetcn.com/livenews/3013169",
           "source": "华尔街见闻-快讯",
@@ -306,6 +306,18 @@
           "time_info": "[02时37分 ~ 05时19分]"
         },
         {
+          "title": "金十图示：2025年12月02日（周二）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20251202084016597800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 21时38分]"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2025年12月2日 周二",
           "url": "https://flash.jin10.com/detail/20251202000000001800",
           "source": "金十数据",
@@ -317,18 +329,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 14时36分]"
-        },
-        {
-          "title": "金十图示：2025年12月02日（周二）投机情绪指数",
-          "url": "https://flash.jin10.com/detail/20251202084016597800",
-          "source": "金十数据",
-          "ranks": [
-            25,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 15时25分]"
         },
         {
           "title": "芝加哥小麦期货再度下跌0.6%，南半球大获丰收。",
@@ -593,6 +593,17 @@
           "time_info": "15时25分"
         },
         {
+          "title": "波罗的海干散货指数涨0.66%，至2600点。",
+          "url": "https://wallstreetcn.com/livenews/3013754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "上证指数开盘报3908.46点，跌0.14%。 深证成指开盘报13130.07点，跌0.13%。 创业板指开盘报3091.37点，跌0.04%。 沪深300开盘报4571.91点，跌0.10%。 科创50开盘报1334.00点，跌0.21%。 中证500开盘报7084.80点，跌0.24%。 中证1000开盘报7364.20点，跌0.30%。",
           "url": "https://wallstreetcn.com/livenews/3013343",
           "source": "华尔街见闻-快讯",
@@ -635,6 +646,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "夜盘期货开盘，棕榈油、纸浆涨逾1%，焦炭、烧碱、橡胶等上涨；沥青、甲醇、玻璃、沪金等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3013752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "法国巴黎银行2026年全球展望：预测标普500指数年底目标位为7500点，欧洲斯托克600指数年底目标位为650点，预测美国GDP为1.9%。",
@@ -687,7 +709,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -753,7 +775,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -981,7 +1003,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -1049,6 +1071,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "与特朗普家族有关联的比特币矿商American Bitcoin盘前大跌22%",
+          "url": "https://wallstreetcn.com/livenews/3013757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "特朗普明日凌晨3点将发表重大声明",
@@ -1346,6 +1379,28 @@
           "time_info": "05时19分"
         },
         {
+          "title": "特朗普敦促共和党州长采用纸质选票。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "美国总统特朗普敦促共和党州长采用纸质选票。",
+          "url": "https://flash.jin10.com/detail/20251202205510063800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "特朗普政府将入股芯片初创公司XLIGHT，投资至多1.5亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3013337",
           "source": "华尔街见闻-快讯",
@@ -1357,6 +1412,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "戴尔夫妇捐赠62.5亿美元为针对儿童的“特朗普账户”提供资金。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "据以色列媒体报道，以色列总理与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20251202011542425800",
           "source": "金十数据",
@@ -1366,6 +1432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "市场消息：戴尔夫妇捐赠62.5亿美元为针对儿童的\"特朗普账户\"提供资金。",
+          "url": "https://flash.jin10.com/detail/20251202204735212800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "乌克兰总统泽连斯基：我们预计将与特朗普就关键计划问题进行讨论。",
@@ -1396,7 +1473,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -1429,7 +1506,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -1448,7 +1525,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -1486,6 +1563,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 06时22分]"
+        },
+        {
+          "title": "波音美股盘前拉升，公司预计美国司法部的处罚程序将延续至2026年",
+          "url": "https://wallstreetcn.com/livenews/3013762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "Credo Technology美股盘前涨15.6%，因第二季度利润和营收均超预期。",
@@ -1545,6 +1633,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "花旗集团(C.N)美股盘前涨近9%，此前上调了2025财年销售预测。",
+          "url": "https://flash.jin10.com/detail/20251202202834556800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 21时38分]"
         },
         {
           "title": "（美股）费城金银指数大致收平，报324.58点。 纽约证交所ARCA金矿开采商指数收涨0.26%，报2323.69点；北京时间22:30之前维持微幅上涨状态——持稳于2320点附近，（开盘时）达到2350.23点，随后快速转而跌至2308.78点刷新日低。",
@@ -1616,17 +1716,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
-        },
-        {
-          "title": "花旗集团(C.N)美股盘前涨近9%，此前上调了2025财年销售预测。",
-          "url": "https://flash.jin10.com/detail/20251202202834556800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
         },
         {
           "title": "美股市场全线杀跌发生了什么",
@@ -1715,24 +1804,25 @@
           "time_info": "[14时36分 ~ 15时25分]"
         },
         {
+          "title": "一A股董事长反对当董事长：薪资不满意",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80A%E8%82%A1%E8%91%A3%E4%BA%8B%E9%95%BF%E5%8F%8D%E5%AF%B9%E5%BD%93%E8%91%A3%E4%BA%8B%E9%95%BF%EF%BC%9A%E8%96%AA%E8%B5%84%E4%B8%8D%E6%BB%A1%E6%84%8F",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时38分]"
+        },
+        {
           "title": "澜起科技：截至2025年11月30日，公司已通过集中竞价交易方式累计回购公司A股股份150.5万股，占公司总股本的比例为0.13%，支付的金额总额约为人民币2.02亿元。",
           "url": "https://wallstreetcn.com/livenews/3013682",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时49分]"
-        },
-        {
-          "title": "一A股董事长反对当董事长：薪资不满意",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80A%E8%82%A1%E8%91%A3%E4%BA%8B%E9%95%BF%E5%8F%8D%E5%AF%B9%E5%BD%93%E8%91%A3%E4%BA%8B%E9%95%BF%EF%BC%9A%E8%96%AA%E8%B5%84%E4%B8%8D%E6%BB%A1%E6%84%8F",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            24
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1749,6 +1839,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时36分 ~ 15时25分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251201234551300800",
+          "source": "金十数据",
+          "ranks": [
+            27,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 21时38分]"
         },
         {
           "title": "11月A股新开户数238万户 今年已累计新开2484万户",
@@ -1805,17 +1907,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251201234551300800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
         }
       ]
     },
@@ -1847,8 +1938,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时32分 ~ 20时49分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 21时38分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -1878,8 +1969,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时47分 ~ 20时49分]"
+          "appearance_count": 17,
+          "time_info": "[09时47分 ~ 21时38分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -1893,8 +1984,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时47分 ~ 20时49分]"
+          "appearance_count": 17,
+          "time_info": "[09时47分 ~ 21时38分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -1942,9 +2033,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 21时38分]"
         }
       ]
     },
@@ -1993,8 +2084,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时22分 ~ 20时49分]"
+          "appearance_count": 13,
+          "time_info": "[13时22分 ~ 21时38分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -2075,22 +2166,24 @@
           "url": "https://flash.jin10.com/detail/20251202204252872800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 21时38分]"
         },
         {
           "title": "德商银行：预计未来一年内金价将上涨至4400美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251202204210323800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 21时38分]"
         },
         {
           "title": "金十图示：2025年12月02日（周二）上海金早盘价为955.63元/克，较国际金价(959.69元/克)，低4.06元/克",
@@ -2141,8 +2234,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时20分 ~ 20时49分]"
+          "appearance_count": 16,
+          "time_info": "[11时20分 ~ 21时38分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
@@ -2183,6 +2276,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "摩根大通美债客户调查显示净多头占比创一个月新低",
+          "url": "https://wallstreetcn.com/livenews/3013760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "中长期美债收益率涨约8个基点",
+          "url": "https://wallstreetcn.com/livenews/3013206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时22分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -2208,24 +2330,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中长期美债收益率涨约8个基点",
-          "url": "https://wallstreetcn.com/livenews/3013206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时22分]"
         }
       ]
     }
