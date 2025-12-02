@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-02T17:29:43.429617+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2025-12-02T18:27:15.295838+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 78,
+      "match_count": 80,
       "titles": [
+        {
+          "title": "宁波富豪34亿元股票分给子女",
+          "url": "https://www.toutiao.com/trending/7578845366410510374/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时36分 ~ 18时27分]"
+        },
         {
           "title": "宁波富豪34亿元股票分给子女",
           "url": "https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E5%AF%8C%E8%B1%AA34%E4%BA%BF%E5%85%83%E8%82%A1%E7%A5%A8%E5%88%86%E7%BB%99%E5%AD%90%E5%A5%B3",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
-        },
-        {
-          "title": "宁波富豪34亿元股票分给子女",
-          "url": "https://www.toutiao.com/trending/7578845366410510374/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时36分 ~ 17时29分]"
         },
         {
           "title": "金十期货热图",
@@ -353,6 +353,29 @@
           "time_info": "[00时32分 ~ 01时24分]"
         },
         {
+          "title": "*ST东通：公司股票可能被终止上市",
+          "url": "https://wallstreetcn.com/livenews/3013607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时27分]"
+        },
+        {
+          "title": "【每日收评】三大指数缩量震荡全线收跌，全市场超3700股飘绿，福建本地股逆势爆发",
+          "url": "https://www.cls.cn/detail/2217151",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时27分]"
+        },
+        {
           "title": "周一（12月1日）纽约尾盘，现货白银涨2.67%，报58.0014美元/盎司，北京时间00:46涨至58.8434美元刷新日高。 COMEX白银期货涨2.27%，报68.460美元/盎司，00:46涨至59.435美元创盘中历史新高。 COMEX铜期货大致持平，报5.2725美元/磅。 现货铂金跌0.33%，报1665.64美元/盎司；现货钯金跌1.81%，报1427.12美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3013228",
           "source": "华尔街见闻-快讯",
@@ -587,15 +610,15 @@
           "time_info": "15时25分"
         },
         {
-          "title": "*ST东通：公司股票可能被终止上市",
-          "url": "https://wallstreetcn.com/livenews/3013607",
-          "source": "华尔街见闻-快讯",
+          "title": "法国巴黎银行2026年全球展望：预测标普500指数年底目标位为7500点，欧洲斯托克600指数年底目标位为650点，预测美国GDP为1.9%。",
+          "url": "https://flash.jin10.com/detail/20251202174946506800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时27分"
         },
         {
           "title": "欧洲STOXX 600指数初步收跌0.25%，报574.98点。 欧元区STOXX 50指数初步收跌0.06%，报5664.63点。 富时泛欧绩优300指数初步收跌0.21%，报2291.01点。",
@@ -920,7 +943,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -959,8 +982,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 17时29分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 18时27分]"
         },
         {
           "title": "特朗普对马杜罗下最后通牒",
@@ -1061,6 +1084,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 04时24分]"
+        },
+        {
+          "title": "特朗普体检结果公布",
+          "url": "https://www.toutiao.com/trending/7579125829599235625/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时27分]"
         },
         {
           "title": "法国总统马克龙在与美国总统特朗普的会谈中强调，对乌克兰所需的安全保障具有核心重要性。",
@@ -1377,18 +1411,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "中概股美股盘前多数下跌，小鹏汽车跌4.6%，哔哩哔哩跌超1%，阿里巴巴跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3013613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -1403,6 +1426,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时22分]"
+        },
+        {
+          "title": "中概股美股盘前多数下跌，小鹏汽车跌4.6%，哔哩哔哩跌超1%，阿里巴巴跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3013613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时27分]"
         },
         {
           "title": "美股收盘：三大股指齐跌 阿里巴巴涨超4%",
@@ -1495,7 +1530,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -1706,11 +1741,12 @@
             15,
             16,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时22分 ~ 17时29分]"
+          "appearance_count": 10,
+          "time_info": "[13时22分 ~ 18时27分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -1810,8 +1846,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 17时29分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 18时27分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -1824,8 +1860,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 17时29分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 18时27分]"
         },
         {
           "title": "实测DeepSeekV3.2正式版",
@@ -1838,8 +1874,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时47分 ~ 17时29分]"
+          "appearance_count": 14,
+          "time_info": "[09时47分 ~ 18时27分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -1853,8 +1889,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时47分 ~ 17时29分]"
+          "appearance_count": 14,
+          "time_info": "[09时47分 ~ 18时27分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -1910,8 +1946,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时20分 ~ 17时29分]"
+          "appearance_count": 13,
+          "time_info": "[11时20分 ~ 18时27分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
@@ -1953,7 +1989,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2025年12月02日（周二）上海金早盘价为955.63元/克，较国际金价(959.69元/克)，低4.06元/克",
@@ -1965,6 +2001,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "金价随美债收益率走强而回落 市场聚焦美国经济数据",
+          "url": "https://flash.jin10.com/detail/20251202173757800800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "金价",
