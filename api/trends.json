@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T15:25:10.873883+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2025-12-02T16:34:12.238184+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 71,
+      "match_count": 77,
       "titles": [
         {
           "title": "宁波富豪34亿元股票分给子女",
@@ -26,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -42,6 +42,17 @@
           "time_info": "14时36分"
         },
         {
+          "title": "金十图示：2025年12月02日（周二）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251202161135830800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约跌0.10%，10年期主力合约跌0.04%，5年期主力合约跌0.03%，2年期主力合约涨0.01%。",
           "url": "https://wallstreetcn.com/livenews/3013348",
           "source": "华尔街见闻-快讯",
@@ -51,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "恒生指数收盘涨0.24%，恒生科技指数跌0.37%。万科企业涨约4%，小鹏汽车跌约6%，中兴通讯跌约6%，蔚来跌约7%。",
+          "url": "https://wallstreetcn.com/livenews/3013587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "中证转债指数低开0.01%。福蓉转债涨12.5%，恒逸转债涨超4%，恒逸转2、福立转债涨超2%；大中转债跌3.8%，航宇转债跌2.2%，东时转债跌1.9%。",
@@ -70,7 +92,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -87,6 +109,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时24分 ~ 04时24分]"
+        },
+        {
+          "title": "宁波富豪34亿元股票分给子女",
+          "url": "https://www.toutiao.com/trending/7578845366410510374/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时36分 ~ 16时34分]"
         },
         {
           "title": "芝加哥大豆期货跌超1.2%，小麦跌超1.8%",
@@ -268,18 +302,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 14时36分]"
-        },
-        {
-          "title": "宁波富豪34亿元股票分给子女",
-          "url": "https://www.toutiao.com/trending/7578845366410510374/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 15时25分]"
         },
         {
           "title": "金十图示：2025年12月02日（周二）投机情绪指数",
@@ -491,7 +513,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -513,7 +535,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -535,7 +557,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -562,6 +584,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "欧洲斯托克50指数开盘涨0.1%，德国DAX指数涨0.1%，英国富时100指数跌0.1%，法国CAC 40指数跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3013577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "金十图示：2025年12月02日（周二）亚太市场股市指数（盘初）",
           "url": "https://flash.jin10.com/detail/20251202102519490800",
           "source": "金十数据",
@@ -571,6 +604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "越南VN指数收盘涨0.9%，报1717.06点。",
+          "url": "https://wallstreetcn.com/livenews/3013576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "台湾证交所加权股价指数上涨1%至27,615.96点。",
@@ -606,13 +650,24 @@
           "time_info": "09时47分"
         },
         {
+          "title": "金十期货图示",
+          "url": "https://flash.jin10.com/detail/20251202153858661800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "欧洲央行管委Kocher：欧洲央行不需要对cpi目标的微小偏离做出反应。 欧洲央行应保留政策空间，以便在需要时能够采取行动。 认为需要对美国股票估值保持谨慎。",
           "url": "https://wallstreetcn.com/livenews/3013521",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -645,7 +700,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -804,13 +859,24 @@
           "time_info": "00时32分"
         },
         {
+          "title": "国债期货收盘，30年期主力合约跌0.51%，10年期主力合约跌0.07%，5年期主力合约跌0.06%，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3013549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "金十图示：2025年12月02日（周二）富时中国A50指数成分股今日收盘行情一览：酿酒、半导体午后延续跌势，银行股全天走势分化",
           "url": "https://flash.jin10.com/detail/20251202150242244800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -840,7 +906,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -855,6 +921,17 @@
           "time_info": "[00时32分 ~ 07时21分]"
         },
         {
+          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
+          "url": "https://news.ifeng.com/c/8okTPLnScLu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时47分 ~ 16时34分]"
+        },
+        {
           "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32077222",
           "source": "澎湃新闻",
@@ -867,19 +944,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 15时25分]"
-        },
-        {
-          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
-          "url": "https://news.ifeng.com/c/8okTPLnScLu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 15时25分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 16时34分]"
         },
         {
           "title": "特朗普对马杜罗下最后通牒",
@@ -1124,6 +1190,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 04时24分]"
+        },
+        {
+          "title": "特朗普第一年政绩如何",
+          "url": "https://www.toutiao.com/trending/7579124982735703594/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "特朗普将自己画像与华盛顿并列",
@@ -1411,7 +1488,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "年内新纪录！A股平均股价连升6日，5元以下股不足10%，破净股年内已减三成",
@@ -1444,7 +1521,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -1484,13 +1561,24 @@
           "time_info": "09时47分"
         },
         {
+          "title": "11月A股新开户数238万户 今年已累计新开2484万户",
+          "url": "https://wallstreetcn.com/livenews/3013570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "A股算力硬件板块尾盘异动，菲菱科思20CM涨停，赛微电子涨超17%，兆龙互连、特发信息、神宇股份、德科立等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3013519",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -1534,6 +1622,19 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
+          "url": "https://www.cls.cn/detail/2216587",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时47分 ~ 16时34分]"
+        },
+        {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
           "url": "https://wallstreetcn.com/articles/3760440",
           "source": "华尔街见闻",
@@ -1548,29 +1649,18 @@
           "time_info": "[00时32分 ~ 14时36分]"
         },
         {
-          "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
-          "url": "https://www.cls.cn/detail/2216587",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 15时25分]"
-        },
-        {
           "title": "谷歌揭秘了AI竞赛的底牌",
           "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
           "source": "澎湃新闻",
           "ranks": [
             17,
             15,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时22分 ~ 15时25分]"
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 16时34分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -1670,8 +1760,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 15时25分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 16时34分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -1684,8 +1774,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 15时25分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 16时34分]"
         },
         {
           "title": "实测DeepSeekV3.2正式版",
@@ -1698,8 +1788,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 15时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时47分 ~ 16时34分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -1712,8 +1802,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 15时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时47分 ~ 16时34分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -1747,11 +1837,12 @@
           "url": "https://www.zhihu.com/question/1978907565543945170",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时25分]"
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 16时34分]"
         }
       ]
     },
@@ -1768,8 +1859,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 15时25分]"
+          "appearance_count": 10,
+          "time_info": "[11时20分 ~ 16时34分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
