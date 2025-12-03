@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T17:28:23.120166+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2025-12-03T18:27:52.934305+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 91,
+      "match_count": 94,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时46分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时46分 ~ 18时27分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -91,8 +91,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时27分]"
+        },
+        {
+          "title": "特朗普点名日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时27分]"
+        },
+        {
+          "title": "特朗普威胁：将实施陆地打击",
+          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时27分]"
         },
         {
           "title": "特朗普开嘲：许多盟友敲美国竹杠，我不点名…比如日韩",
@@ -104,6 +128,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
+          "title": "特朗普“点名”日本",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时27分]"
         },
         {
           "title": "韩国总统李在明：韩国获得核动力潜艇的能力是与美国总统特朗普会谈的一项重大成果。",
@@ -128,28 +164,15 @@
           "time_info": "09时46分"
         },
         {
-          "title": "特朗普威胁：将实施陆地打击",
-          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
-          "source": "凤凰网",
+          "title": "乌克兰总统泽连斯基：乌梅罗夫将在美国与美国总统特朗普的代表会面。",
+          "url": "https://flash.jin10.com/detail/20251203175705904800",
+          "source": "金十数据",
           "ranks": [
-            6,
             5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时28分]"
-        },
-        {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "美国农业部长威胁称：要对多个蓝州削减拨款，因为它们在“补充营养援助计划”（SNAP）救济金发放数据上不符合（总统特朗普的）规定。",
@@ -322,6 +345,18 @@
           "time_info": "[04时29分 ~ 05时22分]"
         },
         {
+          "title": "外交部回应特朗普签法律加深美台联系",
+          "url": "https://www.toutiao.com/trending/7579439474674483219/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时27分]"
+        },
+        {
           "title": "特朗普宣布拜登时期文件全部作废",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -335,17 +370,6 @@
           "time_info": "[09时46分 ~ 12时31分]"
         },
         {
-          "title": "特朗普点名日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时28分]"
-        },
-        {
           "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
           "url": "https://wallstreetcn.com/livenews/3013871",
           "source": "华尔街见闻-快讯",
@@ -357,17 +381,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时22分 ~ 05时22分]"
-        },
-        {
-          "title": "外交部回应特朗普签法律加深美台联系",
-          "url": "https://www.toutiao.com/trending/7579439474674483219/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时28分]"
         },
         {
           "title": "美国总统特朗普：我们已经将美联储主席候选人精简到一个人（本来有十个人）。 财政部长贝森特面试了一些我不知道的候选人。",
@@ -418,6 +431,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时35分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
+          "url": "https://www.cls.cn/detail/2218308",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时27分]"
         },
         {
           "title": "美国总统特朗普：我们将通过关税向人民发放红利。",
@@ -478,6 +503,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时36分]"
+        },
+        {
+          "title": "中方回应特朗普签署涉台法案",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时27分]"
         },
         {
           "title": "特朗普与卢拉通话释缓和信号 巴西希望继续推进关税谈判",
@@ -682,6 +719,17 @@
           "time_info": "[16时32分 ~ 16时33分]"
         },
         {
+          "title": "特朗普点名日本",
+          "url": "https://www.douyin.com/hot/2324828",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时27分]"
+        },
+        {
           "title": "特朗普政府预计将把旅行禁令扩大到约30个国家",
           "url": "https://flash.jin10.com/detail/20251203015450977800",
           "source": "金十数据",
@@ -737,17 +785,6 @@
           "time_info": "09时46分"
         },
         {
-          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
-          "url": "https://www.cls.cn/detail/2218308",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "美国总统特朗普：将重建杜勒斯机场。",
           "url": "https://flash.jin10.com/detail/20251203013412119800",
           "source": "金十数据",
@@ -792,6 +829,17 @@
           "time_info": "16时33分"
         },
         {
+          "title": "民主党州拒交数据 特朗普政府威胁停SNAP经费",
+          "url": "https://flash.jin10.com/detail/20251203174227734800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "特朗普积极暗示哈塞特为下任美联储主席，美国很快将对贩毒集团进行陆地打击，普京威胁切断乌克兰海上通道，亚马逊推出定制AI芯片......美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251203103110984800",
           "source": "金十数据",
@@ -801,17 +849,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
-        },
-        {
-          "title": "中方回应特朗普签署涉台法案",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "巴西总统府：巴西总统卢拉周二与美国总统特朗普通了电话。",
@@ -1012,15 +1049,15 @@
           "time_info": "05时22分"
         },
         {
-          "title": "特朗普点名日本",
-          "url": "https://www.douyin.com/hot/2324828",
-          "source": "抖音",
+          "title": "克里姆林宫：对美国总统特朗普寻求解决问题的政治意愿及他所作的努力表示感谢。",
+          "url": "https://flash.jin10.com/detail/20251203173619981800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "18时27分"
         },
         {
           "title": "特朗普支持的共和党人在田纳西州险胜 中期选举前景堪忧",
@@ -1051,7 +1088,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1070,7 +1107,7 @@
     },
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 83,
+      "match_count": 88,
       "titles": [
         {
           "title": "【每日收评】三大指数缩量震荡全线收跌，全市场超3700股飘绿，福建本地股逆势爆发",
@@ -1084,6 +1121,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 07时21分]"
+        },
+        {
+          "title": "金十图示：2025年12月03日（周三）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20251203180121942800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "WTI 1月原油期货收跌0.68美元，跌幅超过1.14%，报58.64美元/桶。 中东Abu Dhabi Murban原油期货跌1.21%，报64.36美元/桶。 NYMEX 1月天然气期货收跌超1.64%，报4.84美元/百万英热单位。 NYMEX 1月汽油期货收报1.8303美元/加仑，NYMEX 1月取暖油期货收报2.3127美元/加仑。",
@@ -1117,6 +1165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "富时罗素宣布对富时中国指数系列的季度审核变更，富时中国A50指数纳入洛阳钼业、阳光电源，剔除了江苏银行和顺丰控股。",
+          "url": "https://wallstreetcn.com/livenews/3014394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "股指期货午盘收盘",
@@ -1392,6 +1451,18 @@
           "time_info": "[05时22分 ~ 06时20分]"
         },
         {
+          "title": "【午报】三大指数小幅下跌，煤炭板块逆势走强，商业航天概念股探底回升",
+          "url": "https://www.cls.cn/detail/2218105",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时27分]"
+        },
+        {
           "title": "金十图示：2025年12月03日（周三）富时中国A50指数成分股午盘收盘行情一览：保险、酿酒行业领跌，银行股涨跌互现",
           "url": "https://flash.jin10.com/detail/20251203113233419800",
           "source": "金十数据",
@@ -1566,17 +1637,6 @@
           "time_info": "11时20分"
         },
         {
-          "title": "【午报】三大指数小幅下跌，煤炭板块逆势走强，商业航天概念股探底回升",
-          "url": "https://www.cls.cn/detail/2218105",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "台湾证交所加权股价指数开高0.2%报27,605.63。",
           "url": "https://flash.jin10.com/detail/20251203090245431800",
           "source": "金十数据",
@@ -1599,6 +1659,17 @@
           "time_info": "11时20分"
         },
         {
+          "title": "印度SENSEX指数收复盘中跌幅，现涨0.02%。",
+          "url": "https://flash.jin10.com/detail/20251203174203681800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "周二（12月2日）纽约尾盘，彭博谷物分类指数涨0.56%，报30.4601点。 CBOT玉米期货涨1.07%，CBOT小麦期货涨1.17%，CBOT大豆期货跌0.35%，豆粕期货跌0.91%，豆油期货涨0.42%。",
           "url": "https://wallstreetcn.com/livenews/3013900",
           "source": "华尔街见闻-快讯",
@@ -1608,6 +1679,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "印度NIFTY 50指数抹去大部分跌幅，现跌0.13%。",
+          "url": "https://flash.jin10.com/detail/20251203174141834800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "纳指涨1%，标普500指数目前涨超0.4%，道指涨0.3%。",
@@ -1641,6 +1723,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "西班牙IBEX35指数涨1.5%，创下新纪录高位。",
+          "url": "https://flash.jin10.com/detail/20251203174047020800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "Prosus在11月24-28日当周按均价54.6114欧元回购股票181.0829万股，总体耗资0.989亿欧元（折合1.145亿美元）。 Naspers同期按均价1131.1265南非兰特回购58.7399万股，总体耗资6.644亿兰特（折合0.386亿美元）。",
@@ -2012,7 +2105,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
@@ -2031,8 +2124,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时46分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时46分 ~ 18时27分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -2240,6 +2333,20 @@
           "time_info": "[00时32分 ~ 07时21分]"
         },
         {
+          "title": "A股新增开户已近2500万户，11个月增量接近去年全年",
+          "url": "https://www.cls.cn/detail/2218176",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 18时27分]"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20251203000721890800",
           "source": "金十数据",
@@ -2251,19 +2358,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 16时33分]"
-        },
-        {
-          "title": "A股新增开户已近2500万户，11个月增量接近去年全年",
-          "url": "https://www.cls.cn/detail/2218176",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 17时28分]"
         },
         {
           "title": "A股收盘：创业板指高开低走跌超1%，AI应用方向集体调整",
@@ -2282,11 +2376,24 @@
           "url": "https://www.baidu.com/s?wd=%E7%AA%81%E5%8F%91%EF%BC%81%E5%BF%AB%E8%88%B9%E5%AE%98%E5%AE%A3%E4%B8%8E%E4%BF%9D%E7%BD%97%E5%88%86%E6%89%8B",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时27分]"
+        },
+        {
+          "title": "中金公司、东兴证券、信达证券A股因筹划重大资产重组将继续停牌",
+          "url": "https://wallstreetcn.com/livenews/3014341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时27分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-03）",
@@ -2309,17 +2416,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
-        },
-        {
-          "title": "中金公司、东兴证券、信达证券A股因筹划重大资产重组将继续停牌",
-          "url": "https://wallstreetcn.com/livenews/3014341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "A股三大指数集体翻绿，创业板指盘初一度涨超1%，AI应用、商业航天、零售、锂矿等方向跌幅居前，沪深京三市下跌个股超4000只。",
@@ -2361,7 +2457,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -2372,7 +2468,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
@@ -2391,8 +2487,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时46分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时46分 ~ 18时27分]"
+        },
+        {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时31分 ~ 18时27分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -2408,20 +2518,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 07时21分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时31分 ~ 17时28分]"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -2684,8 +2780,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 17时28分]"
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 18时27分]"
         },
         {
           "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
