@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T12:31:58.047890+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2025-12-03T13:22:47.134298+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 78,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 12时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 13时22分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 12时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 13时22分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -60,11 +60,12 @@
           "ranks": [
             13,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 13时22分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -76,8 +77,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时22分]"
         },
         {
           "title": "韩国总统李在明：韩国获得核动力潜艇的能力是与美国总统特朗普会谈的一项重大成果。",
@@ -653,6 +654,17 @@
           "time_info": "02时36分"
         },
         {
+          "title": "特朗普与巴西总统讨论合作打击有组织犯罪等议题",
+          "url": "https://wallstreetcn.com/livenews/3014160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
           "title": "美国总统特朗普：与巴西总统卢拉的通话富有成效。 我们讨论了贸易、关税、制裁问题。 期待很快就会见卢拉。",
           "url": "https://wallstreetcn.com/livenews/3013948",
           "source": "华尔街见闻-快讯",
@@ -879,7 +891,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -1090,6 +1102,30 @@
           "time_info": "[01时25分 ~ 02时36分]"
         },
         {
+          "title": "日经225指数重新站上50000点，日内涨近1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3014148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时22分]"
+        },
+        {
+          "title": "日经225指数重新站上50000点，日内涨1.46%。",
+          "url": "https://flash.jin10.com/detail/20251203113617107800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时22分]"
+        },
+        {
           "title": "普渡大学数据显示，美国11月农业信心指数139，创6月以来新高，前值129。 现况指数下滑2个点，未来预期指数上扬15个点。 根据普渡大学商业农业中心主任 Michael Langemeier 的说法：“农作物价格的上涨以及对农产品出口更为乐观的展望，共同改善了未来的前景。”",
           "url": "https://wallstreetcn.com/livenews/3013815",
           "source": "华尔街见闻-快讯",
@@ -1114,6 +1150,18 @@
           "time_info": "[05时22分 ~ 06时20分]"
         },
         {
+          "title": "金十图示：2025年12月03日（周三）富时中国A50指数成分股午盘收盘行情一览：保险、酿酒行业领跌，银行股涨跌互现",
+          "url": "https://flash.jin10.com/detail/20251203113233419800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时22分]"
+        },
+        {
           "title": "上期所原油期货2501合约夜盘收跌0.75%，报449.90元人民币/桶。 沪金夜盘收跌0.85%，沪银收涨1.10%。",
           "url": "https://wallstreetcn.com/livenews/3013867",
           "source": "华尔街见闻-快讯",
@@ -1126,6 +1174,30 @@
           "time_info": "[03时22分 ~ 04时29分]"
         },
         {
+          "title": "上证指数早盘收报3894.22点，跌0.09%。 深证成指早盘收报13031.26点，跌0.19%。 创业板指早盘收报3055.91点，跌0.50%。 沪深300早盘收报4553.74点，跌0.01%。 科创50早盘收报1314.15点，跌0.45%。 中证500早盘收报7035.17点，跌0.07%。 中证1000早盘收报7276.82点，跌0.50%。",
+          "url": "https://wallstreetcn.com/livenews/3014143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时22分]"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251203113209748800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时22分]"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌0.2%，报354.20点。 在十个板块中，北欧医疗保健板块领跌。 Pandora A/S（潘多拉）跌3.4%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3013834",
           "source": "华尔街见闻-快讯",
@@ -1136,6 +1208,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时36分]"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251203113200904800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时22分]"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.12%，10年期主力合约涨0.04%，5年期主力合约涨0.05%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3014139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时22分]"
         },
         {
           "title": "纳斯达克生物科技指数下跌0.8%，刷新日低。 成分股Janux Therapeutics目前跌48.32%，Pyxis Oncology跌14.24%，PepGen跌9.56%表现倒数第三。 Personalis则涨3.31%暂时涨幅第三大，Replimune涨9.68%，Vera Therapeutics涨11%。",
@@ -1170,28 +1266,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
-        },
-        {
-          "title": "日经225指数重新站上50000点，日内涨近1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3014148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "日经225指数重新站上50000点，日内涨1.46%。",
-          "url": "https://flash.jin10.com/detail/20251203113617107800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
         },
         {
           "title": "金十期货12月3日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨200元/吨，中间价报93900元/吨。",
@@ -1238,17 +1312,6 @@
           "time_info": "09时46分"
         },
         {
-          "title": "金十图示：2025年12月03日（周三）富时中国A50指数成分股午盘收盘行情一览：保险、酿酒行业领跌，银行股涨跌互现",
-          "url": "https://flash.jin10.com/detail/20251203113233419800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
           "title": "香港恒生指数日内跌幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3014102",
           "source": "华尔街见闻-快讯",
@@ -1260,28 +1323,6 @@
           "time_info": "11时20分"
         },
         {
-          "title": "上证指数早盘收报3894.22点，跌0.09%。 深证成指早盘收报13031.26点，跌0.19%。 创业板指早盘收报3055.91点，跌0.50%。 沪深300早盘收报4553.74点，跌0.01%。 科创50早盘收报1314.15点，跌0.45%。 中证500早盘收报7035.17点，跌0.07%。 中证1000早盘收报7276.82点，跌0.50%。",
-          "url": "https://wallstreetcn.com/livenews/3014143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20251203113209748800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
           "title": "周二（12月2日）纽约尾盘，彭博谷物分类指数涨0.56%，报30.4601点。 CBOT玉米期货涨1.07%，CBOT小麦期货涨1.17%，CBOT大豆期货跌0.35%，豆粕期货跌0.91%，豆油期货涨0.42%。",
           "url": "https://wallstreetcn.com/livenews/3013900",
           "source": "华尔街见闻-快讯",
@@ -1291,17 +1332,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20251203113200904800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
         },
         {
           "title": "纳指涨1%，标普500指数目前涨超0.4%，道指涨0.3%。",
@@ -1332,7 +1362,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -1379,17 +1409,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.12%，10年期主力合约涨0.04%，5年期主力合约涨0.05%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3014139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
         },
         {
           "title": "富时中国A50指数期货开盘下跌0.08%。",
@@ -1486,7 +1505,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -1716,8 +1735,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 13时22分]"
+        },
+        {
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时22分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -1730,18 +1761,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时36分 ~ 09时46分]"
-        },
-        {
-          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时31分]"
         },
         {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
@@ -1920,8 +1939,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时22分]"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -1973,11 +1992,12 @@
           "url": "https://www.cls.cn/detail/2218001",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时22分]"
         },
         {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
@@ -2009,6 +2029,18 @@
           "time_info": "[00时32分 ~ 01时25分]"
         },
         {
+          "title": "新西兰联储上调贸易加权指数中的美元权重",
+          "url": "https://wallstreetcn.com/livenews/3014135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时22分]"
+        },
+        {
           "title": "美元指数2日下跌",
           "url": "https://flash.jin10.com/detail/20251203044855190800",
           "source": "金十数据",
@@ -2029,17 +2061,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
-        },
-        {
-          "title": "新西兰联储上调贸易加权指数中的美元权重",
-          "url": "https://wallstreetcn.com/livenews/3014135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
         },
         {
           "title": "美元指数DXY短线回落十余点，现报99.38。",
@@ -2246,7 +2267,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
