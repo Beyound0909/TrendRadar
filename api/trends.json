@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T22:24:39.393193+08:00",
-  "total_titles_processed": 2005,
+  "generated_at": "2025-12-03T23:27:21.259429+08:00",
+  "total_titles_processed": 2089,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 106,
+      "match_count": 113,
       "titles": [
         {
           "title": "【每日收评】三大指数缩量震荡全线收跌，全市场超3700股飘绿，福建本地股逆势爆发",
@@ -153,17 +153,6 @@
           "time_info": "21时38分"
         },
         {
-          "title": "The Information报道称，微软因需求问题而下调AI软件销售配额。 该公司股价盘前跌1.4%。 纳斯达克100股指期货跌0.5%，标普股指期货跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3014505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
           "title": "宁波富豪34亿元股票分给子女",
           "url": "https://www.toutiao.com/trending/7578845366410510374/",
           "source": "今日头条",
@@ -214,6 +203,19 @@
           "time_info": "[20时50分 ~ 21时38分]"
         },
         {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251202232308189800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 23时27分]"
+        },
+        {
           "title": "金十图示：2025年12月02日（周二）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251203050541996800",
           "source": "金十数据",
@@ -248,18 +250,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时27分 ~ 19时21分]"
-        },
-        {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20251202232308189800",
-          "source": "金十数据",
-          "ranks": [
-            23,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 19时21分]"
         },
         {
           "title": "周二（12月2日），降息赢家指数跌0.78%，报99.29点。",
@@ -320,6 +310,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时21分]"
+        },
+        {
+          "title": "The Information报道称，微软因需求问题而下调AI软件销售配额。 该公司股价盘前跌1.4%。 纳斯达克100股指期货跌0.5%，标普股指期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3014505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时27分]"
+        },
+        {
+          "title": "老板兜底员工买自家股票结果巨亏",
+          "url": "https://www.toutiao.com/trending/7579420414112809001/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时27分]"
         },
         {
           "title": "台湾证交所加权股价指数收涨0.8%，报27,793.04点。",
@@ -574,18 +589,6 @@
           "time_info": "[09时46分 ~ 21时38分]"
         },
         {
-          "title": "老板兜底员工买自家股票结果巨亏",
-          "url": "https://www.toutiao.com/trending/7579420414112809001/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时24分]"
-        },
-        {
           "title": "波罗的海干散货指数涨9.42%，至2845点，为连续第15个交易日上涨。",
           "url": "https://wallstreetcn.com/livenews/3014466",
           "source": "华尔街见闻-快讯",
@@ -674,6 +677,17 @@
           "time_info": "11时20分"
         },
         {
+          "title": "提醒：北京时间23:00，将发布美国11月ISM非制造业指数。",
+          "url": "https://wallstreetcn.com/livenews/3014526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "台湾证交所加权股价指数开高0.2%报27,605.63。",
           "url": "https://flash.jin10.com/detail/20251203090245431800",
           "source": "金十数据",
@@ -694,6 +708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "美国11月标普全球服务业PMI终值降至54.1，创6月份以来新低，就业分项指数终值达到52.1、创6月份以来新高、连续九个月扩张。 美国11月标普全球综合PMI终值降至54.2，新订单分项指数终值达到53.9、创8月份以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3014525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "印度SENSEX指数收复盘中跌幅，现涨0.02%。",
@@ -883,6 +908,17 @@
           "time_info": "15时24分"
         },
         {
+          "title": "纳斯达克金龙中国指数跌幅收窄至不足0.7%，逼近7760点。",
+          "url": "https://wallstreetcn.com/livenews/3014521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "金十图示：2025年12月02日（周二）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251203005501259800",
           "source": "金十数据",
@@ -1010,7 +1046,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1021,7 +1057,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1032,7 +1068,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1054,9 +1090,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
+        },
+        {
+          "title": "标普500指数低开14.08点，跌幅0.21%，报6815.29点； 道琼斯工业平均指数低开102.84点，跌幅0.22%，报47371.62点； 纳斯达克综合指数低开98.09点，跌幅0.42%，报23315.58点。",
+          "url": "https://wallstreetcn.com/livenews/3014512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "迈威尔科技将以大约32.5亿美元现金+股票收购Celestial AI",
@@ -1076,7 +1123,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1158,6 +1205,17 @@
           "time_info": "21时38分"
         },
         {
+          "title": "美国11月ISM非制造业供应商交付指数 54.1，前值50.8。",
+          "url": "https://flash.jin10.com/detail/20251203230104496800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "标普500指数收涨16.74点，涨幅0.25%，报6829.37点。 道琼斯工业平均指数收涨185.13点，涨幅0.39%，报47474.46点。 纳斯达克综合指数（纳指）收涨137.752点，涨幅0.59，报23413.674点。 纳斯达克100指数收涨213.008点，涨幅0.84%，报25555.857点。",
           "url": "https://wallstreetcn.com/livenews/3013905",
           "source": "华尔街见闻-快讯",
@@ -1175,9 +1233,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
+        },
+        {
+          "title": "美国11月ISM非制造业库存指数 53.4，前值49.5。",
+          "url": "https://flash.jin10.com/detail/20251203230057851800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "费城半导体指数涨幅扩大至2.4%，英伟达涨2.7%。",
@@ -1202,6 +1271,17 @@
           "time_info": "11时20分"
         },
         {
+          "title": "金十图示：2025年12月03日（周三）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251203230028357800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "恒生指数收盘跌1.28%，恒生科技指数跌1.58%",
           "url": "https://wallstreetcn.com/livenews/3014319",
           "source": "华尔街见闻-快讯",
@@ -1216,7 +1296,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 103,
+      "match_count": 107,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -1242,6 +1322,17 @@
           "time_info": "[00时32分 ~ 07时21分]"
         },
         {
+          "title": "特朗普签署法律以加深美台联系，外交部回应",
+          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时32分 ~ 23时27分]"
+        },
+        {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
           "url": "https://wallstreetcn.com/articles/3760565",
           "source": "华尔街见闻",
@@ -1251,8 +1342,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时46分 ~ 22时24分]"
+          "appearance_count": 17,
+          "time_info": "[09时46分 ~ 23时27分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -1267,17 +1358,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时19分 ~ 16时33分]"
-        },
-        {
-          "title": "特朗普签署法律以加深美台联系，外交部回应",
-          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时32分 ~ 22时24分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -1437,9 +1517,45 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
+        },
+        {
+          "title": "美国财长贝森特：乐观认为最高法院将维持特朗普关税的合法性",
+          "url": "https://flash.jin10.com/detail/20251203231524536800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：不应当将ADP就业数据（小非农）出现负值归咎于（总统特朗普挑起的）关税。 只要关税没有超过15%，价格就不会变动。 政府关门事件造成独特的10月（经济形势）。 我们将在最高法院赢得关税官司。 在应对进口问题上，我们还有其他工具。",
+          "url": "https://wallstreetcn.com/livenews/3014532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
+          "url": "https://www.cls.cn/detail/2218431",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 23时27分]"
         },
         {
           "title": "美国农业部长威胁称：要对多个蓝州削减拨款，因为它们在“补充营养援助计划”（SNAP）救济金发放数据上不符合（总统特朗普的）规定。",
@@ -1622,20 +1738,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时32分 ~ 18时27分]"
-        },
-        {
-          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
-          "url": "https://www.cls.cn/detail/2218431",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 22时24分]"
         },
         {
           "title": "特朗普宣布拜登时期文件全部作废",
@@ -1953,6 +2055,18 @@
           "time_info": "[03时22分 ~ 04时29分]"
         },
         {
+          "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32092056",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时27分]"
+        },
+        {
           "title": "美国总统特朗普：评估了10位美联储候选人，我们只剩下最后一个人选了。",
           "url": "https://flash.jin10.com/detail/20251203024618397800",
           "source": "金十数据",
@@ -2103,7 +2217,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -2125,7 +2239,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -2139,6 +2253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普账户旨在让年轻人成为股东。",
+          "url": "https://flash.jin10.com/detail/20251203231054229800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "巴西总统府：巴西总统卢拉周二与美国总统特朗普通了电话。",
@@ -2205,17 +2330,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
-        },
-        {
-          "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32092056",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
         },
         {
           "title": "金十提示：特朗普开始在白宫内阁会议上发表讲话。",
@@ -2383,6 +2497,17 @@
           "time_info": "18时27分"
         },
         {
+          "title": "美国财长贝森特：总统特朗普已经将15%-20%的关税想法常态化。 我已经表达自己对关税问题的看法。 特朗普的关税立场是正确的，他有更高的风险耐受性。",
+          "url": "https://wallstreetcn.com/livenews/3014510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "特朗普支持的共和党人在田纳西州险胜 中期选举前景堪忧",
           "url": "https://flash.jin10.com/detail/20251203110617903800",
           "source": "金十数据",
@@ -2411,7 +2536,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -2430,7 +2555,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -2441,8 +2566,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时46分 ~ 22时24分]"
+          "appearance_count": 17,
+          "time_info": "[09时46分 ~ 23时27分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -2513,6 +2638,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
+          "url": "https://wallstreetcn.com/articles/3760624",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "金十图示：2025年12月02日（周二）美股热门股票行情一览（美股收盘）",
@@ -2587,13 +2723,25 @@
           "time_info": "[20时50分 ~ 21时38分]"
         },
         {
+          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2218814",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时27分]"
+        },
+        {
           "title": "小非农超预期降温，美股期货上扬，美元短线跳水，伦铜涨破纪录，白银高位震荡，离岸人民币创14个月来高点",
           "url": "https://wallstreetcn.com/articles/3760624",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -2604,7 +2752,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -2653,24 +2801,13 @@
           "time_info": "02时36分"
         },
         {
-          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2218814",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
           "title": "周三美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3014495",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -2692,7 +2829,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -2706,6 +2843,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "能源业ETF涨0.65%，在美股盘初领跑行业ETF，半导体ETF则跌0.22%，科技行业ETF跌0.6%，全球科技股指数ETF跌0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3014514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "甲骨文(ORCL.N)美股盘前上涨1.8%；富国银行首次覆盖并给予“超配评级”。",
@@ -3027,8 +3175,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时46分 ~ 22时24分]"
+          "appearance_count": 17,
+          "time_info": "[09时46分 ~ 23时27分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -3122,7 +3270,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -3218,7 +3366,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         }
@@ -3291,11 +3439,12 @@
           "url": "https://www.zhihu.com/question/1979307622185341611",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时27分]"
         }
       ]
     },
@@ -3332,7 +3481,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美债收益率小幅走低 市场聚焦ADP就业和ISM服务业数据",
@@ -3344,6 +3493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "在美国11月ISM非制造业PMI公布后，美债收益率短暂延续跌势，10年期收益率跌1.9个基点，报4.069%。",
+          "url": "https://flash.jin10.com/detail/20251203230409250800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     }
