@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T18:27:52.934305+08:00",
-  "total_titles_processed": 1637,
+  "generated_at": "2025-12-03T19:21:43.605110+08:00",
+  "total_titles_processed": 1710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 96,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时46分 ~ 18时27分]"
+          "appearance_count": 13,
+          "time_info": "[09时46分 ~ 19时21分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -91,20 +91,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 18时27分]"
-        },
-        {
-          "title": "特朗普点名日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 18时27分]"
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 19时21分]"
         },
         {
           "title": "特朗普威胁：将实施陆地打击",
@@ -115,8 +103,34 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 18时27分]"
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 19时21分]"
+        },
+        {
+          "title": "特朗普点名日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 19时21分]"
+        },
+        {
+          "title": "特朗普“点名”日本",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 19时21分]"
         },
         {
           "title": "特朗普开嘲：许多盟友敲美国竹杠，我不点名…比如日韩",
@@ -128,18 +142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时32分 ~ 16时33分]"
-        },
-        {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 18时27分]"
         },
         {
           "title": "韩国总统李在明：韩国获得核动力潜艇的能力是与美国总统特朗普会谈的一项重大成果。",
@@ -170,9 +172,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "中方回应特朗普签署涉台法案",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时21分]"
         },
         {
           "title": "美国农业部长威胁称：要对多个蓝州削减拨款，因为它们在“补充营养援助计划”（SNAP）救济金发放数据上不符合（总统特朗普的）规定。",
@@ -370,6 +385,18 @@
           "time_info": "[09时46分 ~ 12时31分]"
         },
         {
+          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
+          "url": "https://www.cls.cn/detail/2218308",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时21分]"
+        },
+        {
           "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
           "url": "https://wallstreetcn.com/livenews/3013871",
           "source": "华尔街见闻-快讯",
@@ -433,16 +460,15 @@
           "time_info": "[14时35分 ~ 15时24分]"
         },
         {
-          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
-          "url": "https://www.cls.cn/detail/2218308",
-          "source": "财联社热门",
+          "title": "特朗普点名日本",
+          "url": "https://www.douyin.com/hot/2324828",
+          "source": "抖音",
           "ranks": [
-            8,
-            7
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时21分]"
         },
         {
           "title": "美国总统特朗普：我们将通过关税向人民发放红利。",
@@ -503,18 +529,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时36分]"
-        },
-        {
-          "title": "中方回应特朗普签署涉台法案",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时27分]"
         },
         {
           "title": "特朗普与卢拉通话释缓和信号 巴西希望继续推进关税谈判",
@@ -719,15 +733,15 @@
           "time_info": "[16时32分 ~ 16时33分]"
         },
         {
-          "title": "特朗普点名日本",
-          "url": "https://www.douyin.com/hot/2324828",
-          "source": "抖音",
+          "title": "特朗普开会被拍到多次闭眼",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E8%A2%AB%E6%8B%8D%E5%88%B0%E5%A4%9A%E6%AC%A1%E9%97%AD%E7%9C%BC",
+          "source": "百度热搜",
           "ranks": [
-            25
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时27分]"
+          "time_info": "[17时28分 ~ 19时21分]"
         },
         {
           "title": "特朗普政府预计将把旅行禁令扩大到约30个国家",
@@ -835,9 +849,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
+          "url": "https://www.cls.cn/detail/2218431",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "特朗普积极暗示哈塞特为下任美联储主席，美国很快将对贩毒集团进行陆地打击，普京威胁切断乌克兰海上通道，亚马逊推出定制AI芯片......美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1038,6 +1063,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-03）",
+          "url": "https://flash.jin10.com/detail/20251203182214815800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "一封信函显示，AT&T(T.N)承诺将终止多元、公平与包容项目（DEI），此举旨在争取特朗普政府批准其收购US Cellular公司频谱牌照。",
           "url": "https://flash.jin10.com/detail/20251203041325787800",
           "source": "金十数据",
@@ -1055,7 +1091,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1080,17 +1116,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
-        },
-        {
-          "title": "特朗普开会被拍到多次闭眼",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E8%A2%AB%E6%8B%8D%E5%88%B0%E5%A4%9A%E6%AC%A1%E9%97%AD%E7%9C%BC",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "首位美籍教皇利奥十四世敦促特朗普政府不要试图通过军事手段推翻委内瑞拉总统马杜罗，利奥十四世表示，如果华盛顿寻求变革，与其采取对抗，不如尝试对话或施加经济压力。",
@@ -1129,7 +1154,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1165,17 +1190,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
-        },
-        {
-          "title": "富时罗素宣布对富时中国指数系列的季度审核变更，富时中国A50指数纳入洛阳钼业、阳光电源，剔除了江苏银行和顺丰控股。",
-          "url": "https://wallstreetcn.com/livenews/3014394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         },
         {
           "title": "股指期货午盘收盘",
@@ -1293,6 +1307,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时21分]"
+        },
+        {
+          "title": "富时罗素宣布对富时中国指数系列的季度审核变更，富时中国A50指数纳入洛阳钼业、阳光电源，剔除了江苏银行和顺丰控股。",
+          "url": "https://wallstreetcn.com/livenews/3014394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时21分]"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251202232308189800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 19时21分]"
         },
         {
           "title": "周二（12月2日），降息赢家指数跌0.78%，报99.29点。",
@@ -1665,7 +1703,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1687,7 +1725,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1731,7 +1769,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1978,17 +2016,6 @@
           "time_info": "11时20分"
         },
         {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20251202232308189800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
           "title": "金十图示：2025年12月03日（周三）全球股市指数-欧洲市场（盘初）",
           "url": "https://flash.jin10.com/detail/20251203161129379800",
           "source": "金十数据",
@@ -2124,8 +2151,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时46分 ~ 18时27分]"
+          "appearance_count": 13,
+          "time_info": "[09时46分 ~ 19时21分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -2340,11 +2367,12 @@
             12,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时24分 ~ 18时27分]"
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 19时21分]"
         },
         {
           "title": "期货热点追踪",
@@ -2360,6 +2388,19 @@
           "time_info": "[00时32分 ~ 16时33分]"
         },
         {
+          "title": "突发！快船官宣与保罗分手",
+          "url": "https://www.baidu.com/s?wd=%E7%AA%81%E5%8F%91%EF%BC%81%E5%BF%AB%E8%88%B9%E5%AE%98%E5%AE%A3%E4%B8%8E%E4%BF%9D%E7%BD%97%E5%88%86%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时21分]"
+        },
+        {
           "title": "A股收盘：创业板指高开低走跌超1%，AI应用方向集体调整",
           "url": "https://wallstreetcn.com/livenews/3014270",
           "source": "华尔街见闻-快讯",
@@ -2370,18 +2411,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时24分 ~ 16时33分]"
-        },
-        {
-          "title": "突发！快船官宣与保罗分手",
-          "url": "https://www.baidu.com/s?wd=%E7%AA%81%E5%8F%91%EF%BC%81%E5%BF%AB%E8%88%B9%E5%AE%98%E5%AE%A3%E4%B8%8E%E4%BF%9D%E7%BD%97%E5%88%86%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时27分]"
         },
         {
           "title": "中金公司、东兴证券、信达证券A股因筹划重大资产重组将继续停牌",
@@ -2475,8 +2504,125 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时22分]"
+        },
+        {
+          "title": "英伟达CFO：OpenAI千亿大单尚未敲定 领先优势“绝对没缩小”",
+          "url": "https://www.cls.cn/detail/2217688",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
+          "title": "OpenAI：我们已全面恢复运营，目前未发现任何影响系统的故障。",
+          "url": "https://flash.jin10.com/detail/20251203185658782800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "OpenAI：企业及机构在使用ChatGPT时遭遇对话错误；已采取缓解措施并持续监控恢复情况。",
+          "url": "https://flash.jin10.com/detail/20251203185148537800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "OpenAI：目前出现了一些问题。",
+          "url": "https://flash.jin10.com/detail/20251203185037298800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "OpenAI：我们已全面恢复营运 我们未发现任何影响我们系统的问题。",
+          "url": "https://wallstreetcn.com/livenews/3014409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "OpenAI：ChatGPT在商业和企业领域出现较高错误率。",
+          "url": "https://flash.jin10.com/detail/20251203184353377800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "OpenAI：目前遭遇-一些问题。 ChatGPT的商务和企业聊天功能遭遇错误；已实施缓解措施和监控复原。",
+          "url": "https://wallstreetcn.com/livenews/3014402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "部分用户无法访问ChatGPT，OpenAI称已采取应对措施",
+          "url": "https://flash.jin10.com/detail/20251203044535141800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
+          "url": "https://wallstreetcn.com/livenews/3013805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -2487,8 +2633,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时46分 ~ 18时27分]"
+          "appearance_count": 13,
+          "time_info": "[09时46分 ~ 19时21分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -2501,8 +2647,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时31分 ~ 18时27分]"
+          "appearance_count": 10,
+          "time_info": "[12时31分 ~ 19时21分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -2518,6 +2664,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 07时21分]"
+        },
+        {
+          "title": "马士基：目前尚无具体时间表，无法将东西向（Gemini）航线改道经红海航行。",
+          "url": "https://flash.jin10.com/detail/20251203190054995800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -2716,57 +2873,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时22分]"
-        },
-        {
-          "title": "英伟达CFO：OpenAI千亿大单尚未敲定 领先优势“绝对没缩小”",
-          "url": "https://www.cls.cn/detail/2217688",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
-        },
-        {
-          "title": "部分用户无法访问ChatGPT，OpenAI称已采取应对措施",
-          "url": "https://flash.jin10.com/detail/20251203044535141800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
-          "url": "https://wallstreetcn.com/livenews/3013805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -2780,8 +2886,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 18时27分]"
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 19时21分]"
         },
         {
           "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
