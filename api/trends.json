@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T14:36:11.746203+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2025-12-03T15:24:40.671253+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 15时24分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 15时24分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -64,8 +64,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时46分 ~ 14时36分]"
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 15时24分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -339,6 +339,18 @@
           "time_info": "[02时36分 ~ 04时29分]"
         },
         {
+          "title": "特朗普在内阁会议上睡眼惺忪",
+          "url": "https://www.toutiao.com/trending/7579102119777828918/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 15时24分]"
+        },
+        {
           "title": "美国总统特朗普：我们将通过关税向人民发放红利。",
           "url": "https://flash.jin10.com/detail/20251203010547676800",
           "source": "金十数据",
@@ -588,17 +600,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时19分 ~ 11时20分]"
-        },
-        {
-          "title": "特朗普在内阁会议上睡眼惺忪",
-          "url": "https://www.toutiao.com/trending/7579102119777828918/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 14时36分]"
         },
         {
           "title": "特朗普政府预计将把旅行禁令扩大到约30个国家",
@@ -934,7 +935,7 @@
     },
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 72,
+      "match_count": 78,
       "titles": [
         {
           "title": "【每日收评】三大指数缩量震荡全线收跌，全市场超3700股飘绿，福建本地股逆势爆发",
@@ -972,15 +973,26 @@
           "time_info": "09时46分"
         },
         {
-          "title": "野村控股上调印尼股票评级至超配 看好降息周期与内需增长",
-          "url": "https://flash.jin10.com/detail/20251203140308852800",
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251203150112470800",
           "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时36分"
+          "time_info": "15时24分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌不一。纸浆涨超3%，沪锡涨超2%，钯、多晶硅涨近2%，双胶纸、苯乙烯涨超1%。跌幅方面，碳酸锂、鸡蛋、焦煤跌超2%，玻璃、烧碱、纯碱、乙二醇、氧化铝跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251203150043161800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "迈威尔科技将以大约32.5亿美元现金+股票收购Celestial AI。",
@@ -1091,6 +1103,18 @@
           "time_info": "[05时22分 ~ 06时20分]"
         },
         {
+          "title": "野村控股上调印尼股票评级至超配 看好降息周期与内需增长",
+          "url": "https://flash.jin10.com/detail/20251203140308852800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 15时24分]"
+        },
+        {
           "title": "恒指期货夜盘收跌0.46%，报25965点，低水130点。",
           "url": "https://flash.jin10.com/detail/20251203030045655800",
           "source": "金十数据",
@@ -1113,6 +1137,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时21分]"
+        },
+        {
+          "title": "台湾证交所加权股价指数收涨0.8%，报27,793.04点。",
+          "url": "https://wallstreetcn.com/livenews/3014203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 15时24分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨8.29%，暂报18834.82点。 期间，该指数几乎一直处于上涨状态，北京时间06:00-22:00持稳于17800点附近，之后加速上涨。",
@@ -1271,17 +1307,6 @@
           "time_info": "[01时25分 ~ 02时36分]"
         },
         {
-          "title": "台湾证交所加权股价指数收涨0.8%，报27,793.04点。",
-          "url": "https://wallstreetcn.com/livenews/3014203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，小鹏初步收跌7.5%，阿特斯太阳能跌5.9%，万国数据、蔚来、B站、世纪互联、阿里巴巴等至少跌约2%，华住则涨1%，文远知行涨2.7%，亚朵涨5.4%。 ETF中，CQQQ跌1.2%，KWEB跌0.9%。",
           "url": "https://wallstreetcn.com/livenews/3013907",
           "source": "华尔街见闻-快讯",
@@ -1291,6 +1316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "上证指数收报3878.00点，跌0.51%。 深证成指收报12955.25点，跌0.78%。 创业板指收报3036.79点，跌1.12%。 沪深300收报4531.05点，跌0.51%。 科创50收报1308.37点，跌0.89%。 中证500收报6996.36点，跌0.62%。 中证1000收报7248.27点，跌0.89%。",
+          "url": "https://wallstreetcn.com/livenews/3014268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "标普500指数初步收涨0.2%，工业板块涨约1%，科技板块涨0.8%，电信板块涨0.2%，原材料板块跌0.7%，能源板块跌1.1%。 纳斯达克100指数初步收涨0.8%，成分股中，英特尔初步收涨8.5%，恩智浦涨8.1%，Strategy涨6.4%，Applovin涨4.5%，博通、ORLY、卡夫亨氏、MNST、AMD则至多收跌2.2%。 波音初步收涨10%，卡特彼勒、霍尼韦尔、思科、高盛至少涨1%，领跑道指成分股，IBM、宝洁、雪佛龙、迪士尼、可口可乐则收跌超1%。",
@@ -1304,13 +1340,24 @@
           "time_info": "05时22分"
         },
         {
+          "title": "商品期货收盘，纸浆主力合约涨超3%，沪锡涨超2%，钯、多晶硅、苯乙烯涨超1%。碳酸锂、鸡蛋、焦煤跌超2%，玻璃、烧碱、工业硅、乙二醇、氧化铝、燃料油、原油、铂跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3014266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "富宝资讯：碳酸锂期货盘面震荡运行，富宝电池级碳酸锂报93450元/吨",
           "url": "https://flash.jin10.com/detail/20251203135026067800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -1390,6 +1437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "越南VN指数上涨1%，至1734.30点。",
+          "url": "https://wallstreetcn.com/livenews/3014245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "早盘开盘，国内期货主力合约涨跌不一。纸浆、钯、沪银、苯乙烯、合成橡胶涨超1%。跌幅方面，玻璃跌超2%，沥青、焦煤、乙二醇、纯碱、烧碱跌超1%。",
@@ -1511,6 +1569,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "日经225指数收盘涨1.1%，报49864.68点。 日本东证指数收跌0.2%，报3334.32点。 韩国首尔综指收盘涨1%，报4036.30点。",
+          "url": "https://wallstreetcn.com/livenews/3014239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "金十图示：2025年12月02日（周二）全球股市指数-欧洲市场（收盘）",
@@ -1770,8 +1839,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时20分 ~ 14时36分]"
+          "appearance_count": 10,
+          "time_info": "[07时20分 ~ 15时24分]"
         },
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -1782,8 +1851,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时46分 ~ 14时36分]"
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 15时24分]"
         },
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -1959,6 +2028,116 @@
       ]
     },
     {
+      "keyword_group": "China A股 热点 头条 突发 breaking news",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "年底A股如何走？机构看好跨年行情，两大核心会议成关键",
+          "url": "https://www.cls.cn/detail/2217416",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 07时21分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251203000721890800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 11时20分]"
+        },
+        {
+          "title": "A股收盘：创业板指高开低走跌超1%，AI应用方向集体调整",
+          "url": "https://wallstreetcn.com/livenews/3014270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-03）",
+          "url": "https://flash.jin10.com/detail/20251203090743104800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "A股新增开户已近2500万户，11个月增量接近去年全年",
+          "url": "https://www.cls.cn/detail/2218176",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "A股商业航天概念再度拉升，上海瀚讯、招标股份双双涨停，中环海陆涨超10%，顺灏股份此前涨停，上海沪工、陕西华达、航天发展、航天智装跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3014188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "A股三大指数集体翻绿，创业板指盘初一度涨超1%，AI应用、商业航天、零售、锂矿等方向跌幅居前，沪深京三市下跌个股超4000只。",
+          "url": "https://wallstreetcn.com/livenews/3014096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "A股商业航天板块午后跳水，超捷股份直线跌超10%，佳缘科技跌超9%，莱斯信息、特发信息、航天宏图跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3014183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "A股福建本地股午后持续走低，海峡创新跌超18%，平潭发展、榕基软件、东百集团跌停，乾照光电、福龙马、睿能科技跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3014232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 8,
       "titles": [
@@ -1971,8 +2150,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时46分 ~ 14时36分]"
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 15时24分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -2001,17 +2180,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
-          "url": "https://www.cls.cn/detail/2217188",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 05时22分]"
-        },
-        {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
           "url": "https://www.cls.cn/detail/2218001",
           "source": "财联社热门",
@@ -2021,8 +2189,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 15时24分]"
+        },
+        {
+          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
+          "url": "https://www.cls.cn/detail/2217188",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 05时22分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -2131,83 +2310,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "年底A股如何走？机构看好跨年行情，两大核心会议成关键",
-          "url": "https://www.cls.cn/detail/2217416",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 07时21分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251203000721890800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 11时20分]"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-03）",
-          "url": "https://flash.jin10.com/detail/20251203090743104800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "A股商业航天概念再度拉升，上海瀚讯、招标股份双双涨停，中环海陆涨超10%，顺灏股份此前涨停，上海沪工、陕西华达、航天发展、航天智装跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3014188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "A股三大指数集体翻绿，创业板指盘初一度涨超1%，AI应用、商业航天、零售、锂矿等方向跌幅居前，沪深京三市下跌个股超4000只。",
-          "url": "https://wallstreetcn.com/livenews/3014096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "A股商业航天板块午后跳水，超捷股份直线跌超10%，佳缘科技跌超9%，莱斯信息、特发信息、航天宏图跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3014183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
         }
       ]
     },
@@ -2338,8 +2440,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 15时24分]"
         },
         {
           "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
@@ -2351,6 +2453,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率小幅走低 市场聚焦ADP就业和ISM服务业数据",
+          "url": "https://flash.jin10.com/detail/20251203144426116800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     }
