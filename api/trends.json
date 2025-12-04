@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-04T12:33:21.922387+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2025-12-04T13:23:05.660756+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
+        {
+          "title": "12月4日投资避雷针：这家上市公司实控人涉嫌内幕交易、信披违法及违规转让股票",
+          "url": "https://www.cls.cn/detail/2219046",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 13时23分]"
+        },
         {
           "title": "中证500股指期货（IC）主力合约站上7000点，日内涨0.85%。",
           "url": "https://flash.jin10.com/detail/20251204105550485800",
@@ -41,6 +52,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "日经225指数日内涨幅达2.00%。",
+          "url": "https://flash.jin10.com/detail/20251204131316379800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，阿特斯太阳能初步收跌8.9%，晶科能源跌5.8%，蔚来跌5.1%，小鹏跌3.8%，理想跌3.5%，新东方跌3.3%，网易有道涨2.4%，文远知行涨5.2%。 ETF中，CQQQ和KWEB跌1.2%。",
           "url": "https://wallstreetcn.com/livenews/3014624",
           "source": "华尔街见闻-快讯",
@@ -52,6 +74,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "日经225指数日内涨幅达2.00%。 日本5年期国债收益率上行1.5个基点，至1.4%，创2008年6月以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3014911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "30年期国债期货（TL）主力合约日内跌幅达1.00%，现报112.47元。",
           "url": "https://flash.jin10.com/detail/20251204104554535800",
           "source": "金十数据",
@@ -61,17 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
-        },
-        {
-          "title": "日本机器人与芯片股延续涨势，日经225指数涨幅扩大至1.8%。",
-          "url": "https://flash.jin10.com/detail/20251204121132840800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "中国国债期货跌幅扩大，30年期国债期货跌0.8%，10年期国债期货跌0.3%。",
@@ -94,17 +116,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        },
-        {
-          "title": "日经225指数涨幅扩大至1.8%。 软银集团股价上涨9.4%，瑞萨电子股价上涨9.3%",
-          "url": "https://wallstreetcn.com/livenews/3014891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.34%，报25829点。 恒生科技指数主连夜盘收涨0.33%，报5548点。",
@@ -133,15 +144,16 @@
           "time_info": "[03时20分 ~ 05时21分]"
         },
         {
-          "title": "12月4日投资避雷针：这家上市公司实控人涉嫌内幕交易、信披违法及违规转让股票",
-          "url": "https://www.cls.cn/detail/2219046",
-          "source": "财联社热门",
+          "title": "日本机器人与芯片股延续涨势，日经225指数涨幅扩大至1.8%。",
+          "url": "https://flash.jin10.com/detail/20251204121132840800",
+          "source": "金十数据",
           "ranks": [
-            8
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 12时33分]"
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时23分]"
         },
         {
           "title": "芝加哥玉米期货跌1.5%，大豆油跌超1.8%",
@@ -190,6 +202,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 07时23分]"
+        },
+        {
+          "title": "日经225指数涨幅扩大至1.8%。 软银集团股价上涨9.4%，瑞萨电子股价上涨9.3%",
+          "url": "https://wallstreetcn.com/livenews/3014891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时23分]"
         },
         {
           "title": "美银预测：标普500指数的强劲涨势将在2026年消退",
@@ -268,6 +292,18 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
+          "title": "金十期货图示",
+          "url": "https://flash.jin10.com/detail/20251204120131603800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时23分]"
+        },
+        {
           "title": "恒生科技指数日内涨幅扩大至1%。华虹半导体、地平线机器人涨超4%，携程涨近4%。",
           "url": "https://wallstreetcn.com/livenews/3014848",
           "source": "华尔街见闻-快讯",
@@ -290,6 +326,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时23分]"
+        },
+        {
+          "title": "日经225指数延续涨势，最新上涨1.6%，报50680.03点。",
+          "url": "https://flash.jin10.com/detail/20251204120004116800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时23分]"
         },
         {
           "title": "德国DAX 30指数初步收跌0.10%，报23687.35点。 法国股指初步收涨0.08%，意大利股指初步收跌0.00%、银行指数跌0.22%，英国股指初步收跌0.05%。",
@@ -340,6 +388,18 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
+          "title": "上证指数早盘收报3879.52点，涨0.04%。 深证成指早盘收报13000.88点，涨0.35%。 创业板指早盘收报3059.76点，涨0.76%。 沪深300早盘收报4543.93点，涨0.28%。 科创50早盘收报1320.44点，涨0.92%。 中证500早盘收报7021.22点，涨0.36%。 中证1000早盘收报7256.90点，涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3014871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时23分]"
+        },
+        {
           "title": "国债期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251204093104286800",
           "source": "金十数据",
@@ -351,6 +411,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "金十期货·铜市专题",
+          "url": "https://flash.jin10.com/detail/20251204124747588800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "据知情人士透露，软银参与投资的Symbotic Inc.将为股票出售进行一天的推广。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3014663",
           "source": "华尔街见闻-快讯",
@@ -360,17 +431,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "金十期货图示",
-          "url": "https://flash.jin10.com/detail/20251204120131603800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "国债期货开盘，30年期主力合约跌0.64%，10年期主力合约跌0.14%，5年期主力合约跌0.09%，2年期主力合约跌0.01%。",
@@ -393,17 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        },
-        {
-          "title": "日经225指数延续涨势，最新上涨1.6%，报50680.03点。",
-          "url": "https://flash.jin10.com/detail/20251204120004116800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "中证转债指数高开0.04%。永02转债涨超8%，宏微转债涨超6%，福新转债涨近6%；福蓉转债跌4.7%，东时转债跌2.9%。",
@@ -481,17 +530,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        },
-        {
-          "title": "上证指数早盘收报3879.52点，涨0.04%。 深证成指早盘收报13000.88点，涨0.35%。 创业板指早盘收报3059.76点，涨0.76%。 沪深300早盘收报4543.93点，涨0.28%。 科创50早盘收报1320.44点，涨0.92%。 中证500早盘收报7021.22点，涨0.36%。 中证1000早盘收报7256.90点，涨0.12%。",
-          "url": "https://wallstreetcn.com/livenews/3014871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "富时中国A50指数期货开盘上涨0.17%。",
@@ -610,7 +648,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -632,7 +670,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -643,7 +681,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -654,7 +692,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -684,7 +722,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -721,8 +759,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时25分 ~ 12时33分]"
+          "appearance_count": 16,
+          "time_info": "[01时25分 ~ 13时23分]"
+        },
+        {
+          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
+          "url": "https://www.cls.cn/detail/2218990",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 13时23分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -735,18 +785,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 04时28分]"
-        },
-        {
-          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
-          "url": "https://www.cls.cn/detail/2218990",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 12时33分]"
         },
         {
           "title": "美国总统特朗普：美国将允许生产微型汽车。",
@@ -802,6 +840,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
+          "url": "https://www.cls.cn/detail/2219030",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 13时23分]"
         },
         {
           "title": "美国总统特朗普：美国很快将控制芯片市场的大部分份额。",
@@ -913,16 +964,15 @@
           "time_info": "[00时33分 ~ 02时36分]"
         },
         {
-          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
-          "url": "https://www.cls.cn/detail/2219030",
-          "source": "财联社热门",
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时21分 ~ 12时33分]"
+          "time_info": "[12时33分 ~ 13时23分]"
         },
         {
           "title": "报道：债券市场担心哈塞特通过激进降息来取悦特朗普，已就此警告财长贝森特",
@@ -936,6 +986,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 05时21分]"
+        },
+        {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 13时23分]"
         },
         {
           "title": "特朗普提议大幅削减燃油经济性要求",
@@ -1008,6 +1070,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时25分]"
+        },
+        {
+          "title": "特朗普：将很快在拉美开展地面打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%BE%88%E5%BF%AB%E5%9C%A8%E6%8B%89%E7%BE%8E%E5%BC%80%E5%B1%95%E5%9C%B0%E9%9D%A2%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
           "title": "戴尔夫妇豪捐62.5亿美元，为2500万儿童开设特朗普账户，特朗普：慷慨！",
@@ -1141,15 +1214,26 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
-          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
-          "url": "https://wallstreetcn.com/articles/3760676",
-          "source": "华尔街见闻",
+          "title": "马杜罗证实曾同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%9D%9C%E7%BD%97%E8%AF%81%E5%AE%9E%E6%9B%BE%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
           "ranks": [
-            9
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普心腹将会见乌方代表",
+          "url": "https://www.toutiao.com/trending/7579422652600631305/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
           "title": "特朗普言论加剧市场担忧 “战争溢价”推高油价",
@@ -1183,17 +1267,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "美国“小非农”爆冷，白银创新高后快速回落！贝森特或将兼任国家经济委员会主任一职，特朗普政府考虑明年加速机器人行业发展......美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1316,18 +1389,6 @@
           "time_info": "[00时33分 ~ 06时23分]"
         },
         {
-          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2218814",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时25分 ~ 09时47分]"
-        },
-        {
           "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
           "url": "https://www.cls.cn/detail/2218940",
           "source": "财联社热门",
@@ -1336,8 +1397,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 12时33分]"
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 13时23分]"
         },
         {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
@@ -1349,8 +1410,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 12时33分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 13时23分]"
+        },
+        {
+          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2218814",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时25分 ~ 09时47分]"
         },
         {
           "title": "周三（12月3日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨2.58%，报93815美元。 CME以太币期货DCR主力合约涨5.72%，报3162.50美元。 美股加密货币与加密货币关联指数涨5.12%，报70.05点。 最近24小时，MarketVector数字资产100指数涨2.67%，报19415.07点；小盘指数涨1.75%，暂报4382.83点。",
@@ -1553,6 +1626,91 @@
       ]
     },
     {
+      "keyword_group": "China A股 热点 头条 突发 breaking news",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "A股震荡调整，创业板跌超1%，商业航天表现分化，超硬材料逆势大涨，港股恒科指跌超1%，30年期国债显著承压",
+          "url": "https://wallstreetcn.com/articles/3760597",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时20分 ~ 13时23分]"
+        },
+        {
+          "title": "A股商业航天概念涨势扩大，中国卫星午后涨停，航天机电、达华智能等此前封板，飞沃科技、航天环宇、招标股份涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3014913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "A股AI手机概念盘初调整，道明光学、福蓉科技触及跌停，美芯晟、天音控股、弘信电子、福日电子等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3014768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "瑞银预计A股上涨行情将进一步延续",
+          "url": "https://wallstreetcn.com/livenews/3014887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时23分]"
+        },
+        {
+          "title": "A股商业航天概念反复活跃，航天机电直线涨停，航天长峰冲击涨停，航天环宇涨超10%，招标股份、航天软件、通宇通讯涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3014766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "A股机器人概念股开盘领涨，睿能科技6天5板，骏亚科技、龙溪股份涨停，日盈电子、斯菱股份创历史新高，长盈精密、恒立液压、方正电机、襄阳轴承涨幅靠前，消息面上，特斯拉Optimus官方发布“擎天柱”人形机器人跑步视频，并配文称在实验室刷新了个人纪录。",
+          "url": "https://wallstreetcn.com/livenews/3014762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-04）",
+          "url": "https://flash.jin10.com/detail/20251204090229103800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -1629,82 +1787,21 @@
       ]
     },
     {
-      "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "A股震荡调整，创业板跌超1%，商业航天表现分化，超硬材料逆势大涨，港股恒科指跌超1%，30年期国债显著承压",
-          "url": "https://wallstreetcn.com/articles/3760597",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时20分 ~ 12时33分]"
-        },
-        {
-          "title": "A股AI手机概念盘初调整，道明光学、福蓉科技触及跌停，美芯晟、天音控股、弘信电子、福日电子等跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3014768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "A股商业航天概念反复活跃，航天机电直线涨停，航天长峰冲击涨停，航天环宇涨超10%，招标股份、航天软件、通宇通讯涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3014766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "瑞银预计A股上涨行情将进一步延续",
-          "url": "https://wallstreetcn.com/livenews/3014887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "A股机器人概念股开盘领涨，睿能科技6天5板，骏亚科技、龙溪股份涨停，日盈电子、斯菱股份创历史新高，长盈精密、恒立液压、方正电机、襄阳轴承涨幅靠前，消息面上，特斯拉Optimus官方发布“擎天柱”人形机器人跑步视频，并配文称在实验室刷新了个人纪录。",
-          "url": "https://wallstreetcn.com/livenews/3014762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-04）",
-          "url": "https://flash.jin10.com/detail/20251204090229103800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
+        {
+          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2219026",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 13时23分]"
+        },
         {
           "title": "美元指数跌0.5%，失守50日均线",
           "url": "https://wallstreetcn.com/livenews/3014616",
@@ -1729,18 +1826,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时23分]"
-        },
-        {
-          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
-          "url": "https://www.cls.cn/detail/2219026",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 12时33分]"
         }
       ]
     },
