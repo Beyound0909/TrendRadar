@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T07:23:51.369599+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2025-12-04T09:47:41.447401+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时47分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -39,8 +40,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时25分 ~ 07时23分]"
+          "appearance_count": 11,
+          "time_info": "[01时25分 ~ 09时47分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -119,6 +120,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
+          "url": "https://www.cls.cn/detail/2218990",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时47分]"
         },
         {
           "title": "英伟达CEO黄仁勋：刚刚会见了美国总统特朗普。",
@@ -435,17 +448,6 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
-          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
-          "url": "https://www.cls.cn/detail/2218990",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
           "title": "周三（12月3日），彭博电动汽车价格回报指数跌0.47%，报3387.48点。 北京时间10:00前后显著下挫，全天绝大部分时间低位震荡，美国总统特朗普宣布汽车燃油效率“新政”之际并无显著波动。",
           "url": "https://wallstreetcn.com/livenews/3014633",
           "source": "华尔街见闻-快讯",
@@ -463,7 +465,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -537,7 +539,7 @@
     },
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 28,
+      "match_count": 44,
       "titles": [
         {
           "title": "标普500指数初步收涨0.3%，能源板块涨1.8%，金融板块涨1.2%，可选消费板块涨0.8%，电信板块涨0.2%，科技板块跌0.4%。 纳斯达克100指数初步收涨0.2%，成分股中，微芯科技初步收涨12.7%，安森美半导体涨10.8%，迈威尔科技涨7.6%，Strategy涨4%，Meta则跌1.1%，美光、微软跌2.3%，再生元制药跌2.5%，PayPal跌2.7%，TTD跌3.2%，奈飞跌4.9%。 联合健康初步收涨4.9%，高盛涨2.6%，麦当劳、美国运通、安进至少涨2%，领跑道指成分股，英伟达则跌1%，波音跌1.5%，和微软表现最差。",
@@ -551,6 +553,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "中国30年期国债期货跌幅扩大至0.96%，至2024年11月来新低。",
+          "url": "https://wallstreetcn.com/livenews/3014779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，阿特斯太阳能初步收跌8.9%，晶科能源跌5.8%，蔚来跌5.1%，小鹏跌3.8%，理想跌3.5%，新东方跌3.3%，网易有道涨2.4%，文远知行涨5.2%。 ETF中，CQQQ和KWEB跌1.2%。",
           "url": "https://wallstreetcn.com/livenews/3014624",
           "source": "华尔街见闻-快讯",
@@ -560,6 +573,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "中国国债期货跌幅扩大，30年期国债期货跌0.8%，10年期国债期货跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3014771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251204093108552800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.34%，报25829点。 恒生科技指数主连夜盘收涨0.33%，报5548点。",
@@ -772,15 +807,81 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251204093104286800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "据知情人士透露，软银参与投资的Symbotic Inc.将为股票出售进行一天的推广。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3014663",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "12月4日投资避雷针：这家上市公司实控人涉嫌内幕交易、信披违法及违规转让股票",
+          "url": "https://www.cls.cn/detail/2219046",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约跌0.64%，10年期主力合约跌0.14%，5年期主力合约跌0.09%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3014763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "韩国KOSPI指数跌幅扩大至1%。",
+          "url": "https://flash.jin10.com/detail/20251204091735692800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "中证转债指数高开0.04%。永02转债涨超8%，宏微转债涨超6%，福新转债涨近6%；福蓉转债跌4.7%，东时转债跌2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3014760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "日经225指数日内涨幅达1.00%。",
+          "url": "https://flash.jin10.com/detail/20251204091605494800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "NYMEX天然气期货涨至5美元，为2022年以来首次，日内当前涨超3%。",
@@ -792,6 +893,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "上证指数开盘报3879.74点，涨0.04%。 深证成指开盘报12957.80点，涨0.02%。 创业板指开盘报3037.05点，涨0.01%。 沪深300开盘报4533.60点，涨0.06%。 科创50开盘报1303.99点，跌0.33%。 中证500开盘报7001.64点，涨0.08%。 中证1000开盘报7246.86点，跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3014758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.10%，报576.22点。 欧元区STOXX 50指数初步收涨0.12%，报5693.12点。 富时泛欧绩优300指数初步收涨0.13%，报2297.73点。",
@@ -811,9 +923,53 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "恒指高开0.17%，报25804.01点；恒生科技指数涨0.21%。携程、京东涨超3%，地平线机器人涨近2%；理想汽车跌超2%，小鹏汽车跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3014751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "富时中国A50指数期货开盘上涨0.17%。",
+          "url": "https://flash.jin10.com/detail/20251204090113258800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "日经225指数日内涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3014748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "台湾证交所加权股价指数开盘变动不大，报27,773.42。",
+          "url": "https://flash.jin10.com/detail/20251204090103145800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "美国芝加哥期权交易所（CBOE）11月期货日均成交量增长28.3%，指数期权日均成交量增长41.4%。 11月多地上市期权日均成交量增长16.8%。",
@@ -822,7 +978,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -860,6 +1016,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "日本东证指数涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3014737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "美国天然气期货价格自2022年以来首次触及5美元高位。",
           "url": "https://flash.jin10.com/detail/20251203234145377800",
           "source": "金十数据",
@@ -869,12 +1036,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "台湾证交所加权股价指数开盘变动不大。",
+          "url": "https://wallstreetcn.com/livenews/3014733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -911,8 +1089,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时25分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[01时25分 ~ 09时47分]"
+        },
+        {
+          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
+          "url": "https://www.cls.cn/detail/2218940",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "周三（12月3日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨2.58%，报93815美元。 CME以太币期货DCR主力合约涨5.72%，报3162.50美元。 美股加密货币与加密货币关联指数涨5.12%，报70.05点。 最近24小时，MarketVector数字资产100指数涨2.67%，报19415.07点；小盘指数涨1.75%，暂报4382.83点。",
@@ -925,6 +1114,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时23分]"
+        },
+        {
+          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
+          "url": "https://www.cls.cn/detail/2218975",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时47分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.35%，报318.01点。 纽约证交所ARCA金矿开采商指数收跌0.47%，报2278.38点，美股开盘之前微幅上涨，随后快速走高至2321.09点——短时呈现出M形走势。",
@@ -1025,17 +1226,6 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
-          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
-          "url": "https://www.cls.cn/detail/2218975",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
           "title": "美股七巨头收盘播报｜周三（12月3日），美国科技股七巨头（Magnificent 7）指数跌0.55%，报207.57点，全天绝大部分时间处于下跌状态，整体呈现出n形走势。 “超大”市值科技股指数涨0.09%，报402.08点。",
           "url": "https://wallstreetcn.com/livenews/3014642",
           "source": "华尔街见闻-快讯",
@@ -1064,7 +1254,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -1127,8 +1317,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "OpenAI的CEO Sam Altman此前探讨收购或合作一家火箭公司的相关谈判已不再推进。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3014777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "OpenAI拟与SpaceX竞争 探讨与火箭公司进行交易",
+          "url": "https://flash.jin10.com/detail/20251204093928191800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
         {
           "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
           "url": "https://wallstreetcn.com/livenews/3014555",
@@ -1180,6 +1392,96 @@
       ]
     },
     {
+      "keyword_group": "China A股 热点 头条 突发 breaking news",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "A股AI手机概念盘初调整，道明光学、福蓉科技触及跌停，美芯晟、天音控股、弘信电子、福日电子等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3014768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "A股震荡调整，创业板跌超1%，商业航天表现分化，超硬材料逆势大涨，港股恒科指跌超1%，30年期国债显著承压",
+          "url": "https://wallstreetcn.com/articles/3760597",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时20分 ~ 09时47分]"
+        },
+        {
+          "title": "A股商业航天概念反复活跃，航天机电直线涨停，航天长峰冲击涨停，航天环宇涨超10%，招标股份、航天软件、通宇通讯涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3014766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "A股机器人概念股开盘领涨，睿能科技6天5板，骏亚科技、龙溪股份涨停，日盈电子、斯菱股份创历史新高，长盈精密、恒立液压、方正电机、襄阳轴承涨幅靠前，消息面上，特斯拉Optimus官方发布“擎天柱”人形机器人跑步视频，并配文称在实验室刷新了个人纪录。",
+          "url": "https://wallstreetcn.com/livenews/3014762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-04）",
+          "url": "https://flash.jin10.com/detail/20251204090229103800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时28分]"
+        },
+        {
+          "title": "钎城 Gemini",
+          "url": "https://s.weibo.com/weibo?q=%E9%92%8E%E5%9F%8E%20Gemini&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1225,26 +1527,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时47分]"
         }
       ]
     },
@@ -1263,23 +1547,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股震荡调整，创业板跌超1%，商业航天表现分化，超硬材料逆势大涨，港股恒科指跌超1%，30年期国债显著承压",
-          "url": "https://wallstreetcn.com/articles/3760597",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时20分 ~ 07时23分]"
         }
       ]
     }
