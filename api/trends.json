@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-04T14:35:56.961092+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2025-12-04T15:24:07.972588+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 65,
+      "match_count": 75,
       "titles": [
         {
           "title": "12月4日投资避雷针：这家上市公司实控人涉嫌内幕交易、信披违法及违规转让股票",
           "url": "https://www.cls.cn/detail/2219046",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时47分 ~ 14时35分]"
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 15时24分]"
         },
         {
           "title": "中证500股指期货（IC）主力合约站上7000点，日内涨0.85%。",
@@ -85,6 +86,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251204151608865800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "中国国债期货跌幅扩大，30年期国债期货跌0.8%，10年期国债期货跌0.3%。",
           "url": "https://wallstreetcn.com/livenews/3014771",
           "source": "华尔街见闻-快讯",
@@ -105,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "上证指数收报3875.79点，跌0.06%。 深证成指收报13006.72点，涨0.40%。 创业板指收报3067.48点，涨1.01%。 沪深300收报4546.57点，涨0.34%。 科创50收报1326.16点，涨1.36%。 中证500收报7012.81点，涨0.24%。 中证1000收报7248.66点，涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3014987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.34%，报25829点。 恒生科技指数主连夜盘收涨0.33%，报5548点。",
@@ -435,6 +458,39 @@
           "time_info": "07时23分"
         },
         {
+          "title": "商品期货收盘，集运欧线主力合约涨超3%，国际铜涨近3%，沪铜、沪锡涨超2%，纸浆、焦炭、硅铁、玉米、淀粉、焦煤涨超1%。BR橡胶、烧碱跌近2%，沪银、玻璃、碳酸锂、橡胶、氧化铝、苹果跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3014985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "金十图示：2025年12月04日（周四）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20251204151016278800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "欧洲斯托克50指数期货上涨0.60%，德国DAX指数期货上涨0.64%，英国富时100指数期货上涨0.31%。",
+          "url": "https://flash.jin10.com/detail/20251204150644454800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约跌0.64%，10年期主力合约跌0.14%，5年期主力合约跌0.09%，2年期主力合约跌0.01%。",
           "url": "https://wallstreetcn.com/livenews/3014763",
           "source": "华尔街见闻-快讯",
@@ -444,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "30年期国债期货（TL）主力合约日内走低1.20%，现报112.26元。",
+          "url": "https://flash.jin10.com/detail/20251204150636108800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "韩国KOSPI指数跌幅扩大至1%。",
@@ -523,6 +590,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "金十图示：2025年12月04日（周四）富时中国A50指数成分股今日收盘行情一览：石油煤炭午后领涨、银行股全天走势分化",
+          "url": "https://flash.jin10.com/detail/20251204150215589800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "恒指高开0.17%，报25804.01点；恒生科技指数涨0.21%。携程、京东涨超3%，地平线机器人涨近2%；理想汽车跌超2%，小鹏汽车跌1.7%。",
           "url": "https://wallstreetcn.com/livenews/3014751",
           "source": "华尔街见闻-快讯",
@@ -551,7 +629,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -565,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "日经225指数收盘涨2.3%，报51028.42点。 日本东证指数收涨1.9%，报3398.21点。 韩国首尔综指收盘跌0.2%，报4028.51点。",
+          "url": "https://wallstreetcn.com/livenews/3014962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "台湾证交所加权股价指数开盘变动不大，报27,773.42。",
@@ -589,6 +678,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251204150111742800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "美国芝加哥期权交易所（CBOE）11月期货日均成交量增长28.3%，指数期权日均成交量增长41.4%。 11月多地上市期权日均成交量增长16.8%。",
           "url": "https://wallstreetcn.com/livenews/3014650",
           "source": "华尔街见闻-快讯",
@@ -598,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌不一。集运欧线涨超3%，国际铜涨近3%，沪铜、沪锡涨超2%，焦炭、硅铁、纸浆、玉米涨超1%。跌幅方面，合成橡胶、烧碱跌近2%，沪银、玻璃、橡胶跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251204150052715800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "道指收涨超0.8%，半导体指数涨超1.8%，银行指数涨超2.3%",
@@ -650,7 +761,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -705,7 +816,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -757,7 +868,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -779,8 +890,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 14时35分]"
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 15时24分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -806,8 +917,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时25分 ~ 14时35分]"
+          "appearance_count": 19,
+          "time_info": "[01时25分 ~ 15时24分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -828,11 +939,23 @@
           "ranks": [
             9,
             6,
-            7
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时21分 ~ 15时24分]"
+        },
+        {
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时21分 ~ 14时35分]"
+          "time_info": "[12时33分 ~ 15时24分]"
         },
         {
           "title": "美国总统特朗普：美国将允许生产微型汽车。",
@@ -855,6 +978,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时33分 ~ 15时24分]"
         },
         {
           "title": "美国总统特朗普：我们将允许人们抵扣汽车贷款利息。",
@@ -899,6 +1036,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普：将很快在拉美开展地面打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%BE%88%E5%BF%AB%E5%9C%A8%E6%8B%89%E7%BE%8E%E5%BC%80%E5%B1%95%E5%9C%B0%E9%9D%A2%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 15时24分]"
         },
         {
           "title": "英伟达CEO黄仁勋：刚刚会见了美国总统特朗普。",
@@ -975,17 +1123,6 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
-          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
-          "url": "https://wallstreetcn.com/articles/3760676",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 14时35分]"
-        },
-        {
           "title": "美国总统特朗普建议对乘用车下调燃油效率标准。",
           "url": "https://wallstreetcn.com/livenews/3014620",
           "source": "华尔街见闻-快讯",
@@ -1010,19 +1147,6 @@
           "time_info": "[00时33分 ~ 02时36分]"
         },
         {
-          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 14时35分]"
-        },
-        {
           "title": "报道：债券市场担心哈塞特通过激进降息来取悦特朗普，已就此警告财长贝森特",
           "url": "https://wallstreetcn.com/livenews/3014596",
           "source": "华尔街见闻-快讯",
@@ -1034,17 +1158,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 05时21分]"
-        },
-        {
-          "title": "特朗普：将很快在拉美开展地面打击",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%BE%88%E5%BF%AB%E5%9C%A8%E6%8B%89%E7%BE%8E%E5%BC%80%E5%B1%95%E5%9C%B0%E9%9D%A2%E6%89%93%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 14时35分]"
         },
         {
           "title": "马杜罗证实曾同特朗普通电话",
@@ -1371,6 +1484,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "据俄新社：俄罗斯总统普京表示，美国将特朗普计划中的27点分成4个部分，提议单独讨论。",
+          "url": "https://flash.jin10.com/detail/20251204145143807800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "特朗普提议大幅降低乘用车燃油效率标准",
           "url": "https://flash.jin10.com/detail/20251204050402626800",
           "source": "金十数据",
@@ -1663,7 +1787,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "A股震荡调整，创业板跌超1%，商业航天表现分化，超硬材料逆势大涨，港股恒科指跌超1%，30年期国债显著承压",
@@ -1676,6 +1800,28 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[05时20分 ~ 13时23分]"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2025-12-04）",
+          "url": "https://flash.jin10.com/detail/20251204151628662800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "A股收盘：创业板指探底回升涨超1%，两市成交额萎缩至逾1.5万亿",
+          "url": "https://wallstreetcn.com/livenews/3014990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "A股AI手机概念盘初调整，道明光学、福蓉科技触及跌停，美芯晟、天音控股、弘信电子、福日电子等跟跌。",
@@ -1752,7 +1898,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1763,7 +1909,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
@@ -1855,11 +2001,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时21分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[11时21分 ~ 15时24分]"
         },
         {
           "title": "美元指数跌0.5%，失守50日均线",
@@ -1918,6 +2065,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美债收益率在亚洲交易时段上涨 市场继续押注美联储降息",
+          "url": "https://flash.jin10.com/detail/20251204151726193800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "周三（12月3日）纽约尾盘，美国10年期基准国债收益率跌2.32个基点，报4.0633%。 两年期美债收益率跌2.24个基点，报3.4855%。",
+          "url": "https://wallstreetcn.com/livenews/3014649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时23分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1951,24 +2127,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周三（12月3日）纽约尾盘，美国10年期基准国债收益率跌2.32个基点，报4.0633%。 两年期美债收益率跌2.24个基点，报3.4855%。",
-          "url": "https://wallstreetcn.com/livenews/3014649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时23分]"
         }
       ]
     }
