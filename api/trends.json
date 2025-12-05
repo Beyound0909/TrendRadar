@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T17:25:14.233770+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2025-12-05T18:25:48.180530+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 78,
+      "match_count": 81,
       "titles": [
         {
           "title": "【焦点复盘】双创指数缩量涨逾1%，两市成交额创4个月地量，摩尔线程概念大放异彩",
@@ -38,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时25分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月5日 周五",
@@ -114,17 +115,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
-        {
-          "title": "悦康药业：筹划发行H股股票并在香港联合交易所有限公司上市。",
-          "url": "https://wallstreetcn.com/livenews/3015800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "金十图示：2025年12月05日（周五）全球股市指数-欧洲市场（盘初）",
@@ -299,6 +289,18 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "悦康药业：筹划发行H股股票并在香港联合交易所有限公司上市。",
+          "url": "https://wallstreetcn.com/livenews/3015800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时25分]"
+        },
+        {
           "title": "标普500指数跌0.3%，刷新日低。 道指跌0.3%，纳指跌超0.2%，半导体指数跌超1.1%。",
           "url": "https://wallstreetcn.com/livenews/3015333",
           "source": "华尔街见闻-快讯",
@@ -360,6 +362,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时36分]"
+        },
+        {
+          "title": "北京证监局对冠通期货采取责令改正监管措施",
+          "url": "https://wallstreetcn.com/livenews/3015789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时25分]"
         },
         {
           "title": "周四（12月4日）纽约尾盘，现货黄金涨0.16%，报4209.74美元/盎司，全天呈现出V形反转，北京时间13:53曾刷新日低至4175.17美元。 COMEX黄金期货涨0.15%，报4238.40美元/盎司，13:53也曾刷新日低至4203.30美元。",
@@ -467,17 +481,6 @@
           "time_info": "09时48分"
         },
         {
-          "title": "北京证监局对冠通期货采取责令改正监管措施",
-          "url": "https://wallstreetcn.com/livenews/3015789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "股指期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251205093109005800",
           "source": "金十数据",
@@ -520,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "广期所：经研究决定，新增新疆晶诺新能源产业发展有限公司“晶诺”牌、新疆东方希望新能源有限公司“东方希望”牌为多晶硅期货注册品牌。",
+          "url": "https://wallstreetcn.com/livenews/3015830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "金十图示：2025年12月05日（周五）富时中国A50指数成分股午盘收盘行情一览：石油、煤炭板块继续回调，通信设备领涨",
@@ -566,6 +580,17 @@
           "time_info": "12时32分"
         },
         {
+          "title": "金十图示：2025年12月05日（周五）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20251205180135205800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "上证指数早盘收报3878.99点，涨0.08%。 深证成指早盘收报13057.09点，涨0.39%。 创业板指早盘收报3082.05点，涨0.47%。 沪深300早盘收报4551.81点，涨0.12%。 科创50早盘收报1326.86点，涨0.05%。 中证500早盘收报7043.61点，涨0.44%。 中证1000早盘收报7296.40点，涨0.66%。",
           "url": "https://wallstreetcn.com/livenews/3015576",
           "source": "华尔街见闻-快讯",
@@ -597,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "【午报】三大指数探底回升全线翻红，福建本地股延续强势，算力硬件方向集体反弹",
+          "url": "https://www.cls.cn/detail/2220607",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "早盘收盘，国内期货主力合约跌多涨少。集运欧线涨超3%，红枣涨超2%，线材、沪锌、沪铜涨超1%。跌幅方面，多晶硅跌超2%，氧化铝、PVC、乙二醇跌近2%，丙烯、双胶纸、甲醇、烧碱、塑料、纯碱跌超1%。",
@@ -910,7 +946,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -1160,6 +1196,17 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-05）",
+          "url": "https://flash.jin10.com/detail/20251205180349829800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "市场消息：美国总统特朗普将于当地时间周五下午3点（北京时间次日凌晨4点）签署行政令。",
           "url": "https://flash.jin10.com/detail/20251205110849030800",
           "source": "金十数据",
@@ -1188,7 +1235,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1218,7 +1265,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
@@ -1256,7 +1303,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1403,9 +1450,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
+        },
+        {
+          "title": "美股核电股Oklo盘前跌超6%。此前，Oklo签订股权分销协议，拟（增加）发行至多15亿美元的股票。",
+          "url": "https://wallstreetcn.com/livenews/3015811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "Meta美股盘初涨5.7%，创7月31日以来最佳盘中表现。 报道称，Meta Platforms高管们已经讨论了明年将扎克伯格元宇宙预算削减高达30%的可能性，这可能包括最早在2026年1月裁员。",
@@ -1433,7 +1491,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
@@ -1494,6 +1552,19 @@
           "time_info": "09时48分"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251204234131260800",
+          "source": "金十数据",
+          "ranks": [
+            26,
+            21,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 18时25分]"
+        },
+        {
           "title": "A股稀土永磁板块异动拉升，宁波韵升直线涨停，金力永磁涨超10%，中科三环、广晟有色、大地熊、银河磁体、中科磁业等纷纷冲高。",
           "url": "https://wallstreetcn.com/livenews/3015662",
           "source": "华尔街见闻-快讯",
@@ -1521,23 +1592,12 @@
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854300%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251204234131260800",
-          "source": "金十数据",
-          "ranks": [
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 11时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 18时25分]"
         },
         {
           "title": "A股商业航天概念涨势扩大，航天动力拉升封板",
@@ -1584,6 +1644,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "百度旗下昆仑芯拟赴港上市：曾考虑A股，年营收超寒武纪和摩尔线程",
+          "url": "https://wallstreetcn.com/livenews/3015815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "A股三大指数集体翻红，算力硬件、贵金属、福建、可控核聚变等方向领涨，沪深京三市上涨个股超3600只。",
           "url": "https://wallstreetcn.com/livenews/3015558",
           "source": "华尔街见闻-快讯",
@@ -1609,8 +1680,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时47分 ~ 17时25分]"
+          "appearance_count": 12,
+          "time_info": "[09时47分 ~ 18时25分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
