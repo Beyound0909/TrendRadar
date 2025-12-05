@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T11:21:46.493492+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2025-12-05T12:32:30.878465+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 49,
+      "match_count": 55,
       "titles": [
         {
           "title": "【焦点复盘】双创指数缩量涨逾1%，两市成交额创4个月地量，摩尔线程概念大放异彩",
@@ -44,28 +44,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时33分 ~ 07时22分]"
-        },
-        {
-          "title": "恒生科技指数转涨，此前一度跌超1%。小米集团涨近2%，蔚来、中芯国际、百度等涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3015559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "中国30年期国债期货主力合约跌0.41%报111.98元，创2024年11月21日以来新低。 中国30年期国债“25超长特别国债06”收益率上行1.9bp报2.2740%，创10月10日以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3015555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
         },
         {
           "title": "国债期货开盘，30年期主力合约涨0.15%，10年期主力合约涨0.07%，5年期主力合约涨0.00%，2年期主力合约与昨日持平。",
@@ -155,6 +133,18 @@
           "time_info": "[04时29分 ~ 05时22分]"
         },
         {
+          "title": "恒生科技指数转涨，此前一度跌超1%。小米集团涨近2%，蔚来、中芯国际、百度等涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3015559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 12时32分]"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数涨0.8%，创11月26日（当天收涨1.4%）以来最佳单日表现，报356.30点。 在十个板块中，北欧工业板块涨幅最大。 Wartsila Oyj Abp涨4.3%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3015295",
           "source": "华尔街见闻-快讯",
@@ -178,6 +168,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时25分]"
+        },
+        {
+          "title": "中国30年期国债期货主力合约跌0.41%报111.98元，创2024年11月21日以来新低。 中国30年期国债“25超长特别国债06”收益率上行1.9bp报2.2740%，创10月10日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3015555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 12时32分]"
         },
         {
           "title": "周四（12月4日）纽约尾盘，标普500股指期货最终涨0.08%，道指期货跌0.09%，纳斯达克100股指期货跌0.07%。 罗素2000股指期货涨0.68%。",
@@ -253,6 +255,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时36分]"
+        },
+        {
+          "title": "美国小盘股指数创新高 微软商业版Office涨价 | 环球市场",
+          "url": "https://www.cls.cn/detail/2220301",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 12时32分]"
         },
         {
           "title": "周四（12月4日）纽约尾盘，现货黄金涨0.16%，报4209.74美元/盎司，全天呈现出V形反转，北京时间13:53曾刷新日低至4175.17美元。 COMEX黄金期货涨0.15%，报4238.40美元/盎司，13:53也曾刷新日低至4203.30美元。",
@@ -393,15 +407,70 @@
           "time_info": "09时48分"
         },
         {
-          "title": "美国小盘股指数创新高 微软商业版Office涨价 | 环球市场",
-          "url": "https://www.cls.cn/detail/2220301",
-          "source": "财联社热门",
+          "title": "金十图示：2025年12月05日（周五）富时中国A50指数成分股午盘收盘行情一览：石油、煤炭板块继续回调，通信设备领涨",
+          "url": "https://flash.jin10.com/detail/20251205113617079800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251205113200772800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251205113157741800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时21分"
+          "time_info": "12时32分"
+        },
+        {
+          "title": "上证指数早盘收报3878.99点，涨0.08%。 深证成指早盘收报13057.09点，涨0.39%。 创业板指早盘收报3082.05点，涨0.47%。 沪深300早盘收报4551.81点，涨0.12%。 科创50早盘收报1326.86点，涨0.05%。 中证500早盘收报7043.61点，涨0.44%。 中证1000早盘收报7296.40点，涨0.66%。",
+          "url": "https://wallstreetcn.com/livenews/3015576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少。集运欧线涨超3%，红枣涨超2%，线材、沪锌、沪铜涨超1%。跌幅方面，多晶硅跌超2%，氧化铝、PVC、乙二醇跌近2%，丙烯、双胶纸、甲醇、烧碱、塑料、纯碱跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251205113043289800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.21%，10年期主力合约涨0.04%，5年期主力合约涨0.04%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3015573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "台湾证交所加权股价指数开盘变动不大。",
@@ -432,7 +501,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -443,7 +512,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -498,7 +567,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -583,7 +652,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -833,13 +902,24 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "市场消息：美国总统特朗普将于当地时间周五下午3点（北京时间次日凌晨4点）签署行政令。",
+          "url": "https://flash.jin10.com/detail/20251205110849030800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "美初请数据创三年新低，现货白银大幅回调！美官员称特朗普考虑明年退出美墨加协定，日本央行12月加息几成定局......美油卖出信号持续保持强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251205103316073800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -882,11 +962,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 11时21分]"
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 12时32分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股收盘）",
@@ -1049,76 +1130,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
-          "url": "https://wallstreetcn.com/articles/3760712",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 11时21分]"
-        },
-        {
-          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
-          "url": "https://wallstreetcn.com/articles/3760711",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 11时21分]"
-        },
-        {
-          "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
-          "url": "https://wallstreetcn.com/articles/3760711",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时22分]"
-        },
-        {
-          "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
-          "url": "https://wallstreetcn.com/livenews/3015345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时22分]"
-        },
-        {
-          "title": "顶住“抛售美国资产”声浪压力，PIMCO靠美债押注出奇制胜",
-          "url": "https://wallstreetcn.com/livenews/3015286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时36分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
@@ -1166,6 +1179,17 @@
           "time_info": "[00时33分 ~ 11时21分]"
         },
         {
+          "title": "摩尔线程中一签赚近27万，A股全面注册制以来新纪录！",
+          "url": "https://www.cls.cn/detail/2220410",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-05）",
           "url": "https://flash.jin10.com/detail/20251205090428099800",
           "source": "金十数据",
@@ -1175,6 +1199,85 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "A股三大指数集体翻红，算力硬件、贵金属、福建、可控核聚变等方向领涨，沪深京三市上涨个股超3600只。",
+          "url": "https://wallstreetcn.com/livenews/3015558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
+          "url": "https://wallstreetcn.com/articles/3760712",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 12时32分]"
+        },
+        {
+          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
+          "url": "https://wallstreetcn.com/articles/3760711",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时32分]"
+        },
+        {
+          "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
+          "url": "https://wallstreetcn.com/articles/3760711",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
+          "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
+          "url": "https://wallstreetcn.com/livenews/3015345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时22分]"
+        },
+        {
+          "title": "顶住“抛售美国资产”声浪压力，PIMCO靠美债押注出奇制胜",
+          "url": "https://wallstreetcn.com/livenews/3015286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 02时36分]"
         }
       ]
     },
@@ -1230,11 +1333,12 @@
           "ranks": [
             4,
             5,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 11时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 12时32分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
@@ -1243,7 +1347,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         }
@@ -1319,7 +1423,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
