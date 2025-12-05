@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T16:31:40.498923+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2025-12-05T17:25:14.233770+08:00",
+  "total_titles_processed": 1491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 76,
+      "match_count": 78,
       "titles": [
         {
           "title": "【焦点复盘】双创指数缩量涨逾1%，两市成交额创4个月地量，摩尔线程概念大放异彩",
@@ -31,6 +31,18 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时33分 ~ 09时48分]"
+        },
+        {
+          "title": "金融监管总局：调整保险公司投资相关股票的风险因子 培育壮大耐心资本",
+          "url": "https://www.cls.cn/detail/2220884",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时25分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月5日 周五",
@@ -99,20 +111,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
         {
-          "title": "金融监管总局：调整保险公司投资相关股票的风险因子 培育壮大耐心资本",
-          "url": "https://www.cls.cn/detail/2220884",
-          "source": "财联社热门",
+          "title": "悦康药业：筹划发行H股股票并在香港联合交易所有限公司上市。",
+          "url": "https://wallstreetcn.com/livenews/3015800",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "17时25分"
         },
         {
           "title": "金十图示：2025年12月05日（周五）全球股市指数-欧洲市场（盘初）",
@@ -121,7 +133,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -455,6 +467,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "北京证监局对冠通期货采取责令改正监管措施",
+          "url": "https://wallstreetcn.com/livenews/3015789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "股指期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251205093109005800",
           "source": "金十数据",
@@ -758,7 +781,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -887,7 +910,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -1159,6 +1182,17 @@
           "time_info": "11时21分"
         },
         {
+          "title": "与特朗普意见不合，白宫宴会厅设计师换人",
+          "url": "https://wallstreetcn.com/livenews/3015772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "据福克斯新闻：美国国土安全部长诺姆表示，特朗普政府将旅行禁令适用国家扩大至30多个。",
           "url": "https://flash.jin10.com/detail/20251205085517265800",
           "source": "金十数据",
@@ -1184,7 +1218,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
@@ -1214,6 +1248,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时21分 ~ 14时36分]"
+        },
+        {
+          "title": "Cloudflare(NET.N)美股盘前跌幅收窄至约2%，公司在北京时间17:12称已对此前出现的问题进行修复，正在监控结果。",
+          "url": "https://flash.jin10.com/detail/20251205172039774800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股收盘）",
@@ -1352,6 +1397,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "Cloudflare(NET.N)美股盘前跌超3%，公司称正在调查Cloudflare仪表板及相关API的问题。",
+          "url": "https://flash.jin10.com/detail/20251205170428227800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "Meta美股盘初涨5.7%，创7月31日以来最佳盘中表现。 报道称，Meta Platforms高管们已经讨论了明年将扎克伯格元宇宙预算削减高达30%的可能性，这可能包括最早在2026年1月裁员。",
           "url": "https://wallstreetcn.com/livenews/3015241",
           "source": "华尔街见闻-快讯",
@@ -1377,7 +1433,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
@@ -1397,11 +1453,12 @@
           "ranks": [
             11,
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时32分 ~ 16时31分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 17时25分]"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-12-05）",
@@ -1449,6 +1506,28 @@
           "time_info": "[14时36分 ~ 15时23分]"
         },
         {
+          "title": "暴涨500%！摩尔线程“空降”第三高价股 AI半导体“三巨头”A股聚首",
+          "url": "https://www.cls.cn/detail/2220480",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时25分]"
+        },
+        {
+          "title": "A股收盘：全市场超4300只个股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854300%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20251204234131260800",
           "source": "金十数据",
@@ -1470,17 +1549,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
-        },
-        {
-          "title": "暴涨500%！摩尔线程“空降”第三高价股 AI半导体“三巨头”A股聚首",
-          "url": "https://www.cls.cn/detail/2220480",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
         },
         {
           "title": "A股保险股持续拉升，中国太保涨超6%，中国平安涨超5%，中国人保、中国人寿等跟涨。",
@@ -1541,8 +1609,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 16时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时47分 ~ 17时25分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -1608,7 +1676,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
