@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T04:26:55.667677+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-12-06T05:21:30.828662+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "超千亿险资活水来了！险企投资股票风险因子再度下调，沪深300、科创板等将受益",
@@ -15,19 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时21分]"
         },
         {
-          "title": "美国原油期货收涨至60美元关口上方，纽约天然气本周涨9%",
-          "url": "https://wallstreetcn.com/livenews/3016107",
+          "title": "阿根廷MERVAL指数收跌1.59%，逼近304万点，本周累计上涨0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3016118",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时26分"
+          "time_info": "05时21分"
+        },
+        {
+          "title": "提醒：美国商品期货交易委员会（CFTC）补发10月28日当周的持仓报告。 其中，大豆净多头头寸增加83,160手合约，WTI原油净多头头寸增加34,585手合约，黄金增加13,501手合约。",
+          "url": "https://wallstreetcn.com/livenews/3016116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "微软(MSFT.O)年度股东大会上，微软股东投票批准公司所有提案，包括选举12名董事及2026年股票计划。微软股东投票反对全部6项股东提案，其中包括一项要求公司提交人权尽职调查报告的提案。",
@@ -43,6 +54,19 @@
           "time_info": "[01时22分 ~ 03时19分]"
         },
         {
+          "title": "恒生指数主连夜盘收跌0.10%，报26121点。 恒生科技指数主连夜盘收跌0.02%，报5678点。",
+          "url": "https://wallstreetcn.com/livenews/3016100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时21分]"
+        },
+        {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌6.62%，暂报4066.13点，整体持续走低，北京时间00:00开始加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3016066",
           "source": "华尔街见闻-快讯",
@@ -54,18 +78,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时22分 ~ 03时19分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.10%，报26121点。 恒生科技指数主连夜盘收跌0.02%，报5678点。",
-          "url": "https://wallstreetcn.com/livenews/3016100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时26分]"
         },
         {
           "title": "希腊雅典证交所综合指数收涨0.67%，报2104.74点，本周累计上涨1.04%。",
@@ -90,6 +102,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时31分]"
+        },
+        {
+          "title": "美国原油期货收涨至60美元关口上方，纽约天然气本周涨9%",
+          "url": "https://wallstreetcn.com/livenews/3016107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时21分]"
+        },
+        {
+          "title": "上期所原油期货2501合约夜盘收涨0.82%，报457.10元人民币/桶。 沪金夜盘收涨0.15%，沪银收涨2.67%。",
+          "url": "https://wallstreetcn.com/livenews/3016093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时21分]"
         },
         {
           "title": "比特币恐将面临2014年以来首次与股票年度走势分离",
@@ -117,18 +154,6 @@
           "time_info": "[01时22分 ~ 02时31分]"
         },
         {
-          "title": "上期所原油期货2501合约夜盘收涨0.82%，报457.10元人民币/桶。 沪金夜盘收涨0.15%，沪银收涨2.67%。",
-          "url": "https://wallstreetcn.com/livenews/3016093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时26分]"
-        },
-        {
           "title": "德国DAX 30指数初步收涨0.77%，报24062.60点，本周累计上涨大约1%。 法国股指初步收跌0.05%，意大利股指初步收跌0.04%、银行指数跌0.34%，英国股指初步收跌0.36%。",
           "url": "https://wallstreetcn.com/livenews/3016057",
           "source": "华尔街见闻-快讯",
@@ -141,6 +166,28 @@
           "time_info": "[01时22分 ~ 02时31分]"
         },
         {
+          "title": "恒指期货夜盘收跌0.1%，报26121点，高水36点。",
+          "url": "https://flash.jin10.com/detail/20251206031133447800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时21分]"
+        },
+        {
+          "title": "芝加哥大豆期货本周跌超2.9%，豆粕累跌超3.7%",
+          "url": "https://wallstreetcn.com/livenews/3016114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收涨0.05%，报579.11点，本周累计上涨大约0.5%。 欧元区STOXX 50指数初步收涨0.20%，报5729.54点，本周累涨约1.1%。 富时泛欧绩优300指数初步收涨0.03%，报2307.86点。",
           "url": "https://wallstreetcn.com/livenews/3016056",
           "source": "华尔街见闻-快讯",
@@ -150,17 +197,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "恒指期货夜盘收跌0.1%，报26121点，高水36点。",
-          "url": "https://flash.jin10.com/detail/20251206031133447800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
         },
         {
           "title": "美国9月核心PCE物价指数环比 0.2%，预期 0.2%，前值 0.2%。",
@@ -282,17 +318,6 @@
           "time_info": "[00时29分 ~ 04时26分]"
         },
         {
-          "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆（在华盛顿）会晤。",
-          "url": "https://wallstreetcn.com/livenews/3016109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
           "title": "美国总统特朗普抵达2026年世界杯抽签仪式现场，称这是“重要一天”。",
           "url": "https://flash.jin10.com/detail/20251206005652021800",
           "source": "金十数据",
@@ -332,6 +357,19 @@
           "time_info": "[01时22分 ~ 03时19分]"
         },
         {
+          "title": "美国最高法院将审查总统特朗普作废出生公民权（Birthright Citizenship）的做法。",
+          "url": "https://wallstreetcn.com/livenews/3016099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时21分]"
+        },
+        {
           "title": "加拿大总理办公室：卡尼先会见了墨西哥总统谢因鲍姆，接下来将与特朗普会面。",
           "url": "https://flash.jin10.com/detail/20251206004910784800",
           "source": "金十数据",
@@ -345,16 +383,30 @@
           "time_info": "[01时22分 ~ 03时19分]"
         },
         {
-          "title": "美国最高法院将审查总统特朗普作废出生公民权（Birthright Citizenship）的做法。",
-          "url": "https://wallstreetcn.com/livenews/3016099",
+          "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆（在华盛顿）会晤。",
+          "url": "https://wallstreetcn.com/livenews/3016109",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
+            3,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时26分]"
+          "time_info": "[04时26分 ~ 05时21分]"
+        },
+        {
+          "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
+          "url": "https://wallstreetcn.com/livenews/3016084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时31分 ~ 05时21分]"
         },
         {
           "title": "美国总统特朗普：正在与加拿大和墨西哥合作。",
@@ -370,17 +422,16 @@
           "time_info": "[01时22分 ~ 03时19分]"
         },
         {
-          "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
-          "url": "https://wallstreetcn.com/livenews/3016084",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
+          "url": "https://flash.jin10.com/detail/20251206022018049800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            16,
-            22
+            8,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时31分 ~ 04时26分]"
+          "time_info": "[03时19分 ~ 05时21分]"
         },
         {
           "title": "美国参议院银行委员会民主党成员们向总统特朗普的共和党阵营施压。 他们要求联邦住房金融局(FHFA)局长Bill Pulte在2026年1月（底）之前出席听证会。",
@@ -409,6 +460,17 @@
           "time_info": "[02时31分 ~ 04时26分]"
         },
         {
+          "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
+          "url": "https://flash.jin10.com/detail/20251206033944574800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时21分]"
+        },
+        {
           "title": "美国上诉法庭：总统特朗普可以“毫无根据”地解雇劳工与就业委员会成员。",
           "url": "https://wallstreetcn.com/livenews/3016043",
           "source": "华尔街见闻-快讯",
@@ -433,6 +495,17 @@
           "time_info": "[01时22分 ~ 02时31分]"
         },
         {
+          "title": "加拿大总理办公室：美国总统特朗普、加拿大总理和墨西哥总统正在会面。",
+          "url": "https://flash.jin10.com/detail/20251206033847426800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时21分]"
+        },
+        {
           "title": "加拿大总理卡尼将在下周FIFA活动之前会见墨西哥总统辛鲍姆和美国总统特朗普。（PMO）",
           "url": "https://wallstreetcn.com/livenews/3016062",
           "source": "华尔街见闻-快讯",
@@ -443,18 +516,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时31分]"
-        },
-        {
-          "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
-          "url": "https://flash.jin10.com/detail/20251206022018049800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时26分]"
         },
         {
           "title": "美元兑瑞郎跌约0.2%，刷新日低至0.8054。 瑞士政府公布的一份谈判授权草案显示，瑞士愿意向美国做出更多让步，如果能够换取特朗普政府更低的关税，以敲定11月达成的初步协议。",
@@ -493,28 +554,6 @@
           "time_info": "[01时22分 ~ 02时31分]"
         },
         {
-          "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
-          "url": "https://flash.jin10.com/detail/20251206033944574800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "加拿大总理办公室：美国总统特朗普、加拿大总理和墨西哥总统正在会面。",
-          "url": "https://flash.jin10.com/detail/20251206033847426800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
           "title": "美国华盛顿巡回上诉法院小组以2比1的投票结果裁定，特朗普有权解雇美国国家劳工关系委员会和美国联邦人事管理委员会的成员。",
           "url": "https://flash.jin10.com/detail/20251205232909438800",
           "source": "金十数据",
@@ -524,6 +563,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
+          "url": "https://wallstreetcn.com/articles/3760711",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时21分]"
+        },
+        {
+          "title": "10年期美债收益率于PCE通胀数据发布日涨超3个基点，本周累涨超12个基点",
+          "url": "https://wallstreetcn.com/livenews/3016117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "PCE公布前，美股集体高开，美债承压，金银油涨，比特币跌幅扩大",
+          "url": "https://wallstreetcn.com/articles/3760797",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时31分]"
+        },
+        {
+          "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
+          "url": "https://wallstreetcn.com/articles/3760797",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 05时21分]"
         }
       ]
     },
@@ -582,48 +674,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
-          "url": "https://wallstreetcn.com/articles/3760711",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时26分]"
-        },
-        {
-          "title": "PCE公布前，美股集体高开，美债承压，金银油涨，比特币跌幅扩大",
-          "url": "https://wallstreetcn.com/articles/3760797",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时31分]"
-        },
-        {
-          "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
-          "url": "https://wallstreetcn.com/articles/3760797",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 04时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -634,9 +684,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时21分]"
         },
         {
           "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
@@ -645,9 +695,38 @@
           "ranks": [
             6
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数DXY短线走强超10点，现报99.08。",
+          "url": "https://flash.jin10.com/detail/20251206001335575800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时31分]"
+        },
+        {
+          "title": "美元指数本周跌超0.4%",
+          "url": "https://wallstreetcn.com/livenews/3016113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时26分"
+          "time_info": "05时21分"
         }
       ]
     },
@@ -661,29 +740,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY短线走强超10点，现报99.08。",
-          "url": "https://flash.jin10.com/detail/20251206001335575800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时21分]"
         }
       ]
     },
@@ -699,8 +761,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时21分]"
         }
       ]
     }
