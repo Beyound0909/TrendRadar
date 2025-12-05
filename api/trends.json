@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T20:47:22.087747+08:00",
-  "total_titles_processed": 1776,
+  "generated_at": "2025-12-05T21:34:56.334468+08:00",
+  "total_titles_processed": 1857,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 92,
+      "match_count": 96,
       "titles": [
         {
           "title": "【焦点复盘】双创指数缩量涨逾1%，两市成交额创4个月地量，摩尔线程概念大放异彩",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时47分]"
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 21时34分]"
         },
         {
           "title": "年内第三高！股票ETF赎回253亿份，为何又遭大举卖出？",
@@ -44,6 +44,18 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时33分 ~ 09时48分]"
+        },
+        {
+          "title": "超千亿险资活水来了！险企投资股票风险因子再度下调，沪深300、科创板等将受益",
+          "url": "https://www.cls.cn/detail/2221295",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时34分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月5日 周五",
@@ -71,17 +83,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时21分 ~ 15时23分]"
-        },
-        {
-          "title": "超千亿险资活水来了！险企投资股票风险因子再度下调，沪深300、科创板等将受益",
-          "url": "https://www.cls.cn/detail/2221295",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
         },
         {
           "title": "国债期货午盘收盘",
@@ -398,6 +399,18 @@
           "time_info": "[17时25分 ~ 18时25分]"
         },
         {
+          "title": "金十图示：2025年12月05日（周五）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20251205151015806800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 21时34分]"
+        },
+        {
           "title": "周四（12月4日）纽约尾盘，现货黄金涨0.16%，报4209.74美元/盎司，全天呈现出V形反转，北京时间13:53曾刷新日低至4175.17美元。 COMEX黄金期货涨0.15%，报4238.40美元/盎司，13:53也曾刷新日低至4203.30美元。",
           "url": "https://wallstreetcn.com/livenews/3015368",
           "source": "华尔街见闻-快讯",
@@ -408,6 +421,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
+          "title": "华纳兄弟股票将于纽约时间上午7:20恢复交易。",
+          "url": "https://wallstreetcn.com/livenews/3015940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时34分]"
         },
         {
           "title": "WTI原油期货日内涨幅达1.00%，现报59.54美元/桶。",
@@ -492,6 +517,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "波罗的海干散货指数跌3.09%，至2727点。",
+          "url": "https://wallstreetcn.com/livenews/3015971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "国债期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251205093111841800",
           "source": "金十数据",
@@ -512,17 +548,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        },
-        {
-          "title": "金十图示：2025年12月05日（周五）投机情绪指数",
-          "url": "https://flash.jin10.com/detail/20251205151015806800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.55%，报579.41点。 欧元区STOXX 50指数初步收涨0.55%，报5725.77点。 富时泛欧绩优300指数初步收涨0.52%，报2309.86点。",
@@ -569,15 +594,15 @@
           "time_info": "19时21分"
         },
         {
-          "title": "华纳兄弟股票将于纽约时间上午7:20恢复交易。",
-          "url": "https://wallstreetcn.com/livenews/3015940",
+          "title": "夜盘期货开盘，沪银、沪铜涨逾1%，国际铜、低硫燃油、棕榈油等上涨；焦煤、焦炭跌2%，甲醇、纯碱跌逾1%，玻璃、沪锡等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3015968",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时47分"
+          "time_info": "21时34分"
         },
         {
           "title": "金十图示：2025年12月05日（周五）富时中国A50指数成分股午盘收盘行情一览：石油、煤炭板块继续回调，通信设备领涨",
@@ -685,7 +710,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -729,7 +754,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -765,6 +790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "煤炭期货跌幅扩大，焦煤、焦炭主力合约跌超3%。",
+          "url": "https://flash.jin10.com/detail/20251205210245639800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "日经225指数早盘收盘跌1.1%，日本东证指数早盘收盘跌1.2%。",
@@ -828,7 +864,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -908,6 +944,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "波罗的海干散货指数跌3.09%，至2727点。",
+          "url": "https://flash.jin10.com/detail/20251205210045371800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "标普500指数收涨7.40点，涨幅0.11%，报6857.12点。 道琼斯工业平均指数收跌31.96点，跌幅0.07%，报47850.94点。 纳斯达克综合指数（纳指）收涨51.044点，涨幅0.22%，报23505.136点。 纳斯达克100指数收跌24.846点，跌幅0.10%，报25581.699点。 纳斯达克生物科技指数大致收平，报5764.74点。 费城半导体指数收跌0.89%，报7215.969点。 费城证交所KBW银行指数收涨0.68%，报158.70点。 道琼斯KBW地区银行指数收涨0.36%，报124.13点。",
@@ -1015,7 +1062,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -1067,7 +1114,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -1139,6 +1186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：现在是美联储 “谨慎降息”的好时机，预计美联储下周将采取这一行动。 预计政府关门的影响比预期的要大。 预计第一季度将出现更大幅度的反弹。 2026年的生产率可能会达到4%。 人工智能经济的发展速度比20世纪90年代的互联网经济更快。 如果（明年）一季度和二季度的（经济）增速为3%，将会感到失望。 如果最高法院否决关税，将会造成巨大混乱。 没有和特朗普讨论过美联储主席的问题。 我支持贝森特在地区联储主席问题上的看法。",
+          "url": "https://wallstreetcn.com/livenews/3015973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "加拿大总理卡尼不打算在国际足联活动上与特朗普讨论贸易问题",
@@ -1317,6 +1375,18 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "印媒发莫迪普京动画片 还恶搞特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时34分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-05）",
           "url": "https://flash.jin10.com/detail/20251205180349829800",
           "source": "金十数据",
@@ -1326,6 +1396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "特朗普推动禁止州级AI立法在国会受挫 白宫或转向行政令施压",
+          "url": "https://flash.jin10.com/detail/20251205210318683800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "市场消息：美国总统特朗普将于当地时间周五下午3点（北京时间次日凌晨4点）签署行政令。",
@@ -1381,17 +1462,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
-        },
-        {
-          "title": "印媒发莫迪普京动画片 还恶搞特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
         }
       ]
     },
@@ -1429,17 +1499,6 @@
           "time_info": "[07时21分 ~ 14时36分]"
         },
         {
-          "title": "华纳兄弟美股盘前抹去早前跌幅，上涨1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3015951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
           "title": "Cloudflare(NET.N)美股盘前跌幅收窄至约2%，公司在北京时间17:12称已对此前出现的问题进行修复，正在监控结果。",
           "url": "https://flash.jin10.com/detail/20251205172039774800",
           "source": "金十数据",
@@ -1475,6 +1534,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 07时22分]"
+        },
+        {
+          "title": "华纳兄弟美股盘前抹去早前跌幅，上涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3015951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时34分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 英特尔跌超7%",
@@ -1582,7 +1653,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -1593,7 +1664,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -1615,7 +1686,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -1626,7 +1697,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -1648,7 +1719,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -1670,7 +1741,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -1700,7 +1771,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
@@ -1761,6 +1832,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "今天A股大涨原因找到了",
+          "url": "https://www.toutiao.com/trending/7580275128328536110/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20251204234131260800",
           "source": "金十数据",
@@ -1775,6 +1857,18 @@
           "time_info": "[00时33分 ~ 19时21分]"
         },
         {
+          "title": "A股为何突然大涨",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 21时34分]"
+        },
+        {
           "title": "A股稀土永磁板块异动拉升，宁波韵升直线涨停，金力永磁涨超10%，中科三环、广晟有色、大地熊、银河磁体、中科磁业等纷纷冲高。",
           "url": "https://wallstreetcn.com/livenews/3015662",
           "source": "华尔街见闻-快讯",
@@ -1785,18 +1879,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时36分 ~ 15时23分]"
-        },
-        {
-          "title": "A股为何突然大涨",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时47分]"
         },
         {
           "title": "暴涨500%！摩尔线程“空降”第三高价股 AI半导体“三巨头”A股聚首",
@@ -1822,6 +1904,18 @@
           "time_info": "[17时24分 ~ 18时25分]"
         },
         {
+          "title": "A股迎首部上市公司监管专项行政法规，74条全梳理",
+          "url": "https://www.cls.cn/detail/2221389",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时34分]"
+        },
+        {
           "title": "A股商业航天概念涨势扩大，航天动力拉升封板",
           "url": "https://wallstreetcn.com/livenews/3015658",
           "source": "华尔街见闻-快讯",
@@ -1831,17 +1925,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
-        },
-        {
-          "title": "A股迎首部上市公司监管专项行政法规，74条全梳理",
-          "url": "https://www.cls.cn/detail/2221389",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
         },
         {
           "title": "A股保险股持续拉升，中国太保涨超6%，中国平安涨超5%，中国人保、中国人寿等跟涨。",
@@ -1913,8 +1996,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时47分 ~ 20时47分]"
+          "appearance_count": 15,
+          "time_info": "[09时47分 ~ 21时34分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
