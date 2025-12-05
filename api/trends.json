@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T09:48:11.223120+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2025-12-05T11:21:46.493492+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 43,
+      "match_count": 49,
       "titles": [
         {
           "title": "【焦点复盘】双创指数缩量涨逾1%，两市成交额创4个月地量，摩尔线程概念大放异彩",
@@ -46,13 +46,35 @@
           "time_info": "[00时33分 ~ 07时22分]"
         },
         {
+          "title": "恒生科技指数转涨，此前一度跌超1%。小米集团涨近2%，蔚来、中芯国际、百度等涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3015559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "中国30年期国债期货主力合约跌0.41%报111.98元，创2024年11月21日以来新低。 中国30年期国债“25超长特别国债06”收益率上行1.9bp报2.2740%，创10月10日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3015555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约涨0.15%，10年期主力合约涨0.07%，5年期主力合约涨0.00%，2年期主力合约与昨日持平。",
           "url": "https://wallstreetcn.com/livenews/3015474",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -63,7 +85,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -311,7 +333,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -322,7 +344,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -333,7 +355,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -344,7 +366,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -366,9 +388,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "美国小盘股指数创新高 微软商业版Office涨价 | 环球市场",
+          "url": "https://www.cls.cn/detail/2220301",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "台湾证交所加权股价指数开盘变动不大。",
@@ -377,7 +410,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -388,9 +421,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "日经225指数早盘收盘跌1.1%，日本东证指数早盘收盘跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3015526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "金十期货12月5日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨100元/吨，中间价报91100元/吨。",
+          "url": "https://flash.jin10.com/detail/20251205103422561800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "商品期货开盘，集运欧线主力合约涨超3%，燃料油、焦炭、玉米涨超1%。沪银跌超2%，氧化铝、烧碱跌超1%。",
@@ -399,7 +454,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -410,7 +465,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -432,9 +487,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "集运指数（欧线）主力合约日内涨幅扩大至6.00%，现报1640.9点。",
+          "url": "https://flash.jin10.com/detail/20251205103015646800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "标普500指数收涨7.40点，涨幅0.11%，报6857.12点。 道琼斯工业平均指数收跌31.96点，跌幅0.07%，报47850.94点。 纳斯达克综合指数（纳指）收涨51.044点，涨幅0.22%，报23505.136点。 纳斯达克100指数收跌24.846点，跌幅0.10%，报25581.699点。 纳斯达克生物科技指数大致收平，报5764.74点。 费城半导体指数收跌0.89%，报7215.969点。 费城证交所KBW银行指数收涨0.68%，报158.70点。 道琼斯KBW地区银行指数收涨0.36%，报124.13点。",
@@ -487,7 +553,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -517,7 +583,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -767,13 +833,24 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "美初请数据创三年新低，现货白银大幅回调！美官员称特朗普考虑明年退出美墨加协定，日本央行12月加息几成定局......美油卖出信号持续保持强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251205103316073800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "据福克斯新闻：美国国土安全部长诺姆表示，特朗普政府将旅行禁令适用国家扩大至30多个。",
           "url": "https://flash.jin10.com/detail/20251205085517265800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         }
@@ -800,6 +877,18 @@
           "time_info": "[00时33分 ~ 06时22分]"
         },
         {
+          "title": "美股收盘：小盘股指数再创历史新高",
+          "url": "https://www.cls.cn/detail/2220253",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 11时21分]"
+        },
+        {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251205050523861800",
           "source": "金十数据",
@@ -811,18 +900,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 07时22分]"
-        },
-        {
-          "title": "美股收盘：小盘股指数再创历史新高",
-          "url": "https://www.cls.cn/detail/2220253",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 09时48分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）热门中概股行情一览（美股收盘）",
@@ -987,19 +1064,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 09时48分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 11时21分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
           "url": "https://wallstreetcn.com/articles/3760711",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 11时21分]"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -1071,18 +1149,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-05）",
-          "url": "https://flash.jin10.com/detail/20251205090428099800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -1091,11 +1158,23 @@
           "url": "https://flash.jin10.com/detail/20251204234131260800",
           "source": "金十数据",
           "ranks": [
-            26
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 11时21分]"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-05）",
+          "url": "https://flash.jin10.com/detail/20251205090428099800",
+          "source": "金十数据",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "09时48分"
         }
       ]
     },
@@ -1137,6 +1216,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "实测欧洲版Deepseek水平如何",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 11时21分]"
+        },
+        {
+          "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
+          "url": "https://wallstreetcn.com/livenews/3015505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         }
       ]
     },
@@ -1200,27 +1309,20 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "keyword_group": "金价",
+      "match_count": 2,
       "titles": [
         {
-          "title": "实测欧洲版Deepseek水平如何",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
+          "title": "金十图示：2025年12月05日（周五）上海金早盘价为951.91元/克，较国际金价(954.56元/克)，低2.65元/克",
+          "url": "https://flash.jin10.com/detail/20251205101748828800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            5
+            22
           ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 09时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
         {
           "title": "南非15年来首座新地下金矿投产 金价飙升催生行业新机",
           "url": "https://flash.jin10.com/detail/20251204234446522800",
