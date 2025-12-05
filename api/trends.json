@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T13:23:18.715345+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2025-12-05T14:36:10.223139+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "【焦点复盘】双创指数缩量涨逾1%，两市成交额创4个月地量，摩尔线程概念大放异彩",
@@ -39,22 +39,23 @@
           "ranks": [
             5,
             22,
-            1
+            1,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 07时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 14时36分]"
         },
         {
-          "title": "恒生科技指数午后转涨。百度集团一度涨7.7%，此前路透报道称，昆仑芯计划在香港IPO。",
-          "url": "https://wallstreetcn.com/livenews/3015621",
+          "title": "日经225指数收跌1.1%，报50491.87点。 东证指数收跌1%，报3362.56点。 韩国首尔综指收涨1.8%，报4100.05点。",
+          "url": "https://wallstreetcn.com/livenews/3015666",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "14时36分"
         },
         {
           "title": "国债期货开盘，30年期主力合约涨0.15%，10年期主力合约涨0.07%，5年期主力合约涨0.00%，2年期主力合约与昨日持平。",
@@ -91,6 +92,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时25分 ~ 04时29分]"
+        },
+        {
+          "title": "美国小盘股指数创新高 微软商业版Office涨价 | 环球市场",
+          "url": "https://www.cls.cn/detail/2220301",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 14时36分]"
         },
         {
           "title": "恒指期货夜盘收跌0.2%，报25900点，低水36点。",
@@ -193,6 +207,18 @@
           "time_info": "[11时21分 ~ 12时32分]"
         },
         {
+          "title": "恒生科技指数午后转涨。百度集团一度涨7.7%，此前路透报道称，昆仑芯计划在香港IPO。",
+          "url": "https://wallstreetcn.com/livenews/3015621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时36分]"
+        },
+        {
           "title": "周四（12月4日）纽约尾盘，标普500股指期货最终涨0.08%，道指期货跌0.09%，纳斯达克100股指期货跌0.07%。 罗素2000股指期货涨0.68%。",
           "url": "https://wallstreetcn.com/livenews/3015375",
           "source": "华尔街见闻-快讯",
@@ -242,18 +268,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时25分 ~ 03时21分]"
-        },
-        {
-          "title": "美国小盘股指数创新高 微软商业版Office涨价 | 环球市场",
-          "url": "https://www.cls.cn/detail/2220301",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时23分]"
         },
         {
           "title": "芝加哥玉米期货涨约0.7%",
@@ -462,6 +476,17 @@
           "time_info": "12时32分"
         },
         {
+          "title": "富时中国A50指数期货午后涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3015647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "早盘收盘，国内期货主力合约跌多涨少。集运欧线涨超3%，红枣涨超2%，线材、沪锌、沪铜涨超1%。跌幅方面，多晶硅跌超2%，氧化铝、PVC、乙二醇跌近2%，丙烯、双胶纸、甲醇、烧碱、塑料、纯碱跌超1%。",
           "url": "https://flash.jin10.com/detail/20251205113043289800",
           "source": "金十数据",
@@ -539,6 +564,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "中证1000股指期货（IM）主力合约向上触及7300点，日内涨1.33%。",
+          "url": "https://flash.jin10.com/detail/20251205135614720800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "富时中国A50指数期货盘初涨0.14%，上一个交易日夜盘收涨0.17%。",
           "url": "https://wallstreetcn.com/livenews/3015452",
           "source": "华尔街见闻-快讯",
@@ -583,6 +619,17 @@
           "time_info": "11时21分"
         },
         {
+          "title": "中证500股指期货（IC）主力合约日内涨超1.00%，现报7045.6点。",
+          "url": "https://flash.jin10.com/detail/20251205134749433800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "标普500指数收涨7.40点，涨幅0.11%，报6857.12点。 道琼斯工业平均指数收跌31.96点，跌幅0.07%，报47850.94点。 纳斯达克综合指数（纳指）收涨51.044点，涨幅0.22%，报23505.136点。 纳斯达克100指数收跌24.846点，跌幅0.10%，报25581.699点。 纳斯达克生物科技指数大致收平，报5764.74点。 费城半导体指数收跌0.89%，报7215.969点。 费城证交所KBW银行指数收涨0.68%，报158.70点。 道琼斯KBW地区银行指数收涨0.36%，报124.13点。",
           "url": "https://wallstreetcn.com/livenews/3015353",
           "source": "华尔街见闻-快讯",
@@ -603,6 +650,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "上证50股指期货（IH）主力合约站上3000点，日内涨1.20%。",
+          "url": "https://flash.jin10.com/detail/20251205134622373800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "欧洲STOXX 600指数涨幅扩大至0.5%，刷新日高。",
@@ -663,7 +721,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -944,6 +1002,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "据国际文传电讯社：克里姆林宫表示，目前尚无俄罗斯总统普京与美国总统特朗普通话的计划。",
+          "url": "https://flash.jin10.com/detail/20251205133653740800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         }
       ]
     },
@@ -977,8 +1046,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 13时23分]"
+          "appearance_count": 9,
+          "time_info": "[07时21分 ~ 14时36分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股收盘）",
@@ -1142,7 +1211,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
@@ -1178,15 +1247,27 @@
           "time_info": "09时48分"
         },
         {
+          "title": "A股稀土永磁板块异动拉升，宁波韵升直线涨停，金力永磁涨超10%，中科三环、广晟有色、大地熊、银河磁体、中科磁业等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3015662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "摩尔线程中一签赚近27万，A股全面注册制以来新纪录！",
           "url": "https://www.cls.cn/detail/2220410",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 14时36分]"
         },
         {
           "title": "期货热点追踪",
@@ -1199,6 +1280,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 11时21分]"
+        },
+        {
+          "title": "A股商业航天概念涨势扩大，航天动力拉升封板",
+          "url": "https://wallstreetcn.com/livenews/3015658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "A股保险股持续拉升，中国太保涨超6%，中国平安涨超5%，中国人保、中国人寿等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3015645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "A股券商股持续走强，中银证券触及涨停，兴业证券涨超7%，湘财股份、东方财富、东北证券、华泰证券跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3015644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-05）",
@@ -1229,21 +1343,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
-          "url": "https://wallstreetcn.com/articles/3760712",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 13时23分]"
-        },
-        {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
           "url": "https://wallstreetcn.com/articles/3760711",
           "source": "华尔街见闻",
@@ -1252,8 +1351,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时36分]"
+        },
+        {
+          "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
+          "url": "https://wallstreetcn.com/articles/3760712",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 14时36分]"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -1346,11 +1461,12 @@
             5,
             9,
             12,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 13时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 14时36分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
