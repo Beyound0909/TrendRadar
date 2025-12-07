@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T11:38:37.562941+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2025-12-07T12:34:47.702848+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
@@ -55,6 +55,18 @@
           "time_info": "[00时26分 ~ 07时21分]"
         },
         {
+          "title": "美国发生特大诈骗案 特朗普怒批",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时34分]"
+        },
+        {
           "title": "特朗普或将给高市早苗放权",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%86%E7%BB%99%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%94%BE%E6%9D%83%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -64,23 +76,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
-        },
-        {
-          "title": "美国发生特大诈骗案 特朗普怒批",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
         }
       ]
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "监事会正退出A股历史舞台，42家上市券商已进行监事会撤销",
@@ -92,8 +93,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 11时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 12时34分]"
         },
         {
           "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
@@ -104,8 +105,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 11时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 12时34分]"
         },
         {
           "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
@@ -115,19 +116,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 11时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 12时34分]"
         },
         {
           "title": "热点不能随意蹭！国安部：个别境外间谍情报机关设恶意Wi-Fi窃密",
           "url": "https://m.thepaper.cn/newsDetail_forward_32124110",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时34分]"
+        },
+        {
+          "title": "国务院台湾事务办公室定于2025年12月10日上午10:00在国台办新闻发布厅举行例行新闻发布会，发言人就近期两岸热点问题回答记者提问。",
+          "url": "https://flash.jin10.com/detail/20251207111716037800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时38分"
+          "time_info": "12时34分"
         }
       ]
     },
@@ -195,11 +208,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 11时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 12时34分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -230,8 +244,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 11时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 12时34分]"
         }
       ]
     },
