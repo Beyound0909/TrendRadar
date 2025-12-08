@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T07:20:37.108545+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2025-12-08T09:48:36.152565+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -18,11 +18,12 @@
             9,
             18,
             26,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 09时48分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -35,8 +36,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 09时48分]"
         },
         {
           "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
@@ -46,8 +47,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时23分 ~ 07时20分]"
+          "appearance_count": 6,
+          "time_info": "[04时23分 ~ 09时48分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -143,55 +144,67 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
-          "url": "https://www.cls.cn/detail/2221983",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
-          "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2221697",
-          "source": "财联社热门",
+          "title": "特朗普：我对泽连斯基有点失望",
+          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            5
+            6
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
-          "title": "热点不能随意蹭！国安部：个别境外间谍情报机关设恶意Wi-Fi窃密",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124110",
-          "source": "澎湃新闻",
+          "title": "特朗普将于美国东部时间周一下午2点（北京时间次日凌晨3点）参加圆桌会议。",
+          "url": "https://flash.jin10.com/detail/20251208093150812800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            17,
-            18,
-            19
+            6
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "以总统拒绝特朗普“求情”",
+          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "美媒：特朗普称泽连斯基尚未阅读美方提出的乌克兰危机最新解决方案，对此“有点失望”",
+          "url": "https://wallstreetcn.com/livenews/3016551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "特朗普责成高级顾问应对牛肉价格飙涨",
+          "url": "https://flash.jin10.com/detail/20251208091017126800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     },
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 2,
+      "match_count": 15,
       "titles": [
         {
           "title": "首批北证50成份指数基金面市三年，最高赚超66%",
@@ -219,6 +232,236 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时21分]"
+        },
+        {
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251208093116870800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251208093112345800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "大金融板块继续走强，瑞达期货2连板，兴业证券、国信证券、华泰证券、湘财股份、国泰海通等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3016561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "焦煤期货主力合约日内大跌6.00%，现报1095.00元/吨。",
+          "url": "https://flash.jin10.com/detail/20251208093039391800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约跌0.14%，10年期主力合约跌0.02%，5年期主力合约跌0.03%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3016559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "焦炭期货主力合约日内跌幅达5%，现报1547.5元/吨。",
+          "url": "https://flash.jin10.com/detail/20251208092923721800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "中证转债指数高开0.03%。再22转债涨超12%，瑞达转债涨超6%，中能转债涨3.6%，沪工转债涨近3%；福蓉转债跌2.7%，东时转债、乐普转2、微导转债等跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3016557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "上证指数开盘报3909.23点，涨0.16%。 深证成指开盘报13178.96点，涨0.24%。 创业板指开盘报3119.15点，涨0.32%。 沪深300开盘报4593.14点，涨0.19%。 科创50开盘报1325.97点，跌0.01%。 中证500开盘报7119.05点，涨0.30%。 中证1000开盘报7359.49点，涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3016552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "恒指低开0.07%，报26067.86点；恒生科技指数涨0.08%。百度涨3.3%，地平线机器人、小米涨近1%；海尔智家跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3016548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "广期所多晶硅期货大幅低开，截至9:05，多晶硅期货所有合约均跌超4%。",
+          "url": "https://flash.jin10.com/detail/20251208090850633800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "台湾证交所加权股价指数高开0.2%报28,034.00点。",
+          "url": "https://wallstreetcn.com/livenews/3016538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "商品期货开盘，焦煤主力合约跌超5%，焦炭跌超4%，乙二醇、淀粉、玉米、甲醇跌超1%。沪银涨超2%，LU燃油、沪铜涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3016537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初涨0.39%，上一个交易日夜盘收涨0.41%。",
+          "url": "https://wallstreetcn.com/livenews/3016535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "China A股 热点 头条 突发 breaking news",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
+          "url": "https://www.cls.cn/detail/2221983",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 09时48分]"
+        },
+        {
+          "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2221697",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 07时20分]"
+        },
+        {
+          "title": "热点不能随意蹭！国安部：个别境外间谍情报机关设恶意Wi-Fi窃密",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124110",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 07时20分]"
+        },
+        {
+          "title": "对日斗争突发新情况",
+          "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E6%97%A5%E6%96%97%E4%BA%89%E7%AA%81%E5%8F%91%E6%96%B0%E6%83%85%E5%86%B5",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "对日斗争，突发新情况",
+          "url": "https://news.ifeng.com/c/8ouO1rug56k",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "A股券商股再度拉升，兴业证券直线涨停，东北证券涨超7%，中银证券、华泰证券、国泰海通、中信证券、广发证券等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3016579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "A股商业航天概念延续强势，顺灏股份7天6板，西部材料2连板，航天科技、广联航空、天箭科技、超捷股份等多股涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3016558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     },
