@@ -1,11 +1,319 @@
 {
-  "generated_at": "2025-12-08T11:24:49.228039+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2025-12-08T12:36:23.548474+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "财经 期货 policy 股票 指数",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "首批北证50成份指数基金面市三年，最高赚超66%",
+          "url": "https://wallstreetcn.com/livenews/3016427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            14,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时21分]"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2025年12月8日 周一",
+          "url": "https://flash.jin10.com/detail/20251208000000001800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时21分]"
+        },
+        {
+          "title": "财联社C50风向指数调查：11月新增贷款及社融或同比少增 CPI有望延续回升态势",
+          "url": "https://www.cls.cn/detail/2222435",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251208093116870800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251208093112345800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "大金融板块继续走强，瑞达期货2连板，兴业证券、国信证券、华泰证券、湘财股份、国泰海通等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3016561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨1%至28,266.76点。",
+          "url": "https://wallstreetcn.com/livenews/3016687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "焦煤期货主力合约日内大跌6.00%，现报1095.00元/吨。",
+          "url": "https://flash.jin10.com/detail/20251208093039391800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约跌0.14%，10年期主力合约跌0.02%，5年期主力合约跌0.03%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3016559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "焦炭期货主力合约日内跌幅达5%，现报1547.5元/吨。",
+          "url": "https://flash.jin10.com/detail/20251208092923721800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "上证指数早盘收报3927.19点，涨0.62%。 深证成指早盘收报13351.47点，涨1.55%。 创业板指早盘收报3203.06点，涨3.02%。 沪深300早盘收报4632.29点，涨1.04%。 科创50早盘收报1348.31点，涨1.67%。 中证500早盘收报7168.66点，涨1.00%。 中证1000早盘收报7419.39点，涨1.05%。",
+          "url": "https://wallstreetcn.com/livenews/3016683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "马来西亚基准指数一度跌0.9%，至1601.50点，创11月28日以来新低。",
+          "url": "https://flash.jin10.com/detail/20251208110016148800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "中证转债指数高开0.03%。再22转债涨超12%，瑞达转债涨超6%，中能转债涨3.6%，沪工转债涨近3%；福蓉转债跌2.7%，东时转债、乐普转2、微导转债等跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3016557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "台湾加权指数涨幅扩大至1%。",
+          "url": "https://flash.jin10.com/detail/20251208114322513800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "上证指数开盘报3909.23点，涨0.16%。 深证成指开盘报13178.96点，涨0.24%。 创业板指开盘报3119.15点，涨0.32%。 沪深300开盘报4593.14点，涨0.19%。 科创50开盘报1325.97点，跌0.01%。 中证500开盘报7119.05点，涨0.30%。 中证1000开盘报7359.49点，涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3016552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.68%，10年期主力合约跌0.09%，5年期主力合约跌0.09%，2年期主力合约跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3016679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "金十图示：2025年12月08日（周一）富时中国A50指数成分股午盘收盘行情一览：银行股多数走高，保险、半导体板块全线上扬",
+          "url": "https://flash.jin10.com/detail/20251208113524345800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "恒指低开0.07%，报26067.86点；恒生科技指数涨0.08%。百度涨3.3%，地平线机器人、小米涨近1%；海尔智家跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3016548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "广期所多晶硅期货大幅低开，截至9:05，多晶硅期货所有合约均跌超4%。",
+          "url": "https://flash.jin10.com/detail/20251208090850633800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251208113126395800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251208113121151800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，焦炭、焦煤跌超6%，多晶硅跌超3%，工业硅、菜粕、双胶纸、尿素跌超2%，线材、豆粕、乙二醇（EG）、螺纹钢跌近2%。涨幅方面，低硫燃料油涨超2%，红枣、碳酸锂、燃料油涨近2%。",
+          "url": "https://flash.jin10.com/detail/20251208113112109800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "日经225指数早盘收盘跌0.04%，日本东证指数早盘收盘涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3016637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "台湾证交所加权股价指数高开0.2%报28,034.00点。",
+          "url": "https://wallstreetcn.com/livenews/3016538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "商品期货开盘，焦煤主力合约跌超5%，焦炭跌超4%，乙二醇、淀粉、玉米、甲醇跌超1%。沪银涨超2%，LU燃油、沪铜涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3016537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初涨0.39%，上一个交易日夜盘收涨0.41%。",
+          "url": "https://wallstreetcn.com/livenews/3016535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "金十期货12月8日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌200元/吨，中间价报90700元/吨。",
+          "url": "https://flash.jin10.com/detail/20251208103210483800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -20,11 +328,12 @@
             26,
             5,
             17,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 11时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 12时36分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -34,11 +343,12 @@
             14,
             15,
             16,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 11时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 12时36分]"
         },
         {
           "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
@@ -59,9 +369,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "特朗普长子：特朗普或退出乌和平进程",
+          "url": "https://www.toutiao.com/trending/7581096689352572934/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -109,6 +430,17 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
+          "title": "特朗普：我对泽连斯基有点失望",
+          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 12时36分]"
+        },
+        {
           "title": "特朗普长子：特朗普可能会因乌克兰的腐败丑闻而退出俄乌和平谈判",
           "url": "https://flash.jin10.com/detail/20251208041940775800",
           "source": "金十数据",
@@ -135,15 +467,16 @@
           "time_info": "[05时19分 ~ 07时20分]"
         },
         {
-          "title": "特朗普：我对泽连斯基有点失望",
-          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
+          "title": "以总统拒绝特朗普“求情”",
+          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
           "source": "凤凰网",
           "ranks": [
-            6
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时24分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 12时36分]"
         },
         {
           "title": "贝森特：不会限制儿童使用“特朗普账户”的方式",
@@ -158,6 +491,18 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
+          "title": "特朗普计划周一宣布一项120亿美元的农业援助计划。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3016665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时36分]"
+        },
+        {
           "title": "内塔尼亚胡：加沙停火第二阶段很快开始，将于本月与特朗普会面",
           "url": "https://flash.jin10.com/detail/20251208050814205800",
           "source": "金十数据",
@@ -170,15 +515,15 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
-          "title": "以总统拒绝特朗普“求情”",
-          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
+          "title": "网飞与华纳达成收购协议，特朗普警告",
+          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
           "source": "凤凰网",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时24分]"
+          "time_info": "[11时24分 ~ 12时36分]"
         },
         {
           "title": "特朗普将于美国东部时间周一下午2点（北京时间次日凌晨3点）参加圆桌会议。",
@@ -190,28 +535,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        },
-        {
-          "title": "特朗普计划周一宣布一项120亿美元的农业援助计划。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3016665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "网飞与华纳达成收购协议，特朗普警告",
-          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
         },
         {
           "title": "美媒：特朗普称泽连斯基尚未阅读美方提出的乌克兰危机最新解决方案，对此“有点失望”",
@@ -236,222 +559,24 @@
           "time_info": "09时48分"
         },
         {
+          "title": "特朗普称对泽连斯基感到失望",
+          "url": "https://www.toutiao.com/trending/7581294692906716710/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "波音：特朗普的政府参股计划不适用于美国大型国防企业",
           "url": "https://flash.jin10.com/detail/20251208104857457800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "首批北证50成份指数基金面市三年，最高赚超66%",
-          "url": "https://wallstreetcn.com/livenews/3016427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            14,
-            16,
-            18
-          ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2025年12月8日 周一",
-          "url": "https://flash.jin10.com/detail/20251208000000001800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时21分]"
-        },
-        {
-          "title": "股指期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20251208093116870800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "国债期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20251208093112345800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "大金融板块继续走强，瑞达期货2连板，兴业证券、国信证券、华泰证券、湘财股份、国泰海通等纷纷高开。",
-          "url": "https://wallstreetcn.com/livenews/3016561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "焦煤期货主力合约日内大跌6.00%，现报1095.00元/吨。",
-          "url": "https://flash.jin10.com/detail/20251208093039391800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约跌0.14%，10年期主力合约跌0.02%，5年期主力合约跌0.03%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3016559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "焦炭期货主力合约日内跌幅达5%，现报1547.5元/吨。",
-          "url": "https://flash.jin10.com/detail/20251208092923721800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "马来西亚基准指数一度跌0.9%，至1601.50点，创11月28日以来新低。",
-          "url": "https://flash.jin10.com/detail/20251208110016148800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "中证转债指数高开0.03%。再22转债涨超12%，瑞达转债涨超6%，中能转债涨3.6%，沪工转债涨近3%；福蓉转债跌2.7%，东时转债、乐普转2、微导转债等跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3016557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "上证指数开盘报3909.23点，涨0.16%。 深证成指开盘报13178.96点，涨0.24%。 创业板指开盘报3119.15点，涨0.32%。 沪深300开盘报4593.14点，涨0.19%。 科创50开盘报1325.97点，跌0.01%。 中证500开盘报7119.05点，涨0.30%。 中证1000开盘报7359.49点，涨0.23%。",
-          "url": "https://wallstreetcn.com/livenews/3016552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "恒指低开0.07%，报26067.86点；恒生科技指数涨0.08%。百度涨3.3%，地平线机器人、小米涨近1%；海尔智家跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3016548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "广期所多晶硅期货大幅低开，截至9:05，多晶硅期货所有合约均跌超4%。",
-          "url": "https://flash.jin10.com/detail/20251208090850633800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "日经225指数早盘收盘跌0.04%，日本东证指数早盘收盘涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3016637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "台湾证交所加权股价指数高开0.2%报28,034.00点。",
-          "url": "https://wallstreetcn.com/livenews/3016538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "商品期货开盘，焦煤主力合约跌超5%，焦炭跌超4%，乙二醇、淀粉、玉米、甲醇跌超1%。沪银涨超2%，LU燃油、沪铜涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3016537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "富时中国A50指数期货盘初涨0.39%，上一个交易日夜盘收涨0.41%。",
-          "url": "https://wallstreetcn.com/livenews/3016535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "金十期货12月8日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌200元/吨，中间价报90700元/吨。",
-          "url": "https://flash.jin10.com/detail/20251208103210483800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "11时24分"
         }
@@ -459,7 +584,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
@@ -506,8 +631,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时24分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 12时36分]"
         },
         {
           "title": "对日斗争，突发新情况",
@@ -517,8 +642,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时24分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 12时36分]"
         },
         {
           "title": "A股券商股再度拉升，兴业证券直线涨停，东北证券涨超7%，中银证券、华泰证券、国泰海通、中信证券、广发证券等跟涨。",
@@ -541,12 +666,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "评论员：留意A股冲高回落的风险",
+          "url": "https://www.toutiao.com/trending/7581303375891811876/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
@@ -567,9 +703,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
+          "url": "https://www.cls.cn/detail/2222331",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         }
       ]
     },
@@ -584,7 +731,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         }
@@ -620,7 +767,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         }
