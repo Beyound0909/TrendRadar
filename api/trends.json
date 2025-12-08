@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T16:35:05.253827+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2025-12-08T17:31:52.072179+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时36分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 17时31分]"
         },
         {
           "title": "首批北证50成份指数基金面市三年，最高赚超66%",
@@ -42,7 +43,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -53,18 +54,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "香港恒生指数收盘下跌1.23%，报25765.36点。恒生科技指数收盘基本持平。华虹半导体涨近4.5%，中芯国际涨近3%。百度集团涨3.45%。",
-          "url": "https://wallstreetcn.com/livenews/3016846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -117,6 +107,18 @@
           "time_info": "[15时27分 ~ 16时35分]"
         },
         {
+          "title": "香港恒生指数收盘下跌1.23%，报25765.36点。恒生科技指数收盘基本持平。华虹半导体涨近4.5%，中芯国际涨近3%。百度集团涨3.45%。",
+          "url": "https://wallstreetcn.com/livenews/3016846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时31分]"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2025年12月8日 周一",
           "url": "https://flash.jin10.com/detail/20251208000000001800",
           "source": "金十数据",
@@ -143,6 +145,18 @@
           "time_info": "[15时27分 ~ 16时35分]"
         },
         {
+          "title": "印度股指Nifty指数日内跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3016839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时31分]"
+        },
+        {
           "title": "台湾证交所加权股价指数上涨1%至28,266.76点。",
           "url": "https://wallstreetcn.com/livenews/3016687",
           "source": "华尔街见闻-快讯",
@@ -165,6 +179,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 13时25分]"
+        },
+        {
+          "title": "欧股开盘涨跌不一。德国DAX指数涨0.61%，英国富时100指数跌0.45%，法国CAC40指数跌0.09%，欧洲斯托克50指数涨0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3016836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时31分]"
         },
         {
           "title": "台湾加权指数涨幅扩大至1%。",
@@ -261,17 +287,6 @@
           "time_info": "15时27分"
         },
         {
-          "title": "印度股指Nifty指数日内跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3016839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
           "title": "国债期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251208093112345800",
           "source": "金十数据",
@@ -333,18 +348,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "欧股开盘涨跌不一。德国DAX指数涨0.61%，英国富时100指数跌0.45%，法国CAC40指数跌0.09%，欧洲斯托克50指数涨0.27%。",
-          "url": "https://wallstreetcn.com/livenews/3016836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -366,7 +370,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -432,7 +436,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -498,7 +502,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -561,7 +565,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -603,6 +607,19 @@
           "time_info": "[00时25分 ~ 15时27分]"
         },
         {
+          "title": "特朗普称对泽连斯基感到失望",
+          "url": "https://www.toutiao.com/trending/7581294692906716710/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 17时31分]"
+        },
+        {
           "title": "特朗普：我对泽连斯基有点失望",
           "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
           "source": "凤凰网",
@@ -638,18 +655,6 @@
           "time_info": "[09时48分 ~ 15时27分]"
         },
         {
-          "title": "特朗普称对泽连斯基感到失望",
-          "url": "https://www.toutiao.com/trending/7581294692906716710/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时36分 ~ 16时35分]"
-        },
-        {
           "title": "市场消息：美国总统特朗普计划于当地时间周一宣布一项价值120亿美元的农业援助计划。",
           "url": "https://flash.jin10.com/detail/20251208111302850800",
           "source": "金十数据",
@@ -681,6 +686,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "特朗普正考虑解雇美国土安全部长诺姆？白宫否认",
+          "url": "https://wallstreetcn.com/livenews/3016887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -754,6 +770,28 @@
           "time_info": "[05时19分 ~ 07时20分]"
         },
         {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时31分]"
+        },
+        {
+          "title": "特朗普政府战略调整，赖清德当局战略冒进",
+          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时31分]"
+        },
+        {
           "title": "贝森特：不会限制儿童使用“特朗普账户”的方式",
           "url": "https://flash.jin10.com/detail/20251208051409167800",
           "source": "金十数据",
@@ -788,28 +826,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
-        },
-        {
-          "title": "特朗普政府战略调整，赖清德当局战略冒进",
-          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "特朗普要求高市早苗不要挑衅中国",
@@ -881,7 +897,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
@@ -948,6 +964,20 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
+          "title": "十大券商看后市｜A股春季行情有望提前演绎，指数或迈上新台阶",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32127705",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时25分 ~ 17时31分]"
+        },
+        {
           "title": "A股行情",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -961,17 +991,16 @@
           "time_info": "[13时25分 ~ 16时35分]"
         },
         {
-          "title": "十大券商看后市｜A股春季行情有望提前演绎，指数或迈上新台阶",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32127705",
-          "source": "澎湃新闻",
+          "title": "A股高开高走，创业板涨超3%，稀土、算力硬件、券商股拉升，港股恒指跌逾1%，30年期国债期货拉升，万科债上涨",
+          "url": "https://wallstreetcn.com/articles/3760893",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            17,
-            14
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时25分 ~ 16时35分]"
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 17时31分]"
         },
         {
           "title": "A股机器人概念股震荡拉升，五洲新春午后涨停，飞龙股份、景业智能、豪能股份、中坚科技、泰尔股份等涨幅居前。",
@@ -996,17 +1025,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 14时38分]"
-        },
-        {
-          "title": "A股高开高走，创业板涨超3%，稀土、算力硬件、券商股拉升，港股恒指跌逾1%，30年期国债期货拉升，万科债上涨",
-          "url": "https://wallstreetcn.com/articles/3760893",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 16时35分]"
         },
         {
           "title": "A股收盘：创业板指高开高走涨2.6%，全市场成交突破2万亿",
@@ -1077,6 +1095,17 @@
           "time_info": "13时25分"
         },
         {
+          "title": "工商银行：A股每股派发现金股息人民币0.1414元（含税）",
+          "url": "https://wallstreetcn.com/livenews/3016882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "A股高开，创业板涨超3%，算力硬件、券商股拉升，港股低开低走，有色低迷，30年期国债期货续跌，万科债上涨",
           "url": "https://wallstreetcn.com/articles/3760893",
           "source": "华尔街见闻",
@@ -1121,6 +1150,17 @@
           "time_info": "12时36分"
         },
         {
+          "title": "A股市场持续回暖 跨年行情开启了吗",
+          "url": "https://www.toutiao.com/trending/7580961416296316991/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "A股福建板块再度拉升，厦门空港直线涨停。厦门“十五五”规划建议，推动厦金率先融合，优化厦金客运、货运航线布局。",
           "url": "https://wallstreetcn.com/livenews/3016728",
           "source": "华尔街见闻-快讯",
@@ -1157,11 +1197,12 @@
             11,
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时36分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 17时31分]"
         },
         {
           "title": "谷歌将举行AndroidXR特别发布会 端侧AI有望迎重磅催化",
@@ -1201,7 +1242,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "欧莱雅将所持高德美股份增持至20%。",
@@ -1214,6 +1255,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时38分 ~ 15时27分]"
+        },
+        {
+          "title": "摩根士丹利重申看好美股前景，因美联储降息预期",
+          "url": "https://wallstreetcn.com/livenews/3016884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "美股盘前，美光科技涨超1.4%，博通涨超1.3%，台积电涨近1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3016879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "Yardeni建议低配美股科技七巨头 预测15年来的科技主线将生变",
