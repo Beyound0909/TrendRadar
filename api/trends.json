@@ -1,596 +1,11 @@
 {
-  "generated_at": "2025-12-09T11:21:42.249675+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2025-12-09T12:31:47.916674+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 50,
-      "titles": [
-        {
-          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
-          "url": "https://news.ifeng.com/c/8ov552jltTT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
-        },
-        {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 11时21分]"
-        },
-        {
-          "title": "据华尔街日报：甲骨文创始人拉里·埃里森在奈飞(NFLX.O)飞交易宣布后给美国总统特朗普打了电话，埃里森告诉特朗普奈飞交易将损害竞争。",
-          "url": "https://flash.jin10.com/detail/20251209092634488800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "伊拉克West Qurna 2油田将在正常水平的基础上增产石油，从而弥补（特朗普政府对俄罗斯制裁）造成的的停产（损失）。",
-          "url": "https://wallstreetcn.com/livenews/3017082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "特朗普：允许英伟达对华出售H200芯片",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%85%81%E8%AE%B8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
-          "url": "https://www.cls.cn/detail/2223487",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "市场消息：美国最高法院保守派（法官）似乎对特朗普解雇联邦贸易委员会委员的举动表示同情。",
-          "url": "https://flash.jin10.com/detail/20251209003933561800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "特朗普威胁墨西哥：如不“立即放水”，再加征5%关税",
-          "url": "https://wallstreetcn.com/livenews/3017324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
-          "url": "https://wallstreetcn.com/livenews/3017166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时22分]"
-        },
-        {
-          "title": "美国总统特朗普：农业设备已经变得太贵了。",
-          "url": "https://flash.jin10.com/detail/20251209034915212800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时20分]"
-        },
-        {
-          "title": "美国总统特朗普：我们将取消那些规定，并希望降低农用设备的价格。",
-          "url": "https://flash.jin10.com/detail/20251209034843942800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时20分]"
-        },
-        {
-          "title": "特朗普政府希望航空公司和机场提供更健康的食品。",
-          "url": "https://flash.jin10.com/detail/20251209044608287800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：我们将取消许多影响拖拉机企业的环境法规。",
-          "url": "https://flash.jin10.com/detail/20251209034748351800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时20分]"
-        },
-        {
-          "title": "美国总统特朗普的政府支持伊拉克“将俄罗斯石油公司LukOil PJSC在West Qurna 2油田的资产转让给美国公司”的计划。",
-          "url": "https://wallstreetcn.com/livenews/3017080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时23分]"
-        },
-        {
-          "title": "迪尔农机/约翰迪尔股价短线转跌，美国总统特朗普要求拖拉机行业立即降价。",
-          "url": "https://wallstreetcn.com/livenews/3017139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时20分]"
-        },
-        {
-          "title": "特朗普女婿库什纳参与派拉蒙对华纳兄弟的竞购",
-          "url": "https://flash.jin10.com/detail/20251209043702412800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "市场消息：特朗普表示欧洲正朝着一些不好的方向发展。",
-          "url": "https://flash.jin10.com/detail/20251209043642647800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。 针对拖拉机行业撤销环境监管。 立即对卡车行业降低环境限制。 拖拉机行业必须立即降价。",
-          "url": "https://wallstreetcn.com/livenews/3017134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时20分]"
-        },
-        {
-          "title": "甲骨文联合创始人埃里森向特朗普表示，华纳兄弟与奈飞的交易或将损害市场竞争。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3017264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 11时21分]"
-        },
-        {
-          "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
-          "url": "https://wallstreetcn.com/livenews/3017101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时35分 ~ 04时27分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普计划的第一阶段任务，现在将集中精力解除加沙的武装并收缴哈马斯的武器。",
-          "url": "https://flash.jin10.com/detail/20251209001747407800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时23分]"
-        },
-        {
-          "title": "美国总统特朗普：尚未就派拉蒙收购案与库什纳（特朗普女婿）交流。",
-          "url": "https://flash.jin10.com/detail/20251209042938587800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：我想做正确的事。奈飞和派拉蒙都不是我的朋友。我得看看奈飞和派拉蒙的市场份额占比。",
-          "url": "https://flash.jin10.com/detail/20251209042850771800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "奈飞：美国总统特朗普对（本公司收购华纳兄弟探索公司这笔）交易的兴趣“与我们一样”。 特朗普“绝对理解电视行业”。 特朗普“热爱娱乐产业”。",
-          "url": "https://wallstreetcn.com/livenews/3017132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时20分]"
-        },
-        {
-          "title": "美国总统特朗普谈疫苗：我们正在研究很多方面。",
-          "url": "https://flash.jin10.com/detail/20251209042735171800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：欧盟对社交媒体平台“X”的罚款是“卑鄙的做法”。",
-          "url": "https://flash.jin10.com/detail/20251209042652565800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：在医疗保健方面，我希望把钱直接发给民众。",
-          "url": "https://flash.jin10.com/detail/20251209042439691800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国驻加拿大大使：特朗普不想终止美墨加协定。",
-          "url": "https://flash.jin10.com/detail/20251209042238279800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：如果我们不得不这么做，我们将最终对来自加拿大的化肥征收高额关税。",
-          "url": "https://flash.jin10.com/detail/20251209041854398800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：我对Paramount敌意收购华纳兄弟探索公司的情况了解得不够多。 必须看看Paramount的市场份额。 还没有与库什纳讨论过Paramount的交易问题。 奈飞和Paramount都不是我的好朋友。",
-          "url": "https://wallstreetcn.com/livenews/3017148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：我认为欧盟对X（原推特）罚款是不对的。 欧洲必须非常谨慎（小心）。 “稍晚”将谈及欧盟这个罚款问题。",
-          "url": "https://wallstreetcn.com/livenews/3017147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：希望人们有钱购买医疗保险。",
-          "url": "https://wallstreetcn.com/livenews/3017146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普：美国不会出现通缩",
-          "url": "https://wallstreetcn.com/livenews/3017143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普宣布允许英伟达向中国出售 H200 芯片，如何评价这一政策转向？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1981651554999169255",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
-          "url": "https://flash.jin10.com/detail/20251209063630862800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "美国最高法院暗示支持特朗普解雇机构领导人",
-          "url": "https://flash.jin10.com/detail/20251209024442293800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国总统特朗普：我们将向农民提供120亿美元的援助。",
-          "url": "https://flash.jin10.com/detail/20251209033517914800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "美议员急了：特朗普你得拉一把日本啊",
-          "url": "https://news.ifeng.com/c/8owI9R84r47",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "美国总统特朗普：美国将拿出一小部分关税收入，用于补贴农民。",
-          "url": "https://flash.jin10.com/detail/20251209033505565800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "市场消息：美国法官裁定特朗普禁止风能项目的行政令是非法的。",
-          "url": "https://flash.jin10.com/detail/20251209062839282800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "美国总统特朗普：正采取行动保护农民。",
-          "url": "https://flash.jin10.com/detail/20251209033225909800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "美国法官认定：总统特朗普对若干风电项目的禁令非法。",
-          "url": "https://wallstreetcn.com/livenews/3017188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "美国法官驳回特朗普政府暂停风能许可的决定",
-          "url": "https://flash.jin10.com/detail/20251209084650898800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "俄总统新闻秘书：目前没有普京与特朗普新年前会晤的消息",
-          "url": "https://wallstreetcn.com/livenews/3017247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "美国总统特朗普：通货膨胀还会进一步下降，但不会通货紧缩。",
-          "url": "https://flash.jin10.com/detail/20251209041301695800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "白宫高级官员表示，美国总统特朗普致力于持续停止暴力，并期望柬埔寨和泰国政府充分履行其结束这场冲突的承诺。",
-          "url": "https://flash.jin10.com/detail/20251209045331690800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美国总统特朗普声称，如有必要，“我们将对加拿大化肥加征关税”。 威胁要对加拿大化肥加征“严厉的”关税。 Nutrien跌幅扩大至2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3017142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片，收取25%的分成",
-          "url": "https://wallstreetcn.com/livenews/3017241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "特朗普：允许对华出售H200芯片",
-          "url": "https://www.douyin.com/hot/2331063",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "特朗普下令：裁员、关闭办公室、利用人工智能提高政府效率",
-          "url": "https://flash.jin10.com/detail/20251209025903477800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 49,
+      "match_count": 57,
       "titles": [
         {
           "title": "金十图示：2025年12月09日（周二）全球股市指数-欧洲市场（收盘）",
@@ -610,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -906,9 +321,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "境内首笔！期货市场正稳步向境外机构开放",
+          "url": "https://wallstreetcn.com/livenews/3017366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "澳大利亚11月企业现况指数回落，信心指数亦下滑",
@@ -920,6 +346,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "印度股指Nifty 50指数跌幅扩大，现跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3017364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "金十图示：2025年12月09日（周二）富时中国A50指数成分股午盘收盘行情一览：成分股大面积飘绿，酿酒、有色金属跌幅居前",
+          "url": "https://flash.jin10.com/detail/20251209113552589800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "德国DAX 30指数初步收涨0.08%，报24044.88点。 法国股指初步收跌0.19%，意大利股指初步收跌0.13%、银行指数涨0.33%，英国股指初步收跌0.32%。",
@@ -983,9 +431,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251209113206178800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "富时中国A50指数期货盘初涨0.06%，上一个交易日夜盘收跌0.01%。",
@@ -1038,9 +497,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251209113202560800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.08%，报7837.75点。 纳斯达克金龙中国指数初步收涨不到0.1%。NXTT涨21%，MicroAlgo涨7%，大全新能源涨4.3%，世纪互联、百度、名创优品涨超3%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.04%，德银嘉实沪深300指数ETF（ASHR）收涨0.48%。 中国科技指数ETF（CQQQ）收涨0.81%，中概互联网指数ETF（KWEB）收跌0.13%。",
@@ -1052,6 +522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "上证指数早盘收报3918.83点，跌0.13%。 深证成指早盘收报13341.62点，涨0.09%。 创业板指早盘收报3224.38点，涨1.07%。 沪深300早盘收报4615.33点，跌0.14%。 科创50早盘收报1350.29点，跌0.04%。 中证500早盘收报7150.74点，跌0.30%。 中证1000早盘收报7412.26点，跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3017355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "澳大利亚11月NAB商业景气指数 7，前值9。",
@@ -1131,6 +612,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.35%，10年期主力合约涨0.12%，5年期主力合约涨0.04%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3017349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "澳大利亚11月NAB商业景气指数 7，前值 9。",
           "url": "https://wallstreetcn.com/livenews/3017232",
           "source": "华尔街见闻-快讯",
@@ -1151,6 +643,604 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，工业硅跌超3%，焦炭、燃料油、焦煤、SC原油、玻璃、低硫燃料油跌超2%，乙二醇、菜油、螺纹钢、热卷跌近2%。涨幅方面，多晶硅涨超2%，纤维板、生猪涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251209113043684800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 50,
+      "titles": [
+        {
+          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
+          "url": "https://news.ifeng.com/c/8ov552jltTT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时20分]"
+        },
+        {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 11时21分]"
+        },
+        {
+          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
+          "url": "https://www.cls.cn/detail/2223487",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 12时31分]"
+        },
+        {
+          "title": "据华尔街日报：甲骨文创始人拉里·埃里森在奈飞(NFLX.O)飞交易宣布后给美国总统特朗普打了电话，埃里森告诉特朗普奈飞交易将损害竞争。",
+          "url": "https://flash.jin10.com/detail/20251209092634488800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "伊拉克West Qurna 2油田将在正常水平的基础上增产石油，从而弥补（特朗普政府对俄罗斯制裁）造成的的停产（损失）。",
+          "url": "https://wallstreetcn.com/livenews/3017082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "特朗普：允许英伟达对华出售H200芯片",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%85%81%E8%AE%B8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "市场消息：美国最高法院保守派（法官）似乎对特朗普解雇联邦贸易委员会委员的举动表示同情。",
+          "url": "https://flash.jin10.com/detail/20251209003933561800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "特朗普威胁墨西哥：如不“立即放水”，再加征5%关税",
+          "url": "https://wallstreetcn.com/livenews/3017324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
+          "url": "https://wallstreetcn.com/livenews/3017166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：农业设备已经变得太贵了。",
+          "url": "https://flash.jin10.com/detail/20251209034915212800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时20分]"
+        },
+        {
+          "title": "美国总统特朗普：我们将取消那些规定，并希望降低农用设备的价格。",
+          "url": "https://flash.jin10.com/detail/20251209034843942800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时20分]"
+        },
+        {
+          "title": "特朗普政府希望航空公司和机场提供更健康的食品。",
+          "url": "https://flash.jin10.com/detail/20251209044608287800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普：我们将取消许多影响拖拉机企业的环境法规。",
+          "url": "https://flash.jin10.com/detail/20251209034748351800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时20分]"
+        },
+        {
+          "title": "美国总统特朗普的政府支持伊拉克“将俄罗斯石油公司LukOil PJSC在West Qurna 2油田的资产转让给美国公司”的计划。",
+          "url": "https://wallstreetcn.com/livenews/3017080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "迪尔农机/约翰迪尔股价短线转跌，美国总统特朗普要求拖拉机行业立即降价。",
+          "url": "https://wallstreetcn.com/livenews/3017139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时20分]"
+        },
+        {
+          "title": "特朗普女婿库什纳参与派拉蒙对华纳兄弟的竞购",
+          "url": "https://flash.jin10.com/detail/20251209043702412800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "市场消息：特朗普表示欧洲正朝着一些不好的方向发展。",
+          "url": "https://flash.jin10.com/detail/20251209043642647800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。 针对拖拉机行业撤销环境监管。 立即对卡车行业降低环境限制。 拖拉机行业必须立即降价。",
+          "url": "https://wallstreetcn.com/livenews/3017134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时20分]"
+        },
+        {
+          "title": "甲骨文联合创始人埃里森向特朗普表示，华纳兄弟与奈飞的交易或将损害市场竞争。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3017264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 11时21分]"
+        },
+        {
+          "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
+          "url": "https://wallstreetcn.com/livenews/3017101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时35分 ~ 04时27分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普计划的第一阶段任务，现在将集中精力解除加沙的武装并收缴哈马斯的武器。",
+          "url": "https://flash.jin10.com/detail/20251209001747407800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "美国总统特朗普：尚未就派拉蒙收购案与库什纳（特朗普女婿）交流。",
+          "url": "https://flash.jin10.com/detail/20251209042938587800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普宣布允许英伟达向中国出售 H200 芯片，如何评价这一政策转向？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1981651554999169255",
+          "source": "知乎",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 12时31分]"
+        },
+        {
+          "title": "美国总统特朗普：我想做正确的事。奈飞和派拉蒙都不是我的朋友。我得看看奈飞和派拉蒙的市场份额占比。",
+          "url": "https://flash.jin10.com/detail/20251209042850771800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "奈飞：美国总统特朗普对（本公司收购华纳兄弟探索公司这笔）交易的兴趣“与我们一样”。 特朗普“绝对理解电视行业”。 特朗普“热爱娱乐产业”。",
+          "url": "https://wallstreetcn.com/livenews/3017132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时20分]"
+        },
+        {
+          "title": "美国总统特朗普谈疫苗：我们正在研究很多方面。",
+          "url": "https://flash.jin10.com/detail/20251209042735171800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "美议员急了：特朗普你得拉一把日本啊",
+          "url": "https://news.ifeng.com/c/8owI9R84r47",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 12时31分]"
+        },
+        {
+          "title": "美国总统特朗普：欧盟对社交媒体平台“X”的罚款是“卑鄙的做法”。",
+          "url": "https://flash.jin10.com/detail/20251209042652565800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普：在医疗保健方面，我希望把钱直接发给民众。",
+          "url": "https://flash.jin10.com/detail/20251209042439691800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "美国驻加拿大大使：特朗普不想终止美墨加协定。",
+          "url": "https://flash.jin10.com/detail/20251209042238279800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普：如果我们不得不这么做，我们将最终对来自加拿大的化肥征收高额关税。",
+          "url": "https://flash.jin10.com/detail/20251209041854398800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普：我对Paramount敌意收购华纳兄弟探索公司的情况了解得不够多。 必须看看Paramount的市场份额。 还没有与库什纳讨论过Paramount的交易问题。 奈飞和Paramount都不是我的好朋友。",
+          "url": "https://wallstreetcn.com/livenews/3017148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为欧盟对X（原推特）罚款是不对的。 欧洲必须非常谨慎（小心）。 “稍晚”将谈及欧盟这个罚款问题。",
+          "url": "https://wallstreetcn.com/livenews/3017147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普：希望人们有钱购买医疗保险。",
+          "url": "https://wallstreetcn.com/livenews/3017146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普：美国不会出现通缩",
+          "url": "https://wallstreetcn.com/livenews/3017143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
+          "url": "https://flash.jin10.com/detail/20251209063630862800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "美国最高法院暗示支持特朗普解雇机构领导人",
+          "url": "https://flash.jin10.com/detail/20251209024442293800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美国总统特朗普：我们将向农民提供120亿美元的援助。",
+          "url": "https://flash.jin10.com/detail/20251209033517914800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "美国总统特朗普：美国将拿出一小部分关税收入，用于补贴农民。",
+          "url": "https://flash.jin10.com/detail/20251209033505565800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "市场消息：美国法官裁定特朗普禁止风能项目的行政令是非法的。",
+          "url": "https://flash.jin10.com/detail/20251209062839282800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "美国总统特朗普：正采取行动保护农民。",
+          "url": "https://flash.jin10.com/detail/20251209033225909800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "美国法官认定：总统特朗普对若干风电项目的禁令非法。",
+          "url": "https://wallstreetcn.com/livenews/3017188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "美国法官驳回特朗普政府暂停风能许可的决定",
+          "url": "https://flash.jin10.com/detail/20251209084650898800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "俄总统新闻秘书：目前没有普京与特朗普新年前会晤的消息",
+          "url": "https://wallstreetcn.com/livenews/3017247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "美国总统特朗普：通货膨胀还会进一步下降，但不会通货紧缩。",
+          "url": "https://flash.jin10.com/detail/20251209041301695800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "白宫高级官员表示，美国总统特朗普致力于持续停止暴力，并期望柬埔寨和泰国政府充分履行其结束这场冲突的承诺。",
+          "url": "https://flash.jin10.com/detail/20251209045331690800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美国总统特朗普声称，如有必要，“我们将对加拿大化肥加征关税”。 威胁要对加拿大化肥加征“严厉的”关税。 Nutrien跌幅扩大至2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3017142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片，收取25%的分成",
+          "url": "https://wallstreetcn.com/livenews/3017241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "特朗普：允许对华出售H200芯片",
+          "url": "https://www.douyin.com/hot/2331063",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "特朗普下令：裁员、关闭办公室、利用人工智能提高政府效率",
+          "url": "https://flash.jin10.com/detail/20251209025903477800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         }
       ]
     },
@@ -1182,19 +1272,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 11时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 12时31分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
           "url": "https://www.cls.cn/detail/2223379",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 11时21分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 12时31分]"
         },
         {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
@@ -1376,6 +1467,157 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
+          "url": "https://www.cls.cn/detail/2223271",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 12时31分]"
+        },
+        {
+          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
+          "url": "https://www.cls.cn/detail/2223368",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时31分]"
+        },
+        {
+          "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
+          "url": "https://wallstreetcn.com/livenews/3017098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时20分]"
+        },
+        {
+          "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
+          "url": "https://flash.jin10.com/detail/20251209034556231800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时20分]"
+        },
+        {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时31分]"
+        },
+        {
+          "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
+          "url": "https://wallstreetcn.com/livenews/3017156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
+          "url": "https://flash.jin10.com/detail/20251209021608071800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时20分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
+          "url": "https://wallstreetcn.com/livenews/3017167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：在谷歌实验室的实验性人工智能应用Doppl中推出可购物的时尚发现信息流。",
+          "url": "https://flash.jin10.com/detail/20251209020747486800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时20分]"
+        },
+        {
+          "title": "谷歌与XREAL联合发布Project Aura",
+          "url": "https://wallstreetcn.com/livenews/3017367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "谷歌：首款人工智能眼镜将于2026年问世",
+          "url": "https://flash.jin10.com/detail/20251209023449862800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "NextEra携手谷歌与埃克森，布局美国数据中心能源供应",
+          "url": "https://flash.jin10.com/detail/20251209041755526800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
       "match_count": 12,
       "titles": [
@@ -1400,8 +1642,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 11时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 12时31分]"
         },
         {
           "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
@@ -1430,16 +1672,30 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
+          "title": "日本突发7.5级地震，中国游客：连滚带爬躲到卫生间",
+          "url": "https://news.ifeng.com/c/8ovXAx8YrLo",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时20分 ~ 12时31分]"
+        },
+        {
           "title": "日本真有事,近海突发7.5级强震",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347820&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%2C%E8%BF%91%E6%B5%B7%E7%AA%81%E5%8F%917.5%E7%BA%A7%E5%BC%BA%E9%9C%87",
           "source": "贴吧",
           "ranks": [
             1,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 11时21分]"
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时31分]"
         },
         {
           "title": "日本突发7.6级地震，中国游客：连滚带爬躲到卫生间",
@@ -1451,18 +1707,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时23分 ~ 04时27分]"
-        },
-        {
-          "title": "日本突发7.5级地震，中国游客：连滚带爬躲到卫生间",
-          "url": "https://news.ifeng.com/c/8ovXAx8YrLo",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时20分 ~ 11时21分]"
         },
         {
           "title": "A股商业航天概念继续活跃，龙洲股份5连板，宝胜股份、西部材料3连板，陕西华达涨超10%，达华智能、航天宏图、雷科防务、顺灏股份跟涨。",
@@ -1482,11 +1726,12 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 11时21分]"
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时31分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-09）",
@@ -1517,148 +1762,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
-          "url": "https://www.cls.cn/detail/2223271",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 11时21分]"
-        },
-        {
-          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
-          "url": "https://www.cls.cn/detail/2223368",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 11时21分]"
-        },
-        {
-          "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
-          "url": "https://wallstreetcn.com/livenews/3017098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时20分]"
-        },
-        {
-          "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
-          "url": "https://flash.jin10.com/detail/20251209034556231800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时20分]"
-        },
-        {
-          "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
-          "url": "https://wallstreetcn.com/livenews/3017156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
-          "url": "https://flash.jin10.com/detail/20251209021608071800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时20分]"
-        },
-        {
-          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
-          "url": "https://www.cls.cn/detail/2223387",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 11时21分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
-          "url": "https://wallstreetcn.com/livenews/3017167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时22分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：在谷歌实验室的实验性人工智能应用Doppl中推出可购物的时尚发现信息流。",
-          "url": "https://flash.jin10.com/detail/20251209020747486800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时20分]"
-        },
-        {
-          "title": "谷歌：首款人工智能眼镜将于2026年问世",
-          "url": "https://flash.jin10.com/detail/20251209023449862800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "NextEra携手谷歌与埃克森，布局美国数据中心能源供应",
-          "url": "https://flash.jin10.com/detail/20251209041755526800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
         }
       ]
     },
@@ -1673,7 +1779,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -1684,7 +1790,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -1695,7 +1801,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         }
@@ -1713,8 +1819,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 11时21分]"
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时31分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
