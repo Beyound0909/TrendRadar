@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-09T14:37:02.431753+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2025-12-09T15:25:07.567270+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 63,
+      "match_count": 71,
       "titles": [
+        {
+          "title": "国债期货收盘，30年期主力合约涨0.45%，10年期主力合约涨0.12%，5年期主力合约涨0.07%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3017478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
         {
           "title": "金十图示：2025年12月09日（周二）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251209004727207800",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251209151609508800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "金十期货12月9日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨700元/吨，中间价报91900元/吨。",
@@ -123,6 +145,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "金十图示：2025年12月09日（周二）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20251209084017648800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 15时25分]"
         },
         {
           "title": "国际原油期货收跌2%，纽约天然气期货收跌约7%",
@@ -351,6 +385,28 @@
           "time_info": "05时20分"
         },
         {
+          "title": "上证指数收报3909.52点，跌0.37%。 深证成指收报13277.36点，跌0.39%。 创业板指收报3209.60点，涨0.61%。 沪深300收报4598.22点，跌0.51%。 科创50收报1347.11点，跌0.27%。 中证500收报7121.33点，跌0.71%。 中证1000收报7380.58点，跌0.57%。",
+          "url": "https://wallstreetcn.com/livenews/3017463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "商品期货收盘，多晶硅主力合约涨超3%，生猪、集运欧线涨超1%。工业硅跌超3%，焦炭、燃料油、玻璃、原油、焦煤跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3017461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "早盘开盘，国内期货主力合约跌多涨少，玻璃、烧碱跌超2%，低硫燃料油、焦炭、原油、焦煤、乙二醇（EG）、玉米、淀粉、纯碱、菜油、燃料油、豆二跌超1%。涨幅方面，沪锌、棉花、BR橡胶小幅上涨。",
           "url": "https://flash.jin10.com/detail/20251209090003876800",
           "source": "金十数据",
@@ -384,6 +440,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "金十图示：2025年12月09日（周二）富时中国A50指数成分股今日收盘行情一览：成分股大面积飘绿，消费电子、通讯设备板块逆势走高",
+          "url": "https://flash.jin10.com/detail/20251209150233862800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "金十图示：2025年12月09日（周二）富时中国A50指数成分股午盘收盘行情一览：成分股大面积飘绿，酿酒、有色金属跌幅居前",
           "url": "https://flash.jin10.com/detail/20251209113552589800",
           "source": "金十数据",
@@ -393,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251209150111455800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "澳大利亚ASX 200指数跌幅扩大至0.5%。澳大利亚3年期国债收益率升至2024年11月以来最高水平。稍早澳洲联储主席布洛克称确实讨论了在什么情况下可能会需要收紧货币政策。",
@@ -406,6 +484,17 @@
           "time_info": "13时23分"
         },
         {
+          "title": "午盘收盘，国内期货主力合约大面积飘绿，工业硅跌超3%，焦炭、燃料油、SC原油、焦煤、玻璃跌超2%，低硫燃料油、菜油、沪铝、玉米跌近2%。涨幅方面，多晶硅涨超3%，生猪、纤维板、集运欧线涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251209150040953800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "德国DAX 30指数初步收涨0.08%，报24044.88点。 法国股指初步收跌0.19%，意大利股指初步收跌0.13%、银行指数涨0.33%，英国股指初步收跌0.32%。",
           "url": "https://wallstreetcn.com/livenews/3017085",
           "source": "华尔街见闻-快讯",
@@ -415,17 +504,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "金十图示：2025年12月09日（周二）投机情绪指数",
-          "url": "https://flash.jin10.com/detail/20251209084017648800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
         },
         {
           "title": "欧洲STOXX 600指数初步收跌0.12%，报578.06点。 欧元区STOXX 50指数初步收跌0.04%，报5721.56点。 富时泛欧绩优300指数初步收跌0.05%，报2304.93点。",
@@ -478,7 +556,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -632,9 +710,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "日经225指数收盘上涨0.14%，报50655.10点。韩国首尔综合指数收盘下跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3017447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "Carvana涨9.1%，CRH涨6.8%，这两家公司被纳入标普500指数。",
@@ -728,7 +817,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -740,8 +829,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 15时25分]"
+        },
+        {
+          "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
+          "url": "https://news.ifeng.com/c/8owNK695xvD",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时21分 ~ 14时37分]"
+          "time_info": "[13时23分 ~ 15时25分]"
         },
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -768,17 +868,6 @@
           "time_info": "[00时31分 ~ 11时21分]"
         },
         {
-          "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
-          "url": "https://news.ifeng.com/c/8owNK695xvD",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 14时37分]"
-        },
-        {
           "title": "据华尔街日报：甲骨文创始人拉里·埃里森在奈飞(NFLX.O)飞交易宣布后给美国总统特朗普打了电话，埃里森告诉特朗普奈飞交易将损害竞争。",
           "url": "https://flash.jin10.com/detail/20251209092634488800",
           "source": "金十数据",
@@ -799,6 +888,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "特朗普女婿，“杀回来了”",
+          "url": "https://news.ifeng.com/c/8owSp96lgRc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 15时25分]"
         },
         {
           "title": "特朗普：允许英伟达对华出售H200芯片",
@@ -967,15 +1067,16 @@
           "time_info": "[09时47分 ~ 11时21分]"
         },
         {
-          "title": "特朗普女婿，“杀回来了”",
-          "url": "https://news.ifeng.com/c/8owSp96lgRc",
-          "source": "凤凰网",
+          "title": "特朗普：是否公布视频由美防长决定",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%98%AF%E5%90%A6%E5%85%AC%E5%B8%83%E8%A7%86%E9%A2%91%E7%94%B1%E7%BE%8E%E9%98%B2%E9%95%BF%E5%86%B3%E5%AE%9A",
+          "source": "百度热搜",
           "ranks": [
-            6
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 15时25分]"
         },
         {
           "title": "美议员急了：特朗普你得拉一把日本啊",
@@ -1087,6 +1188,17 @@
           "time_info": "[05时20分 ~ 06时22分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
+        },
+        {
           "title": "美国总统特朗普：在医疗保健方面，我希望把钱直接发给民众。",
           "url": "https://flash.jin10.com/detail/20251209042439691800",
           "source": "金十数据",
@@ -1169,17 +1281,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普：是否公布视频由美防长决定",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%98%AF%E5%90%A6%E5%85%AC%E5%B8%83%E8%A7%86%E9%A2%91%E7%94%B1%E7%BE%8E%E9%98%B2%E9%95%BF%E5%86%B3%E5%AE%9A",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
         },
         {
           "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
@@ -1349,6 +1450,259 @@
       ]
     },
     {
+      "keyword_group": "China A股 热点 头条 突发 breaking news",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "A股唯二！美的集团完成单次百亿回购",
+          "url": "https://www.cls.cn/detail/2223188",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 11时21分]"
+        },
+        {
+          "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
+          "url": "https://wallstreetcn.com/articles/3760893",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时25分]"
+        },
+        {
+          "title": "日本真有事,近海突发7.5级强震",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347820&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%2C%E8%BF%91%E6%B5%B7%E7%AA%81%E5%8F%917.5%E7%BA%A7%E5%BC%BA%E9%9C%87",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 15时25分]"
+        },
+        {
+          "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
+          "url": "https://www.cls.cn/detail/2222901",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
+          "title": "十大券商看后市｜A股春季行情有望提前演绎，指数或迈上新台阶",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32127705",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
+          "title": "日本突发7.5级地震，中国游客：连滚带爬躲到卫生间",
+          "url": "https://news.ifeng.com/c/8ovXAx8YrLo",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时20分 ~ 12时31分]"
+        },
+        {
+          "title": "日本突发7.6级地震，中国游客：连滚带爬躲到卫生间",
+          "url": "https://news.ifeng.com/c/8ovXAx8YrLo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 04时27分]"
+        },
+        {
+          "title": "日本近海突发强震，高市早苗“神色慌张”一路小跑进入官邸",
+          "url": "https://news.ifeng.com/c/8owQ4vbmjuV",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 15时25分]"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2025-12-09）",
+          "url": "https://flash.jin10.com/detail/20251209151138740800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "A股商业航天概念继续活跃，龙洲股份5连板，宝胜股份、西部材料3连板，陕西华达涨超10%，达华智能、航天宏图、雷科防务、顺灏股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3017276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 11时21分]"
+        },
+        {
+          "title": "日本震中突发大火 民众开车逃命",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%9C%87%E4%B8%AD%E7%AA%81%E5%8F%91%E5%A4%A7%E7%81%AB+%E6%B0%91%E4%BC%97%E5%BC%80%E8%BD%A6%E9%80%83%E5%91%BD",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            8,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 13时23分]"
+        },
+        {
+          "title": "今年A股打新又“躺赢”了",
+          "url": "https://www.toutiao.com/trending/7580835377917804586/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
+        },
+        {
+          "title": "A股收盘：创业板指冲高回落涨0.61%，算力硬件、福建板块持续走强",
+          "url": "https://wallstreetcn.com/livenews/3017466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-09）",
+          "url": "https://flash.jin10.com/detail/20251209090418087800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "分析人士认为，当前A股市场或仍处于超跌修复演绎中，赚钱效应回暖后交投情绪有望进一步回升，跨年行情有望徐徐展开。（中证报）",
+          "url": "https://wallstreetcn.com/livenews/3017189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "A股光伏设备板块尾盘拉升，通威股份、协鑫集成、双良节能纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3017456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "A股光伏概念午后局部异动，清源股份直线涨停。",
+          "url": "https://wallstreetcn.com/livenews/3017417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "A股算力概念再度拉升，宏景科技、东方材料触及涨停，此前中创环保、鸿博股份涨停，慧辰股份、光环新网、奥飞数据、平治信息等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3017446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251209101818942800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "A股福建板块再度拉升，福建高速直线涨停，中创环保、舒华体育、欣贺股份、龙洲股份、安记食品、东百集团等十余股此前涨停。",
+          "url": "https://wallstreetcn.com/livenews/3017413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "A股商业航天概念股午后再度走强，航天机电涨停，走出8天5板，乾照光电涨近10%，创出历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3017407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 18,
       "titles": [
@@ -1361,8 +1715,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 14时37分]"
+          "appearance_count": 9,
+          "time_info": "[07时22分 ~ 15时25分]"
         },
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
@@ -1571,203 +1925,6 @@
       ]
     },
     {
-      "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "A股唯二！美的集团完成单次百亿回购",
-          "url": "https://www.cls.cn/detail/2223188",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 11时21分]"
-        },
-        {
-          "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
-          "url": "https://wallstreetcn.com/articles/3760893",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 14时37分]"
-        },
-        {
-          "title": "日本真有事,近海突发7.5级强震",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347820&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%2C%E8%BF%91%E6%B5%B7%E7%AA%81%E5%8F%917.5%E7%BA%A7%E5%BC%BA%E9%9C%87",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 14时37分]"
-        },
-        {
-          "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
-          "url": "https://www.cls.cn/detail/2222901",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "十大券商看后市｜A股春季行情有望提前演绎，指数或迈上新台阶",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32127705",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "日本突发7.5级地震，中国游客：连滚带爬躲到卫生间",
-          "url": "https://news.ifeng.com/c/8ovXAx8YrLo",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时20分 ~ 12时31分]"
-        },
-        {
-          "title": "日本突发7.6级地震，中国游客：连滚带爬躲到卫生间",
-          "url": "https://news.ifeng.com/c/8ovXAx8YrLo",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 04时27分]"
-        },
-        {
-          "title": "A股商业航天概念继续活跃，龙洲股份5连板，宝胜股份、西部材料3连板，陕西华达涨超10%，达华智能、航天宏图、雷科防务、顺灏股份跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3017276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 11时21分]"
-        },
-        {
-          "title": "日本震中突发大火 民众开车逃命",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%9C%87%E4%B8%AD%E7%AA%81%E5%8F%91%E5%A4%A7%E7%81%AB+%E6%B0%91%E4%BC%97%E5%BC%80%E8%BD%A6%E9%80%83%E5%91%BD",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            8,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 13时23分]"
-        },
-        {
-          "title": "日本近海突发强震，高市早苗“神色慌张”一路小跑进入官邸",
-          "url": "https://news.ifeng.com/c/8owQ4vbmjuV",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 14时37分]"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-09）",
-          "url": "https://flash.jin10.com/detail/20251209090418087800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "分析人士认为，当前A股市场或仍处于超跌修复演绎中，赚钱效应回暖后交投情绪有望进一步回升，跨年行情有望徐徐展开。（中证报）",
-          "url": "https://wallstreetcn.com/livenews/3017189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "A股光伏概念午后局部异动，清源股份直线涨停。",
-          "url": "https://wallstreetcn.com/livenews/3017417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251209101818942800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "A股福建板块再度拉升，福建高速直线涨停，中创环保、舒华体育、欣贺股份、龙洲股份、安记食品、东百集团等十余股此前涨停。",
-          "url": "https://wallstreetcn.com/livenews/3017413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "A股商业航天概念股午后再度走强，航天机电涨停，走出8天5板，乾照光电涨近10%，创出历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3017407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 12,
       "titles": [
@@ -1780,8 +1937,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 15时25分]"
         },
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -1806,11 +1963,12 @@
             12,
             13,
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 15时25分]"
         },
         {
           "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
@@ -1922,6 +2080,67 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月09日（周二）上海金早盘价为949.8元/克，较国际金价(952.4元/克)，低2.6元/克",
+          "url": "https://flash.jin10.com/detail/20251209110221893800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "策略师：金价2026年的涨势可能放缓",
+          "url": "https://flash.jin10.com/detail/20251209105812551800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "金十图示：2025年12月09日（周二）上海金午盘价为946.96元/克，较国际金价(950.39元/克)，低3.43元/克",
+          "url": "https://flash.jin10.com/detail/20251209150248326800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "美联储主席热门人选哈塞特隔夜意外发表“鹰派”表态，降息预期遭受打压，金价多头情绪大幅回落，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
+          "url": "https://flash.jin10.com/detail/20251209104127597800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "土耳其银行业人士：土耳其央行上周的净储备预计已增加55亿美元，达到近780亿美元。土耳其央行上周购买了逾30亿美元资产，其中因金价变动带来的增值超过10亿美元。",
+          "url": "https://flash.jin10.com/detail/20251209144133610800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
@@ -1958,8 +2177,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 15时25分]"
         }
       ]
     },
@@ -1967,6 +2186,18 @@
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。德国电信将使用ChatGPT企业版。",
+          "url": "https://wallstreetcn.com/livenews/3017432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时25分]"
+        },
         {
           "title": "OpenAI报告称：企业人工智能应用激增",
           "url": "https://wallstreetcn.com/livenews/3017061",
@@ -1980,65 +2211,15 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
-          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。德国电信将使用ChatGPT企业版。",
-          "url": "https://wallstreetcn.com/livenews/3017432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
           "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
           "url": "https://flash.jin10.com/detail/20251209140918642800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月09日（周二）上海金早盘价为949.8元/克，较国际金价(952.4元/克)，低2.6元/克",
-          "url": "https://flash.jin10.com/detail/20251209110221893800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "策略师：金价2026年的涨势可能放缓",
-          "url": "https://flash.jin10.com/detail/20251209105812551800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "美联储主席热门人选哈塞特隔夜意外发表“鹰派”表态，降息预期遭受打压，金价多头情绪大幅回落，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
-          "url": "https://flash.jin10.com/detail/20251209104127597800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时21分"
         }
       ]
     },
@@ -2055,8 +2236,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 15时25分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
