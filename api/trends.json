@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T16:34:02.432553+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2025-12-09T17:27:50.437231+08:00",
+  "total_titles_processed": 1531,
   "failed_sources": [],
   "trends": [
     {
@@ -52,17 +52,6 @@
           "time_info": "11时21分"
         },
         {
-          "title": "金十图示：2025年12月09日（周二）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20251209161424912800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
           "title": "美国劳工统计局（BLS）暂时不会发布美国10月PPI数据。 BLS将于2026年1月14日发布10月和11月PPI数据。 取消发布10月进出口价格指数，改期至1月15日。",
           "url": "https://wallstreetcn.com/livenews/3017078",
           "source": "华尔街见闻-快讯",
@@ -109,6 +98,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
+          "title": "金十图示：2025年12月09日（周二）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251209161424912800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时27分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.05%，报25763点。 恒生科技指数主连夜盘收跌0.25%，报5654点。",
@@ -448,7 +449,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -514,7 +515,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -852,7 +853,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -865,8 +866,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时21分 ~ 16时34分]"
+          "appearance_count": 10,
+          "time_info": "[11时21分 ~ 17时27分]"
         },
         {
           "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
@@ -968,6 +969,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 17时27分]"
         },
         {
           "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
@@ -1103,18 +1116,6 @@
           "time_info": "[09时47分 ~ 11时21分]"
         },
         {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 16时34分]"
-        },
-        {
           "title": "特朗普：是否公布视频由美防长决定",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%98%AF%E5%90%A6%E5%85%AC%E5%B8%83%E8%A7%86%E9%A2%91%E7%94%B1%E7%BE%8E%E9%98%B2%E9%95%BF%E5%86%B3%E5%AE%9A",
           "source": "百度热搜",
@@ -1137,6 +1138,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时21分 ~ 13时23分]"
+        },
+        {
+          "title": "美国总统特朗普：本周将针对人工智能发布单一规则行政命令",
+          "url": "https://wallstreetcn.com/articles/3760944",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时27分]"
         },
         {
           "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
@@ -1234,17 +1246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：本周将针对人工智能发布单一规则行政命令",
-          "url": "https://wallstreetcn.com/articles/3760944",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "美国总统特朗普：在医疗保健方面，我希望把钱直接发给民众。",
@@ -1408,6 +1409,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "特朗普预告：本周将签行政令 为AI制定统一国家规则",
+          "url": "https://www.cls.cn/detail/2223447",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "美国法官驳回特朗普政府暂停风能许可的决定",
           "url": "https://flash.jin10.com/detail/20251209084650898800",
           "source": "金十数据",
@@ -1491,7 +1503,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -1502,7 +1514,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -1524,7 +1536,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         }
@@ -1556,8 +1568,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 16时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 17时27分]"
         },
         {
           "title": "日本真有事,近海突发7.5级强震",
@@ -1568,11 +1580,12 @@
             5,
             6,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时47分 ~ 16时34分]"
+          "appearance_count": 11,
+          "time_info": "[09时47分 ~ 17时27分]"
         },
         {
           "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
@@ -1787,7 +1800,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -1973,6 +1986,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "美股盘前，英伟达延续昨日涨势，现涨超2%，英特尔涨超1%。热门中概股涨跌互现，阿里巴巴跌1%，百度跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3017543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "美股收盘：三大股指收跌 特斯拉跌超3%",
           "url": "https://flash.jin10.com/detail/20251209050046236800",
           "source": "金十数据",
@@ -2054,17 +2078,6 @@
           "time_info": "[09时47分 ~ 15时25分]"
         },
         {
-          "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
-          "url": "https://flash.jin10.com/detail/20251209161413716800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
           "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
           "url": "https://wallstreetcn.com/livenews/3017098",
           "source": "华尔街见闻-快讯",
@@ -2088,6 +2101,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时20分]"
+        },
+        {
+          "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
+          "url": "https://flash.jin10.com/detail/20251209161413716800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时27分]"
+        },
+        {
+          "title": "市场消息：欧洲监管机构将调查谷歌(GOOG.O)是否违反竞争法。",
+          "url": "https://flash.jin10.com/detail/20251209161206794800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时27分]"
+        },
+        {
+          "title": "市场消息：欧洲监管机构对谷歌(GOOG.O)人工智能使用在线内容展开调查。",
+          "url": "https://flash.jin10.com/detail/20251209161139815800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时27分]"
         },
         {
           "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
@@ -2150,35 +2199,13 @@
           "time_info": "[02时35分 ~ 03时20分]"
         },
         {
-          "title": "市场消息：欧洲监管机构将调查谷歌(GOOG.O)是否违反竞争法。",
-          "url": "https://flash.jin10.com/detail/20251209161206794800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "市场消息：欧洲监管机构对谷歌(GOOG.O)人工智能使用在线内容展开调查。",
-          "url": "https://flash.jin10.com/detail/20251209161139815800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
           "title": "欧盟将调查谷歌是否违反竞争法",
           "url": "https://wallstreetcn.com/livenews/3017511",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -2302,11 +2329,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时36分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[14时36分 ~ 17时27分]"
         }
       ]
     },
@@ -2364,8 +2392,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时47分 ~ 16时34分]"
+          "appearance_count": 11,
+          "time_info": "[09时47分 ~ 17时27分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
