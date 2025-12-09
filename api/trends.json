@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T18:29:01.874781+08:00",
-  "total_titles_processed": 1636,
+  "generated_at": "2025-12-09T19:22:39.857096+08:00",
+  "total_titles_processed": 1736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 76,
+      "match_count": 80,
       "titles": [
         {
           "title": "金十图示：2025年12月09日（周二）全球股市指数-欧洲市场（收盘）",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "莱茵生物：秦本军先生正在筹划公司控制权变更事宜，拟向交易对手方协议转让其持有的部分公司股份并放弃其持有的部分公司股份表决权。股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3017628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "富宝资讯：碳酸锂期货盘面盘整运行，富宝电池级碳酸锂报92350元/吨",
@@ -41,6 +52,17 @@
           "time_info": "15时25分"
         },
         {
+          "title": "美国小企业乐观指数回升 劳动力短缺与通胀压力仍存",
+          "url": "https://flash.jin10.com/detail/20251209191119671800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "金十期货12月9日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨700元/吨，中间价报91900元/吨。",
           "url": "https://flash.jin10.com/detail/20251209110302543800",
           "source": "金十数据",
@@ -61,17 +83,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "11月中国快递发展指数同比提升3%",
-          "url": "https://wallstreetcn.com/livenews/3017599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
         },
         {
           "title": "上期所原油期货2501合约夜盘收跌1.84%，报448.00元人民币/桶。 沪金夜盘收跌0.72%，沪银收跌0.69%。",
@@ -169,6 +180,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "11月中国快递发展指数同比提升3%",
+          "url": "https://wallstreetcn.com/livenews/3017599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时22分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）投机情绪指数",
@@ -427,7 +450,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -564,6 +587,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "美国11月NFIB小型企业信心指数 99，前值98.2。",
+          "url": "https://flash.jin10.com/detail/20251209190002357800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收跌0.12%，报578.06点。 欧元区STOXX 50指数初步收跌0.04%，报5721.56点。 富时泛欧绩优300指数初步收跌0.05%，报2304.93点。",
           "url": "https://wallstreetcn.com/livenews/3017084",
           "source": "华尔街见闻-快讯",
@@ -694,6 +728,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "美国11月NFIB小型企业信心指数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251209185000000800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.08%，报7837.75点。 纳斯达克金龙中国指数初步收涨不到0.1%。NXTT涨21%，MicroAlgo涨7%，大全新能源涨4.3%，世纪互联、百度、名创优品涨超3%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.04%，德银嘉实沪深300指数ETF（ASHR）收涨0.48%。 中国科技指数ETF（CQQQ）收涨0.81%，中概互联网指数ETF（KWEB）收跌0.13%。",
@@ -875,7 +920,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -933,11 +978,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时24分 ~ 18时29分]"
+          "appearance_count": 8,
+          "time_info": "[15时24分 ~ 19时22分]"
         },
         {
           "title": "据华尔街日报：甲骨文创始人拉里·埃里森在奈飞(NFLX.O)飞交易宣布后给美国总统特朗普打了电话，埃里森告诉特朗普奈飞交易将损害竞争。",
@@ -973,6 +1019,17 @@
           "time_info": "[13时23分 ~ 15时25分]"
         },
         {
+          "title": "据Politico：美国总统特朗普表示，欧洲国家“正在走向衰败”，领导人“软弱”。",
+          "url": "https://flash.jin10.com/detail/20251209191036728800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "特朗普：允许英伟达对华出售H200芯片",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%85%81%E8%AE%B8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
           "source": "百度热搜",
@@ -993,6 +1050,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "匈牙利福林兑美元抹去涨幅，据报特朗普否认承诺救助匈牙利。",
+          "url": "https://flash.jin10.com/detail/20251209190828500800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "特朗普威胁墨西哥：如不“立即放水”，再加征5%关税",
@@ -1361,9 +1429,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "据Politico：特朗普否认承诺救助匈牙利。",
+          "url": "https://flash.jin10.com/detail/20251209190736130800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
@@ -1399,6 +1478,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "路透社/益普索民意调查：随着共和党人支持美国总统特朗普应对生活成本问题的方式，对其工作方面的支持率从38%升至41%。",
+          "url": "https://flash.jin10.com/detail/20251209190617908800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "美国总统特朗普：美国将拿出一小部分关税收入，用于补贴农民。",
           "url": "https://flash.jin10.com/detail/20251209033505565800",
           "source": "金十数据",
@@ -1432,6 +1522,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "路透社/益普索民意调查：西语裔对美国总统特朗普的支持率微升至34%。",
+          "url": "https://flash.jin10.com/detail/20251209190541205800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "美国法官认定：总统特朗普对若干风电项目的禁令非法。",
           "url": "https://wallstreetcn.com/livenews/3017188",
           "source": "华尔街见闻-快讯",
@@ -1441,6 +1542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "路透社/益普索民意调查：美国总统特朗普在生活成本问题上的支持率从26%升至31%，其中共和党内的支持率大幅上涨10个百分点。",
+          "url": "https://flash.jin10.com/detail/20251209190527721800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "特朗普预告：本周将签行政令 为AI制定统一国家规则",
@@ -1615,11 +1727,12 @@
             6,
             8,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时47分 ~ 18时29分]"
+          "appearance_count": 14,
+          "time_info": "[09时47分 ~ 19时22分]"
         },
         {
           "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
@@ -1720,6 +1833,18 @@
           "time_info": "[09时47分 ~ 13时23分]"
         },
         {
+          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
+          "url": "https://wallstreetcn.com/articles/3760975",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 19时22分]"
+        },
+        {
           "title": "A股收盘：创业板指冲高回落涨0.61%，算力硬件、福建板块持续走强",
           "url": "https://wallstreetcn.com/livenews/3017466",
           "source": "华尔街见闻-快讯",
@@ -1730,17 +1855,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时25分 ~ 16时34分]"
-        },
-        {
-          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
-          "url": "https://wallstreetcn.com/articles/3760975",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "期货热点追踪",
@@ -1846,7 +1960,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -2021,6 +2135,17 @@
           "time_info": "[07时22分 ~ 09时47分]"
         },
         {
+          "title": "英伟达美股盘前涨幅收窄至1%。",
+          "url": "https://wallstreetcn.com/livenews/3017613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "英伟达美股盘后涨幅扩大至2.7%。",
           "url": "https://wallstreetcn.com/livenews/3017185",
           "source": "华尔街见闻-快讯",
@@ -2161,6 +2286,18 @@
           "time_info": "[16时34分 ~ 17时27分]"
         },
         {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 19时22分]"
+        },
+        {
           "title": "市场消息：欧洲监管机构将调查谷歌(GOOG.O)是否违反竞争法。",
           "url": "https://flash.jin10.com/detail/20251209161206794800",
           "source": "金十数据",
@@ -2207,17 +2344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 13时23分]"
-        },
-        {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
@@ -2366,8 +2492,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时36分 ~ 18时29分]"
+          "appearance_count": 10,
+          "time_info": "[14时36分 ~ 19时22分]"
         },
         {
           "title": "梁文锋入选《自然》年度十大科学人物",
@@ -2450,8 +2576,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时47分 ~ 18时29分]"
+          "appearance_count": 14,
+          "time_info": "[09时47分 ~ 19时22分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
