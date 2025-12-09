@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-09T15:25:07.567270+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2025-12-09T16:34:02.432553+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 71,
+      "match_count": 74,
       "titles": [
-        {
-          "title": "国债期货收盘，30年期主力合约涨0.45%，10年期主力合约涨0.12%，5年期主力合约涨0.07%，2年期主力合约涨0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3017478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
         {
           "title": "金十图示：2025年12月09日（周二）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251209004727207800",
@@ -47,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -61,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "金十图示：2025年12月09日（周二）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251209161424912800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "美国劳工统计局（BLS）暂时不会发布美国10月PPI数据。 BLS将于2026年1月14日发布10月和11月PPI数据。 取消发布10月进出口价格指数，改期至1月15日。",
@@ -85,6 +85,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时35分 ~ 04时27分]"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约涨0.45%，10年期主力合约涨0.12%，5年期主力合约涨0.07%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3017478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时34分]"
         },
         {
           "title": "周一（12月8日）纽约尾盘，标普500股指期货最终跌0.21%，道指期货跌0.43%，纳斯达克100股指期货跌0.08%。 罗素2000股指期货跌0.04%。",
@@ -217,6 +229,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时47分 ~ 11时21分]"
+        },
+        {
+          "title": "上证指数收报3909.52点，跌0.37%。 深证成指收报13277.36点，跌0.39%。 创业板指收报3209.60点，涨0.61%。 沪深300收报4598.22点，跌0.51%。 科创50收报1347.11点，跌0.27%。 中证500收报7121.33点，跌0.71%。 中证1000收报7380.58点，跌0.57%。",
+          "url": "https://wallstreetcn.com/livenews/3017463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时34分]"
         },
         {
           "title": "美国劳工统计局：将不会发布2025年10月美国进出口价格指数（MXP）的新闻稿。",
@@ -385,24 +409,13 @@
           "time_info": "05时20分"
         },
         {
-          "title": "上证指数收报3909.52点，跌0.37%。 深证成指收报13277.36点，跌0.39%。 创业板指收报3209.60点，涨0.61%。 沪深300收报4598.22点，跌0.51%。 科创50收报1347.11点，跌0.27%。 中证500收报7121.33点，跌0.71%。 中证1000收报7380.58点，跌0.57%。",
-          "url": "https://wallstreetcn.com/livenews/3017463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "商品期货收盘，多晶硅主力合约涨超3%，生猪、集运欧线涨超1%。工业硅跌超3%，焦炭、燃料油、玻璃、原油、焦煤跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3017461",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -429,6 +442,17 @@
           "time_info": "11时21分"
         },
         {
+          "title": "香港恒生指数收盘下跌1.29%，恒生科技指数跌1.9%。药明生物涨1.88%。华虹半导体和中芯国际分别跌5.4%和4.1%。",
+          "url": "https://wallstreetcn.com/livenews/3017507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "澳大利亚11月企业现况指数回落，信心指数亦下滑",
           "url": "https://flash.jin10.com/detail/20251209085018350800",
           "source": "金十数据",
@@ -446,7 +470,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -468,7 +492,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -484,13 +508,24 @@
           "time_info": "13时23分"
         },
         {
+          "title": "欧洲斯托克50指数开盘上涨0.03%。法国CAC40指数开盘上涨0.04%。德国DAX指数涨0.09%。英国富时100指数跌0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3017503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "午盘收盘，国内期货主力合约大面积飘绿，工业硅跌超3%，焦炭、燃料油、SC原油、焦煤、玻璃跌超2%，低硫燃料油、菜油、沪铝、玉米跌近2%。涨幅方面，多晶硅涨超3%，生猪、纤维板、集运欧线涨超1%。",
           "url": "https://flash.jin10.com/detail/20251209150040953800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -721,7 +756,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -817,7 +852,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -826,11 +861,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时21分 ~ 15时25分]"
+          "appearance_count": 9,
+          "time_info": "[11时21分 ~ 16时34分]"
         },
         {
           "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
@@ -1067,6 +1103,18 @@
           "time_info": "[09时47分 ~ 11时21分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 16时34分]"
+        },
+        {
           "title": "特朗普：是否公布视频由美防长决定",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%98%AF%E5%90%A6%E5%85%AC%E5%B8%83%E8%A7%86%E9%A2%91%E7%94%B1%E7%BE%8E%E9%98%B2%E9%95%BF%E5%86%B3%E5%AE%9A",
           "source": "百度热搜",
@@ -1188,15 +1236,15 @@
           "time_info": "[05时20分 ~ 06时22分]"
         },
         {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
+          "title": "美国总统特朗普：本周将针对人工智能发布单一规则行政命令",
+          "url": "https://wallstreetcn.com/articles/3760944",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时25分]"
+          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "美国总统特朗普：在医疗保健方面，我希望把钱直接发给民众。",
@@ -1437,6 +1485,28 @@
           "time_info": "09时47分"
         },
         {
+          "title": "特朗普为关税政策强硬辩护：最高法院若推翻关税政策将是美“历史性威胁”",
+          "url": "https://flash.jin10.com/detail/20251209154928270800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "美国总统特朗普：正是因为关税的便捷与快速实施，我们的国家安全才得到极大增强，我们也成为了当今世界金融实力最强的国家。",
+          "url": "https://flash.jin10.com/detail/20251209154623905800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "特朗普下令：裁员、关闭办公室、利用人工智能提高政府效率",
           "url": "https://flash.jin10.com/detail/20251209025903477800",
           "source": "金十数据",
@@ -1446,6 +1516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "美国总统特朗普：对美国国家安全最大的历史性威胁，将是美国最高法院就关税问题作出的不利裁决。届时，我们在经济上将毫无防御能力。",
+          "url": "https://flash.jin10.com/detail/20251209154605581800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     },
@@ -1475,8 +1556,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 15时25分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 16时34分]"
         },
         {
           "title": "日本真有事,近海突发7.5级强震",
@@ -1486,11 +1567,12 @@
             1,
             5,
             6,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 15时25分]"
+          "appearance_count": 10,
+          "time_info": "[09时47分 ~ 16时34分]"
         },
         {
           "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
@@ -1560,7 +1642,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -1591,6 +1673,18 @@
           "time_info": "[09时47分 ~ 13时23分]"
         },
         {
+          "title": "A股收盘：创业板指冲高回落涨0.61%，算力硬件、福建板块持续走强",
+          "url": "https://wallstreetcn.com/livenews/3017466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时34分]"
+        },
+        {
           "title": "今年A股打新又“躺赢”了",
           "url": "https://www.toutiao.com/trending/7580835377917804586/",
           "source": "今日头条",
@@ -1600,17 +1694,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时24分 ~ 15时25分]"
-        },
-        {
-          "title": "A股收盘：创业板指冲高回落涨0.61%，算力硬件、福建板块持续走强",
-          "url": "https://wallstreetcn.com/livenews/3017466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-09）",
@@ -1641,7 +1724,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -1663,7 +1746,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -1926,7 +2009,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -1969,6 +2052,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时47分 ~ 15时25分]"
+        },
+        {
+          "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
+          "url": "https://flash.jin10.com/detail/20251209161413716800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
@@ -2056,6 +2150,39 @@
           "time_info": "[02时35分 ~ 03时20分]"
         },
         {
+          "title": "市场消息：欧洲监管机构将调查谷歌(GOOG.O)是否违反竞争法。",
+          "url": "https://flash.jin10.com/detail/20251209161206794800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "市场消息：欧洲监管机构对谷歌(GOOG.O)人工智能使用在线内容展开调查。",
+          "url": "https://flash.jin10.com/detail/20251209161139815800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "欧盟将调查谷歌是否违反竞争法",
+          "url": "https://wallstreetcn.com/livenews/3017511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
           "url": "https://flash.jin10.com/detail/20251209023449862800",
           "source": "金十数据",
@@ -2112,7 +2239,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -2134,7 +2261,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
@@ -2174,11 +2301,12 @@
           "url": "https://www.zhihu.com/question/1981658527434053567",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[14时36分 ~ 16时34分]"
         }
       ]
     },
@@ -2236,8 +2364,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 15时25分]"
+          "appearance_count": 10,
+          "time_info": "[09时47分 ~ 16时34分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
