@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T19:22:39.857096+08:00",
-  "total_titles_processed": 1736,
+  "generated_at": "2025-12-09T20:50:14.197302+08:00",
+  "total_titles_processed": 1843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 80,
+      "match_count": 83,
       "titles": [
         {
           "title": "金十图示：2025年12月09日（周二）全球股市指数-欧洲市场（收盘）",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -466,6 +466,17 @@
           "time_info": "15时25分"
         },
         {
+          "title": "思瑞浦：终止购买宁波奥拉半导体股份有限公司股权，股票复牌。",
+          "url": "https://wallstreetcn.com/livenews/3017680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "早盘开盘，国内期货主力合约跌多涨少，玻璃、烧碱跌超2%，低硫燃料油、焦炭、原油、焦煤、乙二醇（EG）、玉米、淀粉、纯碱、菜油、燃料油、豆二跌超1%。涨幅方面，沪锌、棉花、BR橡胶小幅上涨。",
           "url": "https://flash.jin10.com/detail/20251209090003876800",
           "source": "金十数据",
@@ -565,6 +576,17 @@
           "time_info": "16时34分"
         },
         {
+          "title": "ST凯文：公司股票自2025年12月11日开市起复牌撤销其他风险警示，公司股票简称变更为“凯撒文化”。",
+          "url": "https://wallstreetcn.com/livenews/3017675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "午盘收盘，国内期货主力合约大面积飘绿，工业硅跌超3%，焦炭、燃料油、SC原油、焦煤、玻璃跌超2%，低硫燃料油、菜油、沪铝、玉米跌近2%。涨幅方面，多晶硅涨超3%，生猪、纤维板、集运欧线涨超1%。",
           "url": "https://flash.jin10.com/detail/20251209150040953800",
           "source": "金十数据",
@@ -587,13 +609,24 @@
           "time_info": "01时23分"
         },
         {
+          "title": "嘉美包装：控股股东中包香港正在筹划有关公司控制权变更事宜，该事项可能导致公司实际控制人发生变更，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3017673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "美国11月NFIB小型企业信心指数 99，前值98.2。",
           "url": "https://flash.jin10.com/detail/20251209190002357800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -736,7 +769,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -920,7 +953,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -935,6 +968,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时21分 ~ 17时27分]"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时24分 ~ 20时50分]"
         },
         {
           "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
@@ -970,20 +1018,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 11时21分]"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时24分 ~ 19时22分]"
         },
         {
           "title": "据华尔街日报：甲骨文创始人拉里·埃里森在奈飞(NFLX.O)飞交易宣布后给美国总统特朗普打了电话，埃里森告诉特朗普奈飞交易将损害竞争。",
@@ -1025,7 +1059,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -1058,7 +1092,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -1423,6 +1457,17 @@
           "time_info": "[05时20分 ~ 06时22分]"
         },
         {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 20时50分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-09）",
           "url": "https://flash.jin10.com/detail/20251209181308403800",
           "source": "金十数据",
@@ -1440,7 +1485,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -1484,7 +1529,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -1528,7 +1573,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -1550,7 +1595,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -1685,12 +1730,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "据Politico，特朗普称降息是美联储主席的试金石。",
+          "url": "https://wallstreetcn.com/livenews/3017651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "特朗普可能会通过调整关税来降低部分商品价格。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3017647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "A股唯二！美的集团完成单次百亿回购",
@@ -1731,8 +1798,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时47分 ~ 19时22分]"
+          "appearance_count": 16,
+          "time_info": "[09时47分 ~ 20时50分]"
         },
         {
           "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
@@ -1807,6 +1874,18 @@
           "time_info": "15时25分"
         },
         {
+          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
+          "url": "https://wallstreetcn.com/articles/3760975",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 20时50分]"
+        },
+        {
           "title": "A股商业航天概念继续活跃，龙洲股份5连板，宝胜股份、西部材料3连板，陕西华达涨超10%，达华智能、航天宏图、雷科防务、顺灏股份跟涨。",
           "url": "https://wallstreetcn.com/livenews/3017276",
           "source": "华尔街见闻-快讯",
@@ -1831,18 +1910,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时47分 ~ 13时23分]"
-        },
-        {
-          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
-          "url": "https://wallstreetcn.com/articles/3760975",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时22分]"
         },
         {
           "title": "A股收盘：创业板指冲高回落涨0.61%，算力硬件、福建板块持续走强",
@@ -1955,12 +2022,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "嘉澳环保：收到中国证券监督管理委员会浙江监管局下发的《行政处罚事先告知书》，公司股票将被实施其他风险警示，实施后A股简称为ST嘉澳。",
+          "url": "https://wallstreetcn.com/livenews/3017645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -2135,13 +2213,24 @@
           "time_info": "[07时22分 ~ 09时47分]"
         },
         {
+          "title": "CoreWeave美股盘前下跌1.7%，公司将1.75%的可转换优先票据定价为22.5亿美元，高于最初计划的20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3017684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "英伟达美股盘前涨幅收窄至1%。",
           "url": "https://wallstreetcn.com/livenews/3017613",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -2249,6 +2338,18 @@
           "time_info": "[09时47分 ~ 15时25分]"
         },
         {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 20时50分]"
+        },
+        {
           "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
           "url": "https://wallstreetcn.com/livenews/3017098",
           "source": "华尔街见闻-快讯",
@@ -2284,18 +2385,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时34分 ~ 17时27分]"
-        },
-        {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时22分]"
         },
         {
           "title": "市场消息：欧洲监管机构将调查谷歌(GOOG.O)是否违反竞争法。",
@@ -2576,8 +2665,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时47分 ~ 19时22分]"
+          "appearance_count": 16,
+          "time_info": "[09时47分 ~ 20时50分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
