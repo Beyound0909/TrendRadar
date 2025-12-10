@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T07:52:40.646656+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2025-12-10T09:50:02.047888+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 38,
+      "match_count": 47,
       "titles": [
         {
           "title": "资产管理公司Mario Gabelli自称，“非常可能会”将客户所持华纳兄弟探索（WBD）股票转让给竞购WBD的Paramount Skydance（派拉蒙）。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251210093109694800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "周二（12月9日）纽约尾盘，标普500股指期货最终跌0.11%，道指期货跌0.43%，纳斯达克100股指期货涨0.06%。 罗素2000股指期货涨0.21%。",
@@ -273,6 +284,17 @@
           "time_info": "[05时20分 ~ 06时22分]"
         },
         {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251210093105911800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "沪银期货主力合约涨幅逼近4%，现涨至14130元/千克，续创历史新高。",
           "url": "https://flash.jin10.com/detail/20251210000418168800",
           "source": "金十数据",
@@ -323,7 +345,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -345,9 +367,53 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约跌0.11%，10年期主力合约跌0.03%，5年期主力合约涨0.01%，2年期主力合约基本持平。",
+          "url": "https://wallstreetcn.com/livenews/3018011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "中证转债指数开盘持平。N茂莱转涨30%触发临停，再22转债涨8%，豫光转债涨超3%；沪工转债跌近3%，华懋转债跌2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3018007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "上证指数开盘报3901.13点，跌0.21%。 深证成指开盘报13251.27点，跌0.20%。 创业板指开盘报3201.38点，跌0.26%。 沪深300开盘报4586.25点，跌0.26%。 科创50开盘报1337.52点，跌0.71%。 中证500开盘报7111.57点，跌0.14%。 中证1000开盘报7367.49点，跌0.18%。",
+          "url": "https://wallstreetcn.com/livenews/3018005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "恒指开盘持平，报25435.49点；恒生科技指数微跌0.04%。美团涨1.1%，百度涨0.9%；网易、比亚迪电子跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3018001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "纽约白银期货涨穿60美元整数位心理关口，创历史新高",
@@ -389,7 +455,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -427,6 +493,39 @@
           "time_info": "06时22分"
         },
         {
+          "title": "台湾证交所加权股价指数开盘变动不大。",
+          "url": "https://wallstreetcn.com/livenews/3017993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "商品期货开盘，沪银主力合约涨近4%。苯乙烯、氧化铝跌超2%，纯碱、燃料油、甲醇、原油、玻璃、沪镍、沪铜跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3017992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初跌0.14%，上一个交易日夜盘收跌0.18%。",
+          "url": "https://wallstreetcn.com/livenews/3017990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "美国天然气期货日内大跌6.00%，现报4.617美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20251210032239665800",
           "source": "金十数据",
@@ -452,7 +551,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 42,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -485,11 +584,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 07时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 09时50分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -519,6 +619,19 @@
           "time_info": "[01时23分 ~ 07时52分]"
         },
         {
+          "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
+          "url": "https://news.ifeng.com/c/8ox4f6sWwBR",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时55分 ~ 09时50分]"
+        },
+        {
           "title": "特朗普宣布向农民发放百亿援助大礼包 或仍难挡美国农业继续下滑",
           "url": "https://www.cls.cn/detail/2224247",
           "source": "财联社热门",
@@ -531,16 +644,15 @@
           "time_info": "[00时49分 ~ 06时22分]"
         },
         {
-          "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
-          "url": "https://news.ifeng.com/c/8ox4f6sWwBR",
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
           "source": "凤凰网",
           "ranks": [
-            9,
-            10
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时55分 ~ 07时52分]"
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
         },
         {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
@@ -553,6 +665,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时49分 ~ 03时18分]"
+        },
+        {
+          "title": "特朗普：泽连斯基要开始接受现实了",
+          "url": "https://www.toutiao.com/trending/7581295755181424686/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "特朗普：明天需要给柬埔寨和泰国打电话。",
+          "url": "https://wallstreetcn.com/livenews/3018039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "特朗普暗示质疑拜登使用自动签名机签署的美联储官员任命",
+          "url": "https://flash.jin10.com/detail/20251210094055607800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
@@ -700,6 +845,17 @@
           "time_info": "[05时02分 ~ 05时20分]"
         },
         {
+          "title": "特朗普：北约叫我爸爸",
+          "url": "https://www.toutiao.com/trending/7581363071462408202/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
           "title": "报道：美联储主席候选人本周将接受特朗普最后一轮面试，有人建议给哈塞特一个“缩水”的任期",
           "url": "https://wallstreetcn.com/livenews/3017905",
           "source": "华尔街见闻-快讯",
@@ -717,7 +873,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -728,7 +884,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -761,7 +917,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -772,7 +928,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -794,7 +950,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -805,7 +961,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -816,7 +972,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -843,13 +999,24 @@
           "time_info": "02时55分"
         },
         {
+          "title": "美国总统特朗普称，他听说拜登使用自动签字笔签署了美联储理事会一些民主党成员的任命，并建议他可以挑战这些任命的合法性。",
+          "url": "https://wallstreetcn.com/livenews/3017994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "据消息人士透露，特朗普计划任命国土安全部副部长担任美国驻萨尔瓦多大使，这将是国土安全部领导层结构的一次重大调整。",
           "url": "https://flash.jin10.com/detail/20251210062629989800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -860,9 +1027,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "日本央行行长植田和男称，美国经济经受住了特朗普关税的考验。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3017988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     },
@@ -880,8 +1058,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 07时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 09时50分]"
         },
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
@@ -904,6 +1082,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
+          "url": "https://www.cls.cn/detail/2224722",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 09时50分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（12月9日），美国科技股七巨头（Magnificent 7）指数涨0.11%，报208.56点。 “超大”市值科技股指数涨0.37%，报406.51点，低开后美股早盘持续收复失地并转涨，日内大部分时间高位窄幅震荡。",
@@ -951,17 +1141,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 05时20分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
-          "url": "https://www.cls.cn/detail/2224722",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
         },
         {
           "title": "周二（12月9日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨2.12%，报92915美元。 CME以太币期货DCR主力合约涨5.97%，报3330.50美元。 美股加密货币与加密货币关联指数涨3.59%，报72.92点，美股开盘后至北京时间01:00持续走高，之后高位震荡。 最近24小时，MarketVector数字资产100小盘指数涨1.28%，暂报4209.80点。",
@@ -1101,7 +1280,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -1145,6 +1324,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 09时50分]"
+        },
+        {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
           "url": "https://wallstreetcn.com/livenews/3017850",
           "source": "华尔街见闻-快讯",
@@ -1168,17 +1359,6 @@
           "time_info": "01时24分"
         },
         {
-          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
-          "url": "https://wallstreetcn.com/articles/3760995",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
           "url": "https://flash.jin10.com/detail/20251210023813881800",
           "source": "金十数据",
@@ -1196,7 +1376,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
@@ -1204,7 +1384,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1216,6 +1396,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时49分 ~ 06时22分]"
+        },
+        {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
@@ -1245,7 +1436,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "突发！90亿软件开发股董事长被实施留置|盘后公告集锦",
@@ -1254,22 +1445,24 @@
           "ranks": [
             12,
             11,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 09时50分]"
         },
         {
           "title": "日本真有事,近海突发7.5级强震",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347820&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%2C%E8%BF%91%E6%B5%B7%E7%AA%81%E5%8F%917.5%E7%BA%A7%E5%BC%BA%E9%9C%87",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 07时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 09时50分]"
         },
         {
           "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
@@ -1281,6 +1474,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时49分 ~ 01时24分]"
+        },
+        {
+          "title": "广东一住宅突发火灾致8死",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E4%BD%8F%E5%AE%85%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE%E8%87%B48%E6%AD%BB%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
         }
       ]
     },
