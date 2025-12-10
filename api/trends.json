@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-10T15:25:40.341601+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2025-12-10T16:33:15.020569+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 73,
+      "match_count": 76,
       "titles": [
-        {
-          "title": "国债期货收盘，30年期主力合约涨0.30%，10年期主力合约涨0.06%，5年期主力合约涨0.06%，2年期主力合约涨0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3018266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
         {
           "title": "资产管理公司Mario Gabelli自称，“非常可能会”将客户所持华纳兄弟探索（WBD）股票转让给竞购WBD的Paramount Skydance（派拉蒙）。",
           "url": "https://wallstreetcn.com/livenews/3017908",
@@ -50,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "香港恒生指数收盘上涨0.42%。恒生科技指数收盘上涨0.48%。地平线机器人涨超3%，美团涨2.7%。万科企业收涨超13%。",
+          "url": "https://wallstreetcn.com/livenews/3018310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "沪银收涨3.55%，报14116元人民币/千克。 沪金夜盘收涨0.20%。 上期所原油期货2501合约夜盘收跌1.31%，报443.40元人民币/桶。",
@@ -149,6 +149,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 05时20分]"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约涨0.30%，10年期主力合约涨0.06%，5年期主力合约涨0.06%，2年期主力合约涨0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3018266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时33分]"
         },
         {
           "title": "美国商品期货交易委员会：截至11月4日当周，股票基金经理将标普500芝商所（CME）净多头仓位削减12,419手合约，至894,397手。股票基金投机者将标普500芝商所（CME）净空头头寸削减58,857手合约，降至399,647手。",
@@ -332,6 +344,18 @@
           "time_info": "[00时49分 ~ 01时24分]"
         },
         {
+          "title": "内盘期货收盘走势分化，沪银涨逾5%，集运欧线涨逾3%，碳酸锂、沪锡涨逾2%；氧化铝跌逾3%，纯碱、玻璃跌逾2%，焦煤、棕榈油、原油、生猪跌逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3018255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时33分]"
+        },
+        {
           "title": "早盘收盘，国内期货主力合约涨跌不一，沪银、集运欧线涨超4%，焦炭、铁矿石涨超2%，碳酸锂、橡胶、20号胶、豆二、钯、多晶硅、铂、豆一涨超1%。跌幅方面，氧化铝、苯乙烯、纯碱、原木跌超2%，工业硅、玻璃、纯苯跌近2%。",
           "url": "https://flash.jin10.com/detail/20251210113045755800",
           "source": "金十数据",
@@ -380,6 +404,17 @@
           "time_info": "[05时20分 ~ 06时22分]"
         },
         {
+          "title": "【午报】三大指数全线下挫，海南自贸概念股逆势活跃，摩尔线程涨近20%再创新高",
+          "url": "https://www.cls.cn/detail/2225045",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
           "title": "金十期货整理 | 多数机构指出市场对美联储降息预期基本交易结束，后市需关注哪方面进展？",
           "url": "https://flash.jin10.com/detail/20251210112304275800",
           "source": "金十数据",
@@ -403,13 +438,24 @@
           "time_info": "09时50分"
         },
         {
+          "title": "金十图示：2025年12月10日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251210161555341800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "国债期货午盘收盘",
           "url": "https://flash.jin10.com/detail/20251210151608893800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -436,17 +482,6 @@
           "time_info": "05时20分"
         },
         {
-          "title": "内盘期货收盘走势分化，沪银涨逾5%，集运欧线涨逾3%，碳酸锂、沪锡涨逾2%；氧化铝跌逾3%，纯碱、玻璃跌逾2%，焦煤、棕榈油、原油、生猪跌逾1%。",
-          "url": "https://wallstreetcn.com/livenews/3018255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "恒指期货夜盘收跌0.16%，报25399点，低水35点。",
           "url": "https://flash.jin10.com/detail/20251210030120292800",
           "source": "金十数据",
@@ -464,7 +499,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -497,7 +532,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -552,7 +587,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -596,7 +631,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -640,7 +675,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -673,7 +708,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -706,7 +741,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -846,7 +881,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
@@ -894,8 +929,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时49分 ~ 15时25分]"
+          "appearance_count": 23,
+          "time_info": "[00时49分 ~ 16时33分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -954,11 +989,12 @@
           "url": "https://news.ifeng.com/c/8oyCMciyCox",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 15时25分]"
+          "appearance_count": 5,
+          "time_info": "[14时36分 ~ 16时33分]"
         },
         {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
@@ -982,6 +1018,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "特朗普：明天需要给柬埔寨和泰国打电话。",
@@ -1164,6 +1211,17 @@
           "time_info": "[13时24分 ~ 14时37分]"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
           "title": "以色列议会议长阿米尔·奥哈纳和美国众议院议长约翰逊共同发起了一项全球议会倡议，提名特朗普角逐2026年诺贝尔和平奖。",
           "url": "https://flash.jin10.com/detail/20251210041816454800",
           "source": "金十数据",
@@ -1232,6 +1290,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "特朗普谈泰柬冲突：我得打个电话",
+          "url": "https://www.toutiao.com/trending/7582060214204104755/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "特朗普抱怨为什么收垃圾国家移民",
@@ -1445,6 +1514,181 @@
       ]
     },
     {
+      "keyword_group": "China A股 热点 头条 突发 breaking news",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "突发！90亿软件开发股董事长被实施留置|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2224513",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 09时50分]"
+        },
+        {
+          "title": "日本真有事,近海突发7.5级强震",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347820&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%2C%E8%BF%91%E6%B5%B7%E7%AA%81%E5%8F%917.5%E7%BA%A7%E5%BC%BA%E9%9C%87",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            17,
+            20,
+            22,
+            23,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时49分 ~ 16时33分]"
+        },
+        {
+          "title": "较发行价涨五倍！摩尔线程股价晋升A股Top3 新一代GPU架构即将发布",
+          "url": "https://www.cls.cn/detail/2225021",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 16时33分]"
+        },
+        {
+          "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
+          "url": "https://wallstreetcn.com/articles/3760975",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时49分 ~ 16时33分]"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2025-12-10）",
+          "url": "https://flash.jin10.com/detail/20251210151807524800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "A股教育板块直线拉升，中公教育涨停，豆神教育、学大教育、科德教育、全通教育、昂立教育等纷纷走高。",
+          "url": "https://wallstreetcn.com/livenews/3018232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时25分]"
+        },
+        {
+          "title": "A股收评：物业房地产等概念走强",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E7%89%A9%E4%B8%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%AD%89%E6%A6%82%E5%BF%B5%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 16时33分]"
+        },
+        {
+          "title": "A股港股午后集体拉升 房地产板块涨幅居前",
+          "url": "https://wallstreetcn.com/livenews/3018223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时25分]"
+        },
+        {
+          "title": "A股收盘：创业板指探底回升微跌，海南、房地产板块集体走强",
+          "url": "https://wallstreetcn.com/livenews/3018258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时33分]"
+        },
+        {
+          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，摩尔线程涨超20%，算力硬件走弱，贵金属走强，港股指数转涨，有色大涨",
+          "url": "https://wallstreetcn.com/articles/3761064",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
+          "title": "广东一住宅突发火灾致8死",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E4%BD%8F%E5%AE%85%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE%E8%87%B48%E6%AD%BB%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "A股海南自贸区板块再度拉升，神农种业逼近20CM涨停，海南发展、京粮控股、海德股份午后涨停，康芝药业、欣龙控股、凯撒旅业、海峡股份涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3018170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "A股贵金属板块午后拉升，晓程科技涨超15%，湖南白银、山金黄金、招金黄金跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3018163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "A股福建板块反复活跃，德艺文创、永辉超市、惠泉啤酒、安记食品、昇兴股份、厦门港务、安妮股份等多股此前涨停。",
+          "url": "https://wallstreetcn.com/livenews/3018074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
@@ -1597,167 +1841,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "突发！90亿软件开发股董事长被实施留置|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2224513",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 09时50分]"
-        },
-        {
-          "title": "日本真有事,近海突发7.5级强震",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347820&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%2C%E8%BF%91%E6%B5%B7%E7%AA%81%E5%8F%917.5%E7%BA%A7%E5%BC%BA%E9%9C%87",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            17,
-            20,
-            22,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时49分 ~ 15时25分]"
-        },
-        {
-          "title": "较发行价涨五倍！摩尔线程股价晋升A股Top3 新一代GPU架构即将发布",
-          "url": "https://www.cls.cn/detail/2225021",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 15时25分]"
-        },
-        {
-          "title": "金十数据整理：A股每日市场要闻回顾（2025-12-10）",
-          "url": "https://flash.jin10.com/detail/20251210151807524800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
-          "url": "https://wallstreetcn.com/articles/3760975",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 14时37分]"
-        },
-        {
-          "title": "A股教育板块直线拉升，中公教育涨停，豆神教育、学大教育、科德教育、全通教育、昂立教育等纷纷走高。",
-          "url": "https://wallstreetcn.com/livenews/3018232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时25分]"
-        },
-        {
-          "title": "A股港股午后集体拉升 房地产板块涨幅居前",
-          "url": "https://wallstreetcn.com/livenews/3018223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时25分]"
-        },
-        {
-          "title": "广东一住宅突发火灾致8死",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E4%BD%8F%E5%AE%85%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE%E8%87%B48%E6%AD%BB%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 09时50分]"
-        },
-        {
-          "title": "A股海南自贸区板块再度拉升，神农种业逼近20CM涨停，海南发展、京粮控股、海德股份午后涨停，康芝药业、欣龙控股、凯撒旅业、海峡股份涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3018170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "A股收盘：创业板指探底回升微跌，海南、房地产板块集体走强",
-          "url": "https://wallstreetcn.com/livenews/3018258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "A股贵金属板块午后拉升，晓程科技涨超15%，湖南白银、山金黄金、招金黄金跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3018163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "A股收评：物业房地产等概念走强",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E7%89%A9%E4%B8%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%AD%89%E6%A6%82%E5%BF%B5%E8%B5%B0%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "A股福建板块反复活跃，德艺文创、永辉超市、惠泉啤酒、安记食品、昇兴股份、厦门港务、安妮股份等多股此前涨停。",
-          "url": "https://wallstreetcn.com/livenews/3018074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
         }
       ]
     },
@@ -1958,8 +2041,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时49分 ~ 15时25分]"
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 16时33分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -2021,7 +2104,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
