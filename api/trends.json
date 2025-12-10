@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-10T18:28:57.226684+08:00",
-  "total_titles_processed": 1654,
+  "generated_at": "2025-12-10T19:21:39.802020+08:00",
+  "total_titles_processed": 1744,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 79,
+      "match_count": 83,
       "titles": [
+        {
+          "title": "福晶科技：本次股票异常波动期间，公司控股股东、实际控制人物构所通过集中竞价交易方式减持公司股份104.29万股。",
+          "url": "https://wallstreetcn.com/livenews/3018426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
         {
           "title": "资产管理公司Mario Gabelli自称，“非常可能会”将客户所持华纳兄弟探索（WBD）股票转让给竞购WBD的Paramount Skydance（派拉蒙）。",
           "url": "https://wallstreetcn.com/livenews/3017908",
@@ -187,6 +198,19 @@
           "time_info": "[05时02分 ~ 05时20分]"
         },
         {
+          "title": "【每日收评】三大指数探底回升涨跌不一，海南板块全天强势，算力硬件股午后再度回暖",
+          "url": "https://www.cls.cn/detail/2225395",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时21分]"
+        },
+        {
           "title": "标普500指数转跌，道指跌175点跌幅将近0.4%，纳指涨0.16%。",
           "url": "https://wallstreetcn.com/livenews/3017851",
           "source": "华尔街见闻-快讯",
@@ -220,18 +244,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时32分 ~ 17时28分]"
-        },
-        {
-          "title": "【每日收评】三大指数探底回升涨跌不一，海南板块全天强势，算力硬件股午后再度回暖",
-          "url": "https://www.cls.cn/detail/2225395",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 18时28分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月10日 周三",
@@ -496,6 +508,17 @@
           "time_info": "15时25分"
         },
         {
+          "title": "金十期货12月10日讯，船运调查机构ITS数据显示，马来西亚12月1-10日棕榈油出口量为390442吨，较上月同期出口的459320吨减少15%。",
+          "url": "https://flash.jin10.com/detail/20251210184823193800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "沪银期货主力合约涨幅逼近4%，现涨至14130元/千克，续创历史新高。",
           "url": "https://flash.jin10.com/detail/20251210000418168800",
           "source": "金十数据",
@@ -538,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251210184253327800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "标普500指数初步收跌0.1%，保健板块跌1%，工业、房地产、金融板块至多跌0.7%，科技板块则涨0.1%，能源板块涨0.6%。 纳斯达克100指数初步收涨0.1%，成分股中，Applovin涨5%，华纳兄弟探索公司WBD涨3.8%，Strategy涨2.8%，美光科技涨2.3%，Meta则收跌1.6%，安森美半导体跌2%，迈威尔科技跌3.3%，ORLY跌3.9%。",
@@ -892,6 +926,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "皮阿诺：公司股票自12月11日起继续停牌预计不超3个交易日",
+          "url": "https://wallstreetcn.com/livenews/3018381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "美国天然气期货日内大跌6.00%，现报4.617美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20251210032239665800",
           "source": "金十数据",
@@ -917,7 +962,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
@@ -977,8 +1022,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时49分 ~ 18时28分]"
+          "appearance_count": 27,
+          "time_info": "[00时49分 ~ 19时21分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -1042,8 +1087,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时32分 ~ 18时28分]"
+          "appearance_count": 6,
+          "time_info": "[16时32分 ~ 19时21分]"
         },
         {
           "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
@@ -1054,8 +1099,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时32分 ~ 18时28分]"
+          "appearance_count": 6,
+          "time_info": "[16时32分 ~ 19时21分]"
         },
         {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
@@ -1101,6 +1146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "特朗普政府官员称，美国要求国际刑事法院承诺不起诉美国总统特朗普及其高级官员，否则将对更多国际刑事法院官员实施制裁。",
+          "url": "https://flash.jin10.com/detail/20251210190033358800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
@@ -1261,6 +1317,17 @@
           "time_info": "[13时24分 ~ 14时37分]"
         },
         {
+          "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
+          "url": "https://news.ifeng.com/c/8oySvvFnvcj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 19时21分]"
+        },
+        {
           "title": "以色列议会议长阿米尔·奥哈纳和美国众议院议长约翰逊共同发起了一项全球议会倡议，提名特朗普角逐2026年诺贝尔和平奖。",
           "url": "https://flash.jin10.com/detail/20251210041816454800",
           "source": "金十数据",
@@ -1309,6 +1376,18 @@
           "time_info": "[05时02分 ~ 05时20分]"
         },
         {
+          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 19时21分]"
+        },
+        {
           "title": "特朗普厕所门口受访被人推门撞到",
           "url": "https://www.toutiao.com/trending/7582097221663936046/",
           "source": "今日头条",
@@ -1353,17 +1432,6 @@
           "time_info": "[14时36分 ~ 14时37分]"
         },
         {
-          "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
-          "url": "https://news.ifeng.com/c/8oySvvFnvcj",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
           "title": "报道：美联储主席候选人本周将接受特朗普最后一轮面试，有人建议给哈塞特一个“缩水”的任期",
           "url": "https://wallstreetcn.com/livenews/3017905",
           "source": "华尔街见闻-快讯",
@@ -1392,7 +1460,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1428,6 +1496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "特朗普继续数落欧洲 德总理：要做好“欧美不同行”的准备",
+          "url": "https://wallstreetcn.com/livenews/3018408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "79岁特朗普回应年龄质疑 称认知能力测试“全优”通过",
@@ -1483,17 +1562,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
-        },
-        {
-          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
         },
         {
           "title": "美国总统特朗普：将与“几位”美联储主席人选会面。",
@@ -1587,7 +1655,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "较发行价涨五倍！摩尔线程股价晋升A股Top3 新一代GPU架构即将发布",
@@ -1597,11 +1665,12 @@
             9,
             7,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时24分 ~ 18时28分]"
+          "appearance_count": 10,
+          "time_info": "[13时24分 ~ 19时21分]"
         },
         {
           "title": "突发！90亿软件开发股董事长被实施留置|盘后公告集锦",
@@ -1682,6 +1751,17 @@
           "time_info": "[17时28分 ~ 18时28分]"
         },
         {
+          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
+          "url": "https://wallstreetcn.com/articles/3761064",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时21分]"
+        },
+        {
           "title": "A股教育板块直线拉升，中公教育涨停，豆神教育、学大教育、科德教育、全通教育、昂立教育等纷纷走高。",
           "url": "https://wallstreetcn.com/livenews/3018232",
           "source": "华尔街见闻-快讯",
@@ -1692,17 +1772,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时37分 ~ 15时25分]"
-        },
-        {
-          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
-          "url": "https://wallstreetcn.com/articles/3761064",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 18时28分]"
         },
         {
           "title": "A股港股午后集体拉升 房地产板块涨幅居前",
@@ -1772,6 +1841,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "贵州茅台：A股每股派发现金红利23.957元",
+          "url": "https://wallstreetcn.com/livenews/3018416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "A股贵金属板块午后拉升，晓程科技涨超15%，湖南白银、山金黄金、招金黄金跟涨。",
@@ -2075,7 +2155,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
@@ -2115,6 +2195,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "谷歌：在印度推出谷歌AI Plus，定价为每月399卢比。",
+          "url": "https://flash.jin10.com/detail/20251210183721161800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
           "url": "https://flash.jin10.com/detail/20251210023813881800",
           "source": "金十数据",
@@ -2150,8 +2241,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时49分 ~ 18时28分]"
+          "appearance_count": 16,
+          "time_info": "[09时49分 ~ 19时21分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
