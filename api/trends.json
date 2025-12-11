@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T14:37:49.463107+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2025-12-11T15:27:18.855848+08:00",
+  "total_titles_processed": 1391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 59,
+      "match_count": 69,
       "titles": [
         {
           "title": "【每日收评】三大指数探底回升涨跌不一，海南板块全天强势，算力硬件股午后再度回暖",
@@ -50,17 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
-        },
-        {
-          "title": "日经225指数收盘下跌0.9%，报50148.82点。日本东证指数收盘下跌0.9%。 韩国首尔综合指数收跌0.66%，报4107.77点。",
-          "url": "https://wallstreetcn.com/livenews/3018999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
         },
         {
           "title": "国债期货早盘开盘",
@@ -193,6 +182,18 @@
           "time_info": "[13时26分 ~ 14时37分]"
         },
         {
+          "title": "日经225指数收盘下跌0.9%，报50148.82点。日本东证指数收盘下跌0.9%。 韩国首尔综合指数收跌0.66%，报4107.77点。",
+          "url": "https://wallstreetcn.com/livenews/3018999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时27分]"
+        },
+        {
           "title": "德国DAX 30指数初步收跌0.22%，报24109.58点。 法国股指初步收跌0.46%，意大利股指初步收跌0.35%、银行指数涨0.49%，英国股指初步收涨0.25%。",
           "url": "https://wallstreetcn.com/livenews/3018558",
           "source": "华尔街见闻-快讯",
@@ -217,6 +218,18 @@
           "time_info": "[00时45分 ~ 01时26分]"
         },
         {
+          "title": "财联社C50风向指数调查：跨年流动性有望维持平稳，美联储降息为我国货币政策提供窗口期",
+          "url": "https://www.cls.cn/detail/2226318",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 15时27分]"
+        },
+        {
           "title": "阿根廷MERVAL指数收涨1.00%，报301.7万点。",
           "url": "https://wallstreetcn.com/livenews/3018656",
           "source": "华尔街见闻-快讯",
@@ -227,18 +240,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时23分]"
-        },
-        {
-          "title": "财联社C50风向指数调查：跨年流动性有望维持平稳，美联储降息为我国货币政策提供窗口期",
-          "url": "https://www.cls.cn/detail/2226318",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 14时37分]"
         },
         {
           "title": "纳斯达克100指数跌0.5%，刷新日低。",
@@ -325,6 +326,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "金十图示：2025年12月11日（周四）富时中国A50指数成分股今日收盘行情一览：银行股多数走高，保险股、半导体等多个板块悉数下跌",
+          "url": "https://flash.jin10.com/detail/20251211150255761800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "中证转债指数高开0.08%。茂莱转债涨超8%，盟升转债涨超4%，再22转债、应流转债涨超3%；运机转债、瑞达转债、微导转债跌不到1%，跌幅居前。",
           "url": "https://wallstreetcn.com/livenews/3018797",
           "source": "华尔街见闻-快讯",
@@ -334,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约涨0.45%，10年期主力合约涨0.09%，5年期主力合约涨0.07%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3019028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "金十图示：2025年12月11日（周四）全球股市指数-欧洲市场（收盘）",
@@ -347,6 +370,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "金十期货12月11日讯，华储网发布通知称，将于12月16日开展中央储备冻猪肉轮换出库竞价交易：本次出库竞价交易挂牌国产冻猪肉21500吨；将于12月17日开展中央储备冻猪肉轮换出库竞价交易：本次出库竞价交易挂牌国产冻猪肉4500吨。",
+          "url": "https://flash.jin10.com/detail/20251211150149936800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "上证指数开盘报3903.89点，涨0.09%。 深证成指开盘报13333.29点，涨0.13%。 创业板指开盘报3210.55点，涨0.05%。 沪深300开盘报4597.19点，涨0.12%。 科创50开盘报1349.67点，涨0.22%。 中证500开盘报7171.21点，涨0.21%。 中证1000开盘报7421.79点，涨0.18%。",
           "url": "https://wallstreetcn.com/livenews/3018794",
           "source": "华尔街见闻-快讯",
@@ -358,6 +392,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251211150105684800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "恒指高开0.66%，报25710.61点；恒生科技指数涨0.55%。汇丰控股、泡泡玛特涨超2%，阿里巴巴、网易、哔哩哔哩、华虹半导体等涨超1%。京东工业上市首日低开7.8%。",
           "url": "https://wallstreetcn.com/livenews/3018792",
           "source": "华尔街见闻-快讯",
@@ -367,6 +412,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "上证指数收报3873.32点，跌0.70%。 深证成指收报13147.39点，跌1.27%。 创业板指收报3163.67点，跌1.41%。 沪深300收报4552.18点，跌0.86%。 科创50收报1325.83点，跌1.55%。 中证500收报7082.89点，跌1.02%。 中证1000收报7312.00点，跌1.30%。",
+          "url": "https://wallstreetcn.com/livenews/3019020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌不一，碳酸锂、沪银涨超3%，纸浆、菜油、豆二、集运欧线涨超2%，BR橡胶、多晶硅、豆一、沪锡涨超1%。跌幅方面，焦煤跌超4%，焦炭、烧碱、乙二醇、跌超2%，燃料油、PVC跌近2%。",
+          "url": "https://flash.jin10.com/detail/20251211150049848800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "商品期货收盘，碳酸锂主力合约涨近4%，沪银涨超3%，纸浆、菜籽油、豆二、集运欧线涨超2%。焦煤跌超4%，焦炭、烧碱、乙二醇跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3019018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "周三（12月10日），彭博电动汽车价格回报指数涨0.30%，报3449.44点。",
@@ -413,6 +491,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "12月11日：“农产品批发价格200指数”比昨天下降0.01个点",
+          "url": "https://flash.jin10.com/detail/20251211145241908800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "金十图示：2025年12月10日（周三）华尔街恐惧与贪婪指数（美盘后）",
           "url": "https://flash.jin10.com/detail/20251211052042616800",
           "source": "金十数据",
@@ -457,6 +546,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "金十期货12月11日讯，华储网发布通知称，将于12月15日开展中央储备冻猪肉轮换出库竞价交易。本次出库竞价交易挂牌国产冻猪肉20500吨。",
+          "url": "https://flash.jin10.com/detail/20251211144800979800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "截至早盘收盘，日经225指数跌0.6%，东证指数跌0.5%。",
           "url": "https://wallstreetcn.com/livenews/3018858",
           "source": "华尔街见闻-快讯",
@@ -474,9 +574,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "焦煤期货主力合约下跌超过3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3019007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "韩国交易所发布关于SK海力士股票的投资警示。",
@@ -496,7 +607,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -562,7 +673,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -595,7 +706,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -680,7 +791,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -715,8 +826,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 15时27分]"
         },
         {
           "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
@@ -728,8 +839,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时50分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 15时27分]"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -1127,6 +1238,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "美威胁国际刑事法院：不要调查特朗普",
+          "url": "https://www.toutiao.com/trending/7582367829178269750/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "鲍威尔：如果（特朗普政府）不实施新的关税，商品通胀可能会在2026年一季度见顶。 现存关税通胀应当有十分之几。",
           "url": "https://wallstreetcn.com/livenews/3018626",
           "source": "华尔街见闻-快讯",
@@ -1239,8 +1361,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时50分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 15时27分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -1251,8 +1373,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 14时37分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 15时27分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -1582,7 +1704,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
@@ -1595,8 +1717,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时44分 ~ 14时37分]"
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 15时27分]"
         },
         {
           "title": "A股福建板块盘初走低，欣贺股份、舒华体育双双跌停，德艺文创跌超10%，新华都、安记食品、中国武夷、海欣食品、厦门空港等跌超7%。",
@@ -1645,6 +1767,17 @@
           "time_info": "[13时26分 ~ 14时37分]"
         },
         {
+          "title": "A股收盘：北证50指数大涨近4%，商业航天概念股持续活跃",
+          "url": "https://wallstreetcn.com/livenews/3019021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-11）",
           "url": "https://flash.jin10.com/detail/20251211090536766800",
           "source": "金十数据",
@@ -1662,7 +1795,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -1692,7 +1825,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "市场反应：美联储决议声明发布后，美债、金价走高，道指涨幅扩大",
@@ -1719,6 +1852,17 @@
           "time_info": "[11时27分 ~ 13时26分]"
         },
         {
+          "title": "金十图示：2025年12月11日（周四）上海金午盘价为952.81元/克，较国际金价(956.07元/克)，低3.26元/克",
+          "url": "https://flash.jin10.com/detail/20251211150430758800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "金十图示：2025年12月11日（周四）上海金早盘价为957.9元/克，较国际金价(960.44元/克)，低2.54元/克",
           "url": "https://flash.jin10.com/detail/20251211101756207800",
           "source": "金十数据",
@@ -1728,6 +1872,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "高盛预计4,900美元的金价预期有上调空间 ETF资金流入将是推动力",
+          "url": "https://wallstreetcn.com/livenews/3019003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "高盛认为，对2026年底金价为4900美元的预测存在显著上行空间。",
