@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T09:51:05.243749+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2025-12-11T11:27:24.732584+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时39分 ~ 09时51分]"
+          "appearance_count": 7,
+          "time_info": "[04时39分 ~ 11时27分]"
         },
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -145,6 +146,30 @@
           "time_info": "[00时45分 ~ 01时26分]"
         },
         {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 11时27分]"
+        },
+        {
+          "title": "特朗普回应美联储降息：幅度太小",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%EF%BC%9A%E5%B9%85%E5%BA%A6%E5%A4%AA%E5%B0%8F",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 11时27分]"
+        },
+        {
           "title": "“特朗普黄金卡”开始接受申请",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E5%8D%A1%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AF%B7",
           "source": "百度热搜",
@@ -181,17 +206,6 @@
           "time_info": "[05时25分 ~ 06时23分]"
         },
         {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
           "title": "高通、戴尔等科技公司的CEO们出席美国总统特朗普在白宫举办的圆桌会议。",
           "url": "https://wallstreetcn.com/livenews/3018634",
           "source": "华尔街见闻-快讯",
@@ -216,17 +230,6 @@
           "time_info": "[04时39分 ~ 05时25分]"
         },
         {
-          "title": "特朗普回应美联储降息：幅度太小",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%EF%BC%9A%E5%B9%85%E5%BA%A6%E5%A4%AA%E5%B0%8F",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
           "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
           "source": "澎湃新闻",
@@ -244,7 +247,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -516,7 +519,7 @@
     },
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "【每日收评】三大指数探底回升涨跌不一，海南板块全天强势，算力硬件股午后再度回暖",
@@ -530,13 +533,24 @@
           "time_info": "[00时44分 ~ 06时23分]"
         },
         {
+          "title": "欧洲斯托克50指数期货抹去此前涨幅，现跌0.2%；德国DAX指数期货跌0.4%。",
+          "url": "https://flash.jin10.com/detail/20251211111247076800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "股指期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251211093110287800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -552,13 +566,24 @@
           "time_info": "05时25分"
         },
         {
+          "title": "恒指转跌，恒生科技指数跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3018899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "国债期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251211093107024800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -725,9 +750,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "台湾证交所加权股价指数下跌1.1%至28,097.70点。",
+          "url": "https://wallstreetcn.com/livenews/3018889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月11日 周四",
@@ -747,7 +783,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -769,7 +805,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -780,7 +816,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -813,7 +849,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -829,15 +865,48 @@
           "time_info": "06时23分"
         },
         {
+          "title": "金十图示：2025年12月11日（周四）全球股市指数-亚太市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251211103602240800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "期货盯盘神器专属文章",
           "url": "https://flash.jin10.com/detail/20251211084411275800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数跌0.6%，东证指数跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3018858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "韩国交易所发布关于SK海力士股票的投资警示。",
+          "url": "https://flash.jin10.com/detail/20251211102202021800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "鲍威尔：联邦基金利率（期货）上扬，表明储备金处于“充足的水平”（ample levels）。",
@@ -857,7 +926,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -890,7 +959,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -901,7 +970,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -931,7 +1000,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -953,8 +1022,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 11时27分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -965,8 +1034,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 09时51分]"
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 11时27分]"
+        },
+        {
+          "title": "美股期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3018895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股收盘）",
@@ -1038,6 +1118,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "美股三大股指期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.59%，道指期货跌0.17%。",
+          "url": "https://flash.jin10.com/detail/20251211105349305800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "纳斯达克100指数期货跌1%，此前甲骨文美股盘后发布财报，股价大跌。",
+          "url": "https://wallstreetcn.com/livenews/3018880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股盘中）",
@@ -1219,7 +1321,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -1248,6 +1350,67 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "市场反应：美联储决议声明发布后，美债、金价走高，道指涨幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3018598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）上海金早盘价为957.9元/克，较国际金价(960.44元/克)，低2.54元/克",
+          "url": "https://flash.jin10.com/detail/20251211101756207800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "高盛认为，对2026年底金价为4900美元的预测存在显著上行空间。",
+          "url": "https://flash.jin10.com/detail/20251211000951853800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "金价在美联储利率决议前回落 银价徘徊于高位附近",
+          "url": "https://flash.jin10.com/detail/20251211011833674800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
       "match_count": 5,
       "titles": [
@@ -1258,11 +1421,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 09时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 11时27分]"
         },
         {
           "title": "A股福建板块盘初走低，欣贺股份、舒华体育双双跌停，德艺文创跌超10%，新华都、安记食品、中国武夷、海欣食品、厦门空港等跌超7%。",
@@ -1271,7 +1435,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -1282,7 +1446,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -1293,7 +1457,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -1412,45 +1576,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "市场反应：美联储决议声明发布后，美债、金价走高，道指涨幅扩大",
-          "url": "https://wallstreetcn.com/livenews/3018598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "高盛认为，对2026年底金价为4900美元的预测存在显著上行空间。",
-          "url": "https://flash.jin10.com/detail/20251211000951853800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "金价在美联储利率决议前回落 银价徘徊于高位附近",
-          "url": "https://flash.jin10.com/detail/20251211011833674800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1472,7 +1597,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
