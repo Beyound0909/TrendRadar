@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-12T00:35:12.453618+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-12-12T01:28:37.352058+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "希腊雅典证交所综合指数收涨0.77%，报2105.82点。",
           "url": "https://wallstreetcn.com/livenews/3019325",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时28分]"
         },
         {
           "title": "累计涨幅较大、业绩亏损 摩尔线程提示股票交易风险",
@@ -26,19 +27,42 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时28分]"
         },
         {
           "title": "道指上涨444点，涨幅超过0.9%，刷新盘中历史高位至48500点上方（涨穿11月12日盘中最高位48431.57点）。 标普500指数目前仍然跌0.2%，纳指跌185点跌幅0.78%，半导体指数跌2.1%，银行指数涨0.8%。",
           "url": "https://wallstreetcn.com/livenews/3019317",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时28分]"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌4.99%，暂报3967.32点，北京时间12:00过后持续地位窄幅震荡。",
+          "url": "https://wallstreetcn.com/livenews/3019340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.8%，连续三个交易日走高，报363.92点，创6月16日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 航运股马士基涨5.3%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3019336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时35分"
+          "time_info": "01时28分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月12日 周五",
@@ -47,9 +71,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "德国DAX 30指数初步收涨0.71%，报24300.85点。 法国股指初步收涨0.83%，意大利股指初步收涨0.64%、银行指数涨1.79%，英国股指初步收涨0.51%。",
+          "url": "https://wallstreetcn.com/livenews/3019332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
         },
         {
           "title": "欧盟正在推动最早于周五达成协议，动用紧急权力延长对俄罗斯资产的冻结。 彭博援引知情人士报道称，欧盟委员会将很快就此提出方案，目标是在本周末前敲定协议。 WTI原油期货目前跌1.77%，暂报57.27美元/桶。",
@@ -58,7 +93,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -69,7 +104,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -80,7 +115,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -91,7 +126,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -102,7 +137,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -113,7 +148,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         }
@@ -128,33 +163,36 @@
           "url": "https://wallstreetcn.com/livenews/3019321",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时28分]"
         },
         {
           "title": "迪士尼CEO Bob Iger：与OpenAI达成的Sora协议是一个“不错的投资”。 将在Disney+投放部分用户生产的Sora视频。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3019319",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时28分]"
         },
         {
           "title": "OpenAI的CEO Altman：对迪士尼角色的需求“超出预料”。 与迪士尼达成的协议将驱动收入增长。 市场需求是“相当极端的”。 发布新模型应当扩大市场份额。",
           "url": "https://wallstreetcn.com/livenews/3019318",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时28分]"
         },
         {
           "title": "迪士尼CEO：我们公司有很大的机会从OpenAI获得其他产品的授权。",
@@ -163,7 +201,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -174,7 +212,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -185,7 +223,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -196,7 +234,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -207,7 +245,69 @@
           "ranks": [
             27
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
+          "url": "https://flash.jin10.com/detail/20251212010455282800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "迪士尼(DIS.N)首席执行官就致谷歌(GOOG.O)的信件表示，我们别无选择，只能向谷歌发出停止侵权函。",
+          "url": "https://flash.jin10.com/detail/20251212000641359800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时28分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：推出交互API，为与我们的模型、Gemini 3 Pro以及Gemini深度研究等智能体进行交互提供统一接口。",
+          "url": "https://flash.jin10.com/detail/20251212010409601800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：发布更强大的Gemini深度研究代理，可通过交互API获得并使用。",
+          "url": "https://flash.jin10.com/detail/20251212010242999800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：Gemini 3对我们各项指标的影响比我们担心的要小。",
+          "url": "https://flash.jin10.com/detail/20251211235011876800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         }
@@ -225,8 +325,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时28分]"
         },
         {
           "title": "纳斯达克金龙中国指数美股盘初跌0.8%。 拼多多美股盘初跌3.8%，Boss直聘跌3.4%，金山云跌超3.2%，大全新能源、阿里巴巴跌超2.7%，小鹏跌2.6%，蔚来跌2%。 百度涨0.6%，中通快递和百胜中国涨超0.8%，贝壳涨3.2%。 ETF中，KWEB跌1.29%，CQQQ跌1.32%。",
@@ -235,7 +335,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -246,7 +346,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         },
@@ -257,7 +357,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         }
@@ -275,30 +375,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时28分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时28分]"
         },
         {
           "title": "泰国总理给特朗普“泼冷水”",
           "url": "https://www.toutiao.com/trending/7582421562226655268/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时28分]"
         },
         {
           "title": "特朗普称赞股市再创新高",
@@ -307,35 +409,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "迪士尼(DIS.N)首席执行官就致谷歌(GOOG.O)的信件表示，我们别无选择，只能向谷歌发出停止侵权函。",
-          "url": "https://flash.jin10.com/detail/20251212000641359800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：Gemini 3对我们各项指标的影响比我们担心的要小。",
-          "url": "https://flash.jin10.com/detail/20251211235011876800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         }
@@ -353,8 +427,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时28分]"
         }
       ]
     }
