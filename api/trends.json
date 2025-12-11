@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T13:26:04.625574+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2025-12-11T14:37:49.463107+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 54,
+      "match_count": 59,
       "titles": [
         {
           "title": "【每日收评】三大指数探底回升涨跌不一，海南板块全天强势，算力硬件股午后再度回暖",
@@ -30,17 +30,6 @@
           "time_info": "11时27分"
         },
         {
-          "title": "富宝资讯：碳酸锂期货盘面持续走强，富宝电池级碳酸锂报93900元/吨",
-          "url": "https://flash.jin10.com/detail/20251211131817068800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
           "title": "股指期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251211093110287800",
           "source": "金十数据",
@@ -63,15 +52,15 @@
           "time_info": "05时25分"
         },
         {
-          "title": "恒生科技指数午后跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3018950",
+          "title": "日经225指数收盘下跌0.9%，报50148.82点。日本东证指数收盘下跌0.9%。 韩国首尔综合指数收跌0.66%，报4107.77点。",
+          "url": "https://wallstreetcn.com/livenews/3018999",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时26分"
+          "time_info": "14时37分"
         },
         {
           "title": "国债期货早盘开盘",
@@ -144,6 +133,18 @@
           "time_info": "[05时25分 ~ 06时23分]"
         },
         {
+          "title": "富宝资讯：碳酸锂期货盘面持续走强，富宝电池级碳酸锂报93900元/吨",
+          "url": "https://flash.jin10.com/detail/20251211131817068800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时37分]"
+        },
+        {
           "title": "上期所原油期货2501合约夜盘收跌0.86%，报440.50元人民币/桶。 沪金夜盘收跌0.12%，沪银收涨0.78%。",
           "url": "https://wallstreetcn.com/livenews/3018583",
           "source": "华尔街见闻-快讯",
@@ -180,6 +181,18 @@
           "time_info": "[11时27分 ~ 12时37分]"
         },
         {
+          "title": "恒生科技指数午后跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3018950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时37分]"
+        },
+        {
           "title": "德国DAX 30指数初步收跌0.22%，报24109.58点。 法国股指初步收跌0.46%，意大利股指初步收跌0.35%、银行指数涨0.49%，英国股指初步收涨0.25%。",
           "url": "https://wallstreetcn.com/livenews/3018558",
           "source": "华尔街见闻-快讯",
@@ -214,6 +227,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时23分]"
+        },
+        {
+          "title": "财联社C50风向指数调查：跨年流动性有望维持平稳，美联储降息为我国货币政策提供窗口期",
+          "url": "https://www.cls.cn/detail/2226318",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 14时37分]"
         },
         {
           "title": "纳斯达克100指数跌0.5%，刷新日低。",
@@ -253,6 +278,18 @@
           "time_info": "[12时37分 ~ 13时26分]"
         },
         {
+          "title": "今日重点关注的财经数据与事件：2025年12月11日 周四",
+          "url": "https://flash.jin10.com/detail/20251211070000001800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 14时37分]"
+        },
+        {
           "title": "标普500指数涨1.2%，有望创收盘历史新高。",
           "url": "https://wallstreetcn.com/livenews/3018636",
           "source": "华尔街见闻-快讯",
@@ -277,17 +314,6 @@
           "time_info": "[06时23分 ~ 07时20分]"
         },
         {
-          "title": "财联社C50风向指数调查：跨年流动性有望维持平稳，美联储降息为我国货币政策提供窗口期",
-          "url": "https://www.cls.cn/detail/2226318",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 13时26分]"
-        },
-        {
           "title": "国债期货开盘，30年期主力合约涨0.35%，10年期主力合约涨0.06%，5年期主力合约涨0.02%，2年期主力合约涨0.02%。",
           "url": "https://wallstreetcn.com/livenews/3018799",
           "source": "华尔街见闻-快讯",
@@ -297,17 +323,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2025年12月11日 周四",
-          "url": "https://flash.jin10.com/detail/20251211070000001800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
         },
         {
           "title": "中证转债指数高开0.08%。茂莱转债涨超8%，盟升转债涨超4%，再22转债、应流转债涨超3%；运机转债、瑞达转债、微导转债跌不到1%，跌幅居前。",
@@ -453,6 +468,17 @@
           "time_info": "11时27分"
         },
         {
+          "title": "中国30年期国债期货上涨0.5%，触及一周高位。10年期国债期货涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3018965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "韩国交易所发布关于SK海力士股票的投资警示。",
           "url": "https://flash.jin10.com/detail/20251211102202021800",
           "source": "金十数据",
@@ -462,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "台湾证交所加权股价指数收跌1.3%报28,024.75点。",
+          "url": "https://wallstreetcn.com/livenews/3018964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "鲍威尔：联邦基金利率（期货）上扬，表明储备金处于“充足的水平”（ample levels）。",
@@ -519,6 +556,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "北证50指数涨幅略微收窄至5.7%，此前一度涨6.6%。",
+          "url": "https://wallstreetcn.com/livenews/3018961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "富时中国A50指数期货盘初涨0.24%，上一个交易日夜盘收涨0.31%。",
           "url": "https://wallstreetcn.com/livenews/3018773",
           "source": "华尔街见闻-快讯",
@@ -539,6 +587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "北证50指数大涨超5%，286只北交所个股中仅2股下跌。",
+          "url": "https://wallstreetcn.com/livenews/3018956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "金十图示：2025年12月11日（周四）富时中国A50指数成分股午盘收盘行情一览：银行、酿酒板块走势分化、保险、半导体板块全线下跌",
@@ -656,8 +715,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 14时37分]"
+        },
+        {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 14时37分]"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -691,19 +763,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时44分 ~ 00时45分]"
-        },
-        {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 13时26分]"
         },
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -909,7 +968,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -920,7 +979,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -1180,8 +1239,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 14时37分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -1192,8 +1251,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时20分 ~ 13时26分]"
+          "appearance_count": 8,
+          "time_info": "[07时20分 ~ 14时37分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -1523,7 +1582,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
@@ -1536,8 +1595,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 13时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时44分 ~ 14时37分]"
         },
         {
           "title": "A股福建板块盘初走低，欣贺股份、舒华体育双双跌停，德艺文创跌超10%，新华都、安记食品、中国武夷、海欣食品、厦门空港等跌超7%。",
@@ -1566,22 +1625,24 @@
           "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%A4%A7%E5%8E%A6%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE+%E7%BD%91%E5%90%A7%E5%86%853%E4%BA%BA%E9%81%87%E9%9A%BE",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 14时37分]"
         },
         {
           "title": "中兴通讯A股午后跌幅扩大至9%，中兴通讯H股跌超10%。",
           "url": "https://wallstreetcn.com/livenews/3018944",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时37分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-11）",
@@ -1593,6 +1654,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "摩尔线程上市第五日，日内涨超22%，股价突破900元现居A股第三，仅次于贵州茅台与寒武纪，总市值突破4200亿元。",
+          "url": "https://wallstreetcn.com/livenews/3018983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "期货热点追踪",
