@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T09:50:15.339990+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2025-12-12T11:26:16.333487+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "累计涨幅较大、业绩亏损 摩尔线程提示股票交易风险",
@@ -83,6 +83,17 @@
           "time_info": "[00时35分 ~ 01时28分]"
         },
         {
+          "title": "甲骨文股价盘前暴跌13% 纳指期货明显走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2227098",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 11时26分]"
+        },
+        {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌4.99%，暂报3967.32点，北京时间12:00过后持续地位窄幅震荡。",
           "url": "https://wallstreetcn.com/livenews/3019340",
           "source": "华尔街见闻-快讯",
@@ -141,17 +152,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "甲骨文股价盘前暴跌13% 纳指期货明显走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2227098",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 09时50分]"
         },
         {
           "title": "周四（12月11日）纽约尾盘，现货黄金涨1.27%，报4282.49美元/盎司，全天呈现出U形反转，北京时间21:00过后从4210美元下方持续反弹。 COMEX黄金期货涨2.01%，报4309.70美元/盎司，全天处于上涨状态，21:00过后也出现一波持续上涨的行情。",
@@ -238,13 +238,24 @@
           "time_info": "[00时35分 ~ 09时50分]"
         },
         {
+          "title": "金十期货12月12日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨1150元/吨，中间价报95750元/吨。",
+          "url": "https://flash.jin10.com/detail/20251212110223754800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约涨0.23%，10年期主力合约涨0.04%，5年期主力合约涨0.02%，2年期主力合约涨0.02%。",
           "url": "https://wallstreetcn.com/livenews/3019516",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -255,7 +266,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -288,7 +299,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -299,7 +310,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -310,9 +321,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "越南VN指数跌1%，至1681.85点。",
+          "url": "https://wallstreetcn.com/livenews/3019563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "北证50指数盘中拉升，涨超2％。天力复合2连板，大鹏工业、创远信科、灿能电力、新威凌、锦波生物、瑞奇智造等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3019560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月12日 周五",
@@ -332,7 +365,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -365,7 +398,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -381,13 +414,24 @@
           "time_info": "00时35分"
         },
         {
+          "title": "日经225指数早盘收盘涨0.9%，报50610.04点。日本东证指数早盘收盘涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3019554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "日经225指数突破51000点，日内涨1.75%。",
           "url": "https://flash.jin10.com/detail/20251212083830814800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -398,7 +442,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -409,7 +453,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -431,7 +475,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -464,7 +508,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -475,7 +519,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -494,7 +538,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -502,11 +546,12 @@
           "source": "凤凰网",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 09时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 11时26分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -519,6 +564,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时34分 ~ 07时22分]"
+        },
+        {
+          "title": "泰国总理：与美国总统特朗普的通话定于泰国时间晚上9:20（北京时间22:20）举行。",
+          "url": "https://flash.jin10.com/detail/20251212111451238800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -554,6 +610,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "加州州长再批特朗普：最具破坏性总统",
+          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 11时26分]"
         },
         {
           "title": "据AXIOS网站：特朗普政府计划任命一名美国少将指挥驻加沙国际稳定部队（ISF）。",
@@ -652,17 +719,6 @@
           "time_info": "[09时49分 ~ 09时50分]"
         },
         {
-          "title": "加州州长再批特朗普：最具破坏性总统",
-          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 09时50分]"
-        },
-        {
           "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
           "url": "https://wallstreetcn.com/livenews/3019392",
           "source": "华尔街见闻-快讯",
@@ -747,6 +803,28 @@
           "time_info": "[03时22分 ~ 04时27分]"
         },
         {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
           "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
           "url": "https://flash.jin10.com/detail/20251212054106500800",
           "source": "金十数据",
@@ -806,6 +884,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "泰国政府官员：泰国代理总理定于周五晚些时候与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20251212110213966800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "据AXIOS网站报道，预计美国高级官员将于周六在巴黎与乌克兰、法国、德国和英国的国家安全顾问会面，讨论特朗普的俄乌和平计划。白宫新闻秘书莱维特称，如果总统认为值得花费时间，美国将于周六派代表团参加在巴黎举行的会谈。",
           "url": "https://flash.jin10.com/detail/20251212032018653800",
           "source": "金十数据",
@@ -834,7 +923,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -878,7 +967,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -941,18 +1030,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
           "url": "https://www.cls.cn/detail/2227243",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 09时50分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 11时26分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -964,6 +1054,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "全面解析ChatGPT5.2",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90ChatGPT5.2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "GPT-5.2 正式发布，OpenAI 称其为「最强专业知识工作大模型」，有哪些技术亮点？",
+          "url": "https://www.zhihu.com/question/1982718694623768873",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
@@ -1023,6 +1135,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时28分]"
+        },
+        {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI最新发布",
@@ -1194,8 +1317,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 09时50分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 11时26分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -1394,7 +1517,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
@@ -1431,6 +1554,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时28分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
@@ -1550,7 +1684,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
@@ -1558,7 +1692,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "A股三大指数回调，北证50收涨近4%！商业航天走强，摩尔线程突破900元，房地产调整，恒科指跌0.83%，中兴通讯重挫",
@@ -1567,44 +1701,59 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 09时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 11时26分]"
         },
         {
           "title": "日本突发列车脱轨翻覆事故",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%AA%81%E5%8F%91%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8%E7%BF%BB%E8%A6%86%E4%BA%8B%E6%95%85",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 09时50分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 11时26分]"
         },
         {
-          "title": "A股算力硬件股反复活跃，德科立、联特科技涨超10%，新易盛、瑞斯康达、剑桥科技、汇绿生态等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3019521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "A股商业航天概念再度拉升，华菱线缆、中超控股2连板，东方通信、长城电工、航天长峰涨停，创远信科、亚光科技、超捷股份、天力复合、国瓷材料涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3019519",
+          "title": "A股三大指数集体翻红。",
+          "url": "https://wallstreetcn.com/livenews/3019579",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "11时26分"
+        },
+        {
+          "title": "A股算力硬件股反复活跃，德科立、联特科技涨超10%，新易盛、瑞斯康达、剑桥科技、汇绿生态等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3019521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时26分]"
+        },
+        {
+          "title": "A股商业航天概念再度拉升，华菱线缆、中超控股2连板，东方通信、长城电工、航天长峰涨停，创远信科、亚光科技、超捷股份、天力复合、国瓷材料涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3019519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时26分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-12）",
@@ -1613,7 +1762,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
