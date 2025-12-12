@@ -1,22 +1,512 @@
 {
-  "generated_at": "2025-12-12T07:22:35.000529+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2025-12-12T09:50:15.339990+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "财经 期货 policy 股票 指数",
+      "match_count": 42,
+      "titles": [
+        {
+          "title": "累计涨幅较大、业绩亏损 摩尔线程提示股票交易风险",
+          "url": "https://www.cls.cn/detail/2227027",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 09时50分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.85%，报25788点。 恒生科技指数主连夜盘收涨0.83%，报5593点。",
+          "url": "https://wallstreetcn.com/livenews/3019386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 05时25分]"
+        },
+        {
+          "title": "周四（12月11日）纽约尾盘，标普500股指期货最终涨0.47%，道指期货涨1.48%，纳斯达克100股指期货涨0.12%。 罗素2000股指期货涨1.36%。",
+          "url": "https://wallstreetcn.com/livenews/3019432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "恒指期货夜盘收涨0.85%，报25788点，高水257点。",
+          "url": "https://flash.jin10.com/detail/20251212030211962800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时27分]"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251212050633392800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 06时23分]"
+        },
+        {
+          "title": "希腊雅典证交所综合指数收涨0.77%，报2105.82点。",
+          "url": "https://wallstreetcn.com/livenews/3019325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时28分]"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌4.99%，暂报3967.32点，北京时间12:00过后持续地位窄幅震荡。",
+          "url": "https://wallstreetcn.com/livenews/3019340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 02时34分]"
+        },
+        {
+          "title": "WTI 1月原油期货收跌0.86美元，跌幅1.47%，报57.60美元/桶。 布伦特2月原油期货收跌0.93美元，跌幅1.49%，报61.28美元/桶。 NYMEX 1月天然气期货收报4.2310美元/百万英热单位。 NYMEX 1月汽油期货收报1.7598美元/加仑，NYMEX 1月取暖油期货收报2.2289美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3019391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时25分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：代理主席宣布撤回过时的数字资产指引。",
+          "url": "https://flash.jin10.com/detail/20251212032217605800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时25分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：鉴于加密货币市场的发展形势，撤销过时的数字资产指导意见。",
+          "url": "https://wallstreetcn.com/livenews/3019390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时25分]"
+        },
+        {
+          "title": "周四（12月11日）纽约尾盘，现货白银涨2.79%，报63.5380美元/盎司，北京时间02:30曾涨至64.3120美元。 COMEX白银期货涨4.92%，报64.030美元/盎司，02:30也曾涨至64.720美元。 COMEX铜期货涨2.52%，报5.4885美元/磅。 现货铂金涨2.70%，现货钯金涨1.93%。",
+          "url": "https://wallstreetcn.com/livenews/3019427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "甲骨文股价盘前暴跌13% 纳指期货明显走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2227098",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "周四（12月11日）纽约尾盘，现货黄金涨1.27%，报4282.49美元/盎司，全天呈现出U形反转，北京时间21:00过后从4210美元下方持续反弹。 COMEX黄金期货涨2.01%，报4309.70美元/盎司，全天处于上涨状态，21:00过后也出现一波持续上涨的行情。",
+          "url": "https://wallstreetcn.com/livenews/3019425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "道指上涨444点，涨幅超过0.9%，刷新盘中历史高位至48500点上方（涨穿11月12日盘中最高位48431.57点）。 标普500指数目前仍然跌0.2%，纳指跌185点跌幅0.78%，半导体指数跌2.1%，银行指数涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3019317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时28分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.8%，连续三个交易日走高，报363.92点，创6月16日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 航运股马士基涨5.3%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3019336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 02时34分]"
+        },
+        {
+          "title": "沪银收涨4.56%，报14984元人民币/千克。 沪金夜盘收涨1.24%。 上期所原油期货2501合约夜盘收跌1.27%，报435.60元人民币/桶。",
+          "url": "https://wallstreetcn.com/livenews/3019374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时27分]"
+        },
+        {
+          "title": "新西兰11月制造业表现指数 51.4，前值51.4。",
+          "url": "https://flash.jin10.com/detail/20251212053002204800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20251212052452089800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251211234957724800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 09时50分]"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.23%，10年期主力合约涨0.04%，5年期主力合约涨0.02%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3019516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "中证转债指数高开0.07%。N瑞可转涨30%触发临停，大中转债涨超4%，豫光转债涨2.7%；福蓉转债跌2.2%，汇成转债跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3019513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "韩国11月出口物价指数年率 7%，前值4.80%。",
+          "url": "https://flash.jin10.com/detail/20251212050002342801",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "韩国11月进口物价指数年率 2.2%，前值0.50%。",
+          "url": "https://flash.jin10.com/detail/20251212050002342800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "上证指数开盘报3869.41点，跌0.10%。 深证成指开盘报13174.45点，涨0.21%。 创业板指开盘报3172.73点，涨0.29%。 沪深300开盘报4558.74点，涨0.14%。 科创50开盘报1324.30点，跌0.12%。 中证500开盘报7088.10点，涨0.07%。 中证1000开盘报7312.87点，涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3019510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约跌多涨少，沪锡、沪银涨超3%，沪锌涨超2%，国际铜、碳酸锂、沪铜涨近2%。跌幅方面，液化气、焦煤跌超3%，氧化铝、甲醇、PVC、纸浆、沥青、焦炭、LU燃油、对二甲苯、聚丙烯、棕榈油、丙烯跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251212090004772800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "【恒指高开0.9%，恒生科技指数涨1.02%】京东健康涨超3%，蔚来涨超2%，网易涨近2%，快手、阿里巴巴等涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3019507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2025年12月12日 周五",
+          "url": "https://flash.jin10.com/detail/20251212000000001800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "金十数据整理：每日期货市场要闻速递（2025-12-12）",
+          "url": "https://flash.jin10.com/detail/20251212084615504800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "德国DAX 30指数初步收涨0.71%，报24300.85点。 法国股指初步收涨0.83%，意大利股指初步收涨0.64%、银行指数涨1.79%，英国股指初步收涨0.51%。",
+          "url": "https://wallstreetcn.com/livenews/3019332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "欧盟正在推动最早于周五达成协议，动用紧急权力延长对俄罗斯资产的冻结。 彭博援引知情人士报道称，欧盟委员会将很快就此提出方案，目标是在本周末前敲定协议。 WTI原油期货目前跌1.77%，暂报57.27美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3019310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "金十图示：2025年12月12日（周五）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20251212084031197800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "内盘期货夜市普遍收跌，LPG跌超3.6%，焦煤跌约3.4%",
+          "url": "https://wallstreetcn.com/livenews/3019309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "日经225指数突破51000点，日内涨1.75%。",
+          "url": "https://flash.jin10.com/detail/20251212083830814800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "台湾证交所加权股价指数高开0.3%报28,097.54点。",
+          "url": "https://wallstreetcn.com/livenews/3019499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "商品期货开盘，沪锡、沪银主力合约涨超3%，沪锌涨超2%，国际铜、碳酸锂、沪铜、沪金涨超1%。液化气、焦煤跌超3%，氧化铝、甲醇、PVC、纸浆、焦炭、棕榈油跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3019498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "标普500指数收涨14.32点，涨幅0.21%，报6901.00点，突破10月28日所创收盘历史最高位6890.89点，逼近10月29日所创盘中历史最高位6920.34点。 道琼斯工业平均指数收涨646.26点，涨幅1.34%，报48704.01点，突破11月12日所创收盘历史最高位48254.82点、尾盘刷新盘中历史最高位至48756.34点。 纳斯达克综合指数（纳指）收跌60.30点，跌幅0.26%，报23593.855点。 纳斯达克100指数收跌89.753点，跌幅0.35%，报25686.685点。",
+          "url": "https://wallstreetcn.com/livenews/3019406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初涨0.48%，上一个交易日夜盘收涨0.53%。",
+          "url": "https://wallstreetcn.com/livenews/3019496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3019302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "欧洲STOXX 600指数涨0.5%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3019300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "日经225指数涨幅扩大至1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3019494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "韩国首尔综合指数涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3019490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "标普500指数低开25.38点，跌幅0.37%，报6861.30点； 道琼斯工业平均指数高开25.15点，涨幅0.05%，报48082.90点； 纳斯达克综合指数低开144.94点，跌幅0.61%，报23509.22点。",
+          "url": "https://wallstreetcn.com/livenews/3019294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
           "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 09时50分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -37,7 +527,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -149,6 +639,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 02时34分]"
+        },
+        {
+          "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1982382778923365984",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "加州州长再批特朗普：最具破坏性总统",
+          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
         },
         {
           "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
@@ -316,6 +828,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "特朗普下令SEC审查代理咨询机构规则",
+          "url": "https://flash.jin10.com/detail/20251212084323146800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "欧盟委员会主席冯德莱恩表示，特朗普不应该干涉欧洲的民主制度。",
           "url": "https://flash.jin10.com/detail/20251212042709736800",
           "source": "金十数据",
@@ -347,6 +870,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "特朗普：若和平协议达成 美愿参与欧洲安全安排",
+          "url": "https://wallstreetcn.com/livenews/3019493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
@@ -406,564 +940,20 @@
       ]
     },
     {
-      "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "累计涨幅较大、业绩亏损 摩尔线程提示股票交易风险",
-          "url": "https://www.cls.cn/detail/2227027",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时22分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.85%，报25788点。 恒生科技指数主连夜盘收涨0.83%，报5593点。",
-          "url": "https://wallstreetcn.com/livenews/3019386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时22分 ~ 05时25分]"
-        },
-        {
-          "title": "周四（12月11日）纽约尾盘，标普500股指期货最终涨0.47%，道指期货涨1.48%，纳斯达克100股指期货涨0.12%。 罗素2000股指期货涨1.36%。",
-          "url": "https://wallstreetcn.com/livenews/3019432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "恒指期货夜盘收涨0.85%，报25788点，高水257点。",
-          "url": "https://flash.jin10.com/detail/20251212030211962800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时27分]"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251212050633392800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时23分]"
-        },
-        {
-          "title": "希腊雅典证交所综合指数收涨0.77%，报2105.82点。",
-          "url": "https://wallstreetcn.com/livenews/3019325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时28分]"
-        },
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数跌4.99%，暂报3967.32点，北京时间12:00过后持续地位窄幅震荡。",
-          "url": "https://wallstreetcn.com/livenews/3019340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时34分]"
-        },
-        {
-          "title": "WTI 1月原油期货收跌0.86美元，跌幅1.47%，报57.60美元/桶。 布伦特2月原油期货收跌0.93美元，跌幅1.49%，报61.28美元/桶。 NYMEX 1月天然气期货收报4.2310美元/百万英热单位。 NYMEX 1月汽油期货收报1.7598美元/加仑，NYMEX 1月取暖油期货收报2.2289美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3019391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时25分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：代理主席宣布撤回过时的数字资产指引。",
-          "url": "https://flash.jin10.com/detail/20251212032217605800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时25分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：鉴于加密货币市场的发展形势，撤销过时的数字资产指导意见。",
-          "url": "https://wallstreetcn.com/livenews/3019390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时25分]"
-        },
-        {
-          "title": "周四（12月11日）纽约尾盘，现货白银涨2.79%，报63.5380美元/盎司，北京时间02:30曾涨至64.3120美元。 COMEX白银期货涨4.92%，报64.030美元/盎司，02:30也曾涨至64.720美元。 COMEX铜期货涨2.52%，报5.4885美元/磅。 现货铂金涨2.70%，现货钯金涨1.93%。",
-          "url": "https://wallstreetcn.com/livenews/3019427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "周四（12月11日）纽约尾盘，现货黄金涨1.27%，报4282.49美元/盎司，全天呈现出U形反转，北京时间21:00过后从4210美元下方持续反弹。 COMEX黄金期货涨2.01%，报4309.70美元/盎司，全天处于上涨状态，21:00过后也出现一波持续上涨的行情。",
-          "url": "https://wallstreetcn.com/livenews/3019425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "道指上涨444点，涨幅超过0.9%，刷新盘中历史高位至48500点上方（涨穿11月12日盘中最高位48431.57点）。 标普500指数目前仍然跌0.2%，纳指跌185点跌幅0.78%，半导体指数跌2.1%，银行指数涨0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3019317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时28分]"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数涨0.8%，连续三个交易日走高，报363.92点，创6月16日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 航运股马士基涨5.3%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3019336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时34分]"
-        },
-        {
-          "title": "沪银收涨4.56%，报14984元人民币/千克。 沪金夜盘收涨1.24%。 上期所原油期货2501合约夜盘收跌1.27%，报435.60元人民币/桶。",
-          "url": "https://wallstreetcn.com/livenews/3019374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时27分]"
-        },
-        {
-          "title": "新西兰11月制造业表现指数 51.4，前值51.4。",
-          "url": "https://flash.jin10.com/detail/20251212053002204800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）华尔街恐惧与贪婪指数（美盘后）",
-          "url": "https://flash.jin10.com/detail/20251212052452089800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "韩国11月出口物价指数年率 7%，前值4.80%。",
-          "url": "https://flash.jin10.com/detail/20251212050002342801",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "韩国11月进口物价指数年率 2.2%，前值0.50%。",
-          "url": "https://flash.jin10.com/detail/20251212050002342800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2025年12月12日 周五",
-          "url": "https://flash.jin10.com/detail/20251212000000001800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "德国DAX 30指数初步收涨0.71%，报24300.85点。 法国股指初步收涨0.83%，意大利股指初步收涨0.64%、银行指数涨1.79%，英国股指初步收涨0.51%。",
-          "url": "https://wallstreetcn.com/livenews/3019332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "欧盟正在推动最早于周五达成协议，动用紧急权力延长对俄罗斯资产的冻结。 彭博援引知情人士报道称，欧盟委员会将很快就此提出方案，目标是在本周末前敲定协议。 WTI原油期货目前跌1.77%，暂报57.27美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3019310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "内盘期货夜市普遍收跌，LPG跌超3.6%，焦煤跌约3.4%",
-          "url": "https://wallstreetcn.com/livenews/3019309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "标普500指数收涨14.32点，涨幅0.21%，报6901.00点，突破10月28日所创收盘历史最高位6890.89点，逼近10月29日所创盘中历史最高位6920.34点。 道琼斯工业平均指数收涨646.26点，涨幅1.34%，报48704.01点，突破11月12日所创收盘历史最高位48254.82点、尾盘刷新盘中历史最高位至48756.34点。 纳斯达克综合指数（纳指）收跌60.30点，跌幅0.26%，报23593.855点。 纳斯达克100指数收跌89.753点，跌幅0.35%，报25686.685点。",
-          "url": "https://wallstreetcn.com/livenews/3019406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数跌幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3019302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20251211234957724800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "欧洲STOXX 600指数涨0.5%，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3019300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "标普500指数低开25.38点，跌幅0.37%，报6861.30点； 道琼斯工业平均指数高开25.15点，涨幅0.05%，报48082.90点； 纳斯达克综合指数低开144.94点，跌幅0.61%，报23509.22点。",
-          "url": "https://wallstreetcn.com/livenews/3019294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
-          "url": "https://wallstreetcn.com/articles/3761091",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时22分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3019409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "博通美股盘后跌幅扩大至5.18%。",
-          "url": "https://wallstreetcn.com/livenews/3019447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251212050631133800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时23分]"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251212050548995800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时23分]"
-        },
-        {
-          "title": "周四（12月11日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨0.78%，报93510美元，全天U形反转。 CME以太币期货DCR主力合约跌2.56%，报3277美元。 美股加密货币与加密货币关联指数跌0.17%，报71.76点，北京时间22:30跳空低开之后逐步收复失地。 最近24小时，MarketVector数字资产100小盘指数跌2.23%，暂报4071.03点。",
-          "url": "https://wallstreetcn.com/livenews/3019429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "AI泡沫担忧重燃，甲骨文跌16%，美股涨跌不一，金油承压，比特币跌超2%",
-          "url": "https://wallstreetcn.com/articles/3761175",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时23分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨4.53%，报341.39点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨3.63%，报2411.21点，美股开盘之前一直大致持平，之后迅速上涨。",
-          "url": "https://wallstreetcn.com/livenews/3019426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "博通(AVGO.O)美股盘后涨4%。",
-          "url": "https://flash.jin10.com/detail/20251212051638252800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
-          "url": "https://www.cls.cn/detail/2227262",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "美股收盘：道指创新高 甲骨文跌超10%",
-          "url": "https://flash.jin10.com/detail/20251212050039144800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "博通美股盘后跌3.36%。",
-          "url": "https://wallstreetcn.com/livenews/3019441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "博通第四财季调整后净营收180.2亿美元，分析师预期174.7亿美元。 第四财季半导体解决方案营收110.7亿美元，分析师预期107.4亿美元。 第一财季营收大约191亿美元，分析师预期184.8亿美元。 预计AI半导体营收将同比翻倍，至82亿美元。 股息季环比提高10%，至每股0.65美元。 博通股价（AVGO）美股盘后涨4%。",
-          "url": "https://wallstreetcn.com/livenews/3019419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.09%，报7773.37点，美股早盘实现V形反转，日内一般的时间处于微幅上涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3019409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数美股盘初跌0.8%。 拼多多美股盘初跌3.8%，Boss直聘跌3.4%，金山云跌超3.2%，大全新能源、阿里巴巴跌超2.7%，小鹏跌2.6%，蔚来跌2%。 百度涨0.6%，中通快递和百胜中国涨超0.8%，贝壳涨3.2%。 ETF中，KWEB跌1.29%，CQQQ跌1.32%。",
-          "url": "https://wallstreetcn.com/livenews/3019299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异，科技行业ETF跌超1.4%",
-          "url": "https://wallstreetcn.com/livenews/3019297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251212013328350800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
-        },
-        {
-          "title": "甲骨文美股盘初重挫16%，创2001年3月以来最大单日跌幅，市值蒸发1020亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3019296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251212013102151800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
+          "url": "https://www.cls.cn/detail/2227243",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
           "url": "https://wallstreetcn.com/livenews/3019450",
@@ -971,7 +961,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -986,6 +976,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时28分]"
+        },
+        {
+          "title": "ChatGPT5.2正式发布",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Greg Brockman发布GPT5.2思维能力测评结果，并表示，模型的基准测试表现非常出色。",
@@ -1022,6 +1023,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时28分]"
+        },
+        {
+          "title": "GPT-5.2来了！OpenAI最新发布",
+          "url": "https://www.baidu.com/s?wd=GPT-5.2%E6%9D%A5%E4%BA%86%EF%BC%81OpenAI%E6%9C%80%E6%96%B0%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
         },
         {
           "title": "OpenAI：在ChatGPT中，GPT-5.1仍将以旧版模型的形式向付费用户开放三个月。",
@@ -1158,8 +1170,231 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
+          "url": "https://wallstreetcn.com/articles/3761091",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时22分]"
+        },
+        {
+          "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
+          "url": "https://www.cls.cn/detail/2227262",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 09时50分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3019409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "博通美股盘后跌幅扩大至5.18%。",
+          "url": "https://wallstreetcn.com/livenews/3019447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251212050631133800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 06时23分]"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251212050548995800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 06时23分]"
+        },
+        {
+          "title": "周四（12月11日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨0.78%，报93510美元，全天U形反转。 CME以太币期货DCR主力合约跌2.56%，报3277美元。 美股加密货币与加密货币关联指数跌0.17%，报71.76点，北京时间22:30跳空低开之后逐步收复失地。 最近24小时，MarketVector数字资产100小盘指数跌2.23%，暂报4071.03点。",
+          "url": "https://wallstreetcn.com/livenews/3019429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "AI泡沫担忧重燃，甲骨文跌16%，美股涨跌不一，金油承压，比特币跌超2%",
+          "url": "https://wallstreetcn.com/articles/3761175",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 06时23分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨4.53%，报341.39点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨3.63%，报2411.21点，美股开盘之前一直大致持平，之后迅速上涨。",
+          "url": "https://wallstreetcn.com/livenews/3019426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "博通(AVGO.O)美股盘后涨4%。",
+          "url": "https://flash.jin10.com/detail/20251212051638252800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "美股收盘：道指创新高 甲骨文跌超10%",
+          "url": "https://flash.jin10.com/detail/20251212050039144800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "博通美股盘后跌3.36%。",
+          "url": "https://wallstreetcn.com/livenews/3019441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "博通第四财季调整后净营收180.2亿美元，分析师预期174.7亿美元。 第四财季半导体解决方案营收110.7亿美元，分析师预期107.4亿美元。 第一财季营收大约191亿美元，分析师预期184.8亿美元。 预计AI半导体营收将同比翻倍，至82亿美元。 股息季环比提高10%，至每股0.65美元。 博通股价（AVGO）美股盘后涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3019419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.09%，报7773.37点，美股早盘实现V形反转，日内一般的时间处于微幅上涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3019409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数美股盘初跌0.8%。 拼多多美股盘初跌3.8%，Boss直聘跌3.4%，金山云跌超3.2%，大全新能源、阿里巴巴跌超2.7%，小鹏跌2.6%，蔚来跌2%。 百度涨0.6%，中通快递和百胜中国涨超0.8%，贝壳涨3.2%。 ETF中，KWEB跌1.29%，CQQQ跌1.32%。",
+          "url": "https://wallstreetcn.com/livenews/3019299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，科技行业ETF跌超1.4%",
+          "url": "https://wallstreetcn.com/livenews/3019297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251212013328350800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "甲骨文美股盘初重挫16%，创2001年3月以来最大单日跌幅，市值蒸发1020亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3019296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251212013102151800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
@@ -1196,6 +1431,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时28分]"
+        },
+        {
+          "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
+          "url": "https://wallstreetcn.com/articles/3761169",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
@@ -1296,6 +1542,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
+          "url": "https://wallstreetcn.com/livenews/3019491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "China A股 热点 头条 突发 breaking news",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "A股三大指数回调，北证50收涨近4%！商业航天走强，摩尔线程突破900元，房地产调整，恒科指跌0.83%，中兴通讯重挫",
+          "url": "https://wallstreetcn.com/articles/3761155",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 09时50分]"
+        },
+        {
+          "title": "日本突发列车脱轨翻覆事故",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%AA%81%E5%8F%91%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8%E7%BF%BB%E8%A6%86%E4%BA%8B%E6%95%85",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "A股算力硬件股反复活跃，德科立、联特科技涨超10%，新易盛、瑞斯康达、剑桥科技、汇绿生态等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3019521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "A股商业航天概念再度拉升，华菱线缆、中超控股2连板，东方通信、长城电工、航天长峰涨停，创远信科、亚光科技、超捷股份、天力复合、国瓷材料涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3019519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-12）",
+          "url": "https://flash.jin10.com/detail/20251212090313715800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     },
@@ -1334,7 +1654,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         }
@@ -1379,24 +1699,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股三大指数回调，北证50收涨近4%！商业航天走强，摩尔线程突破900元，房地产调整，恒科指跌0.83%，中兴通讯重挫",
-          "url": "https://wallstreetcn.com/articles/3761155",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时22分]"
         }
       ]
     }
