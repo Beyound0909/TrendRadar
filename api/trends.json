@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T17:28:11.774532+08:00",
-  "total_titles_processed": 1606,
+  "generated_at": "2025-12-12T18:27:02.180761+08:00",
+  "total_titles_processed": 1699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 82,
+      "match_count": 84,
       "titles": [
         {
           "title": "累计涨幅较大、业绩亏损 摩尔线程提示股票交易风险",
@@ -214,6 +214,18 @@
           "time_info": "[09时49分 ~ 11时26分]"
         },
         {
+          "title": "【每日收评】三大指数探底回升全线收红，商业航天概念延续强势，两市成交额重回2万亿之上",
+          "url": "https://www.cls.cn/detail/2227958",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 18时27分]"
+        },
+        {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌4.99%，暂报3967.32点，北京时间12:00过后持续地位窄幅震荡。",
           "url": "https://wallstreetcn.com/livenews/3019340",
           "source": "华尔街见闻-快讯",
@@ -332,17 +344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时27分]"
-        },
-        {
-          "title": "【每日收评】三大指数探底回升全线收红，商业航天概念延续强势，两市成交额重回2万亿之上",
-          "url": "https://www.cls.cn/detail/2227958",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月12日 周五",
@@ -472,6 +473,17 @@
           "time_info": "15时26分"
         },
         {
+          "title": "中国证监会对三人操纵股票行为作出处罚",
+          "url": "https://wallstreetcn.com/livenews/3019832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "高盛：预计人工智能驱动的生产力提升将使标普500指数每股收益在2026年增长0.4%，2027年增长1.5%。",
           "url": "https://flash.jin10.com/detail/20251212123923743800",
           "source": "金十数据",
@@ -503,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "美国股指期货短线走低，纳指期货跌幅扩大至0.55%，标普500指数期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3019830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "韩国11月出口物价指数年率 7%，前值4.80%。",
@@ -665,7 +688,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -964,16 +987,33 @@
           "time_info": "[00时34分 ~ 11时26分]"
         },
         {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            4,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时25分 ~ 18时27分]"
+        },
+        {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
           "url": "https://www.zhihu.com/question/1982382027627073644",
           "source": "知乎",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时25分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[11时25分 ~ 18时27分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -986,21 +1026,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时34分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时25分 ~ 17时28分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -1024,6 +1049,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时25分 ~ 14时36分]"
+        },
+        {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时33分 ~ 18时27分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时33分 ~ 18时27分]"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -1168,6 +1217,18 @@
           "time_info": "[03时22分 ~ 04时27分]"
         },
         {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 18时27分]"
+        },
+        {
           "title": "泰国总理给特朗普“泼冷水”",
           "url": "https://www.toutiao.com/trending/7582421562226655268/",
           "source": "今日头条",
@@ -1178,30 +1239,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 02时34分]"
-        },
-        {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 17时28分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 17时28分]"
         },
         {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
@@ -1321,17 +1358,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时27分]"
-        },
-        {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
         },
         {
           "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
@@ -1595,8 +1621,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时35分 ~ 17时28分]"
+          "appearance_count": 10,
+          "time_info": "[12时35分 ~ 18时27分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -2074,7 +2100,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -2083,11 +2109,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时25分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[11时25分 ~ 18时27分]"
         },
         {
           "title": "摩根大通：将谷歌母公司Alphabet目标价由340美元上调至385美元。",
@@ -2096,9 +2123,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
+          "url": "https://flash.jin10.com/detail/20251212174133299800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
@@ -2364,6 +2402,30 @@
           "time_info": "[11时26分 ~ 12时36分]"
         },
         {
+          "title": "李大霄：八个迹象显示A股或将反弹",
+          "url": "https://www.toutiao.com/trending/7582860539362020870/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 18时27分]"
+        },
+        {
+          "title": "博主：A股修复性反弹进入重要观察期",
+          "url": "https://www.toutiao.com/trending/7582869749168623155/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 18时27分]"
+        },
+        {
           "title": "A股散户为何牛熊市都难逃亏损",
           "url": "https://www.toutiao.com/trending/7582570482419895859/",
           "source": "今日头条",
@@ -2376,33 +2438,11 @@
           "time_info": "[12时35分 ~ 13时25分]"
         },
         {
-          "title": "李大霄：八个迹象显示A股或将反弹",
-          "url": "https://www.toutiao.com/trending/7582860539362020870/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
-        },
-        {
           "title": "A股三大指数全线收红",
           "url": "https://www.toutiao.com/trending/7582540459596775460/",
           "source": "今日头条",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
-        },
-        {
-          "title": "博主：A股修复性反弹进入重要观察期",
-          "url": "https://www.toutiao.com/trending/7582869749168623155/",
-          "source": "今日头条",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
