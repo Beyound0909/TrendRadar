@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T12:36:16.536991+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2025-12-12T13:25:26.310588+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "累计涨幅较大、业绩亏损 摩尔线程提示股票交易风险",
@@ -22,15 +22,15 @@
           "time_info": "[00时34分 ~ 09时50分]"
         },
         {
-          "title": "日本10月设备利用指数环比 3.3%，前值 2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3019619",
+          "title": "MSCI亚太指数上涨1%至226.37点。",
+          "url": "https://wallstreetcn.com/livenews/3019633",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "13时25分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.85%，报25788点。 恒生科技指数主连夜盘收涨0.83%，报5593点。",
@@ -56,6 +56,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "日本10月设备利用指数环比 3.3%，前值 2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3019619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时25分]"
         },
         {
           "title": "恒指期货夜盘收涨0.85%，报25788点，高水257点。",
@@ -165,6 +177,18 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "中兴通讯：拟使用自有资金10亿元-12亿元回购公司股票。",
+          "url": "https://wallstreetcn.com/livenews/3019610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时25分]"
+        },
+        {
           "title": "周四（12月11日）纽约尾盘，现货黄金涨1.27%，报4282.49美元/盎司，全天呈现出U形反转，北京时间21:00过后从4210美元下方持续反弹。 COMEX黄金期货涨2.01%，报4309.70美元/盎司，全天处于上涨状态，21:00过后也出现一波持续上涨的行情。",
           "url": "https://wallstreetcn.com/livenews/3019425",
           "source": "华尔街见闻-快讯",
@@ -225,6 +249,18 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "上证指数早盘收报3871.78点，跌0.04%。 深证成指早盘收报13222.51点，涨0.57%。 创业板指早盘收报3182.68点，涨0.60%。 沪深300早盘收报4562.08点，涨0.22%。 科创50早盘收报1335.41点，涨0.72%。 中证500早盘收报7141.29点，涨0.82%。 中证1000早盘收报7345.56点，涨0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3019594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时25分]"
+        },
+        {
           "title": "金十图示：2025年12月11日（周四）华尔街恐惧与贪婪指数（美盘后）",
           "url": "https://flash.jin10.com/detail/20251212052452089800",
           "source": "金十数据",
@@ -235,6 +271,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.57%，10年期主力合约跌0.17%，5年期主力合约跌0.10%，2年期主力合约跌0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3019591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时25分]"
         },
         {
           "title": "期货盯盘神器专属文章",
@@ -271,6 +319,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "高盛：预计人工智能驱动的生产力提升将使标普500指数每股收益在2026年增长0.4%，2027年增长1.5%。",
+          "url": "https://flash.jin10.com/detail/20251212123923743800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "中证转债指数高开0.07%。N瑞可转涨30%触发临停，大中转债涨超4%，豫光转债涨2.7%；福蓉转债跌2.2%，汇成转债跌近1%。",
           "url": "https://wallstreetcn.com/livenews/3019513",
           "source": "华尔街见闻-快讯",
@@ -280,17 +339,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
-        },
-        {
-          "title": "中兴通讯：拟使用自有资金10亿元-12亿元回购公司股票。",
-          "url": "https://wallstreetcn.com/livenews/3019610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
         },
         {
           "title": "韩国11月出口物价指数年率 7%，前值4.80%。",
@@ -313,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "日本10月设备利用指数 105.6，前值102.2。",
+          "url": "https://flash.jin10.com/detail/20251212123141307800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "上证指数开盘报3869.41点，跌0.10%。 深证成指开盘报13174.45点，涨0.21%。 创业板指开盘报3172.73点，涨0.29%。 沪深300开盘报4558.74点，涨0.14%。 科创50开盘报1324.30点，跌0.12%。 中证500开盘报7088.10点，涨0.07%。 中证1000开盘报7312.87点，涨0.01%。",
@@ -357,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "日本10月设备利用指数月率 3.3%，前值2.50%。",
+          "url": "https://flash.jin10.com/detail/20251212123038663800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "北证50指数盘中拉升，涨超2％。天力复合2连板，大鹏工业、创远信科、灿能电力、新威凌、锦波生物、瑞奇智造等涨幅居前。",
@@ -447,24 +517,13 @@
           "time_info": "11时26分"
         },
         {
-          "title": "上证指数早盘收报3871.78点，跌0.04%。 深证成指早盘收报13222.51点，涨0.57%。 创业板指早盘收报3182.68点，涨0.60%。 沪深300早盘收报4562.08点，涨0.22%。 科创50早盘收报1335.41点，涨0.72%。 中证500早盘收报7141.29点，涨0.82%。 中证1000早盘收报7345.56点，涨0.46%。",
-          "url": "https://wallstreetcn.com/livenews/3019594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
           "title": "金十图示：2025年12月12日（周五）富时中国A50指数成分股午盘收盘行情一览：银行、保险、酿酒成分股涨跌不一，半导体、石油、证券全线下跌",
           "url": "https://flash.jin10.com/detail/20251212113512428800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -491,17 +550,6 @@
           "time_info": "09时50分"
         },
         {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.57%，10年期主力合约跌0.17%，5年期主力合约跌0.10%，2年期主力合约跌0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3019591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
           "title": "商品期货开盘，沪锡、沪银主力合约涨超3%，沪锌涨超2%，国际铜、碳酸锂、沪铜、沪金涨超1%。液化气、焦煤跌超3%，氧化铝、甲醇、PVC、纸浆、焦炭、棕榈油跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3019498",
           "source": "华尔街见闻-快讯",
@@ -519,7 +567,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -552,7 +600,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -574,7 +622,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -626,7 +674,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -661,8 +709,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -674,6 +733,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普废除拜登政府在阿拉斯加及其他州土地保护政策",
+          "url": "https://flash.jin10.com/detail/20251212124015260800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 13时25分]"
         },
         {
           "title": "特朗普政府在加州边境建立新的军事化区域",
@@ -794,28 +886,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时27分]"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 12时36分]"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 12时36分]"
         },
         {
           "title": "泰国总理给特朗普“泼冷水”",
@@ -1153,8 +1223,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 12时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 13时25分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -1173,11 +1243,23 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 13时25分]"
+        },
+        {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时25分]"
         },
         {
           "title": "全面解析ChatGPT5.2",
@@ -1259,17 +1341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时28分]"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI最新发布",
@@ -1441,8 +1512,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 12时36分]"
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 13时25分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -1644,6 +1715,18 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 13时25分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
           "url": "https://flash.jin10.com/detail/20251212010455282800",
           "source": "金十数据",
@@ -1653,18 +1736,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
-        },
-        {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 12时36分]"
         },
         {
           "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
@@ -1817,7 +1888,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "A股三大指数回调，北证50收涨近4%！商业航天走强，摩尔线程突破900元，房地产调整，恒科指跌0.83%，中兴通讯重挫",
@@ -1830,8 +1901,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 12时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 13时25分]"
         },
         {
           "title": "日本突发列车脱轨翻覆事故",
@@ -1840,11 +1911,34 @@
           "ranks": [
             2,
             23,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 12时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 13时25分]"
+        },
+        {
+          "title": "A股可控核聚变概念涨势扩大，中洲特材午后20cm涨停，中国西电、四创电子、雪人集团、国机重装、安泰科技等多股此前封板，哈焊华通、常辅股份涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3019631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "A股国家大基金持股板块短线拉升，燕东微涨超10%，拓荆科技、中微公司、北方华创、赛微电子、兴福电子等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3019629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "A股算力硬件股反复活跃，德科立、联特科技涨超10%，新易盛、瑞斯康达、剑桥科技、汇绿生态等跟涨。",
@@ -1887,11 +1981,12 @@
           "url": "https://www.toutiao.com/trending/7582570482419895859/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时25分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-12）",
