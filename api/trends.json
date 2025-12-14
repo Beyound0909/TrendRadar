@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T17:23:10.133444+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2025-12-14T18:23:36.709641+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -245,6 +245,17 @@
           "time_info": "[00时27分 ~ 03时18分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 18时23分]"
+        },
+        {
           "title": "柬埔寨称泰军向柬境内投掷数枚炸弹，泰方暂无回应，此前特朗普称双方已同意停火，双方局势将如何发展？",
           "url": "https://www.zhihu.com/question/1983101482518668094",
           "source": "知乎",
@@ -268,17 +279,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时41分 ~ 13时22分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
         },
         {
           "title": "特朗普的“新五常”计划可行吗",
@@ -350,7 +350,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力龙头赫然在列",
@@ -371,8 +371,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时40分 ~ 17时23分]"
+          "appearance_count": 12,
+          "time_info": "[11时40分 ~ 18时23分]"
         },
         {
           "title": "人形机器人细分龙头年内涨超300% 梳理产业链成本占比居前A股名单",
@@ -383,8 +383,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时27分 ~ 17时23分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 18时23分]"
         },
         {
           "title": "累计金额超1375亿！1468家A股上市公司今年以来实施回购，个股回购额排行榜出炉",
@@ -394,11 +394,12 @@
             10,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时27分 ~ 17时23分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 18时23分]"
         },
         {
           "title": "日本加息对A股的影响有多大",
@@ -425,13 +426,24 @@
           "time_info": "[11时40分 ~ 12时39分]"
         },
         {
+          "title": "千亿市值背后的资本棋局：解码A股光模块“三剑客”发家史",
+          "url": "https://www.cls.cn/detail/2228836",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "澳大利亚总理发言人：我们已知悉邦迪地区存在突发安全状况，我们敦促附近民众密切关注新南威尔士州警方发布的相关信息。",
           "url": "https://flash.jin10.com/detail/20251214162649142800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -442,7 +454,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -516,8 +528,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时27分 ~ 17时23分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 18时23分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -562,11 +574,12 @@
           "ranks": [
             8,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时38分 ~ 17时23分]"
+          "appearance_count": 10,
+          "time_info": "[12时38分 ~ 18时23分]"
         }
       ]
     }
