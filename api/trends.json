@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T20:43:14.133671+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2025-12-14T21:30:42.662822+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -147,6 +147,17 @@
           "time_info": "[00时27分 ~ 04时24分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 21时30分]"
+        },
+        {
           "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
           "url": "https://wallstreetcn.com/livenews/3020265",
           "source": "华尔街见闻-快讯",
@@ -180,17 +191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
         },
         {
           "title": "特朗普对其经济政策能否助力中期选举存疑",
@@ -292,6 +292,17 @@
           "time_info": "[11时41分 ~ 13时22分]"
         },
         {
+          "title": "特朗普回应美士兵在叙遇袭身亡",
+          "url": "https://www.douyin.com/hot/2335907",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 21时30分]"
+        },
+        {
           "title": "特朗普的“新五常”计划可行吗",
           "url": "https://www.toutiao.com/trending/7583121726133767743/",
           "source": "今日头条",
@@ -382,8 +393,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时40分 ~ 20时43分]"
+          "appearance_count": 17,
+          "time_info": "[11时40分 ~ 21时30分]"
         },
         {
           "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力龙头赫然在列",
@@ -405,8 +416,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时27分 ~ 20时43分]"
+          "appearance_count": 31,
+          "time_info": "[00时27分 ~ 21时30分]"
         },
         {
           "title": "累计金额超1375亿！1468家A股上市公司今年以来实施回购，个股回购额排行榜出炉",
@@ -420,8 +431,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时27分 ~ 20时43分]"
+          "appearance_count": 31,
+          "time_info": "[00时27分 ~ 21时30分]"
         },
         {
           "title": "千亿市值背后的资本棋局：解码A股光模块“三剑客”发家史",
@@ -433,8 +444,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 21时30分]"
         },
         {
           "title": "日本加息对A股的影响有多大",
@@ -588,6 +599,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
+          "url": "https://wallstreetcn.com/articles/3761367",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 21时30分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -602,8 +630,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时38分 ~ 20时43分]"
+          "appearance_count": 15,
+          "time_info": "[12时38分 ~ 21时30分]"
         }
       ]
     }
