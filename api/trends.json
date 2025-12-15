@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T14:39:40.885737+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2025-12-15T15:27:46.589350+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 37,
+      "match_count": 48,
       "titles": [
         {
           "title": "事关胜宏科技、金力永磁等多只热门股，深证成指、创业板指等指数样本股明日调整",
@@ -58,7 +58,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -74,6 +74,17 @@
           "time_info": "13时28分"
         },
         {
+          "title": "金十图示：2025年12月15日（周一）富时中国A50指数成分股今日收盘行情一览：半导体、煤炭、消费电子板块低收，证券、家电等板块收涨",
+          "url": "https://flash.jin10.com/detail/20251215150237126800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "ETF规模年内涨逾两万亿元，四只指数挂钩产品增量均破千亿",
           "url": "https://wallstreetcn.com/livenews/3020468",
           "source": "华尔街见闻-快讯",
@@ -85,17 +96,6 @@
           "time_info": "07时21分"
         },
         {
-          "title": "科创50指数尾盘跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3020764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
           "title": "国债期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251215093131051800",
           "source": "金十数据",
@@ -105,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251215150124281800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至2%。华虹半导体跌超7%，百度、快手跌超4%，中芯国际跌近4%。",
@@ -129,6 +140,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "午盘收盘，国内期货主力合约涨跌不一。铂涨7%，钯涨超4%，多晶硅、集运欧线、焦煤涨超3%，烧碱、氧化铝涨近3%；跌幅方面，苹果跌超2%，国际铜、沪铝、沪铜、菜油跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251215150105581800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "证监会：启动实施深化创业板改革，加快科创板“1+6”改革举措落地。推动私募基金行业高质量发展，尽快落地商业不动产REITs试点，研究推出新的重点期货品种。坚持扶优限劣，加快打造一流投资银行和投资机构。稳步扩大制度型开放，优化合格境外投资者制度和互联互通机制，提高境外上市备案质效。",
           "url": "https://wallstreetcn.com/livenews/3020678",
           "source": "华尔街见闻-快讯",
@@ -140,15 +162,15 @@
           "time_info": "12时43分"
         },
         {
-          "title": "日经225指数收盘跌1.3%，报50168.11点。日本东证指数收盘上涨0.2%。 韩国首尔综合指数收跌1.84%。",
-          "url": "https://wallstreetcn.com/livenews/3020761",
+          "title": "国债期货收跌，30年期主力合约跌0.99%",
+          "url": "https://wallstreetcn.com/livenews/3020791",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时39分"
+          "time_info": "15时27分"
         },
         {
           "title": "上证指数早盘收报3884.93点，跌0.11%。 深证成指早盘收报13164.03点，跌0.71%。 创业板指早盘收报3153.07点，跌1.29%。 沪深300早盘收报4573.30点，跌0.17%。 科创50早盘收报1331.33点，跌1.30%。 中证500早盘收报7137.42点，跌0.45%。 中证1000早盘收报7335.05点，跌0.49%。",
@@ -176,6 +198,18 @@
           "time_info": "[11时44分 ~ 12时43分]"
         },
         {
+          "title": "科创50指数尾盘跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3020764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时27分]"
+        },
+        {
           "title": "越南股指VN指数日内涨幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3020655",
           "source": "华尔街见闻-快讯",
@@ -198,6 +232,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 13时28分]"
+        },
+        {
+          "title": "日经225指数收盘跌1.3%，报50168.11点。日本东证指数收盘上涨0.2%。 韩国首尔综合指数收跌1.84%。",
+          "url": "https://wallstreetcn.com/livenews/3020761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时27分]"
         },
         {
           "title": "证监会：推动指数化投资高质量发展，持续讲好“股市叙事”",
@@ -247,6 +293,17 @@
           "time_info": "11时44分"
         },
         {
+          "title": "德国11月批发物价指数月率 0.3%，前值0.3%。",
+          "url": "https://flash.jin10.com/detail/20251215150005651800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "证监会：坚持严监严管，切实提升监管执法效能。强化科技赋能监管，继续重拳惩治财务造假、内幕交易、市场操纵、挪用侵占私募基金财产等证券期货违法违规行为。推动出台上市公司监管条例，积极配合修订证券公司、证券投资基金等重点领域法律法规。",
           "url": "https://wallstreetcn.com/livenews/3020677",
           "source": "华尔街见闻-快讯",
@@ -258,13 +315,24 @@
           "time_info": "12时43分"
         },
         {
+          "title": "德国11月批发物价指数年率 1.5%，前值1.1%。",
+          "url": "https://flash.jin10.com/detail/20251215150005629800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "富宝资讯：碳酸锂期货盘面震荡偏弱，富宝电池级碳酸锂报94950元/吨",
           "url": "https://flash.jin10.com/detail/20251215135815423800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -291,6 +359,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "上证指数收报3867.92点，跌0.55%。 深证成指收报13112.09点，跌1.10%。 创业板指收报3137.80点，跌1.77%。 沪深300收报4552.06点，跌0.63%。 科创50收报1318.91点，跌2.22%。 中证500收报7113.96点，跌0.78%。 中证1000收报7309.08点，跌0.84%。",
+          "url": "https://wallstreetcn.com/livenews/3020781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "日本10月第三产业活动指数月率 0.9%，预期0.2%，前值0.30%。",
           "url": "https://flash.jin10.com/detail/20251215123022217800",
           "source": "金十数据",
@@ -300,6 +379,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "商品期货收盘，铂主力合约涨停，钯涨超4%，多晶硅、集运欧线、焦煤涨超3%。苹果跌近3%，菜籽油、国际铜、沪铜、沪铝跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3020779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "上证指数开盘报3865.40点，跌0.62%。 深证成指开盘报13150.43点，跌0.81%。 创业板指开盘报3157.32点，跌1.16%。 沪深300开盘报4550.00点，跌0.68%。 科创50开盘报1333.36点，跌1.15%。 中证500开盘报7121.38点，跌0.68%。 中证1000开盘报7324.48点，跌0.63%。",
@@ -319,7 +409,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -333,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "30年期国债期货（TL）主力合约日内跌超1.00%，现报111.51元。",
+          "url": "https://flash.jin10.com/detail/20251215144620096800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "【恒指低开1%，恒生科技指数跌1.3%】京东健康跌近6%，百度跌超3%，理想汽车、阿里巴巴跌超2%。",
@@ -366,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "国债期货走弱，30年期主力合约跌0.94%，10年期主力合约跌0.14%，5年期主力合约跌0.06%，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3020769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "国债期货早盘收盘",
@@ -423,6 +535,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "30年期国债期货（TL）主力合约日内走低1.00元，现报111.64元，跌幅0.89%。",
+          "url": "https://flash.jin10.com/detail/20251215143232586800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "富时中国A50指数期货盘初跌0.33%，上一个交易日夜盘收跌0.45%。",
           "url": "https://wallstreetcn.com/livenews/3020521",
           "source": "华尔街见闻-快讯",
@@ -460,8 +583,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 15时27分]"
         },
         {
           "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
@@ -470,11 +593,12 @@
           "ranks": [
             7,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 14时39分]"
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 15时27分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：如果沃什出任美联储主席，希望他能（在利率政策问题上）与总统特朗普对话。 即便（我）担任美联储主席，也乐意于与特朗普对话。 经济数据表明，美国CPI朝着美联储2%目标靠拢。 美联储的职责是保持独立。 我们不会有10月家庭（就业）调查。",
@@ -567,28 +691,30 @@
           "source": "今日头条",
           "ranks": [
             13,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 15时27分]"
         },
         {
           "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
           "url": "https://wallstreetcn.com/articles/3761377",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时27分]"
         }
       ]
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力芯片龙头赫然在列",
@@ -682,8 +808,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时39分]"
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 15时27分]"
         },
         {
           "title": "期货热点追踪",
@@ -696,6 +822,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时44分 ~ 13时28分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "A股保险板块震荡走强，中国平安涨超4%，创2021年4月以来新高；中国太保、新华保险、中国人保、中国人寿涨幅靠前。",
@@ -725,8 +862,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 15时27分]"
         },
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
@@ -738,8 +875,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 15时27分]"
         },
         {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
@@ -748,11 +885,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 14时39分]"
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 15时27分]"
         },
         {
           "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
@@ -761,15 +899,15 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时27分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
@@ -784,8 +922,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 14时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 15时27分]"
+        },
+        {
+          "title": "金十图示：2025年12月15日（周一）上海金午盘价为978.02元/克，较国际金价(983.71元/克)，低5.69元/克",
+          "url": "https://flash.jin10.com/detail/20251215150146847800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "金十图示：2025年12月15日（周一）上海金早盘价为974.55元/克，较国际金价(980.31元/克)，低5.76元/克",
@@ -828,6 +977,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 07时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一手好牌打稀烂,deepseek成弃子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347982&amp;topic_name=%E4%B8%80%E6%89%8B%E5%A5%BD%E7%89%8C%E6%89%93%E7%A8%80%E7%83%82%2Cdeepseek%E6%88%90%E5%BC%83%E5%AD%90",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         }
       ]
     },
