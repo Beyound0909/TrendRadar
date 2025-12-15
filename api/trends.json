@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T13:28:30.751952+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2025-12-15T14:39:40.885737+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "事关胜宏科技、金力永磁等多只热门股，深证成指、创业板指等指数样本股明日调整",
@@ -44,11 +44,23 @@
             3,
             9,
             17,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 07时21分]"
+          "appearance_count": 5,
+          "time_info": "[04时24分 ~ 14时39分]"
+        },
+        {
+          "title": "铂期货触及涨停！为上市以来首次",
+          "url": "https://flash.jin10.com/detail/20251215142032624800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "澳大利亚S&P/ASX200指数收盘下跌0.7%至8,635.00点。",
@@ -57,7 +69,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -71,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "科创50指数尾盘跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3020764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "国债期货早盘开盘",
@@ -90,7 +113,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -115,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "日经225指数收盘跌1.3%，报50168.11点。日本东证指数收盘上涨0.2%。 韩国首尔综合指数收跌1.84%。",
+          "url": "https://wallstreetcn.com/livenews/3020761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "上证指数早盘收报3884.93点，跌0.11%。 深证成指早盘收报13164.03点，跌0.71%。 创业板指早盘收报3153.07点，跌1.29%。 沪深300早盘收报4573.30点，跌0.17%。 科创50早盘收报1331.33点，跌1.30%。 中证500早盘收报7137.42点，跌0.45%。 中证1000早盘收报7335.05点，跌0.49%。",
@@ -224,6 +258,17 @@
           "time_info": "12时43分"
         },
         {
+          "title": "富宝资讯：碳酸锂期货盘面震荡偏弱，富宝电池级碳酸锂报94950元/吨",
+          "url": "https://flash.jin10.com/detail/20251215135815423800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约跌0.35%，10年期主力合约跌0.01%，5年期主力合约跌0.03%，2年期主力合约跌0.00%。",
           "url": "https://wallstreetcn.com/livenews/3020541",
           "source": "华尔街见闻-快讯",
@@ -252,7 +297,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -266,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "铂金期货涨停 为上市以来首次",
+          "url": "https://wallstreetcn.com/livenews/3020750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "日经225指数回落至50000点下方，日内跌1.68%。",
@@ -340,7 +396,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -381,7 +437,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -404,8 +460,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 13时28分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 14时39分]"
+        },
+        {
+          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
+          "url": "https://www.cls.cn/detail/2229153",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 14时39分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：如果沃什出任美联储主席，希望他能（在利率政策问题上）与总统特朗普对话。 即便（我）担任美联储主席，也乐意于与特朗普对话。 经济数据表明，美国CPI朝着美联储2%目标靠拢。 美联储的职责是保持独立。 我们不会有10月家庭（就业）调查。",
@@ -480,18 +549,6 @@
           "time_info": "[00时27分 ~ 05时20分]"
         },
         {
-          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
-          "url": "https://www.cls.cn/detail/2229153",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 13时28分]"
-        },
-        {
           "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
           "url": "https://flash.jin10.com/detail/20251215045241134800",
           "source": "金十数据",
@@ -509,11 +566,23 @@
           "url": "https://www.toutiao.com/trending/7583736813425066020/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时39分]"
+        },
+        {
+          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
+          "url": "https://wallstreetcn.com/articles/3761377",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "14时39分"
         }
       ]
     },
@@ -605,6 +674,18 @@
           "time_info": "[09时53分 ~ 11时44分]"
         },
         {
+          "title": "十大券商看后市｜A股跨年行情蓄势待发，布局春季躁动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32177110",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 14时39分]"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20251215103227519800",
           "source": "金十数据",
@@ -615,17 +696,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时44分 ~ 13时28分]"
-        },
-        {
-          "title": "十大券商看后市｜A股跨年行情蓄势待发，布局春季躁动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32177110",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时28分]"
         },
         {
           "title": "A股保险板块震荡走强，中国平安涨超4%，创2021年4月以来新高；中国太保、新华保险、中国人保、中国人寿涨幅靠前。",
@@ -642,8 +712,22 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
+          "url": "https://wallstreetcn.com/articles/3761371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 14时39分]"
+        },
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
           "url": "https://wallstreetcn.com/articles/3761364",
@@ -654,21 +738,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 13时28分]"
-        },
-        {
-          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
-          "url": "https://wallstreetcn.com/articles/3761371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 13时28分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 14时39分]"
         },
         {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
@@ -676,11 +747,23 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 14时39分]"
+        },
+        {
+          "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
+          "url": "https://www.cls.cn/detail/2229441",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     },
@@ -701,8 +784,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 13时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 14时39分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）上海金早盘价为974.55元/克，较国际金价(980.31元/克)，低5.76元/克",
