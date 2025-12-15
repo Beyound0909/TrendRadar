@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T12:43:27.919551+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2025-12-15T13:28:30.751952+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "事关胜宏科技、金力永磁等多只热门股，深证成指、创业板指等指数样本股明日调整",
@@ -51,6 +51,17 @@
           "time_info": "[04时24分 ~ 07时21分]"
         },
         {
+          "title": "澳大利亚S&P/ASX200指数收盘下跌0.7%至8,635.00点。",
+          "url": "https://wallstreetcn.com/livenews/3020705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "ETF规模年内涨逾两万亿元，四只指数挂钩产品增量均破千亿",
           "url": "https://wallstreetcn.com/livenews/3020468",
           "source": "华尔街见闻-快讯",
@@ -73,15 +84,15 @@
           "time_info": "09时54分"
         },
         {
-          "title": "日本10月第三产业活动指数环比 0.9%，预期 0.2%，前值 0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3020680",
+          "title": "恒生科技指数日内跌幅扩大至2%。华虹半导体跌超7%，百度、快手跌超4%，中芯国际跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3020701",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时43分"
+          "time_info": "13时28分"
         },
         {
           "title": "股指期货早盘开盘",
@@ -101,7 +112,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -111,11 +122,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时28分]"
         },
         {
           "title": "国债期货早盘收盘，30年期主力合约跌0.62%，10年期主力合约跌0.11%，5年期主力合约跌0.04%，2年期主力合约跌0.02%。",
@@ -140,6 +152,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时44分 ~ 12时43分]"
+        },
+        {
+          "title": "日本10月第三产业活动指数环比 0.9%，预期 0.2%，前值 0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3020680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时28分]"
+        },
+        {
+          "title": "证监会：推动指数化投资高质量发展，持续讲好“股市叙事”",
+          "url": "https://wallstreetcn.com/livenews/3020675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时28分]"
         },
         {
           "title": "期货盯盘神器专属文章",
@@ -183,18 +219,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "证监会：推动指数化投资高质量发展，持续讲好“股市叙事”",
-          "url": "https://wallstreetcn.com/livenews/3020675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -221,6 +246,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "日本10月第三产业活动指数月率 0.9%，预期0.2%，前值0.30%。",
+          "url": "https://flash.jin10.com/detail/20251215123022217800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "上证指数开盘报3865.40点，跌0.62%。 深证成指开盘报13150.43点，跌0.81%。 创业板指开盘报3157.32点，跌1.16%。 沪深300开盘报4550.00点，跌0.68%。 科创50开盘报1333.36点，跌1.15%。 中证500开盘报7121.38点，跌0.68%。 中证1000开盘报7324.48点，跌0.63%。",
           "url": "https://wallstreetcn.com/livenews/3020537",
           "source": "华尔街见闻-快讯",
@@ -238,7 +274,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -260,7 +296,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -271,7 +307,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -282,7 +318,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -293,9 +329,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "证监会：继续重拳惩治财务造假、内幕交易、市场操纵、挪用侵占私募基金财产等证券期货违法违规行为",
+          "url": "https://wallstreetcn.com/livenews/3020677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "台湾证交所加权股价指数下跌1.3%至27,829.83点。",
@@ -329,6 +376,144 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时21分]"
+        },
+        {
+          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
+          "url": "https://wallstreetcn.com/articles/3761378",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 13时28分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任凯文·哈塞特：如果沃什出任美联储主席，希望他能（在利率政策问题上）与总统特朗普对话。 即便（我）担任美联储主席，也乐意于与特朗普对话。 经济数据表明，美国CPI朝着美联储2%目标靠拢。 美联储的职责是保持独立。 我们不会有10月家庭（就业）调查。",
+          "url": "https://wallstreetcn.com/livenews/3020426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            10,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 06时21分]"
+        },
+        {
+          "title": "美国总统特朗普：很快就会选择新的美联储主席。 新任美联储主席想要看到利率下降。 虽然（现在还是）是鲍威尔担任美联储主席，但利率正在下降。",
+          "url": "https://wallstreetcn.com/livenews/3020431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            7,
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时18分 ~ 07时21分]"
+        },
+        {
+          "title": "美国总统特朗普：通胀“完全被抵消了”，你们不希望看到通缩。 从许多方面来看，通缩情况都比通胀更糟。",
+          "url": "https://wallstreetcn.com/livenews/3020430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5,
+            8,
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时18分 ~ 07时21分]"
+        },
+        {
+          "title": "“影子美联储主席”哈塞特：特朗普可以向美联储提供建议，但无权设定其行动",
+          "url": "https://wallstreetcn.com/livenews/3020440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 07时21分]"
+        },
+        {
+          "title": "据AXIOS网站：乌克兰总统泽连斯基将在柏林会见美国中东问题特使威特科夫及特朗普女婿库什纳。之后他将分别会见来自法国、德国和英国的国家安全顾问。",
+          "url": "https://flash.jin10.com/detail/20251214211648647800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 05时20分]"
+        },
+        {
+          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
+          "url": "https://www.cls.cn/detail/2229153",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时28分]"
+        },
+        {
+          "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
+          "url": "https://flash.jin10.com/detail/20251215045241134800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时21分]"
+        },
+        {
+          "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
+          "url": "https://www.toutiao.com/trending/7583736813425066020/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         }
       ]
     },
@@ -420,26 +605,27 @@
           "time_info": "[09时53分 ~ 11时44分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251215103227519800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 13时28分]"
+        },
+        {
           "title": "十大券商看后市｜A股跨年行情蓄势待发，布局春季躁动",
           "url": "https://m.thepaper.cn/newsDetail_forward_32177110",
           "source": "澎湃新闻",
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251215103227519800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时28分]"
         },
         {
           "title": "A股保险板块震荡走强，中国平安涨超4%，创2021年4月以来新高；中国太保、新华保险、中国人保、中国人寿涨幅靠前。",
@@ -455,133 +641,6 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时21分]"
-        },
-        {
-          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
-          "url": "https://wallstreetcn.com/articles/3761378",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 12时43分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任凯文·哈塞特：如果沃什出任美联储主席，希望他能（在利率政策问题上）与总统特朗普对话。 即便（我）担任美联储主席，也乐意于与特朗普对话。 经济数据表明，美国CPI朝着美联储2%目标靠拢。 美联储的职责是保持独立。 我们不会有10月家庭（就业）调查。",
-          "url": "https://wallstreetcn.com/livenews/3020426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            10,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时21分]"
-        },
-        {
-          "title": "美国总统特朗普：很快就会选择新的美联储主席。 新任美联储主席想要看到利率下降。 虽然（现在还是）是鲍威尔担任美联储主席，但利率正在下降。",
-          "url": "https://wallstreetcn.com/livenews/3020431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            7,
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时18分 ~ 07时21分]"
-        },
-        {
-          "title": "美国总统特朗普：通胀“完全被抵消了”，你们不希望看到通缩。 从许多方面来看，通缩情况都比通胀更糟。",
-          "url": "https://wallstreetcn.com/livenews/3020430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5,
-            8,
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时18分 ~ 07时21分]"
-        },
-        {
-          "title": "“影子美联储主席”哈塞特：特朗普可以向美联储提供建议，但无权设定其行动",
-          "url": "https://wallstreetcn.com/livenews/3020440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 07时21分]"
-        },
-        {
-          "title": "据AXIOS网站：乌克兰总统泽连斯基将在柏林会见美国中东问题特使威特科夫及特朗普女婿库什纳。之后他将分别会见来自法国、德国和英国的国家安全顾问。",
-          "url": "https://flash.jin10.com/detail/20251214211648647800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时20分]"
-        },
-        {
-          "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
-          "url": "https://flash.jin10.com/detail/20251215045241134800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时21分]"
-        },
-        {
-          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
-          "url": "https://www.cls.cn/detail/2229153",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时43分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -591,11 +650,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 13时28分]"
         },
         {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
@@ -603,11 +663,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 13时28分]"
         },
         {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
@@ -618,8 +679,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时28分]"
         }
       ]
     },
@@ -636,11 +697,12 @@
             8,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 12时43分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 13时28分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）上海金早盘价为974.55元/克，较国际金价(980.31元/克)，低5.76元/克",
