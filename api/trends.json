@@ -1,11 +1,180 @@
 {
-  "generated_at": "2025-12-15T07:21:27.664112+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2025-12-15T09:54:05.632681+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "财经 期货 policy 股票 指数",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "事关胜宏科技、金力永磁等多只热门股，深证成指、创业板指等指数样本股明日调整",
+          "url": "https://www.cls.cn/detail/2229026",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时54分]"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌2.63%，持稳于北京时间23:32刷新的日低3868.93点附近，12:00以来持续震荡下行。",
+          "url": "https://wallstreetcn.com/livenews/3020428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            8,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 06时21分]"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2025年12月15日 周一",
+          "url": "https://flash.jin10.com/detail/20251215000000000800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 07时21分]"
+        },
+        {
+          "title": "ETF规模年内涨逾两万亿元，四只指数挂钩产品增量均破千亿",
+          "url": "https://wallstreetcn.com/livenews/3020468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251215093131051800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251215093128319800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约跌0.35%，10年期主力合约跌0.01%，5年期主力合约跌0.03%，2年期主力合约跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3020541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "中证转债指数低开0.09%。永吉转债涨9.4%，博俊转债涨4.7%，东时转债、蓝帆转债、银邦转债、威唐转债涨超1%；英搏转债跌4.4%，精装转债跌2.7%，金诚转债跌近2%。",
+          "url": "https://wallstreetcn.com/livenews/3020540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251215091301462800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "上证指数开盘报3865.40点，跌0.62%。 深证成指开盘报13150.43点，跌0.81%。 创业板指开盘报3157.32点，跌1.16%。 沪深300开盘报4550.00点，跌0.68%。 科创50开盘报1333.36点，跌1.15%。 中证500开盘报7121.38点，跌0.68%。 中证1000开盘报7324.48点，跌0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3020537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "【恒指低开1%，恒生科技指数跌1.3%】京东健康跌近6%，百度跌超3%，理想汽车、阿里巴巴跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3020535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "台湾证交所加权股价指数下跌1.3%至27,829.83点。",
+          "url": "https://wallstreetcn.com/livenews/3020524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "商品期货开盘，氧化铝、焦煤、烧碱、工业硅主力合约涨超3%。国际铜、沪铜跌超2%，沪银、碳酸锂、沪铝、棕榈油跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3020523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初跌0.33%，上一个交易日夜盘收跌0.45%。",
+          "url": "https://wallstreetcn.com/livenews/3020521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -102,12 +271,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 07时21分]"
+        },
+        {
+          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
+          "url": "https://wallstreetcn.com/articles/3761378",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 09时54分]"
         }
       ]
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力芯片龙头赫然在列",
@@ -139,11 +319,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时54分]"
         },
         {
           "title": "累计金额超1375亿！1468家A股上市公司今年以来实施回购，个股回购额排行榜出炉",
@@ -156,65 +337,39 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "事关胜宏科技、金力永磁等多只热门股，深证成指、创业板指等指数样本股明日调整",
-          "url": "https://www.cls.cn/detail/2229026",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
-          "title": "最近24小时，MarketVector数字资产100小盘指数跌2.63%，持稳于北京时间23:32刷新的日低3868.93点附近，12:00以来持续震荡下行。",
-          "url": "https://wallstreetcn.com/livenews/3020428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            8,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时21分]"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2025年12月15日 周一",
-          "url": "https://flash.jin10.com/detail/20251215000000000800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            17,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 07时21分]"
-        },
-        {
-          "title": "ETF规模年内涨逾两万亿元，四只指数挂钩产品增量均破千亿",
-          "url": "https://wallstreetcn.com/livenews/3020468",
+          "title": "A股大消费板块集体拉升，食品、乳业、零售、白酒等纷纷走强，欢乐家、皇氏集团、均瑶健康、阳光乳业、百大集团、东百集团、皇台酒业等多股涨停，骑士乳业涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3020560",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股可控核聚变概念延续强势，雪人集团、华菱线缆3连板，国机重装2连板，中泰股份、斯瑞新材、中国西电涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3020555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2228992",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 09时54分]"
         }
       ]
     },
@@ -250,6 +405,34 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
+          "url": "https://wallstreetcn.com/articles/3761364",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 09时54分]"
+        },
+        {
+          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
+          "url": "https://wallstreetcn.com/articles/3761371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 09时54分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -259,11 +442,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时54分]"
         }
       ]
     }
