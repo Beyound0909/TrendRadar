@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T09:54:05.632681+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2025-12-15T11:44:48.654938+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "事关胜宏科技、金力永磁等多只热门股，深证成指、创业板指等指数样本股明日调整",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时54分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 11时44分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌2.63%，持稳于北京时间23:32刷新的日低3868.93点附近，12:00以来持续震荡下行。",
@@ -50,6 +51,17 @@
           "time_info": "[04时24分 ~ 07时21分]"
         },
         {
+          "title": "上证指数早盘收报3884.93点，跌0.11%。 深证成指早盘收报13164.03点，跌0.71%。 创业板指早盘收报3153.07点，跌1.29%。 沪深300早盘收报4573.30点，跌0.17%。 科创50早盘收报1331.33点，跌1.30%。 中证500早盘收报7137.42点，跌0.45%。 中证1000早盘收报7335.05点，跌0.49%。",
+          "url": "https://wallstreetcn.com/livenews/3020660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
           "title": "ETF规模年内涨逾两万亿元，四只指数挂钩产品增量均破千亿",
           "url": "https://wallstreetcn.com/livenews/3020468",
           "source": "华尔街见闻-快讯",
@@ -61,15 +73,37 @@
           "time_info": "07时21分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.62%，10年期主力合约跌0.11%，5年期主力合约跌0.04%，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3020657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
           "title": "国债期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251215093131051800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "越南股指VN指数日内涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3020655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "股指期货早盘开盘",
@@ -78,9 +112,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251215091301462800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 11时44分]"
+        },
+        {
+          "title": "金十期货12月15日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨1000元/吨，中间价报95800元/吨。",
+          "url": "https://flash.jin10.com/detail/20251215110224953800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "国债期货开盘，30年期主力合约跌0.35%，10年期主力合约跌0.01%，5年期主力合约跌0.03%，2年期主力合约跌0.00%。",
@@ -89,7 +146,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -100,18 +157,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20251215091301462800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -122,9 +168,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "国债期货跌幅扩大，30年期主力合约跌0.83%，10年期主力合约跌0.13%，5年期主力合约跌0.04%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3020641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "【恒指低开1%，恒生科技指数跌1.3%】京东健康跌近6%，百度跌超3%，理想汽车、阿里巴巴跌超2%。",
@@ -133,7 +190,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -144,7 +201,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -155,7 +212,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -166,7 +223,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         }
@@ -174,7 +231,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -260,6 +317,18 @@
           "time_info": "[00时27分 ~ 05时20分]"
         },
         {
+          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
+          "url": "https://wallstreetcn.com/articles/3761378",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 11时44分]"
+        },
+        {
           "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
           "url": "https://flash.jin10.com/detail/20251215045241134800",
           "source": "金十数据",
@@ -273,21 +342,21 @@
           "time_info": "[05时20分 ~ 07时21分]"
         },
         {
-          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
-          "url": "https://wallstreetcn.com/articles/3761378",
-          "source": "华尔街见闻",
+          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
+          "url": "https://www.cls.cn/detail/2229153",
+          "source": "财联社热门",
           "ranks": [
-            8
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 09时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         }
       ]
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力芯片龙头赫然在列",
@@ -345,7 +414,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -356,7 +425,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -365,11 +434,106 @@
           "url": "https://www.cls.cn/detail/2228992",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 09时54分]"
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 11时44分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251215103227519800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "A股保险板块震荡走强，中国平安涨超4%，创2021年4月以来新高；中国太保、新华保险、中国人保、中国人寿涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3020616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
+          "url": "https://wallstreetcn.com/articles/3761364",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 11时44分]"
+        },
+        {
+          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
+          "url": "https://wallstreetcn.com/articles/3761371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 11时44分]"
+        },
+        {
+          "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
+          "url": "https://www.cls.cn/detail/2229152",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
+          "url": "https://wallstreetcn.com/articles/3761367",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 11时44分]"
+        },
+        {
+          "title": "金十图示：2025年12月15日（周一）上海金早盘价为974.55元/克，较国际金价(980.31元/克)，低5.76元/克",
+          "url": "https://flash.jin10.com/detail/20251215110053092800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         }
       ]
     },
@@ -405,49 +569,19 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
-          "url": "https://wallstreetcn.com/articles/3761364",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 09时54分]"
-        },
-        {
-          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
-          "url": "https://wallstreetcn.com/articles/3761371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 09时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
-          "url": "https://wallstreetcn.com/articles/3761367",
-          "source": "华尔街见闻",
+          "title": "传联发科拿下两代谷歌TPU定制大单",
+          "url": "https://flash.jin10.com/detail/20251215105959893800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8,
-            7
+            10
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         }
       ]
     }
