@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T03:22:21.503221+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2025-12-16T04:28:07.369685+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
           "url": "https://wallstreetcn.com/articles/3761378",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -39,8 +40,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -50,11 +51,12 @@
             20,
             26,
             28,
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "美联储理事米兰：可能会继续留在美联储，直至（美国总统特朗普）新的提名人获得国会山确认。",
@@ -68,6 +70,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时27分 ~ 03时22分]"
+        },
+        {
+          "title": "声明显示：俄罗斯现在必须展现出致力于实现持久和平的意愿，同意特朗普的和平计划，并通过同意停火来表明其结束战斗的承诺。",
+          "url": "https://flash.jin10.com/detail/20251216025403582800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时28分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：企业在一定程度上消耗掉（总统特朗普挑起）关税之前的库存。",
@@ -104,17 +118,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时27分]"
-        },
-        {
-          "title": "声明显示：俄罗斯现在必须展现出致力于实现持久和平的意愿，同意特朗普的和平计划，并通过同意停火来表明其结束战斗的承诺。",
-          "url": "https://flash.jin10.com/detail/20251216025403582800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
         },
         {
           "title": "美联储理事米兰：总统特朗普并未与我商谈美联储席位的安排。",
@@ -167,7 +170,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -197,30 +200,8 @@
     },
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "恒生指数主连夜盘收跌0.31%，报25574点。 恒生科技指数主连夜盘收跌0.69%，报5479点。",
-          "url": "https://wallstreetcn.com/livenews/3021141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "恒指期货夜盘收跌0.31%，报25574点，低水55点。",
-          "url": "https://flash.jin10.com/detail/20251216030054937800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
         {
           "title": "重要大宗商品指数再平衡在即，黄金白银期货将迎巨大抛压！",
           "url": "https://wallstreetcn.com/articles/3761400",
@@ -229,8 +210,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "AH股震荡调整，创业板跌1.77%，大消费全面爆发，恒科指跌超2%，铂金期货涨停，30年期国债收跌0.99%",
@@ -240,8 +221,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时28分]"
+        },
+        {
+          "title": "WTI 1月原油期货收跌0.62美元，跌幅1.08%，报56.82美元/桶。 NYMEX 1月天然气期货收报4.0120美元/百万英热单位。 NYMEX 1月汽油期货收报1.7323美元/加仑，NYMEX 1月取暖油期货收报2.1806美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3021147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.31%，报25574点。 恒生科技指数主连夜盘收跌0.69%，报5479点。",
+          "url": "https://wallstreetcn.com/livenews/3021141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时28分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌4.65%，暂报3705.05点，北京时间22:00过后摆脱日内稍早的横盘状态，并快速下跌，一度跌穿3691点。 MarketVector数字资产100指数跌3.07%，报17870.34点，一度跌至17800点。",
@@ -255,6 +259,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时27分 ~ 03时22分]"
+        },
+        {
+          "title": "恒指期货夜盘收跌0.31%，报25574点，低水55点。",
+          "url": "https://flash.jin10.com/detail/20251216030054937800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时28分]"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.68%，报582.18点。 欧元区STOXX 50指数初步收涨0.42%，报5744.65点。 富时泛欧绩优300指数初步收涨0.68%，报2321.18点。",
@@ -347,11 +363,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -363,8 +380,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
@@ -411,11 +428,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时28分]"
         },
         {
           "title": "OpenAI：从谷歌挖来Albert Lee。",
@@ -441,7 +459,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         }
@@ -460,8 +478,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时28分]"
         }
       ]
     }
