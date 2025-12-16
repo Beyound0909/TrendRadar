@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T13:26:03.204468+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2025-12-16T14:37:58.827189+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 63,
+      "match_count": 69,
       "titles": [
         {
           "title": "重要大宗商品指数再平衡在即，黄金白银期货将迎巨大抛压！",
@@ -31,30 +31,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时35分 ~ 13时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时35分 ~ 14时37分]"
         },
         {
-          "title": "香港恒生指数跌幅扩大至2%。恒生科技指数跌超2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3021429",
+          "title": "富宝资讯：碳酸锂期货盘面震荡偏弱，富宝电池级碳酸锂报94950元/吨",
+          "url": "https://flash.jin10.com/detail/20251216141751222800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "日经225指数收盘下跌1.6%，报49383.29点。日本东证指数收跌1.8%。 韩国首尔综合指数收跌2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3021467",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2025年12月16日 周二",
-          "url": "https://flash.jin10.com/detail/20251216070000000800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "14时37分"
         },
         {
           "title": "MSCI亚太指数下跌1%至223.05点。",
@@ -112,6 +112,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "韩国KOSPI指数尾盘跌超2%。",
+          "url": "https://flash.jin10.com/detail/20251216140229009800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "沐曦股份：股票将于12月17日上市",
           "url": "https://www.cls.cn/detail/2230080",
           "source": "财联社热门",
@@ -147,6 +158,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时23分]"
+        },
+        {
+          "title": "香港恒生指数跌幅扩大至2%。恒生科技指数跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3021429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时37分]"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2025年12月16日 周二",
+          "url": "https://flash.jin10.com/detail/20251216070000000800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 14时37分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌4.65%，暂报3705.05点，北京时间22:00过后摆脱日内稍早的横盘状态，并快速下跌，一度跌穿3691点。 MarketVector数字资产100指数跌3.07%，报17870.34点，一度跌至17800点。",
@@ -348,6 +383,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "抖音发布财经行业治理公约 禁止非财经认证账号发布财经专业内容",
+          "url": "https://wallstreetcn.com/livenews/3021452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "随着俄乌和平谈判取得进展，美国原油期货日内下跌1美元。",
           "url": "https://flash.jin10.com/detail/20251216005103965800",
           "source": "金十数据",
@@ -357,6 +403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "韩国首尔综合指数跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3021451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "金十图示：2025年12月15日（周一）华尔街恐惧与贪婪指数（美盘后）",
@@ -522,6 +579,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
+        },
+        {
+          "title": "台湾证交所加权股价指数收跌1.2%报27,536.66点。",
+          "url": "https://wallstreetcn.com/livenews/3021436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "金十图示：2025年12月16日（周二）全球股市指数-欧洲市场（收盘）",
@@ -725,7 +793,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -759,8 +827,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 13时26分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 14时37分]"
+        },
+        {
+          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
+          "url": "https://wallstreetcn.com/articles/3761439",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 14时37分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -778,29 +859,17 @@
           "time_info": "[00时35分 ~ 07时23分]"
         },
         {
-          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
-          "url": "https://wallstreetcn.com/articles/3761439",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 13时26分]"
-        },
-        {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
           "url": "https://news.ifeng.com/c/8p7htngCHQD",
           "source": "凤凰网",
           "ranks": [
             5,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 13时26分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 14时37分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -818,6 +887,33 @@
           "time_info": "[00时35分 ~ 05时34分]"
         },
         {
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 14时37分]"
+        },
+        {
+          "title": "特朗普正式起诉BBC 共索赔100亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            25,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 14时37分]"
+        },
+        {
           "title": "日媒：高市被特朗普警告后情绪低落",
           "url": "https://www.toutiao.com/trending/7584090116184985142/",
           "source": "今日头条",
@@ -828,31 +924,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时37分 ~ 13时26分]"
-        },
-        {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 13时26分]"
-        },
-        {
-          "title": "特朗普正式起诉BBC 共索赔100亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 13时26分]"
         },
         {
           "title": "美国总统特朗普：我今天没看股市，可能涨了。",
@@ -1209,6 +1280,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "美特使和特朗普女婿疑似没认出德总理",
+          "url": "https://www.toutiao.com/trending/7584270560197099539/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "美国总统特朗普：将很快对英国广播公司（BBC）提起诉讼。",
           "url": "https://flash.jin10.com/detail/20251216044150857800",
           "source": "金十数据",
@@ -1281,8 +1363,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时23分 ~ 13时26分]"
+          "appearance_count": 11,
+          "time_info": "[06时23分 ~ 14时37分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -1395,7 +1477,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "十大券商看后市｜A股跨年行情蓄势待发，布局春季躁动",
@@ -1456,6 +1538,28 @@
           "time_info": "09时51分"
         },
         {
+          "title": "A股房地产板块异动拉升，世联行直线涨停，华夏幸福、万科A、南都物业、三湘印象、新城控股跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3021441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251216131908686800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "A股三大指数均跌超1%，军工、商业航天、光伏风电、影视等板块跌幅居前，沪深京三市下跌个股超4500只。",
           "url": "https://wallstreetcn.com/livenews/3021320",
           "source": "华尔街见闻-快讯",
@@ -1465,6 +1569,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3021118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3021118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时28分]"
+        },
+        {
+          "title": "“俄版谷歌”，正帮中国商人大赚",
+          "url": "https://news.ifeng.com/c/8p87L7ByRCW",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "OpenAI：从谷歌挖来Albert Lee。",
+          "url": "https://flash.jin10.com/detail/20251216015417172800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "Zillow Group一度下跌13%，创最近十个月最差盘中表现，CoStar Group跌9.1%，创2022年7月份以来盘中新低。 谷歌公司测试新版房地产广告模式。",
+          "url": "https://wallstreetcn.com/livenews/3021137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         }
       ]
     },
@@ -1502,7 +1669,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -1527,58 +1694,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3021118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3021118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 04时28分]"
-        },
-        {
-          "title": "OpenAI：从谷歌挖来Albert Lee。",
-          "url": "https://flash.jin10.com/detail/20251216015417172800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "Zillow Group一度下跌13%，创最近十个月最差盘中表现，CoStar Group跌9.1%，创2022年7月份以来盘中新低。 谷歌公司测试新版房地产广告模式。",
-          "url": "https://wallstreetcn.com/livenews/3021137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时34分"
         }
       ]
     },
