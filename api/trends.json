@@ -1,34 +1,401 @@
 {
-  "generated_at": "2025-12-17T05:24:03.521637+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2025-12-17T06:21:58.448851+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 29,
+      "keyword_group": "财经 期货 policy 股票 指数",
+      "match_count": 33,
       "titles": [
         {
-          "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
-          "url": "https://news.ifeng.com/c/8p8UVz5fJt6",
-          "source": "凤凰网",
+          "title": "抖音回应无资质不能发财经内容",
+          "url": "https://www.cls.cn/detail/2231340",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时21分]"
+        },
+        {
+          "title": "标普500指数跌幅扩大至0.8%，刷新日低。 道指跌456点，跌幅0.94%，纳指跌128点跌幅0.56%，生物科技指数跌1%，半导体指数跌1.2%，银行指数跌1.2%。 在美上市欧元区ETF跌0.5%，刷新日低。 Spotify ADR跌2.4%，刷新日低，跌幅随后收窄至1%。",
+          "url": "https://wallstreetcn.com/livenews/3021858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时28分]"
+        },
+        {
+          "title": "德国DAX 30指数初步收跌0.62%，报24078.77点。 法国股指初步收跌0.17%，意大利股指初步收跌0.15%、银行指数涨0.43%，英国股指初步收跌0.78%。",
+          "url": "https://wallstreetcn.com/livenews/3021827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
+        },
+        {
+          "title": "Truist Financial（TFC）宣布100亿美元股票回购计划。",
+          "url": "https://wallstreetcn.com/livenews/3021886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时24分]"
+        },
+        {
+          "title": "金十图示：2025年12月16日（周二）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251217050557083800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收跌0.45%，报579.93点。 欧元区STOXX 50指数初步收跌0.52%，报5722.60点。 富时泛欧绩优300指数初步收跌0.47%，报2311.27点。",
+          "url": "https://wallstreetcn.com/livenews/3021826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
+        },
+        {
+          "title": "周二（12月16日），彭博电动汽车价格回报指数跌1.57%，报3383.42点，亚太早盘显著走低，北京时间10:00过后（主要）持续交投于3390点下方，整体呈现出长尾L形走势。 成分股中，Ola Electric Mobility Ltd.跌超7.7%，沃尔沃汽车集团（欧股）收跌超6.8%，“特斯拉劲敌”Rivian跌约4%，Lucid集团跌超2.6%，特斯拉、微宏控股（MVST）、普拉格动力公司、禾赛科技则涨超3%，小马智行涨约7.3%。",
+          "url": "https://wallstreetcn.com/livenews/3021907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.13%，报25219点。 恒生科技指数主连夜盘收涨0.17%，报5408点。",
+          "url": "https://wallstreetcn.com/livenews/3021868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时28分]"
+        },
+        {
+          "title": "【每日收评】三大指数均跌超1%，全市场超4300股飘绿，商业航天午后探底回升",
+          "url": "https://www.cls.cn/detail/2231050",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
+        },
+        {
+          "title": "上期所原油期货2502合约夜盘收跌2.24%，报422.50元人民币/桶。 沪金夜盘收跌0.14%，沪银收跌0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3021865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时28分]"
+        },
+        {
+          "title": "周二（12月16日）纽约尾盘，ICE原糖期货跌0.67%，ICE白糖期货跌0.61%。 ICE阿拉比卡咖啡期货跌1.33%，咖啡“C”期货跌2.16%。罗布斯塔咖啡期货跌2.52%。 纽约可可期货涨2.08%，伦敦可可期货涨2.88%。 芝加哥WCE双低油菜籽期货跌0.70%。 ICE棉花期货跌1.30%。",
+          "url": "https://wallstreetcn.com/livenews/3021879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时24分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.8%，创11月21日以来最差单日表现，报358.04点。 在十个板块中，北欧工业板块领跌。 军工股萨博公司跌4.8%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3021829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 02时36分]"
+        },
+        {
+          "title": "据知情人士透露，Medline考虑将美国IPO股票发行价定在每股29美元，讨论将融资规模扩大至70亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3021900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
+        },
+        {
+          "title": "巴西基准股指Bovespa指数跌超2%，至158984点。",
+          "url": "https://flash.jin10.com/detail/20251217042534993800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
+        },
+        {
+          "title": "希腊雅典证交所综合指数收跌0.99%，报2086.50点，大部分时间低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3021813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
+        },
+        {
+          "title": "美国原油期货自2021年以来首次跌穿55美元",
+          "url": "https://wallstreetcn.com/livenews/3021812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
+        },
+        {
+          "title": "欧洲STOXX 600指数跌幅扩大至0.5%，刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3021807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
+        },
+        {
+          "title": "芝加哥小麦期货跌2.1%，大豆油也跌2%",
+          "url": "https://wallstreetcn.com/livenews/3021889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
+        },
+        {
+          "title": "内盘期货夜市涨跌各异，低硫燃油收跌超2.8%，焦炭涨1%",
+          "url": "https://wallstreetcn.com/livenews/3021802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
+        },
+        {
+          "title": "周二（12月16日）纽约尾盘，现货白银跌0.47%，报63.7843美元/盎司，亚太早盘出现一波显著的下跌行情、北京时间13:30刷新日低至62.1798美元，后续持续收复失地。 COMEX白银期货涨0.36%，报63.815美元/盎司，13:30也曾刷新日低至62.115美元。 COMEX铜期货跌0.89%，报5.3640美元/磅，走势与现货白银类似。 现货铂金涨2.99%，现货钯金涨2.21%。",
+          "url": "https://wallstreetcn.com/livenews/3021920",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
-          "title": "胡锡进：特朗普称俄乌“最接近和平”，世界聚焦普京",
-          "url": "https://news.ifeng.com/c/8p8hxedgU29",
-          "source": "凤凰网",
+          "title": "纳斯达克金龙中国指数初步收跌0.3%。 热门中概股里，网易、百胜中国、拼多多初步收跌超1%，蔚来涨0.6%，小鹏涨1.1%，文远知行涨2.8%，小马智行涨7.8%。",
+          "url": "https://wallstreetcn.com/livenews/3021903",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
+        {
+          "title": "恒指期货夜盘收跌0.13%，报25219点，低水16点。",
+          "url": "https://flash.jin10.com/detail/20251217030105053800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "美国11月非农就业报告发布日，标普500指数初步收跌0.2%，能源板块跌2.8%，保健板块跌1.2%，科技板块涨0.5%。 纳斯达克100指数初步收涨0.3%，成分股中，康卡斯特初步收涨5.5%，Strategy涨3.7%，特斯拉涨3.4%，Palantir涨2.6%，核电股Constellation Energy涨2.6%，Arm控股则跌2.5%，Diamondback Energy跌2.9%，美国油服贝克休斯跌3.9%。",
+          "url": "https://wallstreetcn.com/livenews/3021901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2025年12月17日 周三",
+          "url": "https://flash.jin10.com/detail/20251217000000000800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "金十图示：2025年12月17日（周三）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251217004530189800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "WTI原油期货价格自2021年初以来首次跌破55美元",
+          "url": "https://flash.jin10.com/detail/20251216234227731800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "罗素2000指数跌至一周多以来低点，最新下跌0.9%。",
+          "url": "https://flash.jin10.com/detail/20251217023151904800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "金十图示：2025年12月16日（周二）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20251217050752393800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.34%，报7556.33点。 热门中概股里，网易、百胜中国、拼多多初步收跌超1%，蔚来涨0.6%，小鹏涨1.1%，文远知行涨2.8%，小马智行涨7.8%。 ETF中，XtrackersHarvest中证50（ASHS）收跌1.26%，德银嘉实沪深300指数ETF（ASHR）收跌0.97%。 中国科技指数ETF（CQQQ）收跌0.60%，中概互联网指数ETF（KWEB）收跌0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3021903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国11月非农就业报告发布日，标普500指数收跌16.25点，跌幅0.24%，连续第三个交易日走低（期内累计下挫1.46%），报6800.26点，能源板块跌3%创4月份以来最差单日表现。 道琼斯工业平均指数收跌302.30点，跌幅0.62%，报48114.26点。 纳斯达克综合指数（纳指）收涨54.049点，涨幅0.23%，报23111.462点。 纳斯达克100指数收涨65.675点，涨幅0.26%，报25132.94点。",
+          "url": "https://wallstreetcn.com/livenews/3021901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "WTI原油期货日内大跌3.00%，现报55.11美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251216232657667800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "标普综合1500客运航空指数在油价下跌之际上涨2%。",
+          "url": "https://flash.jin10.com/detail/20251217012117765800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "欧洲STOXX 600指数收跌0.47%，报579.80点。 欧元区STOXX 50指数收跌0.60%，报5717.83点。 富时泛欧绩优300指数收跌0.47%，报2311.32点。",
+          "url": "https://wallstreetcn.com/livenews/3021826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 29,
+      "titles": [
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
           "url": "https://www.zhihu.com/question/1983941746871264912",
@@ -38,11 +405,34 @@
             15,
             13,
             11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时21分]"
+        },
+        {
+          "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
+          "url": "https://news.ifeng.com/c/8p8UVz5fJt6",
+          "source": "凤凰网",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时21分]"
+        },
+        {
+          "title": "胡锡进：特朗普称俄乌“最接近和平”，世界聚焦普京",
+          "url": "https://news.ifeng.com/c/8p8hxedgU29",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时21分]"
         },
         {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
@@ -56,8 +446,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时21分]"
         },
         {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -69,8 +459,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时21分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
@@ -104,17 +494,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "周二（12月16日），降息赢家指数跌0.36%，“特朗普关税输家”指数跌0.46%，散户抱团概念股指数/迷因股（meme stock）指数涨4.26%。",
-          "url": "https://wallstreetcn.com/livenews/3021908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将就其历史性成就发表讲话。",
@@ -174,6 +553,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 04时28分]"
+        },
+        {
+          "title": "周二（12月16日），降息赢家指数跌0.36%，“特朗普关税输家”指数跌0.46%，散户抱团概念股指数/迷因股（meme stock）指数涨4.26%。",
+          "url": "https://wallstreetcn.com/livenews/3021908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
         },
         {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
@@ -299,7 +690,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -321,7 +712,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -350,348 +741,8 @@
       ]
     },
     {
-      "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 29,
-      "titles": [
-        {
-          "title": "抖音回应无资质不能发财经内容",
-          "url": "https://www.cls.cn/detail/2231340",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时24分]"
-        },
-        {
-          "title": "金十图示：2025年12月16日（周二）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251217050557083800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "周二（12月16日），彭博电动汽车价格回报指数跌1.57%，报3383.42点，亚太早盘显著走低，北京时间10:00过后（主要）持续交投于3390点下方，整体呈现出长尾L形走势。 成分股中，Ola Electric Mobility Ltd.跌超7.7%，沃尔沃汽车集团（欧股）收跌超6.8%，“特斯拉劲敌”Rivian跌约4%，Lucid集团跌超2.6%，特斯拉、微宏控股（MVST）、普拉格动力公司、禾赛科技则涨超3%，小马智行涨约7.3%。",
-          "url": "https://wallstreetcn.com/livenews/3021907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "标普500指数跌幅扩大至0.8%，刷新日低。 道指跌456点，跌幅0.94%，纳指跌128点跌幅0.56%，生物科技指数跌1%，半导体指数跌1.2%，银行指数跌1.2%。 在美上市欧元区ETF跌0.5%，刷新日低。 Spotify ADR跌2.4%，刷新日低，跌幅随后收窄至1%。",
-          "url": "https://wallstreetcn.com/livenews/3021858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 04时28分]"
-        },
-        {
-          "title": "德国DAX 30指数初步收跌0.62%，报24078.77点。 法国股指初步收跌0.17%，意大利股指初步收跌0.15%、银行指数涨0.43%，英国股指初步收跌0.78%。",
-          "url": "https://wallstreetcn.com/livenews/3021827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时26分]"
-        },
-        {
-          "title": "Truist Financial（TFC）宣布100亿美元股票回购计划。",
-          "url": "https://wallstreetcn.com/livenews/3021886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时24分]"
-        },
-        {
-          "title": "欧洲STOXX 600指数初步收跌0.45%，报579.93点。 欧元区STOXX 50指数初步收跌0.52%，报5722.60点。 富时泛欧绩优300指数初步收跌0.47%，报2311.27点。",
-          "url": "https://wallstreetcn.com/livenews/3021826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时26分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.13%，报25219点。 恒生科技指数主连夜盘收涨0.17%，报5408点。",
-          "url": "https://wallstreetcn.com/livenews/3021868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时28分]"
-        },
-        {
-          "title": "【每日收评】三大指数均跌超1%，全市场超4300股飘绿，商业航天午后探底回升",
-          "url": "https://www.cls.cn/detail/2231050",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时26分]"
-        },
-        {
-          "title": "上期所原油期货2502合约夜盘收跌2.24%，报422.50元人民币/桶。 沪金夜盘收跌0.14%，沪银收跌0.24%。",
-          "url": "https://wallstreetcn.com/livenews/3021865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时28分]"
-        },
-        {
-          "title": "周二（12月16日）纽约尾盘，ICE原糖期货跌0.67%，ICE白糖期货跌0.61%。 ICE阿拉比卡咖啡期货跌1.33%，咖啡“C”期货跌2.16%。罗布斯塔咖啡期货跌2.52%。 纽约可可期货涨2.08%，伦敦可可期货涨2.88%。 芝加哥WCE双低油菜籽期货跌0.70%。 ICE棉花期货跌1.30%。",
-          "url": "https://wallstreetcn.com/livenews/3021879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时24分]"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌0.8%，创11月21日以来最差单日表现，报358.04点。 在十个板块中，北欧工业板块领跌。 军工股萨博公司跌4.8%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3021829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 02时36分]"
-        },
-        {
-          "title": "希腊雅典证交所综合指数收跌0.99%，报2086.50点，大部分时间低位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3021813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时26分]"
-        },
-        {
-          "title": "美国原油期货自2021年以来首次跌穿55美元",
-          "url": "https://wallstreetcn.com/livenews/3021812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时26分]"
-        },
-        {
-          "title": "欧洲STOXX 600指数跌幅扩大至0.5%，刷新日低。",
-          "url": "https://wallstreetcn.com/livenews/3021807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时26分]"
-        },
-        {
-          "title": "内盘期货夜市涨跌各异，低硫燃油收跌超2.8%，焦炭涨1%",
-          "url": "https://wallstreetcn.com/livenews/3021802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时26分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.3%。 热门中概股里，网易、百胜中国、拼多多初步收跌超1%，蔚来涨0.6%，小鹏涨1.1%，文远知行涨2.8%，小马智行涨7.8%。",
-          "url": "https://wallstreetcn.com/livenews/3021903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "恒指期货夜盘收跌0.13%，报25219点，低水16点。",
-          "url": "https://flash.jin10.com/detail/20251217030105053800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美国11月非农就业报告发布日，标普500指数初步收跌0.2%，能源板块跌2.8%，保健板块跌1.2%，科技板块涨0.5%。 纳斯达克100指数初步收涨0.3%，成分股中，康卡斯特初步收涨5.5%，Strategy涨3.7%，特斯拉涨3.4%，Palantir涨2.6%，核电股Constellation Energy涨2.6%，Arm控股则跌2.5%，Diamondback Energy跌2.9%，美国油服贝克休斯跌3.9%。",
-          "url": "https://wallstreetcn.com/livenews/3021901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2025年12月17日 周三",
-          "url": "https://flash.jin10.com/detail/20251217000000000800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "据知情人士透露，Medline考虑将美国IPO股票发行价定在每股29美元，讨论将融资规模扩大至70亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3021900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "金十图示：2025年12月17日（周三）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251217004530189800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "巴西基准股指Bovespa指数跌超2%，至158984点。",
-          "url": "https://flash.jin10.com/detail/20251217042534993800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "WTI原油期货价格自2021年初以来首次跌破55美元",
-          "url": "https://flash.jin10.com/detail/20251216234227731800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "罗素2000指数跌至一周多以来低点，最新下跌0.9%。",
-          "url": "https://flash.jin10.com/detail/20251217023151904800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "芝加哥小麦期货跌2.1%，大豆油也跌2%",
-          "url": "https://wallstreetcn.com/livenews/3021889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "WTI原油期货日内大跌3.00%，现报55.11美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251216232657667800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "标普综合1500客运航空指数在油价下跌之际上涨2%。",
-          "url": "https://flash.jin10.com/detail/20251217012117765800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "欧洲STOXX 600指数收跌0.47%，报579.80点。 欧元区STOXX 50指数收跌0.60%，报5717.83点。 富时泛欧绩优300指数收跌0.47%，报2311.32点。",
-          "url": "https://wallstreetcn.com/livenews/3021826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
@@ -702,41 +753,99 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时21分]"
+        },
+        {
+          "title": "彭博援引知情人士报道称，已经申请破产的航空公司Spirit Airlines Holdings Inc.考虑与Frontier Group Holdings合并。 Frontier美股盘后涨16%。",
+          "url": "https://wallstreetcn.com/livenews/3021924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "周二（12月16日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨2.46%，报88100美元。 CME以太币期货DCR主力合约涨0.82%，报2959美元。 美股加密货币与加密货币关联指数涨1.89%，报61.48点。 最近24小时，MarketVector数字资产100小盘指数涨1.08%，暂报3724.25点。",
+          "url": "https://wallstreetcn.com/livenews/3021922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251217050556170800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251217050538465800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 特斯拉创新高",
           "url": "https://flash.jin10.com/detail/20251217050135170800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
+        },
+        {
+          "title": "（美股）费城金银指数收跌0.27%，报335.44点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.83%，报2378.53点。",
+          "url": "https://wallstreetcn.com/livenews/3021919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "06时21分"
+        },
+        {
+          "title": "能源业ETF收跌3%，领跌美股行业ETF，标普能源板块也跌将近3%",
+          "url": "https://wallstreetcn.com/livenews/3021915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨3.1%，时隔一年再创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3021906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股盘中）",
@@ -770,6 +879,108 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "China A股 热点 头条 突发 breaking news",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "中央经济工作会议热点简读",
+          "url": "https://www.toutiao.com/trending/7584414195303648811/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时21分]"
+        },
+        {
+          "title": "中央经济工作会议热点简读",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E7%83%AD%E7%82%B9%E7%AE%80%E8%AF%BB%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时35分 ~ 06时21分]"
+        },
+        {
+          "title": "男子肺炎住院2天突发狂躁后死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%82%BA%E7%82%8E%E4%BD%8F%E9%99%A22%E5%A4%A9%E7%AA%81%E5%8F%91%E7%8B%82%E8%BA%81%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            29,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时24分]"
+        },
+        {
+          "title": "男子肺炎住院仅两天突发躁狂离世",
+          "url": "https://www.toutiao.com/trending/7584388080728113194/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            20,
+            22,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 06时21分]"
+        },
+        {
+          "title": "广西男子肺炎住院仅2天突发躁狂离世",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%94%B7%E5%AD%90%E8%82%BA%E7%82%8E%E4%BD%8F%E9%99%A2%E4%BB%852%E5%A4%A9%E7%AA%81%E5%8F%91%E8%BA%81%E7%8B%82%E7%A6%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时26分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251216235524435800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "A股因何调整？公募激辩未来走势，大摩：2026年更多外资回归中国市场",
+          "url": "https://www.cls.cn/detail/2231375",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "A股公司股东辞世 1.7亿遗产子女继承",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%85%AC%E5%8F%B8%E8%82%A1%E4%B8%9C%E8%BE%9E%E4%B8%96+1.7%E4%BA%BF%E9%81%97%E4%BA%A7%E5%AD%90%E5%A5%B3%E7%BB%A7%E6%89%BF",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
@@ -829,7 +1040,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -847,81 +1058,30 @@
       ]
     },
     {
-      "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 6,
+      "keyword_group": "美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "中央经济工作会议热点简读",
-          "url": "https://www.toutiao.com/trending/7584414195303648811/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时24分]"
-        },
-        {
-          "title": "中央经济工作会议热点简读",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E7%83%AD%E7%82%B9%E7%AE%80%E8%AF%BB%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时35分 ~ 05时24分]"
-        },
-        {
-          "title": "男子肺炎住院2天突发狂躁后死亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%82%BA%E7%82%8E%E4%BD%8F%E9%99%A22%E5%A4%A9%E7%AA%81%E5%8F%91%E7%8B%82%E8%BA%81%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            29,
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时24分]"
-        },
-        {
-          "title": "男子肺炎住院仅两天突发躁狂离世",
-          "url": "https://www.toutiao.com/trending/7584388080728113194/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            20,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时28分]"
-        },
-        {
-          "title": "广西男子肺炎住院仅2天突发躁狂离世",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E7%94%B7%E5%AD%90%E8%82%BA%E7%82%8E%E4%BD%8F%E9%99%A2%E4%BB%852%E5%A4%A9%E7%AA%81%E5%8F%91%E8%BA%81%E7%8B%82%E7%A6%BB%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时26分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251216235524435800",
+          "title": "美元指数16日下跌",
+          "url": "https://flash.jin10.com/detail/20251217051541000800",
           "source": "金十数据",
           "ranks": [
-            10
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "周二（12月16日）纽约尾盘，ICE跌0.21%，报98.104点，日内交投区间为98.320-97.869点，全天处于下跌状态，北京时间21:30发布美国非农就业报告后出现多个波次的V形行情。 彭博美元指数跌0.13%，报1204.43点，日内交投区间为1206.58-1201.94点。",
+          "url": "https://wallstreetcn.com/livenews/3021888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "05时24分"
         }
       ]
     },
@@ -943,6 +1103,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价在美国11月非农就业报告后出现一波反弹行情",
+          "url": "https://wallstreetcn.com/livenews/3021918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -951,28 +1128,12 @@
           "url": "https://wallstreetcn.com/livenews/3021898",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周二（12月16日）纽约尾盘，ICE跌0.21%，报98.104点，日内交投区间为98.320-97.869点，全天处于下跌状态，北京时间21:30发布美国非农就业报告后出现多个波次的V形行情。 彭博美元指数跌0.13%，报1204.43点，日内交投区间为1206.58-1201.94点。",
-          "url": "https://wallstreetcn.com/livenews/3021888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
         }
       ]
     }
