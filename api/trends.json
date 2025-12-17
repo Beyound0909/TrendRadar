@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T12:36:02.986802+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2025-12-17T13:26:29.006642+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "抖音回应无资质不能发财经内容",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "30年期国债期货（TL）主力合约日内涨超0.50%，现报112.03元。",
+          "url": "https://flash.jin10.com/detail/20251217130227657800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         },
         {
           "title": "沪银期货续创历史新高！年内价格翻一番",
@@ -446,7 +457,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -512,7 +523,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -534,7 +545,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -556,7 +567,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -578,7 +589,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -600,7 +611,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -611,7 +622,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -685,7 +696,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -702,8 +713,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 12时36分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 13时26分]"
         },
         {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
@@ -765,8 +776,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时26分]"
         },
         {
           "title": "特朗普签署公告，进一步限制外国公民入境美国",
@@ -776,19 +787,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时26分]"
         },
         {
           "title": "特朗普政府宣布对40国实施入境限制",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 13时26分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
@@ -868,6 +880,18 @@
           "time_info": "09时46分"
         },
         {
+          "title": "特朗普下令封锁所有受制裁委油轮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时26分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普可能会在周三披露2026年政策方向。",
           "url": "https://wallstreetcn.com/livenews/3021872",
           "source": "华尔街见闻-快讯",
@@ -916,17 +940,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普下令封锁所有受制裁委油轮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时36分]"
         },
         {
           "title": "特朗普称已下令封锁进出委受制裁油轮",
@@ -1059,6 +1072,17 @@
           "time_info": "[09时46分 ~ 11时22分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
           "title": "据英国金融时报：特朗普政府在关键会议前抨击世贸组织。",
           "url": "https://flash.jin10.com/detail/20251216235247580800",
           "source": "金十数据",
@@ -1090,6 +1114,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "马斯克又要给特朗普花钱了",
+          "url": "https://www.toutiao.com/trending/7584667287097986610/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         },
         {
           "title": "Citadel创始人Ken Griffin：美国民众对通胀粘性感到疲惫不堪。 （总统特朗普所属）共和党纠缠的那些政策会助涨通胀。 （但）去监管最终具有反通胀效果。 欧洲资本市场还不够深。",
@@ -1262,8 +1297,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 12时36分]"
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 13时26分]"
         },
         {
           "title": "彭博援引知情人士报道称，已经申请破产的航空公司Spirit Airlines Holdings Inc.考虑与Frontier Group Holdings合并。 Frontier美股盘后涨16%。",
@@ -1450,6 +1485,19 @@
           "time_info": "[00时33分 ~ 07时22分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251216235524435800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 13时26分]"
+        },
+        {
           "title": "A股因何调整？公募激辩未来走势，大摩：2026年更多外资回归中国市场",
           "url": "https://www.cls.cn/detail/2231375",
           "source": "财联社热门",
@@ -1463,6 +1511,18 @@
           "time_info": "[06时21分 ~ 11时22分]"
         },
         {
+          "title": "一签赚近30万！沐曦股份刷新A股纪录 相较可比公司估值如何？",
+          "url": "https://www.cls.cn/detail/2231770",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时26分]"
+        },
+        {
           "title": "突发！480亿消费电子股拟不超90亿元采购服务器|盘后公告集锦",
           "url": "https://www.cls.cn/detail/2231479",
           "source": "财联社热门",
@@ -1474,27 +1534,16 @@
           "time_info": "[11时22分 ~ 12时36分]"
         },
         {
-          "title": "一签赚近30万！沐曦股份刷新A股纪录 相较可比公司估值如何？",
-          "url": "https://www.cls.cn/detail/2231770",
-          "source": "财联社热门",
+          "title": "官方通报男子肺炎住院2天突发躁狂离世",
+          "url": "https://www.toutiao.com/trending/7584421794610806847/",
+          "source": "今日头条",
           "ranks": [
-            7
+            29,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251216235524435800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 12时36分]"
+          "time_info": "[11时22分 ~ 13时26分]"
         },
         {
           "title": "广西男子肺炎住院仅2天突发躁狂离世",
@@ -1540,17 +1589,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
-        },
-        {
-          "title": "官方通报男子肺炎住院2天突发躁狂离世",
-          "url": "https://www.toutiao.com/trending/7584421794610806847/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
         }
       ]
     },
