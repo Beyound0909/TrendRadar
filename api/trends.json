@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T21:36:10.151186+08:00",
-  "total_titles_processed": 1962,
+  "generated_at": "2025-12-17T22:25:52.936285+08:00",
+  "total_titles_processed": 2054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 114,
+      "match_count": 116,
       "titles": [
         {
           "title": "抖音回应无资质不能发财经内容",
@@ -119,17 +119,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
-        },
-        {
-          "title": "焦煤期货主力合约涨超3%，焦炭期货主力合约涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3022442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         },
         {
           "title": "中证转债指数高开0.09%。嘉美转债涨20%触发临停，大中转债、利群转债涨超5%；航宇转债跌超2%，瑞达转债、起帆转债、茂莱转债等跌超1%。",
@@ -251,6 +240,18 @@
           "time_info": "[05时24分 ~ 06时21分]"
         },
         {
+          "title": "焦煤期货主力合约涨超3%，焦炭期货主力合约涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3022442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时25分]"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.13%，报25219点。 恒生科技指数主连夜盘收涨0.17%，报5408点。",
           "url": "https://wallstreetcn.com/livenews/3021868",
           "source": "华尔街见闻-快讯",
@@ -261,6 +262,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时28分]"
+        },
+        {
+          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
+          "url": "https://wallstreetcn.com/articles/3761532",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 22时25分]"
         },
         {
           "title": "周二（12月16日）纽约尾盘，现货白银跌0.47%，报63.7843美元/盎司，亚太早盘出现一波显著的下跌行情、北京时间13:30刷新日低至62.1798美元，后续持续收复失地。 COMEX白银期货涨0.36%，报63.815美元/盎司，13:30也曾刷新日低至62.115美元。 COMEX铜期货跌0.89%，报5.3640美元/磅，走势与现货白银类似。 现货铂金涨2.99%，现货钯金涨2.21%。",
@@ -368,17 +380,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时31分 ~ 18时28分]"
-        },
-        {
-          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
-          "url": "https://wallstreetcn.com/articles/3761532",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "巴西基准股指Bovespa指数跌超2%，至158984点。",
@@ -605,7 +606,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -660,7 +661,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -759,7 +760,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -792,7 +793,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -817,6 +818,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "黑色系期货全线上行，焦煤主力合约涨超5%",
+          "url": "https://wallstreetcn.com/livenews/3022456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "金十图示：2025年12月17日（周三）富时中国A50指数成分股午盘收盘行情一览：通信设备、保险板块领涨，新易盛涨超6%，煤炭板块跌幅居前",
@@ -924,7 +936,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -1012,7 +1024,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -1034,7 +1046,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -1226,6 +1238,17 @@
           "time_info": "16时34分"
         },
         {
+          "title": "黑色系期货全线上行，焦煤主力合约涨近5%，焦炭主力合约涨超3%，铁矿主力合约涨超2%，螺纹、热卷主力合约涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251217215232648800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "WTI原油期货日内大跌3.00%，现报55.11美元/桶。",
           "url": "https://flash.jin10.com/detail/20251216232657667800",
           "source": "金十数据",
@@ -1295,7 +1318,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -1367,11 +1390,12 @@
             10,
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时26分 ~ 21时36分]"
+          "appearance_count": 13,
+          "time_info": "[13时26分 ~ 22时25分]"
         },
         {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
@@ -1745,6 +1769,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "特朗普任期失业率攀升至4.6% 中期选举席位流失风险或升高",
+          "url": "https://flash.jin10.com/detail/20251217220056002800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "美国总统特朗普：提名Troy Edgar为下一任美国驻萨尔瓦多大使。",
           "url": "https://flash.jin10.com/detail/20251217084307301800",
           "source": "金十数据",
@@ -1765,6 +1800,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32196119",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "Citadel创始人Ken Griffin：美国民众对通胀粘性感到疲惫不堪。 （总统特朗普所属）共和党纠缠的那些政策会助涨通胀。 （但）去监管最终具有反通胀效果。 欧洲资本市场还不够深。",
@@ -1992,6 +2038,19 @@
           "time_info": "[16时33分 ~ 20时51分]"
         },
         {
+          "title": "A股国产算力再添一员！沐曦股份登陆科创板 行业进入“拼产能、拼生态”关键阶段",
+          "url": "https://www.cls.cn/detail/2232260",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 22时25分]"
+        },
+        {
           "title": "男子肺炎住院仅两天突发躁狂离世",
           "url": "https://www.toutiao.com/trending/7584388080728113194/",
           "source": "今日头条",
@@ -2018,19 +2077,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时33分 ~ 19时23分]"
-        },
-        {
-          "title": "A股国产算力再添一员！沐曦股份登陆科创板 行业进入“拼产能、拼生态”关键阶段",
-          "url": "https://www.cls.cn/detail/2232260",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 21时36分]"
         },
         {
           "title": "沐曦股份上市首日大涨692.95%，最新收盘价跻身A股第三",
@@ -2165,7 +2211,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
@@ -2193,17 +2239,6 @@
           "time_info": "[07时22分 ~ 15时25分]"
         },
         {
-          "title": "美股期货短线走低，纳指期货日内涨幅收窄至0.12%，标普500指数期货涨幅收窄至0.16%。",
-          "url": "https://wallstreetcn.com/livenews/3022443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
           "title": "彭博援引知情人士报道称，已经申请破产的航空公司Spirit Airlines Holdings Inc.考虑与Frontier Group Holdings合并。 Frontier美股盘后涨16%。",
           "url": "https://wallstreetcn.com/livenews/3021924",
           "source": "华尔街见闻-快讯",
@@ -2226,6 +2261,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时21分]"
+        },
+        {
+          "title": "美股期货短线走低，纳指期货日内涨幅收窄至0.12%，标普500指数期货涨幅收窄至0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3022443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时25分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）热门中概股行情一览（美股收盘）",
@@ -2276,6 +2323,28 @@
           "time_info": "[06时21分 ~ 07时22分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-17）",
+          "url": "https://flash.jin10.com/detail/20251217220805221800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3022461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "能源业ETF收跌3%，领跌美股行业ETF，标普能源板块也跌将近3%",
           "url": "https://wallstreetcn.com/livenews/3021915",
           "source": "华尔街见闻-快讯",
@@ -2309,6 +2378,17 @@
           "time_info": "02时36分"
         },
         {
+          "title": "甲骨文美股盘前股价下跌2%，有报道称其最大的数据中心合作伙伴Blue Owl Capital已决定不再支持一项价值100亿美元的数据中心项目。",
+          "url": "https://wallstreetcn.com/livenews/3022447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "金十图示：2025年12月16日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251217013032694800",
           "source": "金十数据",
@@ -2334,7 +2414,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
@@ -2403,6 +2483,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "OpenAI：为新闻机构推出OpenAI学院（OPENAI Academy），在未来的计划中，将与更多新闻机构和行业合作伙伴合作，以扩展学院。",
+          "url": "https://flash.jin10.com/detail/20251217220433800800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1984534689147531765",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "OpenAI应用负责人：包括Adobe、Airtable、AppleMusic、Clay、Lovable、Salesforce在内的更多应用程序，将在ChatGPT的新目录中上线。",
