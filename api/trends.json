@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T16:33:28.110127+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2025-12-18T17:31:12.052856+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
@@ -200,6 +200,18 @@
           "time_info": "[04时28分 ~ 05时23分]"
         },
         {
+          "title": "港股收盘：恒生指数收涨0.12%，恒生科技指数收跌0.73%。小米集团跌近2.5%，阿里巴巴、比亚迪股份、舜宇光学科技均跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3022988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时31分]"
+        },
+        {
           "title": "非洲股市收盘播报｜周三（12月17日，假日归来），南非富时/JSE非洲领先40可交易指数收涨1.12%，至10.64万点上方。",
           "url": "https://wallstreetcn.com/livenews/3022520",
           "source": "华尔街见闻-快讯",
@@ -361,17 +373,6 @@
           "time_info": "14时37分"
         },
         {
-          "title": "港股收盘：恒生指数收涨0.12%，恒生科技指数收跌0.73%。小米集团跌近2.5%，阿里巴巴、比亚迪股份、舜宇光学科技均跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3022988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "周三（12月17日）纽约尾盘，标普500股指期货最终跌1.01%，道指期货跌0.40%，纳斯达克100股指期货跌1.67%。 罗素2000股指期货跌0.90%。",
           "url": "https://wallstreetcn.com/livenews/3022633",
           "source": "华尔街见闻-快讯",
@@ -414,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "泰国SET指数下跌1%报1244.23点。",
+          "url": "https://wallstreetcn.com/livenews/3023007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "午盘收盘，国内期货主力合约涨跌不一。钯封涨停板，涨幅7%，焦煤涨超6%，铂、焦炭涨超5%，沪银涨超3%，沪锡、玻璃、烧碱、纯碱涨超2%；跌幅方面，集运欧线跌超3%，多晶硅跌超2%，豆二、豆一跌超1%。",
@@ -488,7 +500,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -565,7 +577,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -587,7 +599,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -697,7 +709,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -771,7 +783,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -787,8 +799,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 16时33分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 17时31分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -797,17 +809,6 @@
           "ranks": [
             6,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时22分]"
-        },
-        {
-          "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
-          "url": "https://news.ifeng.com/c/8pAOQZMvAiO",
-          "source": "凤凰网",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 12,
@@ -824,8 +825,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 16时33分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 17时31分]"
+        },
+        {
+          "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
+          "url": "https://news.ifeng.com/c/8pAOQZMvAiO",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普：我接手了一个烂摊子",
+          "url": "https://www.toutiao.com/trending/7584554052525080639/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 17时31分]"
         },
         {
           "title": "特朗普对马杜罗下狠手",
@@ -841,18 +866,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时46分 ~ 15时25分]"
-        },
-        {
-          "title": "特朗普：我接手了一个烂摊子",
-          "url": "https://www.toutiao.com/trending/7584554052525080639/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 16时33分]"
         },
         {
           "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
@@ -928,6 +941,29 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
+          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时31分]"
+        },
+        {
+          "title": "特朗普账户宣传存1千可涨至60万",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A6%E6%88%B7%E5%AE%A3%E4%BC%A0%E5%AD%981%E5%8D%83%E5%8F%AF%E6%B6%A8%E8%87%B360%E4%B8%87&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时31分]"
+        },
+        {
           "title": "特朗普全国讲话未提及委内瑞拉",
           "url": "https://news.ifeng.com/c/8pBVKVnZZtZ",
           "source": "凤凰网",
@@ -975,6 +1011,17 @@
           "time_info": "[04时28分 ~ 05时23分]"
         },
         {
+          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
+          "url": "https://www.cls.cn/detail/2233203",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时30分 ~ 17时31分]"
+        },
+        {
           "title": "美国总统特朗普预计将于美东时间下午1点30分（北京时间次日02:30）签署行政命令。另外，特朗普将于美东时间下午6点（北京时间次日07:00）签署《国防授权法案》。",
           "url": "https://flash.jin10.com/detail/20251218120122593800",
           "source": "金十数据",
@@ -1019,17 +1066,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        },
-        {
-          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
-          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
         },
         {
           "title": "桥水基金创始人达利欧：达利欧慈善基金会将支持为儿童设立的“特朗普账户”（Trump Accounts for Children）。",
@@ -1142,17 +1178,6 @@
           "time_info": "11时23分"
         },
         {
-          "title": "特朗普账户宣传存1千可涨至60万",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A6%E6%88%B7%E5%AE%A3%E4%BC%A0%E5%AD%981%E5%8D%83%E5%8F%AF%E6%B6%A8%E8%87%B360%E4%B8%87&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "巴西总统卢拉：已告知特朗普，巴西可协助他与委内瑞拉方面进行沟通。",
           "url": "https://flash.jin10.com/detail/20251218003458997800",
           "source": "金十数据",
@@ -1247,7 +1272,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -1365,7 +1390,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -1377,8 +1402,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时23分 ~ 16时33分]"
+          "appearance_count": 12,
+          "time_info": "[06时23分 ~ 17时31分]"
         },
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -1476,6 +1501,17 @@
           "time_info": "[03时22分 ~ 04时28分]"
         },
         {
+          "title": "美光科技美股盘前涨超9%，芯片需求旺盛，美光业绩与指引双双“爆表”。",
+          "url": "https://wallstreetcn.com/livenews/3023017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "美光科技(MU.O)美股盘后涨6%。",
           "url": "https://flash.jin10.com/detail/20251218050240044800",
           "source": "金十数据",
@@ -1556,7 +1592,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
@@ -1624,6 +1660,17 @@
           "time_info": "[14时37分 ~ 15时25分]"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时30分 ~ 17时31分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
           "url": "https://wallstreetcn.com/livenews/3022611",
           "source": "华尔街见闻-快讯",
@@ -1671,6 +1718,124 @@
       ]
     },
     {
+      "keyword_group": "China A股 热点 头条 突发 breaking news",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251218110746918800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 13时25分]"
+        },
+        {
+          "title": "A股结构调整或将延续",
+          "url": "https://www.toutiao.com/trending/7585093997870190107/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时30分 ~ 17时31分]"
+        },
+        {
+          "title": "香港突发大劫案 4人劫走5000万港币",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%AA%81%E5%8F%91%E5%A4%A7%E5%8A%AB%E6%A1%88+4%E4%BA%BA%E5%8A%AB%E8%B5%B05000%E4%B8%87%E6%B8%AF%E5%B8%81",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时30分 ~ 17时31分]"
+        },
+        {
+          "title": "A股光刻机、光刻胶概念早盘拉升，凯美特气涨停，新莱应材涨超10%，波长光电、蓝英装备、苏大维格跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3022727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "小米突发新模型，主打“极致性价比”，罗福莉：“这只是我们AGI图线路上的第二步”",
+          "url": "https://wallstreetcn.com/articles/3761534",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "中金公司、东兴证券A股复盘开盘一字涨停，信达证券涨6.8%。中金公司港股开盘涨逾7%。消息面上，中金公司换股吸收合并东兴证券和信达证券，换股价格分别为36.91元、16.14元、19.15元。",
+          "url": "https://wallstreetcn.com/livenews/3022720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "中金公司：2025年半年度A股每股派发现金红利人民币0.09元，股权登记日12月26日。",
+          "url": "https://wallstreetcn.com/livenews/3023009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "A股收盘：沪指涨0.16% 大消费走强",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.16%25+%E5%A4%A7%E6%B6%88%E8%B4%B9%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-18）",
+          "url": "https://flash.jin10.com/detail/20251218090618269800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "A股锂电池板块震荡走低，华盛锂电跌超9%，海科新源、天华新能、永太科技、多氟多、恩捷股份等跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3022921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 7,
       "titles": [
@@ -1680,11 +1845,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 16时33分]"
+          "appearance_count": 6,
+          "time_info": "[14时37分 ~ 17时31分]"
         },
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -1695,8 +1861,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 16时33分]"
+          "appearance_count": 6,
+          "time_info": "[14时37分 ~ 17时31分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
@@ -1752,91 +1918,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251218110746918800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 13时25分]"
-        },
-        {
-          "title": "A股光刻机、光刻胶概念早盘拉升，凯美特气涨停，新莱应材涨超10%，波长光电、蓝英装备、苏大维格跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3022727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "小米突发新模型，主打“极致性价比”，罗福莉：“这只是我们AGI图线路上的第二步”",
-          "url": "https://wallstreetcn.com/articles/3761534",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "中金公司、东兴证券A股复盘开盘一字涨停，信达证券涨6.8%。中金公司港股开盘涨逾7%。消息面上，中金公司换股吸收合并东兴证券和信达证券，换股价格分别为36.91元、16.14元、19.15元。",
-          "url": "https://wallstreetcn.com/livenews/3022720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "A股收盘：沪指涨0.16% 大消费走强",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.16%25+%E5%A4%A7%E6%B6%88%E8%B4%B9%E8%B5%B0%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-18）",
-          "url": "https://flash.jin10.com/detail/20251218090618269800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "A股锂电池板块震荡走低，华盛锂电跌超9%，海科新源、天华新能、永太科技、多氟多、恩捷股份等跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3022921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         }
       ]
     },
