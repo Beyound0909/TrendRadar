@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T07:22:46.573103+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2025-12-18T09:46:52.692376+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 33,
+      "match_count": 41,
       "titles": [
         {
           "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
@@ -16,8 +16,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 07时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 09时46分]"
+        },
+        {
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251218093110403800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "美国天然气期货在结算后交易中延续涨势，上涨5%，因流向液化天然气出口设施的气流接近历史高位，且预计下周需求将进一步增加。",
@@ -37,9 +48,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251218093107070800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "标普500指数跌幅扩大至1%，科技板块跌1.87%，工业板块跌1.4%，电信板块跌1.2%，能源板块涨1.3%。 道指跌0.4%，纳指跌1.6%，半导体指数跌3.6%。 英伟达目前维持3.2%的跌幅，此前一度跌超4%。",
@@ -243,9 +265,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.21%，10年期主力合约跌0.01%，5年期主力合约与昨日持平，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3022721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "周三（12月17日）纽约尾盘，标普500股指期货最终跌1.01%，道指期货跌0.40%，纳斯达克100股指期货跌1.67%。 罗素2000股指期货跌0.90%。",
@@ -254,9 +287,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "上证指数开盘报3857.26点，跌0.34%。 深证成指开盘报13112.61点，跌0.85%。 创业板指开盘报3138.66点，跌1.17%。 沪深300开盘报4553.98点，跌0.57%。 科创50开盘报1314.67点，跌0.81%。 中证500开盘报7096.98点，跌0.57%。 中证1000开盘报7244.64点，跌0.61%。",
+          "url": "https://wallstreetcn.com/livenews/3022715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "美国非农就业报告发布次日，标普500指数收跌78.83点，跌幅1.16%，报6721.43点。 道琼斯工业平均指数收跌228.29点，跌幅0.47%，报47885.97点。 纳斯达克综合指数（纳指）收跌418.139点，跌幅1.81%，报22693.323点。 纳斯达克100指数收跌485.334点，跌幅1.93%，报24647.606点。",
@@ -268,6 +312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "香港恒生指数开盘跌0.5%，恒生科技指数跌1.1%。商汤跌逾3%，小米集团、小鹏汽车跌逾2%。中金公司涨逾7%，拟换股吸收合并东兴证券与信达证券。",
+          "url": "https://wallstreetcn.com/livenews/3022713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "欧洲STOXX 600指数收跌0.00%，报579.79点，日内大部分时间高位震荡，北京时间23:00开始显著回落并一度转跌。 欧元区STOXX 50指数收跌0.63%，报5681.67点，微幅高开之后全天持续下挫。 富时泛欧绩优300指数收跌0.03%，报2310.71点。",
@@ -336,6 +391,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "台湾证交所加权股价指数低开0.3%报27,447.45点。",
+          "url": "https://wallstreetcn.com/livenews/3022700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "美国三大股指全线转跌，道指跌0.12%，标普500指数跌0.67%，纳指跌超1%。",
           "url": "https://flash.jin10.com/detail/20251217235315097800",
           "source": "金十数据",
@@ -356,6 +422,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "商品期货开盘，焦煤主力合约涨近5%，焦炭、沪银、玻璃涨超3%，沪锡、燃料油、纯碱涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3022699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初跌0.15%，上一个交易日夜盘收跌0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3022697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "期货盯盘神器专属文章",
@@ -394,7 +482,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -405,11 +493,12 @@
             10,
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时46分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -494,6 +583,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
+          "url": "https://wallstreetcn.com/articles/3761566",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时46分]"
         },
         {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
@@ -583,7 +684,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -594,18 +695,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
-          "url": "https://wallstreetcn.com/articles/3761566",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -731,6 +821,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "特朗普对马杜罗下狠手",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "据华尔街日报：上诉法院批准美国总统特朗普在华盛顿哥伦比亚特区部署国民警卫队。",
           "url": "https://flash.jin10.com/detail/20251218001757472800",
           "source": "金十数据",
@@ -762,12 +863,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "如何看待特朗普说委“窃取”美石油",
+          "url": "https://www.toutiao.com/trending/7584743817127923243/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -787,22 +899,24 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时22分]"
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 09时46分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
           "url": "https://www.cls.cn/detail/2232828",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时46分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.86%，报338.32点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.29%，报2409.16点，亚太盘初以来维持上涨状态，大部分时间持稳于2390点附近。",
@@ -887,6 +1001,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "甲骨文带崩美股大盘",
+          "url": "https://www.toutiao.com/trending/7584969089827737139/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "美股收盘：三大股指齐跌 英伟达跌近4%",
           "url": "https://flash.jin10.com/detail/20251218050114407800",
           "source": "金十数据",
@@ -904,7 +1029,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -915,7 +1040,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -945,7 +1070,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
@@ -998,6 +1123,17 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
+          "url": "https://www.cls.cn/detail/2232894",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "谷歌：推出 Gemini 3 Flash扩展Gemini 3模型系列。",
           "url": "https://flash.jin10.com/detail/20251218000152068800",
           "source": "金十数据",
@@ -1012,7 +1148,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
@@ -1021,9 +1157,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "OpenAI董事长布雷特·泰勒表示，该公司的发展受限于算力资源的获取。",
+          "url": "https://flash.jin10.com/detail/20251218091357602800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
@@ -1032,9 +1179,81 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们尚未向OpenAI支付一分钱。",
+          "url": "https://flash.jin10.com/detail/20251218090552054800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋称公司尚未向 OpenAI 提供任何资金支持。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3022705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "China A股 热点 头条 突发 breaking news",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "A股光刻机、光刻胶概念早盘拉升，凯美特气涨停，新莱应材涨超10%，波长光电、蓝英装备、苏大维格跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3022727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "小米突发新模型，主打“极致性价比”，罗福莉：“这只是我们AGI图线路上的第二步”",
+          "url": "https://wallstreetcn.com/articles/3761534",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "中金公司、东兴证券A股复盘开盘一字涨停，信达证券涨6.8%。中金公司港股开盘涨逾7%。消息面上，中金公司换股吸收合并东兴证券和信达证券，换股价格分别为36.91元、16.14元、19.15元。",
+          "url": "https://wallstreetcn.com/livenews/3022720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-18）",
+          "url": "https://flash.jin10.com/detail/20251218090618269800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         }
       ]
     },
