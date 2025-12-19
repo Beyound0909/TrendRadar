@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T22:24:38.499994+08:00",
-  "total_titles_processed": 2161,
+  "generated_at": "2025-12-19T23:26:37.331453+08:00",
+  "total_titles_processed": 2266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 91,
+      "match_count": 113,
       "titles": [
         {
           "title": "【每日收评】三大指数震荡反弹小幅收红，海南概念股午后走强，多只高位股尾盘跳水",
@@ -44,6 +44,20 @@
           "time_info": "00时33分"
         },
         {
+          "title": "欧股下跌，纳指100期货上涨，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
+          "url": "https://wallstreetcn.com/articles/3761704",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时46分 ~ 23时26分]"
+        },
+        {
           "title": "国债期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251219093150079800",
           "source": "金十数据",
@@ -72,9 +86,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
+        },
+        {
+          "title": "波罗的海干散货运价指数跌至逾一个月低位",
+          "url": "https://flash.jin10.com/detail/20251219230848881800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "国债期货开盘，30年期主力合约跌0.14%，10年期主力合约跌0.02%，5年期主力合约跌0.01%，2年期主力合约涨0.01%。",
@@ -160,19 +185,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 14时36分]"
-        },
-        {
-          "title": "欧股下跌，纳指100期货上涨，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
-          "url": "https://wallstreetcn.com/articles/3761704",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时46分 ~ 22时24分]"
         },
         {
           "title": "贵州百灵：公司及相关人员分别收到贵州证监局出具的《行政处罚事先告知书》，公司股票在2025年12月23日（星期二）开市起被实施其他风险警示，公司股票简称由“贵州百灵”变更为“ST百灵”。",
@@ -397,6 +409,17 @@
           "time_info": "14时36分"
         },
         {
+          "title": "金十图示：2025年12月19日（周五）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251219230408752800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "美国CPI通胀报告出炉当天，标普500指数初步收涨0.8%，可选消费板块涨1.9%，电信、科技板块涨1.5%，能源板块跌1.4%。 纳斯达克100指数初步收涨1.5%，成分股中，美光科技涨10.4%，拉姆研究涨6.5%，核电股CEG涨6.1%，Applovin、星巴克、Palantir、科磊、Doordash、特斯拉至少涨3.9%，贝克休斯则跌1.8%，PAYX跌2.1%，华纳兄弟探索WBD跌2.3%，Diamondback Energy跌4.9%。 亚马逊初步收涨2.5%，英伟达涨2%，Merck涨1.8%，微软涨1.7%，领跑道指成分股，联合健康、雪佛龙、宝洁则跌超1%。 半导体指数中行2.5%。",
           "url": "https://wallstreetcn.com/livenews/3023339",
           "source": "华尔街见闻-快讯",
@@ -430,6 +453,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "欧元区12月消费者信心指数初值 -14.6，预期 -14，前值 -14.2。",
+          "url": "https://wallstreetcn.com/livenews/3024056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "金十图示：2025年12月19日（周五）全球股市指数-欧洲市场（盘初）",
           "url": "https://flash.jin10.com/detail/20251219161152959800",
           "source": "金十数据",
@@ -439,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "欧元区12月消费者信心指数初值 -14.6，预期-14，前值-14.2。",
+          "url": "https://flash.jin10.com/detail/20251219230032788800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "标普500指数涨幅1.4%，道指涨452点涨幅0.95%，纳指和纳斯达克100指数涨2%，半导体指数涨3.2%。",
@@ -463,6 +508,17 @@
           "time_info": "21时35分"
         },
         {
+          "title": "美国12月密歇根大学消费者信心指数终值 52.9，预期 53.5，初值 53.3。",
+          "url": "https://wallstreetcn.com/livenews/3024055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "日央行加息引爆市场！10年期日债收益率飙破2%创18年新高，日元跌破157关口，纳指100期货上涨，黄金回落至4330美元",
           "url": "https://wallstreetcn.com/articles/3761704",
           "source": "华尔街见闻",
@@ -472,6 +528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨多跌少。对二甲苯（PX）、PTA涨超3%，短纤、纸浆、瓶片涨超2%；跌幅方面，聚氯乙烯（PVC）、塑料、菜油跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251219230024760800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.9%，创11月26日（当天收涨1.4%）以来最大单日涨幅，报359.93点。 在十个板块中，北欧工业板块涨幅最大。 高科技工程集团Sandvik AB（山特维克股份）涨3.8%，在一众北欧个股里领跑。",
@@ -496,6 +563,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "美国12月密歇根大学消费者现况指数终值 50.4，预期 50.7，初值 50.7。",
+          "url": "https://wallstreetcn.com/livenews/3024054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "恒指期货夜盘收涨0.63%，报25675点，高水177点。",
           "url": "https://flash.jin10.com/detail/20251219030046139800",
           "source": "金十数据",
@@ -516,6 +594,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
+        },
+        {
+          "title": "美国11月谘商会就业趋势指数 105.8，前值106.84。",
+          "url": "https://flash.jin10.com/detail/20251219230015855800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "马来西亚股指KLCI指数日内涨幅扩大至1%。",
@@ -549,6 +638,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "美国12月密歇根大学消费者预期指数终值 54.6，预期 55，初值 55。",
+          "url": "https://wallstreetcn.com/livenews/3024053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "德国DAX 30指数初步收涨0.98%，报24194.46点。 法国股指初步收涨0.90%，意大利股指初步收涨0.75%、银行指数涨0.78%，英国股指初步收涨0.64%。",
@@ -595,6 +695,17 @@
           "time_info": "02时36分"
         },
         {
+          "title": "美国12月密歇根大学预期指数终值 54.6，预期55，前值55。",
+          "url": "https://flash.jin10.com/detail/20251219230002442800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收涨0.91%，报585.09点。 欧元区STOXX 50指数初步收涨1.06%，报5741.77点。 富时泛欧绩优300指数初步收涨0.90%，报2331.47点。",
           "url": "https://wallstreetcn.com/livenews/3023258",
           "source": "华尔街见闻-快讯",
@@ -628,6 +739,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "美国12月密歇根大学现况指数终值 50.4，预期50.7，前值50.7。",
+          "url": "https://flash.jin10.com/detail/20251219230002365800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "上期能源拟修订集运指数（欧线）期货标准合约",
           "url": "https://wallstreetcn.com/livenews/3023904",
           "source": "华尔街见闻-快讯",
@@ -637,6 +759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "美国12月密歇根大学消费者信心指数终值 52.9，预期53.4，前值53.3。",
+          "url": "https://flash.jin10.com/detail/20251219230002323800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "碳酸锂期货主力合约午后拉升，一度涨超5%。",
@@ -700,7 +833,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -727,6 +860,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "欧洲STOXX 600指数涨穿11月份所创盘中历史最高位。 目前涨0.11%，暂报585.99点。",
+          "url": "https://wallstreetcn.com/livenews/3024046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "商品期货开盘，对二甲苯、钯、不锈钢、PTA主力合约涨超2%，沪镍、短纤、集运欧线、焦炭涨超1%。多晶硅跌3%。",
           "url": "https://wallstreetcn.com/livenews/3023439",
           "source": "华尔街见闻-快讯",
@@ -736,6 +880,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "持续加码！股票私募仓位再创年内新高，“满仓状态”占比首超七成",
+          "url": "https://wallstreetcn.com/livenews/3024045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "欧洲斯托克600指数突破11月盘中历史新高。",
+          "url": "https://flash.jin10.com/detail/20251219225708486800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "富时中国A50指数期货盘初涨0.07%，上一个交易日夜盘收涨0.09%。",
@@ -782,6 +948,17 @@
           "time_info": "19时21分"
         },
         {
+          "title": "2024年中国离岸金融指数企稳回升，跨境人民币收付规模突破35万亿元",
+          "url": "https://wallstreetcn.com/livenews/3024043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "夜盘开盘，国内期货主力合约涨多跌少，沪锡涨近2%，PX、PTA、短纤、沪铝涨超1%。跌幅方面，塑料、烧碱跌超1%。",
           "url": "https://flash.jin10.com/detail/20251219210002318800",
           "source": "金十数据",
@@ -813,6 +990,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "金十图示：2025年12月19日（周五）华尔街恐惧与贪婪指数（美盘初）",
+          "url": "https://flash.jin10.com/detail/20251219225046220800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "截至早盘收盘，日经225指数涨1.2%，东证指数涨1%。",
@@ -857,6 +1045,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "欧元区12月消费者信心指数初值、美国11月成屋销售总数年化、12月密歇根大学消费者信心指数终值及一年期通胀率预期终值将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251219225000001800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.97%，报7574.16点。 热门中概股里，小鹏涨2.7%，美团、腾讯、文远知行、蔚来、网易、百胜中国至多涨1.7%，拼多多涨0.8%，新东方、理想、阿里至少涨约0.2%。 ETF中，中概互联网指数ETF（KWEB）收涨0.95%，中国科技指数ETF（CQQQ）收涨0.57%。 XtrackersHarvest中证50（ASHS）收涨0.25%，德银嘉实沪深300指数ETF（ASHR）收涨0.18%。",
@@ -914,6 +1113,28 @@
           "time_info": "12时36分"
         },
         {
+          "title": "纳斯达克100指数涨幅扩大至1.2%，成分股美光科技涨7.9%，拼多多涨6%，AMD涨4.8%，Strategy涨3.8%，英伟达涨3.3%表现靠前，星巴克跌0.5%，Adobe跌0.7%，露露柠檬跌1%，Paychex跌3.5%。 标普500指数涨0.7%，道指涨264点涨幅0.55%，纳指涨230点涨幅超过1%。",
+          "url": "https://wallstreetcn.com/livenews/3024038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "欧洲斯托克600基础资源指数升至2023年3月以来最高水平，日内上涨0.5%。",
+          "url": "https://flash.jin10.com/detail/20251219224508496800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "日本10年期国债期货在日本央行加息后维持跌势。",
           "url": "https://wallstreetcn.com/livenews/3023540",
           "source": "华尔街见闻-快讯",
@@ -945,6 +1166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至1%。",
+          "url": "https://flash.jin10.com/detail/20251219224439066800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "上证指数早盘收报3899.31点，涨0.59%。 深证成指早盘收报13175.13点，涨0.93%。 创业板指早盘收报3137.73点，涨0.99%。 沪深300早盘收报4580.64点，涨0.61%。 科创50早盘收报1314.99点，涨0.69%。 中证500早盘收报7180.16点，涨1.12%。 中证1000早盘收报7348.77点，涨1.05%。",
@@ -989,6 +1221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "Bernstein： 英伟达估值较费城半导体指数出现历史性折让",
+          "url": "https://wallstreetcn.com/livenews/3024033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "早盘收盘，国内期货主力合约跌多涨少。集运欧线涨超4%，PX、PTA、沪镍、不锈钢（SS）涨超2%；跌幅方面，菜油、铂、塑料、氧化铝、燃料油、豆二跌超2%，玻璃、豆油、橡胶跌超1%。",
@@ -1038,7 +1281,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 88,
+      "match_count": 90,
       "titles": [
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -1142,8 +1385,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时49分 ~ 22时24分]"
+          "appearance_count": 18,
+          "time_info": "[09时49分 ~ 23时26分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -1191,6 +1434,22 @@
           "time_info": "[14时35分 ~ 18时26分]"
         },
         {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 23时26分]"
+        },
+        {
           "title": "巴西总统卢拉：我100%地信任巴西央行行长Galipolo。 我（才不会像美国总统特朗普对付美联储主席鲍威尔那样）向Galipolo施加压力，他才是做决定的那个人。",
           "url": "https://wallstreetcn.com/livenews/3023257",
           "source": "华尔街见闻-快讯",
@@ -1202,19 +1461,19 @@
           "time_info": "00时33分"
         },
         {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            15,
-            13,
-            12,
-            11
+            10,
+            23,
+            20,
+            25,
+            28
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时26分 ~ 22时24分]"
+          "time_info": "[19时21分 ~ 23时26分]"
         },
         {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
@@ -1250,18 +1509,18 @@
           "time_info": "19时21分"
         },
         {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            23,
-            20,
-            25
+            19,
+            17,
+            16,
+            15
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[19时21分 ~ 22时24分]"
+          "time_info": "[20时46分 ~ 23时26分]"
         },
         {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
@@ -1337,17 +1596,15 @@
           "time_info": "[00时33分 ~ 01时25分]"
         },
         {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
-          "source": "澎湃新闻",
+          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
+          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            17,
-            16
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时46分 ~ 22时24分]"
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时26分]"
         },
         {
           "title": "美国白宫新闻秘书Leavitt：肯尼迪中心将被重新命名为“特朗普-肯尼迪中心”。",
@@ -1585,17 +1842,6 @@
           "time_info": "20时46分"
         },
         {
-          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
-          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
           "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
           "url": "https://flash.jin10.com/detail/20251219123531783800",
           "source": "金十数据",
@@ -1756,7 +2002,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1882,6 +2128,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "特朗普：“奥巴马医改”太贵，会自动消亡",
+          "url": "https://flash.jin10.com/detail/20251219225548281800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "巴西总统卢拉：已告诉美国总统特朗普，南美洲是和平的地区。",
           "url": "https://flash.jin10.com/detail/20251218234017856800",
           "source": "金十数据",
@@ -1998,7 +2255,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -2020,9 +2277,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
+        },
+        {
+          "title": "特朗普年终演讲为何不提中国",
+          "url": "https://www.toutiao.com/trending/7585539719539199497/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "美国白宫：美国总统特朗普签署了关于联邦薪资标准的行政命令。",
@@ -2072,7 +2340,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -2108,8 +2376,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时49分 ~ 22时24分]"
+          "appearance_count": 18,
+          "time_info": "[09时49分 ~ 23时26分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -2123,6 +2391,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时36分 ~ 06时23分]"
+        },
+        {
+          "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
+          "url": "https://wallstreetcn.com/livenews/3024062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -2271,7 +2550,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -2351,6 +2630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "美股延续涨势，纳指上涨1%。",
+          "url": "https://flash.jin10.com/detail/20251219224535097800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     },
@@ -2579,6 +2869,17 @@
           "time_info": "[09时49分 ~ 16时33分]"
         },
         {
+          "title": "3家A股公司因财务造假被罚，2家将“戴帽”",
+          "url": "https://www.cls.cn/detail/2235187",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时26分]"
+        },
+        {
           "title": "中国中免A股盘中触及涨停，港股涨超8%。",
           "url": "https://wallstreetcn.com/livenews/3023640",
           "source": "华尔街见闻-快讯",
@@ -2588,17 +2889,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
-        },
-        {
-          "title": "3家A股公司因财务造假被罚，2家将“戴帽”",
-          "url": "https://www.cls.cn/detail/2235187",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
         },
         {
           "title": "A股收评：全市近4500只个股上涨",
@@ -2730,7 +3020,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
@@ -2803,6 +3093,17 @@
           "time_info": "[16时32分 ~ 16时33分]"
         },
         {
+          "title": "10月日本、英国增持美债超百亿美元，中国持仓下降，加拿大大降",
+          "url": "https://wallstreetcn.com/articles/3761670",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "【日本10月所持美国国债从1.189万亿美元增加至1.20万亿美元】中国10月所持美债从7005亿美元降低至6887亿美元。",
           "url": "https://wallstreetcn.com/livenews/3023349",
           "source": "华尔街见闻-快讯",
@@ -2834,6 +3135,107 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "墨西哥反垄断委员会：谷歌将根据裁决取消其对移动设备制造商施加的某些合同限制。",
+          "url": "https://flash.jin10.com/detail/20251219020622124800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "大摩为谷歌相关项目发行更多垃圾债",
+          "url": "https://wallstreetcn.com/livenews/3023298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时24分]"
+        },
+        {
+          "title": "白宫：微软、谷歌等24家公司签署协议 加入美国AI“创世纪计划”",
+          "url": "https://www.cls.cn/detail/2234237",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 17时27分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨超3.4%，亚马逊涨约2.5%，谷歌和英伟达涨约1.9%",
+          "url": "https://wallstreetcn.com/livenews/3023354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "谷歌：扩展内容透明度工具，帮助更轻松地识别人工智能生成内容。图像和视频验证现已在Gemini应用支持的所有语言和国家/地区可用。",
+          "url": "https://wallstreetcn.com/livenews/3023285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时20分]"
+        },
+        {
+          "title": "美国白宫关于私人行业AI合作伙伴关系的声明：亚马逊、谷歌等24家公司加入美国AI“Genesis Mission”。 英伟达、CoreWeave、AMD、Accenture也加入这个AI项目。",
+          "url": "https://wallstreetcn.com/livenews/3023284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时20分]"
+        },
+        {
+          "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
+          "url": "https://wallstreetcn.com/livenews/3024048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "网络安全公司Mandiant的创始人Kevin Mandia（该公司谷歌以54 亿美元收购）成立了一家名为Armadin的新公司，旨在应对人工智能黑客攻击带来的迫在眉睫的威胁。Armadin正寻求在A轮融资中筹集1亿美元或更多，融资轮估值可能高达6亿美元或更高。",
+          "url": "https://flash.jin10.com/detail/20251219022756138800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
         }
       ]
     },
@@ -2935,96 +3337,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "墨西哥反垄断委员会：谷歌将根据裁决取消其对移动设备制造商施加的某些合同限制。",
-          "url": "https://flash.jin10.com/detail/20251219020622124800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "大摩为谷歌相关项目发行更多垃圾债",
-          "url": "https://wallstreetcn.com/livenews/3023298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 04时24分]"
-        },
-        {
-          "title": "白宫：微软、谷歌等24家公司签署协议 加入美国AI“创世纪计划”",
-          "url": "https://www.cls.cn/detail/2234237",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 17时27分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超3.4%，亚马逊涨约2.5%，谷歌和英伟达涨约1.9%",
-          "url": "https://wallstreetcn.com/livenews/3023354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "谷歌：扩展内容透明度工具，帮助更轻松地识别人工智能生成内容。图像和视频验证现已在Gemini应用支持的所有语言和国家/地区可用。",
-          "url": "https://wallstreetcn.com/livenews/3023285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
-        },
-        {
-          "title": "美国白宫关于私人行业AI合作伙伴关系的声明：亚马逊、谷歌等24家公司加入美国AI“Genesis Mission”。 英伟达、CoreWeave、AMD、Accenture也加入这个AI项目。",
-          "url": "https://wallstreetcn.com/livenews/3023284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
-        },
-        {
-          "title": "网络安全公司Mandiant的创始人Kevin Mandia（该公司谷歌以54 亿美元收购）成立了一家名为Armadin的新公司，旨在应对人工智能黑客攻击带来的迫在眉睫的威胁。Armadin正寻求在A轮融资中筹集1亿美元或更多，融资轮估值可能高达6亿美元或更高。",
-          "url": "https://flash.jin10.com/detail/20251219022756138800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 6,
       "titles": [
@@ -3035,7 +3347,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
