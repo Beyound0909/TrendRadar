@@ -1,23 +1,46 @@
 {
-  "generated_at": "2025-12-20T02:33:58.842286+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2025-12-20T03:19:52.779464+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "恒指期货夜盘收涨0.46%，报25843点，高水152点。",
+          "url": "https://flash.jin10.com/detail/20251220030204585800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.46%，报25843点。 恒生科技指数主连夜盘收涨0.60%，报5519点。",
+          "url": "https://wallstreetcn.com/livenews/3024124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
         {
           "title": "欧洲油菜籽期货累计下跌4.47%，周五（12月19日）欧市尾盘报454.25，整体持续下挫。",
           "url": "https://wallstreetcn.com/livenews/3024092",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 03时19分]"
         },
         {
           "title": "本周，ICE英国天然气期货累计上涨2.21%，周五（12月19日）欧市尾盘报74.860便士/千卡。 TTF基准荷兰天然气期货累涨2.56%，报28.205欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）累涨2.01%，报85.47欧元/吨。",
@@ -41,8 +64,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时19分]"
         },
         {
           "title": "希腊雅典证交所综合指数收涨0.57%，报2112.46点，本周累计上涨0.39%，整体呈现出V形反转。",
@@ -103,6 +126,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时21分]"
+        },
+        {
+          "title": "沪银夜盘收涨3.02%，报15746元人民币/千克，一度达到15769原。 上期所原油期货2502合约夜盘收涨1.05%，报431.90元人民币/桶。 沪金夜盘收涨0.44%。",
+          "url": "https://wallstreetcn.com/livenews/3024122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.47%，报588.12点，本周累计上涨约1.7%。 欧元区STOXX 50指数初步收涨0.47%，报5768.73点，本周累涨约0.8%。 富时泛欧绩优300指数初步收涨0.53%，报2344.55点。",
@@ -221,7 +255,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -240,7 +274,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
@@ -252,8 +286,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时19分]"
         },
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
@@ -263,8 +297,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时19分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -274,8 +308,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时19分]"
         },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -286,8 +320,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时19分]"
         },
         {
           "title": "特朗普年终演讲为何不提中国",
@@ -298,8 +332,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时19分]"
+        },
+        {
+          "title": "美联储：（美国总统特朗普宣布联邦政府2025年圣诞节假日安排之际，金融系统）支付与现金服务运营照常进行。",
+          "url": "https://wallstreetcn.com/livenews/3024107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时19分]"
         },
         {
           "title": "南亚股市收盘播报｜印度中盘股收涨1.2%，卢比尾盘飙涨，特朗普贸易代表批评欧盟和印度",
@@ -326,17 +372,6 @@
           "time_info": "[00时29分 ~ 01时21分]"
         },
         {
-          "title": "美联储：（美国总统特朗普宣布联邦政府2025年圣诞节假日安排之际，金融系统）支付与现金服务运营照常进行。",
-          "url": "https://wallstreetcn.com/livenews/3024107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
           "title": "美国总统特朗普：保险公司“正在敲诈美国”，医疗费用必须直接归人民所有。民主党必须加入进来！",
           "url": "https://flash.jin10.com/detail/20251219233534861800",
           "source": "金十数据",
@@ -357,6 +392,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "据美联社：美国总统特朗普讲话已被推迟。",
+          "url": "https://flash.jin10.com/detail/20251220023126806800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "据Politico：一位熟悉情况的国务院官员和外交人员工会负责人透露，特朗普政府正在召回一些由前总统拜登任命的职业大使。约有二十多位大使被要求离任。",
+          "url": "https://flash.jin10.com/detail/20251220022718174800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
         },
         {
           "title": "特朗普：只需在联邦政府增聘人员，就能马上将失业率降至2%",
@@ -403,11 +460,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时19分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -417,8 +475,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时19分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -439,7 +497,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -450,7 +508,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         }
@@ -485,8 +543,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 03时19分]"
         }
       ]
     },
@@ -517,11 +575,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 03时19分]"
         }
       ]
     },
@@ -538,8 +597,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时19分]"
         }
       ]
     }
