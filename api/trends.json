@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-19T20:46:57.906524+08:00",
-  "total_titles_processed": 1968,
+  "generated_at": "2025-12-19T21:35:06.127900+08:00",
+  "total_titles_processed": 2062,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 85,
+      "match_count": 89,
       "titles": [
+        {
+          "title": "【每日收评】三大指数震荡反弹小幅收红，海南概念股午后走强，多只高位股尾盘跳水",
+          "url": "https://www.cls.cn/detail/2234764",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时27分 ~ 21时35分]"
+        },
         {
           "title": "金十期货热图",
           "url": "https://flash.jin10.com/detail/20251219202113635800",
@@ -14,7 +28,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -137,17 +151,28 @@
           "time_info": "[13时24分 ~ 14时36分]"
         },
         {
-          "title": "【每日收评】三大指数震荡反弹小幅收红，海南概念股午后走强，多只高位股尾盘跳水",
-          "url": "https://www.cls.cn/detail/2234764",
-          "source": "财联社热门",
+          "title": "欧股下跌，纳指100期货上涨，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
+          "url": "https://wallstreetcn.com/articles/3761704",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            11,
-            13
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 20时46分]"
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 21时35分]"
+        },
+        {
+          "title": "贵州百灵：公司及相关人员分别收到贵州证监局出具的《行政处罚事先告知书》，公司股票在2025年12月23日（星期二）开市起被实施其他风险警示，公司股票简称由“贵州百灵”变更为“ST百灵”。",
+          "url": "https://wallstreetcn.com/livenews/3023962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时35分]"
         },
         {
           "title": "美国12月堪萨斯联储制造业综合指数 1，预期 6，前值 8。",
@@ -160,6 +185,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时25分]"
+        },
+        {
+          "title": "广期所调整碳酸锂期货相关合约交易限额",
+          "url": "https://wallstreetcn.com/livenews/3023958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时35分]"
+        },
+        {
+          "title": "金十图示：2025年12月19日（周五）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20251219151120480800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 21时35分]"
+        },
+        {
+          "title": "天普股份：中昊芯英要约收购期满 股票停牌一天",
+          "url": "https://wallstreetcn.com/livenews/3023955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时35分]"
         },
         {
           "title": "10年期日债期货价格跌至2008年6月来最低水平。",
@@ -208,6 +269,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 13时24分]"
+        },
+        {
+          "title": "福能东方：收到广东证监局下发的《行政处罚事先告知书》，公司股票自2025年12月23日（星期二）被实施其他风险警示，股票简称由“福能东方”变更为“ST福能”。",
+          "url": "https://wallstreetcn.com/livenews/3023951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时35分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至2%，成分股美光科技涨11.3%，核电股Constellation Energy（CEG）涨7.7%，Applovin涨6.6%，拉姆研究涨6.2%，露露柠檬涨5.4%，特斯拉涨3.8%，Strategy（MSTR）涨3.7%，AMD涨3.2%。 标普500质素目前涨1.4%，道指涨448点涨幅超过0.9%，纳指涨1.9%，半导体指数涨3.5%，银行指数涨0.9%。",
@@ -290,17 +363,6 @@
           "time_info": "15时24分"
         },
         {
-          "title": "贵州百灵：公司及相关人员分别收到贵州证监局出具的《行政处罚事先告知书》，公司股票在2025年12月23日（星期二）开市起被实施其他风险警示，公司股票简称由“贵州百灵”变更为“ST百灵”。",
-          "url": "https://wallstreetcn.com/livenews/3023962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
           "title": "美国12月堪萨斯联储制造业综合指数 1，预期6，前值8。",
           "url": "https://flash.jin10.com/detail/20251219000057986800",
           "source": "金十数据",
@@ -378,15 +440,15 @@
           "time_info": "01时25分"
         },
         {
-          "title": "广期所调整碳酸锂期货相关合约交易限额",
-          "url": "https://wallstreetcn.com/livenews/3023958",
+          "title": "波罗的海干散货指数跌2.32%，至2023点。",
+          "url": "https://wallstreetcn.com/livenews/3023982",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时46分"
+          "time_info": "21时35分"
         },
         {
           "title": "日央行加息引爆市场！10年期日债收益率飙破2%创18年新高，日元跌破157关口，纳指100期货上涨，黄金回落至4330美元",
@@ -398,28 +460,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
-        },
-        {
-          "title": "欧股下跌，纳指100期货上涨，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
-          "url": "https://wallstreetcn.com/articles/3761704",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "金十图示：2025年12月19日（周五）投机情绪指数",
-          "url": "https://flash.jin10.com/detail/20251219151120480800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.9%，创11月26日（当天收涨1.4%）以来最大单日涨幅，报359.93点。 在十个板块中，北欧工业板块涨幅最大。 高科技工程集团Sandvik AB（山特维克股份）涨3.8%，在一众北欧个股里领跑。",
@@ -444,17 +484,6 @@
           "time_info": "09时50分"
         },
         {
-          "title": "天普股份：中昊芯英要约收购期满 股票停牌一天",
-          "url": "https://wallstreetcn.com/livenews/3023955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
           "title": "恒指期货夜盘收涨0.63%，报25675点，高水177点。",
           "url": "https://flash.jin10.com/detail/20251219030046139800",
           "source": "金十数据",
@@ -472,7 +501,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -510,17 +539,6 @@
           "time_info": "17时27分"
         },
         {
-          "title": "福能东方：收到广东证监局下发的《行政处罚事先告知书》，公司股票自2025年12月23日（星期二）被实施其他风险警示，股票简称由“福能东方”变更为“ST福能”。",
-          "url": "https://wallstreetcn.com/livenews/3023951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
           "title": "德国DAX 30指数初步收涨0.98%，报24194.46点。 法国股指初步收涨0.90%，意大利股指初步收涨0.75%、银行指数涨0.78%，英国股指初步收涨0.64%。",
           "url": "https://wallstreetcn.com/livenews/3023259",
           "source": "华尔街见闻-快讯",
@@ -541,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "夜盘期货开盘，沪锡、PTA、沪铝涨逾1%，国际铜、低硫燃油、沪铜等上涨；烧碱、塑料跌逾1%，棕榈油、玻璃等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3023978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "宝马：将启动第二轮股票回购计划，第二期金额最高可达6.25亿欧元，最迟将于明年1月2日至8月31日举行。",
@@ -631,6 +660,17 @@
           "time_info": "19时21分"
         },
         {
+          "title": "波罗的海干散货指数跌2.32%，至2023点。",
+          "url": "https://flash.jin10.com/detail/20251219210834646800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "台湾证交所加权股价指数收高0.8%报27,696.35。",
           "url": "https://wallstreetcn.com/livenews/3023607",
           "source": "华尔街见闻-快讯",
@@ -717,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约涨多跌少，沪锡涨近2%，PX、PTA、短纤、沪铝涨超1%。跌幅方面，塑料、烧碱跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251219210002318800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "上证指数收报3890.45点，涨0.36%。 深证成指收报13140.21点，涨0.66%。 创业板指收报3122.24点，涨0.49%。 沪深300收报4568.18点，涨0.34%。 科创50收报1308.59点，涨0.20%。 中证500收报7169.55点，涨0.97%。 中证1000收报7329.81点，涨0.79%。",
@@ -977,8 +1028,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时49分 ~ 20时46分]"
+          "appearance_count": 16,
+          "time_info": "[09时49分 ~ 21时35分]"
         },
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -1042,8 +1093,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时26分 ~ 20时46分]"
+          "appearance_count": 14,
+          "time_info": "[11时26分 ~ 21时35分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -1064,11 +1115,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时49分 ~ 20时46分]"
+          "appearance_count": 16,
+          "time_info": "[09时49分 ~ 21时35分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -1160,6 +1212,20 @@
           "time_info": "19时21分"
         },
         {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 21时35分]"
+        },
+        {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
           "url": "https://wallstreetcn.com/livenews/3023297",
           "source": "华尔街见闻-快讯",
@@ -1233,17 +1299,29 @@
           "time_info": "[00时33分 ~ 01时25分]"
         },
         {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            15,
-            13
+            10,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 21时35分]"
+        },
+        {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时46分]"
+          "time_info": "[20时46分 ~ 21时35分]"
         },
         {
           "title": "美国白宫新闻秘书Leavitt：肯尼迪中心将被重新命名为“特朗普-肯尼迪中心”。",
@@ -1258,16 +1336,16 @@
           "time_info": "[02时36分 ~ 03时20分]"
         },
         {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
+          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
+          "url": "https://wallstreetcn.com/livenews/3023959",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            23
+            8,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时46分]"
+          "time_info": "[20时46分 ~ 21时35分]"
         },
         {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
@@ -1476,7 +1554,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1490,17 +1568,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
-        },
-        {
-          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
-          "url": "https://wallstreetcn.com/livenews/3023959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
         },
         {
           "title": "据华盛顿邮报：美国总统特朗普将动用军用住房资金为美国国防部发放奖金。",
@@ -1531,7 +1598,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1575,7 +1642,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1641,7 +1708,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1710,17 +1777,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        },
-        {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
         },
         {
           "title": "美国高级政府官员：特朗普将于周四签署行政命令，旨在加速将大麻重新归类为第三类管制物质。",
@@ -1850,7 +1906,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1946,7 +2002,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -1982,8 +2038,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时49分 ~ 20时46分]"
+          "appearance_count": 16,
+          "time_info": "[09时49分 ~ 21时35分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -2139,6 +2195,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "拼多多美股盘前大涨，一度涨逾8%。今日召开年度股东大会，宣布实行联席董事长制度，任命赵佳臻为联席董事长，与陈磊共同担任联席董事长兼联席CEO。",
+          "url": "https://wallstreetcn.com/livenews/3023976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251219013118998800",
           "source": "金十数据",
@@ -2192,6 +2259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "拼多多(PDD.O)美股盘前上涨7.1%。",
+          "url": "https://flash.jin10.com/detail/20251219205601503800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         }
       ]
     },
@@ -2386,7 +2464,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "柬军士兵战壕内激情扫射，战壕外一只鸡淡定走过，如何看待这种反差？从动物行为学看，鸡对突发噪音不敏感吗？",
@@ -2450,11 +2528,12 @@
           "ranks": [
             24,
             19,
-            16
+            16,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 21时35分]"
         },
         {
           "title": "专家：A股确立慢牛长牛走势",
@@ -2466,6 +2545,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
+          "title": "A股下周将如何走",
+          "url": "https://www.toutiao.com/trending/7585137268097531914/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-12-19）",
