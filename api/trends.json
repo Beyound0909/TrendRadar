@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T15:20:48.749181+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2025-12-20T16:29:43.296665+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 15时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 16时29分]"
         },
         {
           "title": "担忧AI，澳大利亚最大养老基金计划减配全球股票",
@@ -41,11 +41,57 @@
           "ranks": [
             2,
             4,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 16时29分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，股票基金经理将标普500芝商所（CME）净多头仓位增加17,972手合约，至958,734手。股票基金投机者将标普500芝商所（CME）净空头头寸增加7,057手合约，至448,341手。",
+          "url": "https://flash.jin10.com/detail/20251220114215719800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6,
+            8,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 16时29分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，日元净多头头寸为17,448份合约，欧元净多头头寸为138,788合约。",
+          "url": "https://flash.jin10.com/detail/20251220113950211800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7,
+            9,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 16时29分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX铜投机者将净多头头寸增加6,879手，至71,083手。",
+          "url": "https://flash.jin10.com/detail/20251220113909988800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8,
+            10,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 16时29分]"
         },
         {
           "title": "恒指期货夜盘收涨0.46%，报25843点，高水152点。",
@@ -59,46 +105,34 @@
           "time_info": "03时19分"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，股票基金经理将标普500芝商所（CME）净多头仓位增加17,972手合约，至958,734手。股票基金投机者将标普500芝商所（CME）净空头头寸增加7,057手合约，至448,341手。",
-          "url": "https://flash.jin10.com/detail/20251220114215719800",
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，原油投机者持有的WTI净空头头寸减少38,888手，达到12,038手。",
+          "url": "https://flash.jin10.com/detail/20251220113845095800",
           "source": "金十数据",
           "ranks": [
-            3,
             6,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 15时20分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，日元净多头头寸为17,448份合约，欧元净多头头寸为138,788合约。",
-          "url": "https://flash.jin10.com/detail/20251220113950211800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            7,
             9,
-            14
+            11,
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 16时29分]"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX铜投机者将净多头头寸增加6,879手，至71,083手。",
-          "url": "https://flash.jin10.com/detail/20251220113909988800",
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX黄金投机者将净多头头寸增加4,829手，至124,637手。COMEX白银投机者将净多头头寸增加6,724手，至27,978手。",
+          "url": "https://flash.jin10.com/detail/20251220113809000800",
           "source": "金十数据",
           "ranks": [
-            5,
-            8,
+            7,
             10,
-            15
+            12,
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 16时29分]"
         },
         {
           "title": "周五（12月19日），彭博电动汽车价格回报指数涨1.62%，报3431.81点，本周累计下跌1.28%，整体呈现出W形走势。",
@@ -151,20 +185,6 @@
           "time_info": "[03时19分 ~ 04时26分]"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，原油投机者持有的WTI净空头头寸减少38,888手，达到12,038手。",
-          "url": "https://flash.jin10.com/detail/20251220113845095800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 15时20分]"
-        },
-        {
           "title": "本周，ICE英国天然气期货累计上涨2.21%，周五（12月19日）欧市尾盘报74.860便士/千卡。 TTF基准荷兰天然气期货累涨2.56%，报28.205欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）累涨2.01%，报85.47欧元/吨。",
           "url": "https://wallstreetcn.com/livenews/3024089",
           "source": "华尔街见闻-快讯",
@@ -187,20 +207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时21分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX黄金投机者将净多头头寸增加4,829手，至124,637手。COMEX白银投机者将净多头头寸增加6,724手，至27,978手。",
-          "url": "https://flash.jin10.com/detail/20251220113809000800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 15时20分]"
         },
         {
           "title": "周五（12月19日）纽约尾盘，现货黄金涨0.13%，报4338.32美元/盎司，本周累计上涨0.91%，整体震荡于4271.92-4374.65美元区间。 COMEX黄金期货涨0.08%，报4368.40美元/盎司，本周累涨0.92%。",
@@ -545,6 +551,18 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
+          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
+          "url": "https://wallstreetcn.com/articles/3761733",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 16时29分]"
+        },
+        {
           "title": "美国总统特朗普：保险公司必须赚更少的钱。",
           "url": "https://flash.jin10.com/detail/20251220040257481800",
           "source": "金十数据",
@@ -598,16 +616,20 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
-          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
-          "url": "https://wallstreetcn.com/articles/3761733",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3024224",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7
+            5,
+            10,
+            17,
+            20,
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 16时29分]"
         },
         {
           "title": "美国总统特朗普：保险公司会议旨在降低价格。",
@@ -631,21 +653,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3024224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            17,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 15时20分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms刚刚履新八个月的董事Dina Powell McCormick将退出。 在美国总统特朗普第一任期内，Powell McCormick曾担任副国家安全顾问。（彭博）",
@@ -999,8 +1006,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 15时20分]"
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 16时29分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -1016,6 +1023,20 @@
           "time_info": "[00时29分 ~ 06时23分]"
         },
         {
+          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
+          "url": "https://www.cls.cn/detail/2235346",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 16时29分]"
+        },
+        {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
           "url": "https://wallstreetcn.com/articles/3761680",
           "source": "华尔街见闻",
@@ -1028,19 +1049,6 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
-          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
-          "url": "https://www.cls.cn/detail/2235346",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 15时20分]"
-        },
-        {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
           "url": "https://wallstreetcn.com/livenews/3024223",
           "source": "华尔街见闻-快讯",
@@ -1049,11 +1057,12 @@
             11,
             18,
             21,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 16时29分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -1065,8 +1074,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 16时29分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -1164,7 +1173,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "3家A股公司因财务造假被罚，2家将“戴帽”",
@@ -1175,8 +1184,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 15时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 16时29分]"
         },
         {
           "title": "山东潍坊突发5.2级地震？假的",
@@ -1222,11 +1231,23 @@
           "url": "https://www.cls.cn/detail/2235419",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时29分]"
+        },
+        {
+          "title": "累计金额超890亿！520家A股上市公司股东今年以来实施增持，增持金额排行榜出炉",
+          "url": "https://www.cls.cn/detail/2235436",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时20分"
+          "time_info": "16时29分"
         }
       ]
     },
@@ -1243,11 +1264,12 @@
             13,
             16,
             18,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 16时29分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
@@ -1286,11 +1308,12 @@
             10,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时22分 ~ 15时20分]"
+          "appearance_count": 11,
+          "time_info": "[06时22分 ~ 16时29分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
