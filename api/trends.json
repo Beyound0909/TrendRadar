@@ -1,33 +1,35 @@
 {
-  "generated_at": "2025-12-21T07:21:26.274050+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2025-12-21T09:56:02.416464+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
           "url": "https://flash.jin10.com/detail/20251220214727409800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 09时56分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
           "url": "https://flash.jin10.com/detail/20251220214239757800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 09时56分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -39,6 +41,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时21分]"
+        },
+        {
+          "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
+          "url": "https://news.ifeng.com/c/8pFTv3cncwR",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -106,7 +119,7 @@
     },
     {
       "keyword_group": "China A股 热点 头条 突发 breaking news",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "3家A股公司因财务造假被罚，2家将“戴帽”",
@@ -116,8 +129,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时56分]"
         },
         {
           "title": "累计金额超890亿！520家A股上市公司股东今年以来实施增持，增持金额排行榜出炉",
@@ -127,8 +140,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时56分]"
         },
         {
           "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
@@ -139,8 +152,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时56分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -148,11 +161,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 09时56分]"
         },
         {
           "title": "3家A股公司因财务造假被罚",
@@ -165,6 +179,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 07时21分]"
+        },
+        {
+          "title": "科技领跑、周期接力、慢牛到全面牛……2026年A股怎么走，十大券商策略来了",
+          "url": "https://wallstreetcn.com/articles/3761418",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
         }
       ]
     },
@@ -173,28 +198,30 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
-          "url": "https://wallstreetcn.com/articles/3761763",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时21分]"
-        },
-        {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
           "url": "https://wallstreetcn.com/articles/3761764",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时56分]"
+        },
+        {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时56分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -202,22 +229,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时56分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
           "url": "https://wallstreetcn.com/articles/3761757",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时56分]"
         }
       ]
     },
@@ -246,8 +275,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时56分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
