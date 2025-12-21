@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-21T20:43:18.553379+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2025-12-21T21:30:57.092766+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 18,
       "titles": [
-        {
-          "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
-          "url": "https://news.ifeng.com/c/8pFTv3cncwR",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 15时22分]"
-        },
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
           "url": "https://wallstreetcn.com/articles/3761784",
@@ -30,8 +19,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时23分 ~ 20时43分]"
+          "appearance_count": 11,
+          "time_info": "[13时23分 ~ 21时30分]"
+        },
+        {
+          "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
+          "url": "https://news.ifeng.com/c/8pFTv3cncwR",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 15时22分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -57,6 +57,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 09时56分]"
+        },
+        {
+          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
+          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 21时30分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -85,17 +96,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时21分]"
-        },
-        {
-          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
-          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时43分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -167,11 +167,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时43分]"
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时30分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -207,7 +208,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -256,11 +257,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时26分 ~ 20时43分]"
+          "appearance_count": 25,
+          "time_info": "[00时26分 ~ 21时30分]"
         },
         {
           "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
@@ -273,8 +275,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时41分 ~ 20时43分]"
+          "appearance_count": 13,
+          "time_info": "[11时41分 ~ 21时30分]"
         },
         {
           "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
@@ -287,8 +289,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时26分 ~ 20时43分]"
+          "appearance_count": 25,
+          "time_info": "[00时26分 ~ 21时30分]"
         },
         {
           "title": "商业航天龙头月内股价涨超130% 梳理产业链价值量居前A股名单",
@@ -302,8 +304,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时41分 ~ 20时43分]"
+          "appearance_count": 13,
+          "time_info": "[11时41分 ~ 21时30分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -316,8 +318,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时19分 ~ 20时43分]"
+          "appearance_count": 23,
+          "time_info": "[01时19分 ~ 21时30分]"
         },
         {
           "title": "科技领跑、周期接力、慢牛到全面牛……2026年A股怎么走，十大券商策略来了",
@@ -333,6 +335,18 @@
           "time_info": "[09时55分 ~ 12时39分]"
         },
         {
+          "title": "A股可能已进入“右侧行情”",
+          "url": "https://www.toutiao.com/trending/7586232474422742555/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 21时30分]"
+        },
+        {
           "title": "3家A股公司因财务造假被罚",
           "url": "https://www.toutiao.com/trending/7585095936725532714/",
           "source": "今日头条",
@@ -343,18 +357,78 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 07时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 15时22分]"
         },
         {
-          "title": "A股可能已进入“右侧行情”",
-          "url": "https://www.toutiao.com/trending/7586232474422742555/",
-          "source": "今日头条",
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
+            7,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 13时23分]"
+        },
+        {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 11时41分]"
+        },
+        {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时56分]"
+        },
+        {
+          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+          "url": "https://www.zhihu.com/question/1985011347914774514",
+          "source": "知乎",
+          "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时43分]"
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 21时30分]"
         }
       ]
     },
@@ -400,8 +474,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时33分 ~ 20时43分]"
+          "appearance_count": 10,
+          "time_info": "[14时33分 ~ 21时30分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -482,70 +556,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
-          "url": "https://wallstreetcn.com/articles/3761776",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            4,
-            3,
-            1
-          ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 15时22分]"
-        },
-        {
-          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
-          "url": "https://wallstreetcn.com/articles/3761764",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 13时23分]"
-        },
-        {
-          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
-          "url": "https://wallstreetcn.com/articles/3761763",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 11时41分]"
-        },
-        {
-          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
-          "url": "https://wallstreetcn.com/articles/3761757",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 09时56分]"
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 21时30分]"
         }
       ]
     },
@@ -605,11 +618,12 @@
             7,
             12,
             17,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 21时30分]"
         },
         {
           "title": "南华期货：境外孙公司获新加坡交易所交易及清算会员资格",
@@ -620,11 +634,12 @@
             8,
             13,
             18,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 21时30分]"
         },
         {
           "title": "观想科技：筹划发行股份购买资产，股票明起停牌",
@@ -654,9 +669,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 21时30分]"
         }
       ]
     }
