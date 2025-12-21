@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T12:39:23.352482+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2025-12-21T13:23:49.873292+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 13时23分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -98,11 +98,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时23分]"
         },
         {
           "title": "特朗普为何推出史上最高金额对台军售",
@@ -116,6 +117,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 05时19分]"
+        },
+        {
+          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/articles/3761784",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "美反对乌入约 泽连斯基疑诅咒特朗普",
@@ -154,8 +166,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 12时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 13时23分]"
         },
         {
           "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
@@ -166,8 +178,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 12时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 13时23分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -179,8 +191,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时19分 ~ 12时39分]"
+          "appearance_count": 13,
+          "time_info": "[01时19分 ~ 13时23分]"
+        },
+        {
+          "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
+          "url": "https://www.cls.cn/detail/2235475",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时23分]"
         },
         {
           "title": "科技领跑、周期接力、慢牛到全面牛……2026年A股怎么走，十大券商策略来了",
@@ -194,18 +218,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时55分 ~ 12时39分]"
-        },
-        {
-          "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
-          "url": "https://www.cls.cn/detail/2235475",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时39分]"
         },
         {
           "title": "3家A股公司因财务造假被罚",
@@ -225,11 +237,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时23分]"
         }
       ]
     },
@@ -248,8 +261,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 12时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 13时23分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -276,8 +289,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 12时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 13时23分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -295,7 +308,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
@@ -319,8 +332,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 12时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 13时23分]"
+        },
+        {
+          "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
+          "url": "https://flash.jin10.com/detail/20251221123146651800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -338,7 +362,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -360,14 +384,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时23分]"
+        },
+        {
+          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
+          "url": "https://wallstreetcn.com/articles/3761777",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价又涨了",
@@ -379,6 +414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "金价又涨了",
+          "url": "https://www.douyin.com/hot/2342947",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     }
