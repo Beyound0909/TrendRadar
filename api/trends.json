@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T11:45:39.494462+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2025-12-22T12:43:02.848594+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财经 期货 policy 股票 指数",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "今日重点关注的财经数据与事件：2025年12月22日 周一",
@@ -20,17 +20,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时25分 ~ 07时21分]"
-        },
-        {
-          "title": "印度NIFTY50指数期货在盘前交易中上涨0.46%",
-          "url": "https://flash.jin10.com/detail/20251222113907876800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
         },
         {
           "title": "千问App发布2025十大AI提示词，股票位列榜首",
@@ -55,28 +44,6 @@
           "time_info": "09时55分"
         },
         {
-          "title": "泰国股指SET指数日内涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3024671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "金十图示：2025年12月22日（周一）富时中国A50指数成分股午盘收盘行情一览：成分股涨跌互现，半导体、光伏设备等板块飘红",
-          "url": "https://flash.jin10.com/detail/20251222113412914800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
           "title": "碳酸锂期货主力合约涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3024584",
           "source": "华尔街见闻-快讯",
@@ -86,17 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
-        },
-        {
-          "title": "上证指数早盘收报3915.20点，涨0.64%。 深证成指早盘收报13318.80点，涨1.36%。 创业板指早盘收报3178.51点，涨1.80%。 沪深300早盘收报4604.43点，涨0.79%。 科创50早盘收报1334.12点，涨1.95%。 中证500早盘收报7265.85点，涨1.34%。 中证1000早盘收报7425.89点，涨1.31%。",
-          "url": "https://wallstreetcn.com/livenews/3024668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
         },
         {
           "title": "国债期货早盘开盘",
@@ -121,48 +77,112 @@
           "time_info": "09时55分"
         },
         {
+          "title": "印度NIFTY50指数期货在盘前交易中上涨0.46%",
+          "url": "https://flash.jin10.com/detail/20251222113907876800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时43分]"
+        },
+        {
+          "title": "泰国股指SET指数日内涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3024671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时43分]"
+        },
+        {
+          "title": "金十图示：2025年12月22日（周一）富时中国A50指数成分股午盘收盘行情一览：成分股涨跌互现，半导体、光伏设备等板块飘红",
+          "url": "https://flash.jin10.com/detail/20251222113412914800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时43分]"
+        },
+        {
+          "title": "上证指数早盘收报3915.20点，涨0.64%。 深证成指早盘收报13318.80点，涨1.36%。 创业板指早盘收报3178.51点，涨1.80%。 沪深300早盘收报4604.43点，涨0.79%。 科创50早盘收报1334.12点，涨1.95%。 中证500早盘收报7265.85点，涨1.34%。 中证1000早盘收报7425.89点，涨1.31%。",
+          "url": "https://wallstreetcn.com/livenews/3024668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时43分]"
+        },
+        {
           "title": "国债期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20251222113124106800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时43分]"
         },
         {
           "title": "国债期货早盘收盘，30年期主力合约跌0.13%，10年期主力合约跌0.06%，5年期主力合约跌0.00%，2年期主力合约跌0.00%。",
           "url": "https://wallstreetcn.com/livenews/3024665",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时43分]"
+        },
+        {
+          "title": "12月22日投资避雷针：两公司因年报造假 股票将被实施ST",
+          "url": "https://www.cls.cn/detail/2235849",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 12时43分]"
         },
         {
           "title": "股指期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20251222113115817800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时43分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。广期所钯、铂均封涨停板，沪银涨超6%，碳酸锂涨超5%，集运指数（欧线）涨超4%，PTA涨超3%。跌幅方面，塑料、玻璃、PVC跌近2%。",
           "url": "https://flash.jin10.com/detail/20251222113057227800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时43分]"
         },
         {
           "title": "恒生科技指数日内涨超1%。 MSCI亚太指数涨1%。 日经225指数涨幅扩大至2%。 菲律宾股指涨幅扩大至1%。",
@@ -176,17 +196,6 @@
           "time_info": "09时55分"
         },
         {
-          "title": "12月22日投资避雷针：两公司因年报造假 股票将被实施ST",
-          "url": "https://www.cls.cn/detail/2235849",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
           "title": "集运指数（欧线）主力合约日内涨幅达4.00%，现报1789.8点。",
           "url": "https://flash.jin10.com/detail/20251222091538993800",
           "source": "金十数据",
@@ -198,6 +207,17 @@
           "time_info": "09时55分"
         },
         {
+          "title": "印度Sensex指数开盘上涨0.3%，报85145.90点，科技股领涨。",
+          "url": "https://flash.jin10.com/detail/20251222114113291800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约涨0.15%，10年期主力合约涨0.03%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。",
           "url": "https://wallstreetcn.com/livenews/3024566",
           "source": "华尔街见闻-快讯",
@@ -207,6 +227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "今日港股四只新股上市，印象大红袍、华芢生物、明基医院、南华期货挂牌，截至早盘收盘，分别下跌25%、8.5%、42.3%和20.7%。",
+          "url": "https://wallstreetcn.com/livenews/3024682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "中证转债指数高开0.08%。普联转债涨30%触发临停，华体转债涨超8%，嘉美转债涨超4%，赫达转债涨超2%；福蓉转债跌超4%，塞力转债、家联转债跌超1%。",
@@ -248,7 +279,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -281,7 +312,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -303,7 +334,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -333,7 +364,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -369,21 +400,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时45分]"
-        },
-        {
-          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时31分 ~ 11时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 12时43分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -393,11 +411,26 @@
             19,
             17,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时17分 ~ 11时45分]"
+          "appearance_count": 11,
+          "time_info": "[03时17分 ~ 12时43分]"
+        },
+        {
+          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[02时31分 ~ 12时43分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -463,7 +496,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -506,13 +539,46 @@
           "time_info": "[05时20分 ~ 07时21分]"
         },
         {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
+          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
+          "url": "https://www.cls.cn/detail/2235857",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
           "title": "特朗普任命美国格陵兰岛特使",
           "url": "https://flash.jin10.com/detail/20251222105005973800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -523,7 +589,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         }
@@ -580,11 +646,12 @@
             8,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时19分 ~ 11时45分]"
+          "appearance_count": 14,
+          "time_info": "[01时19分 ~ 12时43分]"
         },
         {
           "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
@@ -602,11 +669,12 @@
           "url": "https://www.cls.cn/detail/2235799",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 12时43分]"
         },
         {
           "title": "中国神华公布超1300亿并购计划 本周披露并购重组进展的A股名单一览",
@@ -614,11 +682,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 12时43分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -636,11 +705,12 @@
           "url": "https://flash.jin10.com/detail/20251222110828215800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时43分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-22）",
@@ -689,7 +759,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         }
@@ -728,11 +798,12 @@
           "url": "https://www.cls.cn/detail/2235916",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 12时43分]"
         }
       ]
     },
@@ -751,8 +822,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 12时43分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -763,8 +834,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 12时43分]"
         }
       ]
     },
