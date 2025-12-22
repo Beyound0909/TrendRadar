@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T14:38:55.680124+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2025-12-22T15:27:11.038265+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 85,
+      "match_count": 95,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -66,6 +66,18 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
+          "title": "【早报】A股市场千亿级并购来了；首块L3级自动驾驶牌照诞生",
+          "url": "https://www.cls.cn/detail/2235799",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 15时27分]"
+        },
+        {
           "title": "A股跨年加春季躁动行情拉开帷幕？投资主线有哪些？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2235729",
           "source": "财联社热门",
@@ -92,23 +104,12 @@
             8,
             7,
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 14时38分]"
-        },
-        {
-          "title": "【早报】A股市场千亿级并购来了；首块L3级自动驾驶牌照诞生",
-          "url": "https://www.cls.cn/detail/2235799",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时55分 ~ 14时38分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 15时27分]"
         },
         {
           "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
@@ -122,6 +123,20 @@
           "time_info": "[00时27分 ~ 06时22分]"
         },
         {
+          "title": "日本央行加息后日元「全线溃败」，市场为何「不买账」？",
+          "url": "https://www.zhihu.com/question/1985926686844413851",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 15时27分]"
+        },
+        {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
           "source": "澎湃新闻",
@@ -133,8 +148,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时17分 ~ 14时38分]"
+          "appearance_count": 15,
+          "time_info": "[03时17分 ~ 15时27分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -147,21 +162,21 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时31分 ~ 14时38分]"
+          "appearance_count": 16,
+          "time_info": "[02时31分 ~ 15时27分]"
         },
         {
-          "title": "日本央行加息后日元「全线溃败」，市场为何「不买账」？",
-          "url": "https://www.zhihu.com/question/1985926686844413851",
-          "source": "知乎",
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
           "ranks": [
             6,
-            5,
-            4
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时55分 ~ 14时38分]"
+          "time_info": "[12时42分 ~ 15时27分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -234,6 +249,31 @@
           "time_info": "[09时55分 ~ 12时43分]"
         },
         {
+          "title": "特朗普表态：必须是“超级鸽派”！",
+          "url": "https://news.ifeng.com/c/8pI2JngwUGB",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 15时27分]"
+        },
+        {
+          "title": "12月22日投资避雷针：两公司因年报造假 股票将被实施ST",
+          "url": "https://www.cls.cn/detail/2235849",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时45分 ~ 15时27分]"
+        },
+        {
           "title": "美联储哈玛克：11月通胀或存在数据收集扭曲问题、中性利率或比普遍预期更高",
           "url": "https://flash.jin10.com/detail/20251221191713332800",
           "source": "金十数据",
@@ -276,25 +316,13 @@
           "time_info": "[04时25分 ~ 14时38分]"
         },
         {
-          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
-          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时38分]"
-        },
-        {
           "title": "集运指数（欧线）主力合约日内涨幅扩大至8.00%，现报1860.0点。",
           "url": "https://flash.jin10.com/detail/20251222141106040800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -310,6 +338,19 @@
           "time_info": "09时55分"
         },
         {
+          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
+          "url": "https://www.cls.cn/detail/2235857",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 15时27分]"
+        },
+        {
           "title": "美联储哈玛克：更担心居高不下的通胀，倾向于将利率维持稳定至春季",
           "url": "https://flash.jin10.com/detail/20251221190842611800",
           "source": "金十数据",
@@ -323,6 +364,18 @@
           "time_info": "[00时28分 ~ 05时20分]"
         },
         {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 15时27分]"
+        },
+        {
           "title": "沪银期货主力合约涨超5%，突破16000元/千克关口，续创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3024585",
           "source": "华尔街见闻-快讯",
@@ -334,17 +387,6 @@
           "time_info": "09时55分"
         },
         {
-          "title": "广发证券所长助理、首席策略刘晨明：40%新经济利润占比重塑A股研判逻辑",
-          "url": "https://wallstreetcn.com/livenews/3024742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
           "title": "碳酸锂期货主力合约涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3024584",
           "source": "华尔街见闻-快讯",
@@ -354,17 +396,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
-        },
-        {
-          "title": "日经225指数收盘上涨1.8%，报50402.39点。 日本东证指数收涨0.6%，报3405.17点。 韩国首尔综指收盘涨2.1%，报4105.93点。",
-          "url": "https://wallstreetcn.com/livenews/3024741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
         },
         {
           "title": "国债期货早盘开盘",
@@ -384,9 +415,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "新加坡富时海峡时报指数最新上涨0.7%，报4602.73点；此前曾触及4613.82点。",
+          "url": "https://flash.jin10.com/detail/20251222150636569800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -398,17 +440,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
-        },
-        {
-          "title": "特朗普表态：必须是“超级鸽派”！",
-          "url": "https://news.ifeng.com/c/8pI2JngwUGB",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
         },
         {
           "title": "股指期货早盘开盘",
@@ -428,23 +459,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
-        },
-        {
-          "title": "12月22日投资避雷针：两公司因年报造假 股票将被实施ST",
-          "url": "https://www.cls.cn/detail/2235849",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时45分 ~ 14时38分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
@@ -547,6 +564,18 @@
           "time_info": "[13时27分 ~ 14时38分]"
         },
         {
+          "title": "广发证券所长助理、首席策略刘晨明：40%新经济利润占比重塑A股研判逻辑",
+          "url": "https://wallstreetcn.com/livenews/3024742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时27分]"
+        },
+        {
           "title": "国债期货早盘收盘，30年期主力合约跌0.13%，10年期主力合约跌0.06%，5年期主力合约跌0.00%，2年期主力合约跌0.00%。",
           "url": "https://wallstreetcn.com/livenews/3024665",
           "source": "华尔街见闻-快讯",
@@ -584,6 +613,18 @@
           "time_info": "[13时27分 ~ 14时38分]"
         },
         {
+          "title": "日经225指数收盘上涨1.8%，报50402.39点。 日本东证指数收涨0.6%，报3405.17点。 韩国首尔综指收盘涨2.1%，报4105.93点。",
+          "url": "https://wallstreetcn.com/livenews/3024741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时27分]"
+        },
+        {
           "title": "国债期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20251222113124106800",
           "source": "金十数据",
@@ -596,29 +637,27 @@
           "time_info": "[11时45分 ~ 12时43分]"
         },
         {
-          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
-          "url": "https://www.cls.cn/detail/2235857",
+          "title": "降息窗口暂闭？美联储大鹰派发声：未来几个月没必要调整利率",
+          "url": "https://www.cls.cn/detail/2235843",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11,
-            9
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时38分]"
+          "time_info": "[13时27分 ~ 15时27分]"
         },
         {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
+          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
+          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            18
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 15时27分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -680,18 +719,6 @@
           "time_info": "[11时45分 ~ 12时43分]"
         },
         {
-          "title": "降息窗口暂闭？美联储大鹰派发声：未来几个月没必要调整利率",
-          "url": "https://www.cls.cn/detail/2235843",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 14时38分]"
-        },
-        {
           "title": "今日港股四只新股上市，印象大红袍、华芢生物、明基医院、南华期货挂牌，截至早盘收盘，分别下跌25%、8.5%、42.3%和20.7%。",
           "url": "https://wallstreetcn.com/livenews/3024682",
           "source": "华尔街见闻-快讯",
@@ -704,24 +731,13 @@
           "time_info": "[12时43分 ~ 13时27分]"
         },
         {
-          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
-          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
           "title": "集运指数（欧线）主力合约日内涨幅扩大至7.00%，现报1841.6点。",
           "url": "https://flash.jin10.com/detail/20251222134102941800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -732,9 +748,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "中钢协：中矿集团在与四大矿长协谈判中，应将国内指数纳入定价选择",
+          "url": "https://wallstreetcn.com/livenews/3024769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "恒生科技指数日内涨超1%。 MSCI亚太指数涨1%。 日经225指数涨幅扩大至2%。 菲律宾股指涨幅扩大至1%。",
@@ -776,9 +803,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "欧洲斯托克50指数期货下跌0.01%，DAX指数期货持平；富时指数期货下跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20251222150320044800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "国债期货开盘，30年期主力合约涨0.15%，10年期主力合约涨0.03%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。",
@@ -798,9 +836,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "A股收盘：沪指涨0.69%收复3900点，海南、算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3024766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "金十期货图示",
@@ -820,9 +869,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "内盘期货多数收涨，集运欧线涨近9%，钯、铂涨7%，沪银涨6%，沪镍涨逾4%，碳酸锂涨4%，线材、沥青、低硫燃油、原油、纸浆、沪金涨逾2%；塑料、多晶硅跌逾2%，玻璃、氧化铝跌逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3024765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "中证转债指数高开0.08%。普联转债涨30%触发临停，华体转债涨超8%，嘉美转债涨超4%，赫达转债涨超2%；福蓉转债跌超4%，塞力转债、家联转债跌超1%。",
@@ -834,6 +894,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "上证指数收报3917.36点，涨0.69%。 深证成指收报13332.73点，涨1.47%。 创业板指收报3191.98点，涨2.23%。 沪深300收报4611.62点，涨0.95%。 科创50收报1335.25点，涨2.04%。 中证500收报7255.66点，涨1.20%。 中证1000收报7408.35点，涨1.07%。",
+          "url": "https://wallstreetcn.com/livenews/3024763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251222150113557800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "上证指数开盘报3900.53点，涨0.26%。 深证成指开盘报13225.40点，涨0.65%。 创业板指开盘报3153.75点，涨1.01%。 沪深300开盘报4587.67点，涨0.43%。 科创50开盘报1314.07点，涨0.42%。 中证500开盘报7205.49点，涨0.50%。 中证1000开盘报7363.06点，涨0.45%。",
@@ -864,7 +946,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -891,13 +973,24 @@
           "time_info": "09时55分"
         },
         {
+          "title": "午盘收盘，国内期货主力合约涨跌互现。集运指数（欧线）涨超8%，广期所钯、铂均封涨停板，沪银涨超6%，沪镍、PTA涨超4%，对二甲苯（PX）、碳酸锂涨近4%。跌幅方面，塑料、多晶硅跌超2%。",
+          "url": "https://flash.jin10.com/detail/20251222150054714800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "中国台湾证交所加权股价指数收高1.6%报28,149.64点。",
           "url": "https://wallstreetcn.com/livenews/3024720",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -908,7 +1001,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -919,7 +1012,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -946,6 +1039,17 @@
           "time_info": "09时55分"
         },
         {
+          "title": "A股食品股尾盘异动，安记食品直线涨停，海欣食品、立高食品、安琪酵母、紫燕食品、好想你等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3024748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "现货白银涨破68美元/盎司关口，刷新历史高点，日内涨超1.3%。 沪银期货主力合约涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3024542",
           "source": "华尔街见闻-快讯",
@@ -966,6 +1070,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "集运指数（欧线）主力合约日内涨幅扩大至10%，报1893点。",
+          "url": "https://wallstreetcn.com/livenews/3024747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "内盘钯期货主力合约涨超6%，铂期货主力合约涨近6%。",
@@ -1026,7 +1141,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价又涨了",
@@ -1039,6 +1154,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 07时21分]"
+        },
+        {
+          "title": "金十图示：2025年12月22日（周一）上海金午盘价为993.82元/克，较国际金价(998.15元/克)低4.33元/克",
+          "url": "https://flash.jin10.com/detail/20251222150851524800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "银铂钯依然跟随金价走势，但表现更为强势",
@@ -1066,7 +1192,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -1092,8 +1218,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时45分 ~ 14时38分]"
+          "appearance_count": 7,
+          "time_info": "[11时45分 ~ 15时27分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -1105,6 +1231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 15时27分]"
         }
       ]
     },
@@ -1123,8 +1260,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 14时38分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 15时27分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -1187,6 +1324,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 07时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金白银价格创新高",
+          "url": "https://www.douyin.com/hot/2344085",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 15时27分]"
         }
       ]
     }
