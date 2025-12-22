@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T17:31:46.408189+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2025-12-22T18:26:08.581711+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 106,
+      "match_count": 113,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -66,6 +66,19 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时42分 ~ 18时26分]"
+        },
+        {
           "title": "【早报】A股市场千亿级并购来了；首块L3级自动驾驶牌照诞生",
           "url": "https://www.cls.cn/detail/2235799",
           "source": "财联社热门",
@@ -88,8 +101,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时55分 ~ 17时31分]"
+          "appearance_count": 12,
+          "time_info": "[09时55分 ~ 18时26分]"
         },
         {
           "title": "A股跨年加春季躁动行情拉开帷幕？投资主线有哪些？十大券商策略来了",
@@ -122,21 +135,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 17时31分]"
-        },
-        {
-          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
-          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 17时31分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 18时26分]"
         },
         {
           "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
@@ -163,6 +163,21 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[03时17分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时42分 ~ 18时26分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -276,18 +291,15 @@
           "time_info": "[00时28分 ~ 06时22分]"
         },
         {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
+          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
+          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            18,
-            19,
-            15
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 17时31分]"
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 18时26分]"
         },
         {
           "title": "中国神华公布超1300亿并购计划 本周披露并购重组进展的A股名单一览",
@@ -301,6 +313,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时55分 ~ 12时43分]"
+        },
+        {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时26分]"
         },
         {
           "title": "美联储哈玛克：11月通胀或存在数据收集扭曲问题、中性利率或比普遍预期更高",
@@ -356,6 +379,17 @@
           "time_info": "14时38分"
         },
         {
+          "title": "金十图示：2025年12月22日（周一）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20251222180033182800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "千问App发布2025十大AI提示词，股票位列榜首",
           "url": "https://wallstreetcn.com/livenews/3024588",
           "source": "华尔街见闻-快讯",
@@ -391,17 +425,6 @@
           "time_info": "09时55分"
         },
         {
-          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
-          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 17时31分]"
-        },
-        {
           "title": "碳酸锂期货主力合约涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3024584",
           "source": "华尔街见闻-快讯",
@@ -411,6 +434,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "中金所：经研究决定，自2026年1月1日起至2026年12月31日止，减半收取股指期货和国债期货交割手续费、股指期权行权（履约）手续费，交易所认定的高频交易者除外。",
+          "url": "https://wallstreetcn.com/livenews/3024867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "国债期货早盘开盘",
@@ -455,17 +489,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
-        },
-        {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
         },
         {
           "title": "股指期货早盘开盘",
@@ -651,6 +674,19 @@
           "time_info": "[14时38分 ~ 15时27分]"
         },
         {
+          "title": "飞机闯入特朗普官邸上空被紧急拦截",
+          "url": "https://www.toutiao.com/trending/7586445374106796082/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 18时26分]"
+        },
+        {
           "title": "国债期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20251222113124106800",
           "source": "金十数据",
@@ -675,6 +711,17 @@
           "time_info": "[13时27分 ~ 15时27分]"
         },
         {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时26分]"
+        },
+        {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
           "url": "https://www.cls.cn/detail/2235498",
           "source": "财联社热门",
@@ -684,6 +731,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 07时21分]"
+        },
+        {
+          "title": "A股逾百股涨停",
+          "url": "https://www.toutiao.com/trending/7586556291720462355/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时26分]"
+        },
+        {
+          "title": "抖音热点记忆2025",
+          "url": "https://www.douyin.com/hot/2344398",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "股指期货早盘收盘",
@@ -704,18 +774,6 @@
           "ranks": [
             6,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时31分]"
-        },
-        {
-          "title": "飞机闯入特朗普官邸上空被紧急拦截",
-          "url": "https://www.toutiao.com/trending/7586445374106796082/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -782,6 +840,18 @@
           "time_info": "[16时34分 ~ 17时31分]"
         },
         {
+          "title": "读客文化：筹划控制权变更，股票自22日起停牌",
+          "url": "https://wallstreetcn.com/livenews/3024840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时26分]"
+        },
+        {
           "title": "金十期货图示",
           "url": "https://flash.jin10.com/detail/20251222124751535800",
           "source": "金十数据",
@@ -804,17 +874,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 13时27分]"
-        },
-        {
-          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
         },
         {
           "title": "集运指数（欧线）主力合约日内涨幅扩大至7.00%，现报1841.6点。",
@@ -861,15 +920,15 @@
           "time_info": "09时55分"
         },
         {
-          "title": "读客文化：筹划控制权变更，股票自22日起停牌",
-          "url": "https://wallstreetcn.com/livenews/3024840",
-          "source": "华尔街见闻-快讯",
+          "title": "中金所：经研究决定，自2026年1月1日起至2026年12月31日止，减半收取股指期货和国债期货交割手续费、股指期权行权（履约）手续费，交易所认定的高频交易者除外。",
+          "url": "https://flash.jin10.com/detail/20251222174457151800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "18时26分"
         },
         {
           "title": "集运指数（欧线）主力合约日内涨幅达4.00%，现报1789.8点。",
@@ -1015,6 +1074,17 @@
           "time_info": "15时27分"
         },
         {
+          "title": "市场消息：在美国总统特朗普任命格陵兰岛特使后，丹麦外交大臣长将召见美国驻丹麦大使。",
+          "url": "https://flash.jin10.com/detail/20251222174043679800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "上证指数开盘报3900.53点，涨0.26%。 深证成指开盘报13225.40点，涨0.65%。 创业板指开盘报3153.75点，涨1.01%。 沪深300开盘报4587.67点，涨0.43%。 科创50开盘报1314.07点，涨0.42%。 中证500开盘报7205.49点，涨0.50%。 中证1000开盘报7363.06点，涨0.45%。",
           "url": "https://wallstreetcn.com/livenews/3024562",
           "source": "华尔街见闻-快讯",
@@ -1070,6 +1140,17 @@
           "time_info": "16时34分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-22）",
+          "url": "https://flash.jin10.com/detail/20251222173421961800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "恒指高开0.41%，报25795.94点；恒生科技指数涨0.61%。地平线机器人涨2.5%，商汤、中芯国际、美团、小鹏汽车等涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3024558",
           "source": "华尔街见闻-快讯",
@@ -1114,17 +1195,6 @@
           "time_info": "14时38分"
         },
         {
-          "title": "A股逾百股涨停",
-          "url": "https://www.toutiao.com/trending/7586556291720462355/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
           "title": "集运指数（欧线）主力合约日内涨幅扩大至6%，现报1824.2点。",
           "url": "https://wallstreetcn.com/livenews/3024717",
           "source": "华尔街见闻-快讯",
@@ -1134,6 +1204,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：美国白宫人工智能和加密货币顾问萨克斯和美国特使威特科夫可能因阿联酋交易面临道德调查。",
+          "url": "https://flash.jin10.com/detail/20251222172447436800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "越南VN指数涨1%报1721.69点。",
@@ -1282,11 +1363,12 @@
             10,
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时45分 ~ 17时31分]"
+          "appearance_count": 11,
+          "time_info": "[11时45分 ~ 18时26分]"
         },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -1309,8 +1391,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 18时26分]"
         },
         {
           "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
@@ -1322,8 +1404,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 17时31分]"
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 18时26分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -1341,11 +1423,12 @@
           "url": "https://wallstreetcn.com/livenews/3024841",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时26分]"
         }
       ]
     },
@@ -1415,8 +1498,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 17时31分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 18时26分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
