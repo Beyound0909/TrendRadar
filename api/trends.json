@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T21:36:41.371712+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2025-12-22T22:24:24.571598+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 135,
+      "match_count": 153,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -91,6 +91,17 @@
           "time_info": "[09时55分 ~ 15时27分]"
         },
         {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时31分 ~ 22时24分]"
+        },
+        {
           "title": "日本央行加息后日元「全线溃败」，市场为何「不买账」？",
           "url": "https://www.zhihu.com/question/1985926686844413851",
           "source": "知乎",
@@ -140,17 +151,6 @@
           "time_info": "[00时27分 ~ 18时26分]"
         },
         {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 21时36分]"
-        },
-        {
           "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
           "url": "https://www.cls.cn/detail/2235419",
           "source": "财联社热门",
@@ -172,11 +172,12 @@
             15,
             13,
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时42分 ~ 21时36分]"
+          "appearance_count": 15,
+          "time_info": "[12时42分 ~ 22时24分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -249,6 +250,43 @@
           "time_info": "[00时28分 ~ 07时21分]"
         },
         {
+          "title": "抖音热点记忆2025",
+          "url": "https://www.douyin.com/hot/2344398",
+          "source": "抖音",
+          "ranks": [
+            7,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时25分 ~ 22时24分]"
+        },
+        {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时31分 ~ 22时24分]"
+        },
+        {
+          "title": "中国股票又获唱多！高盛：明年将继续“牛” 到2027年底有望再涨38%",
+          "url": "https://www.cls.cn/detail/2236546",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 22时24分]"
+        },
+        {
           "title": "特朗普表态：必须是“超级鸽派”！",
           "url": "https://news.ifeng.com/c/8pI2JngwUGB",
           "source": "凤凰网",
@@ -316,30 +354,6 @@
           "time_info": "[00时28分 ~ 06时22分]"
         },
         {
-          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 21时36分]"
-        },
-        {
-          "title": "中国股票又获唱多！高盛：明年将继续“牛” 到2027年底有望再涨38%",
-          "url": "https://www.cls.cn/detail/2236546",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时36分]"
-        },
-        {
           "title": "中国神华公布超1300亿并购计划 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2235677",
           "source": "财联社热门",
@@ -395,18 +409,6 @@
           "time_info": "[04时25分 ~ 14时38分]"
         },
         {
-          "title": "抖音热点记忆2025",
-          "url": "https://www.douyin.com/hot/2344398",
-          "source": "抖音",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时25分 ~ 21时36分]"
-        },
-        {
           "title": "集运指数（欧线）主力合约日内涨幅扩大至8.00%，现报1860.0点。",
           "url": "https://flash.jin10.com/detail/20251222141106040800",
           "source": "金十数据",
@@ -453,6 +455,17 @@
           "time_info": "[00时28分 ~ 05时20分]"
         },
         {
+          "title": "芝加哥期权交易所波动率指数跌至逾三个月低点，最新下跌0.08点，报14.83。",
+          "url": "https://flash.jin10.com/detail/20251222220809885800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "沪银期货主力合约涨超5%，突破16000元/千克关口，续创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3024585",
           "source": "华尔街见闻-快讯",
@@ -464,17 +477,6 @@
           "time_info": "09时55分"
         },
         {
-          "title": "加拿大11月工业品价格指数环比 0.9%，预期 0.3%，前值 1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3024992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
           "title": "碳酸锂期货主力合约涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3024584",
           "source": "华尔街见闻-快讯",
@@ -484,17 +486,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
-        },
-        {
-          "title": "加拿大11月原材料价格指数环比 0.3%，预期 1%，前值 1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3024991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         },
         {
           "title": "国债期货早盘开盘",
@@ -530,17 +521,6 @@
           "time_info": "15时27分"
         },
         {
-          "title": "美国11月芝加哥联储全国活动指数 -0.21，预期 -0.2。",
-          "url": "https://wallstreetcn.com/livenews/3024989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
           "title": "特朗普任命美国格陵兰岛特使",
           "url": "https://news.ifeng.com/c/8pHvN8TZ9Jr",
           "source": "凤凰网",
@@ -574,15 +554,18 @@
           "time_info": "14时38分"
         },
         {
-          "title": "美国9月芝加哥联储全国活动指数 -0.21，预期 -0.17。",
-          "url": "https://wallstreetcn.com/livenews/3024990",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普让克林顿成了主角",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
+          "source": "百度热搜",
           "ranks": [
-            5
+            29,
+            17,
+            19,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 22时24分]"
         },
         {
           "title": "A股逾百股涨停",
@@ -710,6 +693,18 @@
           "time_info": "[14时38分 ~ 15时27分]"
         },
         {
+          "title": "加拿大11月工业品价格指数环比 0.9%，预期 0.3%，前值 1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3024992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时24分]"
+        },
+        {
           "title": "国债期货早盘收盘，30年期主力合约跌0.13%，10年期主力合约跌0.06%，5年期主力合约跌0.00%，2年期主力合约跌0.00%。",
           "url": "https://wallstreetcn.com/livenews/3024665",
           "source": "华尔街见闻-快讯",
@@ -771,6 +766,30 @@
           "time_info": "[18时26分 ~ 19时21分]"
         },
         {
+          "title": "加拿大11月原材料价格指数环比 0.3%，预期 1%，前值 1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3024991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时24分]"
+        },
+        {
+          "title": "美国11月芝加哥联储全国活动指数 -0.21，预期 -0.2。",
+          "url": "https://wallstreetcn.com/livenews/3024989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时24分]"
+        },
+        {
           "title": "飞机闯入特朗普官邸上空被紧急拦截",
           "url": "https://www.toutiao.com/trending/7586445374106796082/",
           "source": "今日头条",
@@ -796,6 +815,18 @@
           "time_info": "[11时45分 ~ 12时43分]"
         },
         {
+          "title": "美国9月芝加哥联储全国活动指数 -0.21，预期 -0.17。",
+          "url": "https://wallstreetcn.com/livenews/3024990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时24分]"
+        },
+        {
           "title": "降息窗口暂闭？美联储大鹰派发声：未来几个月没必要调整利率",
           "url": "https://www.cls.cn/detail/2235843",
           "source": "财联社热门",
@@ -806,19 +837,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时27分 ~ 15时27分]"
-        },
-        {
-          "title": "特朗普让克林顿成了主角",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时36分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -976,6 +994,41 @@
           "time_info": "[12时43分 ~ 13时27分]"
         },
         {
+          "title": "波罗的海干散货指数跌2.17%，至1979点。",
+          "url": "https://wallstreetcn.com/livenews/3024980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时24分]"
+        },
+        {
+          "title": "夜盘期货开盘，沪银、原油、燃油涨逾2%，沥青、低硫燃油、沪镍、棕榈油、沪金、焦煤、液化石油气涨逾1%；沪锡、塑料、沪铝等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3024978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时24分]"
+        },
+        {
+          "title": "沪镍主力合约涨超3%，沪银期货主力合约涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3025007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "集运指数（欧线）主力合约日内涨幅扩大至7.00%，现报1841.6点。",
           "url": "https://flash.jin10.com/detail/20251222134102941800",
           "source": "金十数据",
@@ -985,6 +1038,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "萤火虫太空（Firefly Aerospace）加入罗素2000指数和罗素3000指数。",
+          "url": "https://flash.jin10.com/detail/20251222220124383800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "30年期国债期货（TL）主力合约日内跌超0.30%，现报111.95元。",
@@ -1015,7 +1079,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -1040,6 +1104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "美联储理事米兰：美联储在平衡物价和就业市场方面做得并不出色。",
+          "url": "https://flash.jin10.com/detail/20251222215445021800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "集运指数（欧线）主力合约日内涨幅达4.00%，现报1789.8点。",
@@ -1163,15 +1238,15 @@
           "time_info": "15时27分"
         },
         {
-          "title": "波罗的海干散货指数跌2.17%，至1979点。",
-          "url": "https://wallstreetcn.com/livenews/3024980",
+          "title": "天普股份：中昊芯英及其一致行动人将合计控制68.29%股份 股票明起复牌",
+          "url": "https://wallstreetcn.com/livenews/3024996",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时36分"
+          "time_info": "22时24分"
         },
         {
           "title": "上期所调整白银期货品种相关合约交易手续费",
@@ -1207,6 +1282,17 @@
           "time_info": "15时27分"
         },
         {
+          "title": "美联储理事米兰：近期数据应该会促使人们向鸽派方向转变。 全年CPI都存在严重的向上偏差。 住房CPI因政府关门受到一定程度的扭曲。 公众未能更新观点反映出机构公信力不足。 我认为短期内不会出现经济衰退。 如果我们不调整政策，我们将面临日益严重的经济衰退风险。 我还没决定是投票支持降息25个基点还是50个基点。 若1月31日前无人获确认任命，我预计将继续留任美联储。 不得不称赞鲍威尔在降息问题上的努力。 美联储在平衡物价与就业市场方面做得不够好。",
+          "url": "https://wallstreetcn.com/livenews/3024994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "股指期货午盘收盘",
           "url": "https://flash.jin10.com/detail/20251222150113557800",
           "source": "金十数据",
@@ -1229,6 +1315,17 @@
           "time_info": "18时26分"
         },
         {
+          "title": "WTI原油期货突破58美元/桶，日内涨2.62%。",
+          "url": "https://flash.jin10.com/detail/20251222214650693800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "上证指数开盘报3900.53点，涨0.26%。 深证成指开盘报13225.40点，涨0.65%。 创业板指开盘报3153.75点，涨1.01%。 沪深300开盘报4587.67点，涨0.43%。 科创50开盘报1314.07点，涨0.42%。 中证500开盘报7205.49点，涨0.50%。 中证1000开盘报7363.06点，涨0.45%。",
           "url": "https://wallstreetcn.com/livenews/3024562",
           "source": "华尔街见闻-快讯",
@@ -1249,17 +1346,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
-        },
-        {
-          "title": "夜盘期货开盘，沪银、原油、燃油涨逾2%，沥青、低硫燃油、沪镍、棕榈油、沪金、焦煤、液化石油气涨逾1%；沪锡、塑料、沪铝等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3024978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -1290,7 +1376,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -1339,6 +1425,17 @@
           "time_info": "20时48分"
         },
         {
+          "title": "美联储理事米兰：你必须承认，美联储主席鲍威尔从联邦公开市场委员会那里争取到了三次降息。",
+          "url": "https://flash.jin10.com/detail/20251222214549038800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "恒指高开0.41%，报25795.94点；恒生科技指数涨0.61%。地平线机器人涨2.5%，商汤、中芯国际、美团、小鹏汽车等涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3024558",
           "source": "华尔街见闻-快讯",
@@ -1383,6 +1480,28 @@
           "time_info": "14时38分"
         },
         {
+          "title": "男子突发心跳骤停 医院三度除颤救回",
+          "url": "https://www.toutiao.com/trending/7586275008160415807/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美联储理事米兰：如果到1月31日我的席位仍无人确认，我将假设自己将继续留任。",
+          "url": "https://flash.jin10.com/detail/20251222214357334800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "集运指数（欧线）主力合约日内涨幅扩大至6%，现报1824.2点。",
           "url": "https://wallstreetcn.com/livenews/3024717",
           "source": "华尔街见闻-快讯",
@@ -1405,6 +1524,17 @@
           "time_info": "19时21分"
         },
         {
+          "title": "今日沪市A股主力资金增仓前十",
+          "url": "https://www.toutiao.com/trending/7585650111787810842/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "据美国财经媒体Semafor：美国白宫人工智能和加密货币顾问萨克斯和美国特使威特科夫可能因阿联酋交易面临道德调查。",
           "url": "https://flash.jin10.com/detail/20251222172447436800",
           "source": "金十数据",
@@ -1414,6 +1544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "美联储理事米兰：随着我们逐步降息，我有必要对50个基点的降息幅度提出异议的情况会随时间推移而减少。",
+          "url": "https://flash.jin10.com/detail/20251222214320227800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "聚和材料：筹划发行H股股票并在香港联合交易所有限公司上市。",
@@ -1433,9 +1574,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
+        },
+        {
+          "title": "美联储理事米兰：我还没决定是投票支持降息25个基点还是50个基点。",
+          "url": "https://flash.jin10.com/detail/20251222214308943800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "越南VN指数涨1%报1721.69点。",
@@ -1510,9 +1662,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
+        },
+        {
+          "title": "美联储理事米兰：明年的退税将提供一些刺激措施。",
+          "url": "https://flash.jin10.com/detail/20251222213816991800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "内盘钯期货主力合约涨超6%，铂期货主力合约涨近6%。",
@@ -1554,9 +1717,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
+        },
+        {
+          "title": "美联储理事米兰：我们认为最终会下调政策利率。",
+          "url": "https://flash.jin10.com/detail/20251222213611801800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "台湾证交所加权股价指数高开1%报27,986.66点。",
@@ -1570,6 +1744,17 @@
           "time_info": "09时55分"
         },
         {
+          "title": "美联储理事米兰：如果我们不调整政策，我们将面临日益升高的衰退风险。",
+          "url": "https://flash.jin10.com/detail/20251222213541338800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "商品期货开盘，对二甲苯、PTA、沪银主力合约涨超3%，短纤、瓶片、纸浆涨超2%。PVC、菜籽油、塑料、烧碱跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3024538",
           "source": "华尔街见闻-快讯",
@@ -1579,6 +1764,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "美联储理事米兰：我看不到近期会出现经济衰退。",
+          "url": "https://flash.jin10.com/detail/20251222213516779800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "国债期货收盘，30年期主力合约跌0.28%，10年期主力合约跌0.09%，5年期主力合约跌0.06%，2年期主力合约跌0.02%。",
@@ -1601,12 +1797,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "美联储理事米兰：人们不更新观点，这反映出机构表现不佳。",
+          "url": "https://flash.jin10.com/detail/20251222213511554800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
@@ -1648,8 +1855,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时26分 ~ 21时36分]"
+          "appearance_count": 11,
+          "time_info": "[15时26分 ~ 22时24分]"
         },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -1671,9 +1878,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时24分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -1721,6 +1928,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时48分 ~ 21时36分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3025002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "霍尼韦尔预计全年调整后销售额为375亿-377亿美元，此前预期为407亿-409亿美元。 霍尼韦尔预计全年调整后每股收益为9.70-9.80美元（剔除先进材料业务影响后）。 霍尼韦尔预计第四季度调整后销售额为98亿-100亿美元，此前预期为101亿-103亿美元。 霍尼韦尔预计第四季度调整后每股收益为2.48-2.58美元，此前预期为2.52-2.62美元。 霍尼韦尔美股盘前跌超3%。",
