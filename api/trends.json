@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T17:28:55.496540+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2025-12-23T18:27:28.911247+08:00",
+  "total_titles_processed": 1622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 198,
+      "match_count": 202,
       "titles": [
         {
           "title": "中国股票又获唱多！高盛：明年将继续“牛” 到2027年底有望再涨38%",
@@ -30,18 +30,6 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
-          "title": "特朗普将建特朗普级新型战舰",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时28分 ~ 17时28分]"
-        },
-        {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
           "url": "https://wallstreetcn.com/articles/3761868",
           "source": "华尔街见闻",
@@ -50,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时50分 ~ 17时28分]"
+          "appearance_count": 13,
+          "time_info": "[09时50分 ~ 18时27分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -83,6 +71,19 @@
           "time_info": "[00时29分 ~ 15时26分]"
         },
         {
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时28分 ~ 18时27分]"
+        },
+        {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
           "url": "https://www.toutiao.com/trending/7586636403350556196/",
           "source": "今日头条",
@@ -92,11 +93,12 @@
             10,
             16,
             7,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时50分 ~ 17时28分]"
+          "appearance_count": 13,
+          "time_info": "[09时50分 ~ 18时27分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -190,6 +192,17 @@
           "time_info": "[11时28分 ~ 15时26分]"
         },
         {
+          "title": "如何看特朗普级战列舰计划",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时27分]"
+        },
+        {
           "title": "新纪录！A股年成交额首破400万亿元",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%BA%AA%E5%BD%95%EF%BC%81A%E8%82%A1%E5%B9%B4%E6%88%90%E4%BA%A4%E9%A2%9D%E9%A6%96%E7%A0%B4400%E4%B8%87%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
@@ -201,6 +214,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时28分 ~ 14时37分]"
+        },
+        {
+          "title": "特朗普：美国“必须得到格陵兰岛”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            18,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时26分 ~ 18时27分]"
         },
         {
           "title": "特朗普提出中美G2概念 日本不安",
@@ -216,17 +244,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时39分 ~ 16时33分]"
-        },
-        {
-          "title": "如何看特朗普级战列舰计划",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E8%AE%A1%E5%88%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "美国总统特朗普：我们将讨论生产计划，这些生产计划太慢了。",
@@ -262,20 +279,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时50分 ~ 12时40分]"
-        },
-        {
-          "title": "特朗普：美国“必须得到格陵兰岛”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时26分 ~ 17时28分]"
         },
         {
           "title": "美国总统特朗普：下周我将与国防主承包商会面。",
@@ -394,7 +397,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -900,6 +903,29 @@
           "time_info": "[15时26分 ~ 16时33分]"
         },
         {
+          "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
+          "url": "https://wallstreetcn.com/articles/3761889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时27分]"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时27分]"
+        },
+        {
           "title": "金十图示：2025年12月23日（周二）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251223004552919800",
           "source": "金十数据",
@@ -921,6 +947,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
+          "title": "【每日收评】三大指数冲高回落小幅收红，锂电产业链集体走强，商业航天概念股批量重挫",
+          "url": "https://www.cls.cn/detail/2237713",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时27分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗的核活动。",
@@ -957,6 +995,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时33分 ~ 17时28分]"
+        },
+        {
+          "title": "瑞士12月投资者信心指数 6.2，前值 12.2。",
+          "url": "https://wallstreetcn.com/livenews/3025507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时27分]"
         },
         {
           "title": "日元涨0.5%突破157，日本政府官员口头提振汇率",
@@ -1167,17 +1217,6 @@
           "time_info": "15时26分"
         },
         {
-          "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
-          "url": "https://wallstreetcn.com/articles/3761889",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "美国总统特朗普：批准海军开始建造两艘全新战列舰的计划。",
           "url": "https://flash.jin10.com/detail/20251223061340570800",
           "source": "金十数据",
@@ -1231,6 +1270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "美国总统特朗普活动现场的海报展示了新军舰的图像，并配有文字“特朗普级美国海军无畏号（Trump Class USS Defiant）”。",
@@ -1299,15 +1349,15 @@
           "time_info": "15时26分"
         },
         {
-          "title": "瑞士12月投资者信心指数 6.2，前值 12.2。",
-          "url": "https://wallstreetcn.com/livenews/3025507",
+          "title": "腾讯12月23日回购价值6.358亿港元的股票。",
+          "url": "https://wallstreetcn.com/livenews/3025544",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "18时27分"
         },
         {
           "title": "据华尔街日报：美国新级别军舰将以美国总统特朗普命名。",
@@ -1426,9 +1476,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "金十图示：2025年12月23日（周二）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20251223180128431800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "中证转债指数开盘持平。普联转债涨超13%，信服转债涨超2%，再22转债、浩瀚转债涨超1%； 利柏转债跌近6%，金钟转债跌2.9%，嘉美转债跌2.7%。",
@@ -1492,7 +1553,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1506,17 +1567,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "【每日收评】三大指数冲高回落小幅收红，锂电产业链集体走强，商业航天概念股批量重挫",
-          "url": "https://www.cls.cn/detail/2237713",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "美国总统特朗普：马杜罗想做什么，由他自己决定；马杜罗下台是明智之举。",
@@ -1673,6 +1723,17 @@
           "time_info": "14时37分"
         },
         {
+          "title": "伯特利：筹划发行H股股票并在香港联合交易所有限公司上市。",
+          "url": "https://wallstreetcn.com/livenews/3025530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "新加坡富时海峡时报指数高开0.2%，报4620.27。",
           "url": "https://flash.jin10.com/detail/20251223090146181800",
           "source": "金十数据",
@@ -1778,7 +1839,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -2190,17 +2251,6 @@
           "time_info": "07时22分"
         },
         {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "富时中国A50指数期货盘初涨0.12%，上一个交易日夜盘收涨0.18%。",
           "url": "https://wallstreetcn.com/livenews/3025220",
           "source": "华尔街见闻-快讯",
@@ -2378,6 +2428,18 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "诺和诺德美股盘前涨约7%，美国食品药品监督管理局（FDA）已批准Wegovy®口服片，用于长期减轻及维持体重。",
+          "url": "https://wallstreetcn.com/livenews/3025508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时27分]"
+        },
+        {
           "title": "希捷科技回吐美股盘初涨幅，并转而下跌5.5%。",
           "url": "https://wallstreetcn.com/livenews/3025047",
           "source": "华尔街见闻-快讯",
@@ -2407,18 +2469,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "诺和诺德美股盘前涨约7%，美国食品药品监督管理局（FDA）已批准Wegovy®口服片，用于长期减轻及维持体重。",
-          "url": "https://wallstreetcn.com/livenews/3025508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -2503,7 +2554,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
@@ -2557,6 +2608,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时26分 ~ 13时27分]"
+        },
+        {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "金价逐步朝4500美元迈进，分析师：市场逐渐适应金价高涨",
+          "url": "https://flash.jin10.com/detail/20251223175214274800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "金价银价同日创新高",
@@ -2652,8 +2725,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时21分 ~ 17时28分]"
+          "appearance_count": 22,
+          "time_info": "[01时21分 ~ 18时27分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
