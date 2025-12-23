@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T19:22:05.695551+08:00",
-  "total_titles_processed": 1696,
+  "generated_at": "2025-12-23T20:49:53.022627+08:00",
+  "total_titles_processed": 1792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 205,
+      "match_count": 206,
       "titles": [
         {
           "title": "中国股票又获唱多！高盛：明年将继续“牛” 到2027年底有望再涨38%",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时50分 ~ 19时22分]"
+          "appearance_count": 16,
+          "time_info": "[09时50分 ~ 20时49分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -77,11 +77,12 @@
           "ranks": [
             4,
             6,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时28分 ~ 19时22分]"
+          "appearance_count": 14,
+          "time_info": "[11时28分 ~ 20时49分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -424,6 +425,18 @@
           "time_info": "07时22分"
         },
         {
+          "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
+          "url": "https://wallstreetcn.com/articles/3761889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 20时49分]"
+        },
+        {
           "title": "美国总统特朗普：将从两艘舰艇开始，将发展到十艘，最终达到20到25艘。",
           "url": "https://flash.jin10.com/detail/20251223061538967800",
           "source": "金十数据",
@@ -463,7 +476,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -477,6 +490,33 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 20时49分]"
+        },
+        {
+          "title": "【每日收评】三大指数冲高回落小幅收红，锂电产业链集体走强，商业航天概念股批量重挫",
+          "url": "https://www.cls.cn/detail/2237713",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 20时49分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.37%，报25909点。 恒生科技指数主连夜盘收涨0.40%，报5545点。",
@@ -667,17 +707,6 @@
           "time_info": "[13时27分 ~ 14时37分]"
         },
         {
-          "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
-          "url": "https://wallstreetcn.com/articles/3761889",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 19时22分]"
-        },
-        {
           "title": "据福克斯新闻：一位官员证实，特朗普政府正召回约30名大使。",
           "url": "https://flash.jin10.com/detail/20251223005847511800",
           "source": "金十数据",
@@ -724,19 +753,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时37分 ~ 15时26分]"
-        },
-        {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 19时22分]"
         },
         {
           "title": "据Politico：特朗普的批评者乔治·康威已提交申请，竞选纽约州众议院席位。",
@@ -827,6 +843,17 @@
           "time_info": "[09时51分 ~ 15时26分]"
         },
         {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 20时49分]"
+        },
+        {
           "title": "美国民主党主导的各州提起诉讼，以阻止特朗普政府削减消费者金融保护局的经费。",
           "url": "https://flash.jin10.com/detail/20251223045540973800",
           "source": "金十数据",
@@ -863,19 +890,6 @@
           "time_info": "[13时27分 ~ 14时37分]"
         },
         {
-          "title": "【每日收评】三大指数冲高回落小幅收红，锂电产业链集体走强，商业航天概念股批量重挫",
-          "url": "https://www.cls.cn/detail/2237713",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 19时22分]"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：与特朗普的会谈将聚焦加沙和黎巴嫩问题。",
           "url": "https://flash.jin10.com/detail/20251223015326106800",
           "source": "金十数据",
@@ -900,17 +914,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 03时19分]"
-        },
-        {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时22分]"
         },
         {
           "title": "上期所原油期货2502合约夜盘收涨2.03%，报441.30元人民币/桶。 沪金夜盘收涨1.60%，沪银收涨2.30%。",
@@ -972,6 +975,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时34分]"
+        },
+        {
+          "title": "*ST炼石：撤销公司股票交易因重整而被实施的退市风险警示，继续被实施其他风险警示。",
+          "url": "https://wallstreetcn.com/livenews/3025560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时49分]"
         },
         {
           "title": "特朗普：美国还将增加航空母舰数量",
@@ -1255,6 +1270,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "新兴市场股票连续第三天上涨 货币表现滞后",
+          "url": "https://wallstreetcn.com/livenews/3025594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "美国总统特朗普：我们还将增加航空母舰。",
           "url": "https://flash.jin10.com/detail/20251223061427915800",
           "source": "金十数据",
@@ -1321,17 +1347,6 @@
           "time_info": "15时26分"
         },
         {
-          "title": "*ST炼石：撤销公司股票交易因重整而被实施的退市风险警示，继续被实施其他风险警示。",
-          "url": "https://wallstreetcn.com/livenews/3025560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
           "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股快手下挫3.6%",
           "url": "https://wallstreetcn.com/articles/3761889",
           "source": "华尔街见闻",
@@ -1371,7 +1386,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -2641,11 +2656,24 @@
           "url": "https://www.cls.cn/detail/2237629",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 20时49分]"
+        },
+        {
+          "title": "金价彻底爆了 有人拖行李箱抢购",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时22分]"
+          "time_info": "[19时21分 ~ 20时49分]"
         },
         {
           "title": "金价大涨的背后原因是什么",
@@ -2657,17 +2685,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时26分 ~ 13时27分]"
-        },
-        {
-          "title": "金价彻底爆了 有人拖行李箱抢购",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 19时22分]"
         },
         {
           "title": "金价逐步朝4500美元迈进，分析师：市场逐渐适应金价高涨",
@@ -2695,7 +2712,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -2755,6 +2772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "美元指数DXY日内下跌0.4%，跌至10月3日以来新低，报97.853。",
+          "url": "https://flash.jin10.com/detail/20251223192922576800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         }
       ]
     },
@@ -2774,8 +2802,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时21分 ~ 19时22分]"
+          "appearance_count": 25,
+          "time_info": "[01时21分 ~ 20时49分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
