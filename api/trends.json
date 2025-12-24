@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-24T07:21:47.737784+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2025-12-24T09:49:29.330182+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 78,
+      "match_count": 98,
       "titles": [
+        {
+          "title": "美国第三季度GDP增长4.3%创两年来最快增速，PCE物价指数2.9%",
+          "url": "https://wallstreetcn.com/articles/3761934",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时49分]"
+        },
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
           "url": "https://wallstreetcn.com/articles/3761868",
@@ -15,18 +28,6 @@
             5,
             6,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时21分]"
-        },
-        {
-          "title": "美国第三季度GDP增长4.3%创两年来最快增速，PCE物价指数2.9%",
-          "url": "https://wallstreetcn.com/articles/3761934",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -48,11 +49,12 @@
           "url": "https://wallstreetcn.com/articles/3761889",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时49分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -62,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时49分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -87,11 +89,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时49分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -103,11 +106,12 @@
             24,
             28,
             19,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时49分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -184,13 +188,24 @@
           "time_info": "[02时35分 ~ 05时21分]"
         },
         {
+          "title": "特朗普回应克林顿大尺度照被公布",
+          "url": "https://www.toutiao.com/trending/7586912730720947748/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
           "title": "A股消费板块重回聚光灯下，食品主题基金时隔四年再度新发",
           "url": "https://wallstreetcn.com/livenews/3025798",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -418,6 +433,18 @@
           "time_info": "[05时21分 ~ 06时22分]"
         },
         {
+          "title": "美军将建造“特朗普级”战舰",
+          "url": "https://www.douyin.com/hot/2345209",
+          "source": "抖音",
+          "ranks": [
+            27,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时25分 ~ 09时49分]"
+        },
+        {
           "title": "美新型战舰被命名为特朗普级你咋看",
           "url": "https://www.toutiao.com/trending/7586859203608772635/",
           "source": "今日头条",
@@ -453,17 +480,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时35分 ~ 04时26分]"
-        },
-        {
-          "title": "美军将建造“特朗普级”战舰",
-          "url": "https://www.douyin.com/hot/2345209",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时25分 ~ 07时21分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.12%，报25818点。 恒生科技指数主连夜盘收涨0.05%，报5497点。",
@@ -765,6 +781,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "A股半导体板块继续走强，圣晖集成3连板，德明利、北京君正、芯源微、汇成股份、华虹公司等涨幅居前，消息上，中芯国际已经对部分产能实施了涨价，涨幅约为10%。",
+          "url": "https://wallstreetcn.com/livenews/3025893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至12月16日当周，COMEX黄金投机者将净多头头寸增加9,493份合约，至134,130份合约；COMEX白银投机者将净多头头寸削减3,681份合约，至24,297份合约；COMEX铜投机者将净多头头寸增加4,904份合约，至75,987份合约。",
           "url": "https://flash.jin10.com/detail/20251224043300072800",
           "source": "金十数据",
@@ -774,6 +801,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "中证转债指数高开0.04%。嘉美转债涨超5%，欧通转债、大中转债、永贵转债涨超2%；利柏转债跌超3%，再22转债跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3025889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月16日当周，原油投机者将WTI净空头头寸增加8,479份合约，至20,519份。",
@@ -793,9 +831,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "上证指数开盘报3920.35点，涨0.01%。 深证成指开盘报13378.48点，涨0.07%。 创业板指开盘报3207.41点，涨0.07%。 沪深300开盘报4623.68点，涨0.06%。 科创50开盘报1342.13点，涨0.16%。 中证500开盘报7257.61点，涨0.01%。 中证1000开盘报7391.56点，跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3025886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "贝森特暗示美联储未来方向：通胀“区间制”，取消“点阵图”，支持财政部，回归“幕后”",
+          "url": "https://wallstreetcn.com/articles/3761939",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "人民币汇率创逾一年高位，分析称出现单边快速升值的概率较低",
@@ -804,9 +864,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
+          "url": "https://www.cls.cn/detail/2238272",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "恒指高开0.02%，报25780.09点；恒生科技指数涨0.07%。中芯国际涨2.1%，华虹半导体涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3025881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "美国最高法院拒绝允许美国总统特朗普向芝加哥地区部署国民警卫队。",
@@ -818,6 +911,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "美联储主席热门人选哈西特：降息节奏仍不够快 且落后其他央行",
+          "url": "https://www.cls.cn/detail/2238234",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "市场消息：美国法官维持特朗普政府的10万美元H-1B签证申请费的决定。",
+          "url": "https://flash.jin10.com/detail/20251224090814337800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "白宫顾问哈塞特：美国总统特朗普有一批出色的美联储候选人。",
@@ -837,9 +952,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "特朗普再谈格陵兰问题 还提到中国",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E8%B0%88%E6%A0%BC%E9%99%B5%E5%85%B0%E9%97%AE%E9%A2%98+%E8%BF%98%E6%8F%90%E5%88%B0%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-24）",
+          "url": "https://flash.jin10.com/detail/20251224090608916800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "周二（12月23日），彭博电动汽车价格回报指数涨0.03%，报3464.12点。 亚太早盘显著波动，北京时间09:35小幅下跌、刷新日低至3455.20点，10:49开始显著拉升、11:22刷新日高至3479.94点。",
@@ -851,6 +988,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "法官裁定维持特朗普提出的10万美元H-1B签证申请费。",
+          "url": "https://wallstreetcn.com/livenews/3025869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.58%，报7638.99点。 热门中概股里，小马智行初步收跌2.9%，蔚来跌2.5%，腾讯、理想、小鹏、小米、文远知行跌超1%，阿里巴巴、拼多多、新东方涨超0.1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.52%，中国科技指数ETF（CQQQ）收跌0.50%。 XtrackersHarvest中证50（ASHS）收涨0.24%，德银嘉实沪深300指数ETF（ASHR）收涨0.34%。",
@@ -870,9 +1018,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "台湾证交所加权股价指数高开0.3%报28,383.61点。",
+          "url": "https://wallstreetcn.com/livenews/3025863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "韩国将推出税收优惠政策以帮助稳定汇率",
+          "url": "https://wallstreetcn.com/livenews/3025862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "美国财长贝森特支持重新考虑美联储2%的通胀目标。贝森特表示，相关讨论可能会围绕将通胀目标调整为1.5%-2.5%或1%-3%的区间展开。",
@@ -886,15 +1056,59 @@
           "time_info": "00时31分"
         },
         {
+          "title": "商品期货开盘，铂主力合约涨停、涨幅7%，钯涨超6%，沪银涨超5%，碳酸锂涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3025861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "韩国财政部：韩国将豁免散户投资者出售海外股票并回流投资国内所获资本利得税。",
+          "url": "https://flash.jin10.com/detail/20251224090041388800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
           "title": "周二（12月23日），降息赢家指数涨0.72%，报99.75点。 “特朗普关税输家”指数跌1.03%，散户抱团概念股指数/迷因股（meme stock）指数跌1.71%。",
           "url": "https://wallstreetcn.com/livenews/3025799",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初跌0.18%，上一个交易日夜盘收跌0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3025859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约涨跌不一。 沪银涨超4%，沪镍、烧碱涨超2%，PX、沪铜涨超1%。跌幅方面，丁二烯橡胶跌超2%，沪锡、乙二醇（EG）、焦煤跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251224090013475800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "据纽约时报：美国国会山成员寻求将特朗普的名字移出肯尼迪中心。",
@@ -906,6 +1120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "再创新高！广期所铂期货触及涨停",
+          "url": "https://flash.jin10.com/detail/20251224090002678800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "韩国12月消费者信心指数 109.9，前值112.4。",
@@ -971,6 +1196,30 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
+          "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
+          "url": "https://www.cls.cn/detail/2238248",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 09时49分]"
+        },
+        {
+          "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2238119",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 09时49分]"
+        },
+        {
           "title": "半导体ETF收涨超0.9%，领跑美股行业ETF，标普电信、科技板块涨超0.9%",
           "url": "https://wallstreetcn.com/livenews/3025776",
           "source": "华尔街见闻-快讯",
@@ -981,17 +1230,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
-        },
-        {
-          "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2238119",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 04时26分]"
         },
         {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股收盘）",
@@ -1018,24 +1256,13 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
-          "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
-          "url": "https://www.cls.cn/detail/2238248",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
           "title": "UiPath美股盘后涨5.4%。",
           "url": "https://wallstreetcn.com/livenews/3025791",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -1046,7 +1273,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -1087,7 +1314,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
@@ -1125,6 +1352,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 07时21分]"
+        },
+        {
+          "title": "金价癫了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%99%AB%E4%BA%86%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "金价彻底爆了 有人拖行李箱抢购",
@@ -1194,6 +1432,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
+          "url": "https://wallstreetcn.com/articles/3761906",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
+          "url": "https://wallstreetcn.com/livenews/3025757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1226,24 +1493,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时19分 ~ 05时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
-          "url": "https://wallstreetcn.com/livenews/3025757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时22分]"
         }
       ]
     }
