@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T11:29:28.550814+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2025-12-25T12:39:55.920666+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 64,
+      "match_count": 72,
       "titles": [
         {
           "title": "贝森特暗示美联储未来方向：通胀“区间制”，取消“点阵图”，支持财政部，回归“幕后”",
@@ -52,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 11时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 12时39分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -87,8 +87,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 11时29分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时39分]"
+        },
+        {
+          "title": "Clocktower王凯文：白银是当前最高确信度交易，如果美联储“敢”在通胀下降息，那么白银“天上见” | Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761998",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时22分 ~ 12时39分]"
         },
         {
           "title": "上期所原油期货2502合约夜盘收跌0.02%，报442.50元人民币/桶。 沪金夜盘收跌0.23%，沪银收涨1.54%。",
@@ -103,19 +117,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时34分 ~ 05时21分]"
-        },
-        {
-          "title": "Clocktower王凯文：白银是当前最高确信度交易，如果美联储“敢”在通胀下降息，那么白银“天上见” | Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761998",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时22分 ~ 11时29分]"
         },
         {
           "title": "周三（12月24日），降息赢家指数涨0.60%，报100.35点。 “特朗普关税输家”指数涨0.41%，散户抱团概念股指数/迷因股（meme stock）指数跌0.43%。",
@@ -176,15 +177,26 @@
           "time_info": "07时22分"
         },
         {
-          "title": "越南股指VN指数日内涨幅扩大至1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3026486",
+          "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
+          "url": "https://flash.jin10.com/detail/20251225121328471800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本经济今年展现出韧性。 来自美国经济和关税的风险已经减弱。 随着薪资增长，物价更接近目标。 **日本的真实利率仍然非常低。 如果经济展望实现将保持加息。** 调整宽松政策将推动长期增长。 预计薪资上行压力将持续。 回归零利率常态的风险已降低。",
+          "url": "https://wallstreetcn.com/livenews/3026526",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "12时39分"
         },
         {
           "title": "美联储明年1月维持利率不变的概率为84.5%",
@@ -316,6 +328,30 @@
           "time_info": "[01时20分 ~ 03时18分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251225105408370800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 12时39分]"
+        },
+        {
+          "title": "越南股指VN指数日内涨幅扩大至1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3026486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 12时39分]"
+        },
+        {
           "title": "特朗普回应克林顿大尺度照被公布",
           "url": "https://www.toutiao.com/trending/7586912730720947748/",
           "source": "今日头条",
@@ -342,6 +378,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时34分 ~ 05时21分]"
+        },
+        {
+          "title": "央行四季度例会：继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度",
+          "url": "https://wallstreetcn.com/articles/3762015",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时39分]"
         },
         {
           "title": "A股商业航天概念延续强势，神剑股份6连板，九鼎新材3连板，广联航空、天奥电子涨停，超捷股份、上海港湾、中国卫星等涨超5%。",
@@ -395,18 +444,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时18分 ~ 07时22分]"
-        },
-        {
-          "title": "央行四季度例会：继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度",
-          "url": "https://wallstreetcn.com/articles/3762015",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 11时29分]"
         },
         {
           "title": "突发！20CM涨停商业航天概念股近日遭控股股东减持97.44万股|盘后公告集锦",
@@ -574,24 +611,13 @@
           "time_info": "02时34分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251225105408370800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
           "title": "日经225指数早盘收盘涨0.01%，日本东证指数早盘收涨0.2%。",
           "url": "https://wallstreetcn.com/livenews/3026468",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -607,6 +633,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "金十图示：2025年12月25日（周四）富时中国A50指数成分股午盘收盘行情一览：保险、煤炭、酿酒板块全线飘红，半导体板块走低",
+          "url": "https://flash.jin10.com/detail/20251225113556078800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "早盘开盘，国内期货主力合约涨跌不一。乙二醇（EG）涨超2%，沪银、丙烯、丁二烯橡胶、塑料、塑料月均价、白糖涨超1%。跌幅方面，钯跌超9%，铂跌超5%，碳酸锂跌超3%，沪锡跌超2%，沪镍、菜粕、氧化铝、焦炭跌超1%，纸浆、焦煤跌近1%。",
           "url": "https://flash.jin10.com/detail/20251225090001752800",
           "source": "金十数据",
@@ -618,6 +655,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251225113122788800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "广期所钯期货主力合约跌停，跌幅约10%。 铂期货主力合约跌超8%。",
           "url": "https://wallstreetcn.com/livenews/3026415",
           "source": "华尔街见闻-快讯",
@@ -627,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251225113115760800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "商品期货开盘，钯主力合约跌近10%，铂跌超5%，碳酸锂跌超3%，沪锡跌超2%，沪镍、菜籽粕、焦炭跌超1%。乙二醇涨超2%，沪银、鸡蛋、白糖涨超1%。",
@@ -646,7 +705,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -657,9 +716,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。多晶硅涨超3%，乙二醇（EG）、鸡蛋、丙烯、苯乙烯、白糖涨超1%。跌幅方面，钯封跌停板，跌幅9.99%，铂跌超5%，碳酸锂跌超2%，沪锡、沪镍跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251225113038273800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "三家公司同日冲刺A股IPO，合计募资近40亿元",
@@ -695,13 +765,24 @@
           "time_info": "07时22分"
         },
         {
+          "title": "上证指数早盘收报3952.50点，涨0.29%。 深证成指早盘收报13472.22点，跌0.11%。 创业板指早盘收报3217.47点，跌0.37%。 沪深300早盘收报4631.00点，跌0.07%。 科创50早盘收报1344.45点，跌0.57%。 中证500早盘收报7375.81点，涨0.32%。 中证1000早盘收报7548.12点，涨0.56%。",
+          "url": "https://wallstreetcn.com/livenews/3026497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "特朗普发表圣诞祝福 不忘自夸政绩",
           "url": "https://flash.jin10.com/detail/20251225103018828800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -715,6 +796,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.02%，10年期主力合约跌0.01%，5年期主力合约跌0.01%，2年期主力合约跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3026494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "标普500指数创盘中历史新高，上涨0.16%。",
@@ -745,7 +837,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -788,8 +880,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时22分 ~ 11时29分]"
+          "appearance_count": 7,
+          "time_info": "[06时22分 ~ 12时39分]"
         },
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -799,8 +891,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 11时29分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时39分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -913,7 +1005,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -951,11 +1043,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 11时29分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时39分]"
         },
         {
           "title": "金价狂飙 千元内几乎买不到金饰",
@@ -963,11 +1056,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 11时29分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时39分]"
         },
         {
           "title": "金价又创历史新高",
@@ -987,7 +1081,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         }
