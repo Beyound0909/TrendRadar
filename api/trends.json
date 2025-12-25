@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T21:34:15.792394+08:00",
-  "total_titles_processed": 1722,
+  "generated_at": "2025-12-25T22:22:30.459749+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 118,
+      "match_count": 123,
       "titles": [
         {
           "title": "贝森特暗示美联储未来方向：通胀“区间制”，取消“点阵图”，支持财政部，回归“幕后”",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时26分 ~ 21时34分]"
+          "appearance_count": 8,
+          "time_info": "[17时26分 ~ 22时22分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时26分 ~ 21时34分]"
+          "appearance_count": 8,
+          "time_info": "[17时26分 ~ 22时22分]"
         },
         {
           "title": "央行四季度例会：继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度",
@@ -144,19 +144,6 @@
           "time_info": "[09时50分 ~ 12时39分]"
         },
         {
-          "title": "人民币汇率破7对房价股市有何影响",
-          "url": "https://www.toutiao.com/trending/7587658680007396883/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时25分 ~ 21时34分]"
-        },
-        {
           "title": "贵金属集体回调！黄金失守4500，钯期货跌停，国投白银LOF跌10%触及跌停",
           "url": "https://wallstreetcn.com/articles/3762049",
           "source": "华尔街见闻",
@@ -167,8 +154,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时25分 ~ 21时34分]"
+          "appearance_count": 7,
+          "time_info": "[18时25分 ~ 22时22分]"
+        },
+        {
+          "title": "人民币汇率破7对房价股市有何影响",
+          "url": "https://www.toutiao.com/trending/7587658680007396883/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            14,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时25分 ~ 22时22分]"
         },
         {
           "title": "上期所原油期货2502合约夜盘收跌0.02%，报442.50元人民币/桶。 沪金夜盘收跌0.23%，沪银收涨1.54%。",
@@ -221,17 +222,6 @@
           "time_info": "02时34分"
         },
         {
-          "title": "广期所调整铂、钯期货相关合约交易指令每次最小开仓下单数量、交易限额",
-          "url": "https://wallstreetcn.com/livenews/3026765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
           "title": "国债期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251225093136609800",
           "source": "金十数据",
@@ -252,17 +242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
-        },
-        {
-          "title": "广期所：自2025年12月29日交易时起，多晶硅期货PS2601、PS2602、PS2603、PS2604、PS2605、PS2606、PS2607、PS2608、PS2609、PS2610、PS2611、PS2612合约的交易手续费标准调整为成交金额的万分之五，日内平今仓交易手续费标准调整为成交金额的万分之五。",
-          "url": "https://wallstreetcn.com/livenews/3026764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
         },
         {
           "title": "特朗普这一年如何搅乱全球",
@@ -384,6 +363,18 @@
           "time_info": "[01时20分 ~ 04时25分]"
         },
         {
+          "title": "广期所调整铂、钯期货相关合约交易指令每次最小开仓下单数量、交易限额",
+          "url": "https://wallstreetcn.com/livenews/3026765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时22分]"
+        },
+        {
           "title": "日经225指数收涨0.13%，报50407.79点。日本东证指数收涨0.3%。",
           "url": "https://wallstreetcn.com/livenews/3026596",
           "source": "华尔街见闻-快讯",
@@ -408,6 +399,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 05时21分]"
+        },
+        {
+          "title": "广期所：自2025年12月29日交易时起，多晶硅期货PS2601、PS2602、PS2603、PS2604、PS2605、PS2606、PS2607、PS2608、PS2609、PS2610、PS2611、PS2612合约的交易手续费标准调整为成交金额的万分之五，日内平今仓交易手续费标准调整为成交金额的万分之五。",
+          "url": "https://wallstreetcn.com/livenews/3026764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时22分]"
         },
         {
           "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
@@ -752,6 +755,19 @@
           "time_info": "[03时18分 ~ 05时21分]"
         },
         {
+          "title": "结算锚定“Mysteel+期货”，天齐锂业定价体系重构",
+          "url": "https://wallstreetcn.com/livenews/3026732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 22时22分]"
+        },
+        {
           "title": "大商所发布2026年元旦节假期调整相关品种期货合约涨跌停板幅度的通知",
           "url": "https://wallstreetcn.com/livenews/3026665",
           "source": "华尔街见闻-快讯",
@@ -875,6 +891,18 @@
           "time_info": "[15时24分 ~ 16时32分]"
         },
         {
+          "title": "夜盘期货开盘，国际铜、沪锡、沪银、沪铜涨逾1%，菜粕、豆粕、燃油等上涨；玻璃、液化石油气、焦煤等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3026758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时22分]"
+        },
+        {
           "title": "商品期货收盘，钯主力合约跌超7%，沪镍、沪锡跌超1%。多晶硅、铂涨超4%，沪银、乙二醇、国际铜涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3026610",
           "source": "华尔街见闻-快讯",
@@ -885,6 +913,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时24分 ~ 16时32分]"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约多数上涨。国际铜、沪锡、沪银、沪铜涨超1%，菜粕、PTA涨近1%。跌幅方面，玻璃、液化石油气（LPG）、焦煤跌超0.4%。",
+          "url": "https://flash.jin10.com/detail/20251225210003112800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时22分]"
         },
         {
           "title": "越南VN指数跌2.1%至1745点。",
@@ -921,18 +961,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时24分 ~ 16时32分]"
-        },
-        {
-          "title": "结算锚定“Mysteel+期货”，天齐锂业定价体系重构",
-          "url": "https://wallstreetcn.com/livenews/3026732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 21时34分]"
         },
         {
           "title": "期货盯盘神器专属文章",
@@ -1038,6 +1066,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "广期所调整铂、钯期货相关合约交易指令每次最小开仓下单数量",
+          "url": "https://flash.jin10.com/detail/20251225212237467800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收跌0.02%，报588.61点。 欧元区STOXX 50指数初步收跌0.05%，报5746.24点。 富时泛欧绩优300指数初步收跌0.04%，报2345.85点。 法国CAC 40指数收跌不到0.01%，报8103.58点。 英国富时100指数收跌0.19%，报9870.68点，富时250指数收跌0.16%，富时350指数收跌0.18%。 荷兰AEX指数收跌0.09%。 德国、意大利、希腊、丹麦股市休市。",
           "url": "https://wallstreetcn.com/livenews/3026288",
           "source": "华尔街见闻-快讯",
@@ -1047,17 +1086,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "夜盘期货开盘，国际铜、沪锡、沪银、沪铜涨逾1%，菜粕、豆粕、燃油等上涨；玻璃、液化石油气、焦煤等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3026758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
         },
         {
           "title": "国债期货走弱，30年期主力合约盘中跌0.20%，10年期跌0.01%，5年期跌0.04%，2年期跌0.01%。",
@@ -1082,6 +1110,17 @@
           "time_info": "16时32分"
         },
         {
+          "title": "广期所调整多晶硅期货相关合约交易限额",
+          "url": "https://flash.jin10.com/detail/20251225212225839800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "钯期货触及跌停，为上市以来第一次跌停",
           "url": "https://flash.jin10.com/detail/20251225090556599800",
           "source": "金十数据",
@@ -1091,6 +1130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "广期所调整多晶硅期货相关合约交易指令每次最小开仓下单数量",
+          "url": "https://flash.jin10.com/detail/20251225212208019800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "标普500指数收涨22.26点，涨幅0.32%，报6932.05点，继续创收盘历史新高。 道琼斯工业平均指数收涨288.75点，涨幅0.60%，报48731.16点，突破12月11日所创收盘历史最高位48704.01点。 纳斯达克综合指数（纳指）收涨51.463点，涨幅0.22%，报23613.307点。 纳斯达克100指数收涨68.316点，涨幅0.27%，报25656.146点。 纳斯达克生物科技指数收涨0.69%，报5843.74点。 费城半导体指数收涨0.28%，报7204.368点。 费城证交所KBW银行指数收涨0.71%，报168.48点。 道琼斯KBW地区银行指数收涨0.13%，报127.66点。",
@@ -1115,15 +1165,15 @@
           "time_info": "19时20分"
         },
         {
-          "title": "夜盘开盘，国内期货主力合约多数上涨。国际铜、沪锡、沪银、沪铜涨超1%，菜粕、PTA涨近1%。跌幅方面，玻璃、液化石油气（LPG）、焦煤跌超0.4%。",
-          "url": "https://flash.jin10.com/detail/20251225210003112800",
+          "title": "广期所调整铂、钯期货相关合约交易限额",
+          "url": "https://flash.jin10.com/detail/20251225212141332800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时34分"
+          "time_info": "22时22分"
         },
         {
           "title": "日经225指数早盘收盘涨0.01%，日本东证指数早盘收涨0.2%。",
@@ -1146,6 +1196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "广期所调整多晶硅期货相关合约交易手续费标准",
+          "url": "https://flash.jin10.com/detail/20251225212119574800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "日本央行行长植田和男：若经济与物价允许 将进一步加息",
@@ -1426,8 +1487,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时50分 ~ 21时34分]"
+          "appearance_count": 16,
+          "time_info": "[09时50分 ~ 22时22分]"
         },
         {
           "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
@@ -1591,6 +1652,19 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时20分 ~ 22时22分]"
+        },
+        {
           "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
           "url": "https://flash.jin10.com/detail/20251225150449280800",
           "source": "金十数据",
@@ -1600,18 +1674,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
-        },
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 21时34分]"
         },
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
@@ -1706,6 +1768,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
+          "url": "https://wallstreetcn.com/livenews/3026375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "微软谷歌开启“抢芯”模式，派员工常驻韩国，拿不到三星、SK海力士芯片就会被解雇",
+          "url": "https://wallstreetcn.com/livenews/3026771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -1715,11 +1805,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时45分 ~ 21时34分]"
+          "appearance_count": 5,
+          "time_info": "[20时45分 ~ 22时22分]"
         },
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
@@ -1762,23 +1853,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
-          "url": "https://wallstreetcn.com/livenews/3026375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
         }
       ]
     }
