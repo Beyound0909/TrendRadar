@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T15:24:45.023847+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2025-12-25T16:32:19.890461+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 93,
+      "match_count": 100,
       "titles": [
         {
           "title": "贝森特暗示美联储未来方向：通胀“区间制”，取消“点阵图”，支持财政部，回归“幕后”",
@@ -77,8 +77,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时22分 ~ 15时24分]"
+          "appearance_count": 11,
+          "time_info": "[06时22分 ~ 16时32分]"
         },
         {
           "title": "2025年A股诞生7只十倍股",
@@ -114,8 +114,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时50分 ~ 15时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 16时32分]"
         },
         {
           "title": "上期所原油期货2502合约夜盘收跌0.02%，报442.50元人民币/桶。 沪金夜盘收跌0.23%，沪银收涨1.54%。",
@@ -190,6 +190,17 @@
           "time_info": "14时37分"
         },
         {
+          "title": "富宝资讯：碳酸锂期货盘面偏弱震荡，富宝碳酸锂社会总库存10.54万吨，环减1.87%",
+          "url": "https://flash.jin10.com/detail/20251225161055520800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "日本央行前审议委员：日本推动经济增长期间需对加息采取审慎态度",
           "url": "https://flash.jin10.com/detail/20251225064107166800",
           "source": "金十数据",
@@ -226,13 +237,24 @@
           "time_info": "[00时29分 ~ 14时37分]"
         },
         {
+          "title": "高市早苗为何要赶在特朗普访华前访美",
+          "url": "https://www.toutiao.com/trending/7587680478346350143/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "金十图示：2025年12月25日（周四）富时中国A50指数成分股今日收盘行情一览：保险、酿酒行业全天飘红，半导体板块午后走势分化",
           "url": "https://flash.jin10.com/detail/20251225150323067800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -254,7 +276,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -285,6 +307,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时20分 ~ 04时25分]"
+        },
+        {
+          "title": "日经225指数收涨0.13%，报50407.79点。日本东证指数收涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3026596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 16时32分]"
         },
         {
           "title": "WTI 2月原油期货收报58.35美元/桶。 布伦特2月原油期货收报62.24美元/桶。 中东Abu Dhabi Murban原油期货跌0.21%，报62.91美元/桶。 NYMEX 1月天然气期货收报4.2420美元/百万英热单位。 NYMEX 1月汽油期货收报1.7471美元/加仑，NYMEX 1月取暖油期货收报2.1576美元/加仑。",
@@ -360,18 +395,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时26分 ~ 14时37分]"
-        },
-        {
-          "title": "日经225指数收涨0.13%，报50407.79点。日本东证指数收涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3026596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时24分]"
         },
         {
           "title": "美国加州放弃追讨联邦高铁拨款，打算等特朗普下野了再继续推进项目",
@@ -616,6 +639,18 @@
           "time_info": "[13时26分 ~ 14时37分]"
         },
         {
+          "title": "A股收盘：沪指涨0.47%录得7连阳，商业航天、机器人概念集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3026615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 16时32分]"
+        },
+        {
           "title": "上证指数开盘报3937.72点，跌0.08%。 深证成指开盘报13472.70点，跌0.10%。 创业板指开盘报3232.97点，涨0.11%。 沪深300开盘报4629.32点，跌0.10%。 科创50开盘报1347.78点，跌0.32%。 中证500开盘报7341.92点，跌0.14%。 中证1000开盘报7507.30点，涨0.01%。",
           "url": "https://wallstreetcn.com/livenews/3026424",
           "source": "华尔街见闻-快讯",
@@ -640,6 +675,30 @@
           "time_info": "[14时37分 ~ 15时24分]"
         },
         {
+          "title": "上证指数收报3959.62点，涨0.47%。 深证成指收报13531.41点，涨0.33%。 创业板指收报3239.34点，涨0.30%。 沪深300收报4642.54点，涨0.18%。 科创50收报1349.06点，跌0.23%。 中证500收报7410.71点，涨0.80%。 中证1000收报7579.38点，涨0.97%。",
+          "url": "https://wallstreetcn.com/livenews/3026612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 16时32分]"
+        },
+        {
+          "title": "商品期货收盘，钯主力合约跌超7%，沪镍、沪锡跌超1%。多晶硅、铂涨超4%，沪银、乙二醇、国际铜涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3026610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 16时32分]"
+        },
+        {
           "title": "广期所钯期货主力合约打开跌停板，目前跌7.8%。铂期货主力合约跌幅收窄至0.05%。",
           "url": "https://wallstreetcn.com/livenews/3026573",
           "source": "华尔街见闻-快讯",
@@ -650,6 +709,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时37分 ~ 15时24分]"
+        },
+        {
+          "title": "A股电池板块低开高走，天际股份触达涨停，震裕科技涨超5%，蔚蓝锂芯、容百科技、科达利、博力威、信宇人等个股跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3026603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 16时32分]"
         },
         {
           "title": "期货盯盘神器专属文章",
@@ -674,6 +745,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时20分]"
+        },
+        {
+          "title": "离岸人民币对美元汇率重回“6”时代",
+          "url": "https://www.toutiao.com/trending/7587644987605519891/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 16时32分]"
         },
         {
           "title": "A股机器人概念股涨势扩大，香山股份、浙江荣泰午后涨停，昊志机电、锋龙股份、方正电机、万向钱潮、巨轮智能等十余股此前封板，力星股份、埃夫特、三协电机、拓斯达涨超10%。",
@@ -717,7 +800,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -733,17 +816,6 @@
           "time_info": "07时22分"
         },
         {
-          "title": "A股收盘：沪指涨0.47%录得7连阳，商业航天、机器人概念集体爆发",
-          "url": "https://wallstreetcn.com/livenews/3026615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
           "title": "欧洲STOXX 600指数初步收跌0.02%，报588.61点。 欧元区STOXX 50指数初步收跌0.05%，报5746.24点。 富时泛欧绩优300指数初步收跌0.04%，报2345.85点。 法国CAC 40指数收跌不到0.01%，报8103.58点。 英国富时100指数收跌0.19%，报9870.68点，富时250指数收跌0.16%，富时350指数收跌0.18%。 荷兰AEX指数收跌0.09%。 德国、意大利、希腊、丹麦股市休市。",
           "url": "https://wallstreetcn.com/livenews/3026288",
           "source": "华尔街见闻-快讯",
@@ -755,37 +827,26 @@
           "time_info": "01时20分"
         },
         {
-          "title": "上证指数收报3959.62点，涨0.47%。 深证成指收报13531.41点，涨0.33%。 创业板指收报3239.34点，涨0.30%。 沪深300收报4642.54点，涨0.18%。 科创50收报1349.06点，跌0.23%。 中证500收报7410.71点，涨0.80%。 中证1000收报7579.38点，涨0.97%。",
-          "url": "https://wallstreetcn.com/livenews/3026612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
           "title": "国债期货走弱，30年期主力合约盘中跌0.20%，10年期跌0.01%，5年期跌0.04%，2年期跌0.01%。",
           "url": "https://flash.jin10.com/detail/20251225145413927800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
         {
-          "title": "商品期货收盘，钯主力合约跌超7%，沪镍、沪锡跌超1%。多晶硅、铂涨超4%，沪银、乙二醇、国际铜涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3026610",
-          "source": "华尔街见闻-快讯",
+          "title": "金十期货图示",
+          "url": "https://flash.jin10.com/detail/20251225153736072800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时24分"
+          "time_info": "16时32分"
         },
         {
           "title": "钯期货触及跌停，为上市以来第一次跌停",
@@ -821,6 +882,28 @@
           "time_info": "11时29分"
         },
         {
+          "title": "越南VN指数跌2.1%至1745点。",
+          "url": "https://wallstreetcn.com/livenews/3026637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "【午报】三大指数震荡分化涨跌不一，商业航天板块延续强势，机器人概念股再度活跃",
+          "url": "https://www.cls.cn/detail/2239726",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-25）",
           "url": "https://flash.jin10.com/detail/20251225090302455800",
           "source": "金十数据",
@@ -830,17 +913,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "A股电池板块低开高走，天际股份触达涨停，震裕科技涨超5%，蔚蓝锂芯、容百科技、科达利、博力威、信宇人等个股跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3026603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
         },
         {
           "title": "日本央行行长植田和男：若经济与物价允许 将进一步加息",
@@ -975,17 +1047,6 @@
           "time_info": "09时51分"
         },
         {
-          "title": "离岸人民币对美元汇率重回“6”时代",
-          "url": "https://www.toutiao.com/trending/7587644987605519891/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
           "title": "逾4000亿元! 2025年股票指基募资创历史新高",
           "url": "https://wallstreetcn.com/livenews/3026358",
           "source": "华尔街见闻-快讯",
@@ -1063,6 +1124,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "人民币汇率破7对房价股市有什么影响",
+          "url": "https://www.toutiao.com/trending/7587658680007396883/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "标普500指数低开4.88点，跌幅0.07%，报6904.91点； 道琼斯工业平均指数低开17.70点，跌幅0.04%，报48424.71点； 纳斯达克综合指数低开5.90点，跌幅0.03%，报23555.95点。",
           "url": "https://wallstreetcn.com/livenews/3026254",
           "source": "华尔街见闻-快讯",
@@ -1096,6 +1168,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "A股跨年行情是否悄然开启",
+          "url": "https://www.toutiao.com/trending/7587690898750705158/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "截至23:00收盘，国内期货主力合约涨跌不一。乙二醇（EG）涨超2%，丙烯、丁二烯橡胶、塑料、塑料月均价、白糖涨超1%。跌幅方面，菜粕、焦炭跌超1%，纸浆、焦煤跌近1%。",
           "url": "https://flash.jin10.com/detail/20251224230037226800",
           "source": "金十数据",
@@ -1120,8 +1203,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时50分 ~ 15时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 16时32分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -1225,8 +1308,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 15时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 16时32分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.68%，报358.01点，脱离收盘历史最高位，连续两个交易日撤离盘中历史最高位。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.37%，报2545.80点。",
@@ -1287,7 +1370,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
