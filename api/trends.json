@@ -1,45 +1,12 @@
 {
-  "generated_at": "2025-12-26T00:29:28.455750+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-12-26T01:20:52.399534+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "今日重点关注的财经数据与事件：2025年12月26日 周五",
-          "url": "https://flash.jin10.com/detail/20251226000000001800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "埃及央行降息100个基点，为2025年第五次宽松",
-          "url": "https://wallstreetcn.com/livenews/3026801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "比特币短线从87800美元附近拉升至接近88600美元的水平，刷新日高，日内当前涨约1%。",
-          "url": "https://wallstreetcn.com/livenews/3026800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
         {
           "title": "贵金属集体回调！黄金失守4500，钯期货跌停，国投白银LOF跌10%触及跌停",
           "url": "https://wallstreetcn.com/articles/3762049",
@@ -48,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -59,41 +26,102 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2025年12月26日 周五",
+          "url": "https://flash.jin10.com/detail/20251226000000001800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
+        },
+        {
+          "title": "埃及央行降息100个基点，为2025年第五次宽松",
+          "url": "https://wallstreetcn.com/livenews/3026801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
+        },
+        {
+          "title": "比特币短线从87800美元附近拉升至接近88600美元的水平，刷新日高，日内当前涨约1%。",
+          "url": "https://wallstreetcn.com/livenews/3026800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
         },
         {
           "title": "截至23:00收盘，国内期货主力合约多数上涨，燃料油、菜粕涨近2%，PX、PTA涨超1.5%。跌幅方面，焦煤、焦炭、液化石油气（LPG）、玻璃跌超1%。",
           "url": "https://flash.jin10.com/detail/20251225230021927800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
         },
         {
           "title": "内盘期货夜市涨跌各异，菜粕、燃油至少涨超1.8%，双焦至少跌超1.7%",
           "url": "https://wallstreetcn.com/livenews/3026786",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
         },
         {
           "title": "俄罗斯央行：将12月26日官方卢布汇率定为每美元77.8844卢布（此前为78.4368）。",
           "url": "https://flash.jin10.com/detail/20251225223428616800",
           "source": "金十数据",
           "ranks": [
-            19
+            19,
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
+          "url": "https://flash.jin10.com/detail/20251226001306612800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "01时20分"
+        },
+        {
+          "title": "离岸人民币汇率升破7",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E5%8D%87%E7%A0%B47",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
           "title": "人民币汇率破7对房价股市有何影响",
@@ -142,19 +170,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
           "url": "https://wallstreetcn.com/livenews/3026784",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
         }
       ]
     },
@@ -170,8 +199,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
         }
       ]
     },
@@ -187,8 +216,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
         }
       ]
     },
@@ -201,11 +230,12 @@
           "url": "https://wallstreetcn.com/articles/3761989",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
         }
       ]
     }
