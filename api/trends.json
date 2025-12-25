@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T18:25:44.977851+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2025-12-25T19:20:23.756999+08:00",
+  "total_titles_processed": 1567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 109,
+      "match_count": 110,
       "titles": [
         {
           "title": "贝森特暗示美联储未来方向：通胀“区间制”，取消“点阵图”，支持财政部，回归“幕后”",
@@ -29,6 +29,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时29分 ~ 07时22分]"
+        },
+        {
+          "title": "央行四季度例会：继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度",
+          "url": "https://wallstreetcn.com/articles/3762015",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时50分 ~ 19时20分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -81,20 +96,6 @@
           "time_info": "[06时22分 ~ 17时26分]"
         },
         {
-          "title": "央行四季度例会：继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度",
-          "url": "https://wallstreetcn.com/articles/3762015",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时50分 ~ 18时25分]"
-        },
-        {
           "title": "2025年A股诞生7只十倍股",
           "url": "https://www.toutiao.com/trending/7586918761643622410/",
           "source": "今日头条",
@@ -127,8 +128,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时20分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -139,8 +140,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时20分]"
+        },
+        {
+          "title": "人民币汇率破7对房价股市有何影响",
+          "url": "https://www.toutiao.com/trending/7587658680007396883/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时25分]"
+          "time_info": "[18时25分 ~ 19时20分]"
         },
         {
           "title": "上期所原油期货2502合约夜盘收跌0.02%，报442.50元人民币/桶。 沪金夜盘收跌0.23%，沪银收涨1.54%。",
@@ -193,17 +205,6 @@
           "time_info": "02时34分"
         },
         {
-          "title": "人民币汇率破7对房价股市有何影响",
-          "url": "https://www.toutiao.com/trending/7587658680007396883/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
           "title": "国债期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251225093136609800",
           "source": "金十数据",
@@ -232,7 +233,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -295,17 +296,6 @@
           "time_info": "15时24分"
         },
         {
-          "title": "合兴包装：公司股票异常波动期间，公司控股股东新疆兴汇聚通过集中竞价交易方式减持公司股份153.05万股（占公司总股本0.13%），该减持行为与此前披露的减持计划一致。",
-          "url": "https://wallstreetcn.com/livenews/3026694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
           "title": "美联储明年1月维持利率不变的概率为84.5%",
           "url": "https://flash.jin10.com/detail/20251225061311082800",
           "source": "金十数据",
@@ -326,17 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
-          "url": "https://flash.jin10.com/detail/20251225173408748800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         },
         {
           "title": "金十图示：2025年12月25日（周四）全球股市指数-美洲市场（收盘）",
@@ -553,6 +532,18 @@
           "time_info": "[12时39分 ~ 13时26分]"
         },
         {
+          "title": "合兴包装：公司股票异常波动期间，公司控股股东新疆兴汇聚通过集中竞价交易方式减持公司股份153.05万股（占公司总股本0.13%），该减持行为与此前披露的减持计划一致。",
+          "url": "https://wallstreetcn.com/livenews/3026694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时20分]"
+        },
+        {
           "title": "特朗普回应克林顿大尺度照被公布",
           "url": "https://www.toutiao.com/trending/7586912730720947748/",
           "source": "今日头条",
@@ -579,6 +570,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时34分 ~ 05时21分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
+          "url": "https://flash.jin10.com/detail/20251225173408748800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时20分]"
         },
         {
           "title": "A股商业航天概念延续强势，神剑股份6连板，九鼎新材3连板，广联航空、天奥电子涨停，超捷股份、上海港湾、中国卫星等涨超5%。",
@@ -698,6 +701,19 @@
           "time_info": "[03时18分 ~ 05时21分]"
         },
         {
+          "title": "大商所发布2026年元旦节假期调整相关品种期货合约涨跌停板幅度的通知",
+          "url": "https://wallstreetcn.com/livenews/3026665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时20分]"
+        },
+        {
           "title": "离岸人民币对美元汇率重回“6”时代",
           "url": "https://www.toutiao.com/trending/7587644987605519891/",
           "source": "今日头条",
@@ -734,6 +750,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 11时29分]"
+        },
+        {
+          "title": "贵金属集体回调！黄金失守4500，钯期货跌停，国投白银LOF跌10%触及跌停",
+          "url": "https://wallstreetcn.com/articles/3762049",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时20分]"
         },
         {
           "title": "中证转债指数低开0.03%。北港转债、联创转债涨超4%，崧盛转债、嘉美转债、集智转债涨超3%；欧通转债跌超3%，金钟转债、大中转债跌超2%。",
@@ -880,18 +908,6 @@
           "time_info": "[00时29分 ~ 01时20分]"
         },
         {
-          "title": "大商所发布2026年元旦节假期调整相关品种期货合约涨跌停板幅度的通知",
-          "url": "https://wallstreetcn.com/livenews/3026665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时25分]"
-        },
-        {
           "title": "A股机器人概念股涨势扩大，香山股份、浙江荣泰午后涨停，昊志机电、锋龙股份、方正电机、万向钱潮、巨轮智能等十余股此前封板，力星股份、埃夫特、三协电机、拓斯达涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3026564",
           "source": "华尔街见闻-快讯",
@@ -971,17 +987,6 @@
           "time_info": "01时20分"
         },
         {
-          "title": "贵金属集体回调！黄金失守4500，钯期货跌停，国投白银LOF跌10%触及跌停",
-          "url": "https://wallstreetcn.com/articles/3762049",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
           "title": "国债期货走弱，30年期主力合约盘中跌0.20%，10年期跌0.01%，5年期跌0.04%，2年期跌0.01%。",
           "url": "https://flash.jin10.com/detail/20251225145413927800",
           "source": "金十数据",
@@ -1024,6 +1029,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "金十图示：2025年12月25日（周四）全球股市指数-亚太市场",
+          "url": "https://flash.jin10.com/detail/20251225180207161800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "日经225指数早盘收盘涨0.01%，日本东证指数早盘收涨0.2%。",
@@ -1315,8 +1331,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时50分 ~ 18时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时50分 ~ 19时20分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -1339,11 +1355,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时29分 ~ 18时25分]"
+          "appearance_count": 7,
+          "time_info": "[11时29分 ~ 19时20分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -1475,7 +1492,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
@@ -1525,6 +1542,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "金十图示：2025年12月25日（周四）上海金早盘价为1002.46元/克，较国际金价(1008.23元/克)，低5.77元/克",
