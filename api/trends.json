@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T02:33:14.271020+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2025-12-26T03:18:56.008523+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "贵金属集体回调！黄金失守4500，钯期货跌停，国投白银LOF跌10%触及跌停",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时18分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -26,19 +26,42 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时18分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
           "url": "https://wallstreetcn.com/livenews/3026815",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时18分]"
+        },
+        {
+          "title": "沪银收涨5.50%，报18131元人民币/公斤。 沪金夜盘收涨1.07%。 上期所原油期货2502合约夜盘收涨0.38%，报447.00元人民币/桶。",
+          "url": "https://wallstreetcn.com/livenews/3026821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "03时18分"
+        },
+        {
+          "title": "特朗普政府节假日严查阿富汗移民 要求于圣诞节与元旦报到",
+          "url": "https://flash.jin10.com/detail/20251226025244857800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月26日 周五",
@@ -47,11 +70,12 @@
           "ranks": [
             1,
             12,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时18分]"
         },
         {
           "title": "埃及央行降息100个基点，为2025年第五次宽松",
@@ -60,11 +84,12 @@
           "ranks": [
             3,
             8,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时18分]"
         },
         {
           "title": "比特币短线从87800美元附近拉升至接近88600美元的水平，刷新日高，日内当前涨约1%。",
@@ -73,11 +98,12 @@
           "ranks": [
             4,
             9,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时18分]"
         },
         {
           "title": "内盘期货夜市涨跌各异，菜粕、燃油至少涨超1.8%，双焦至少跌超1.7%",
@@ -86,11 +112,12 @@
           "ranks": [
             12,
             18,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时18分]"
         },
         {
           "title": "离岸人民币汇率升破7",
@@ -98,11 +125,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 03时18分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
@@ -110,11 +138,24 @@
           "source": "金十数据",
           "ranks": [
             10,
-            21
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时18分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
+          "url": "https://flash.jin10.com/detail/20251226013420505800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时33分]"
+          "time_info": "[02时33分 ~ 03时18分]"
         },
         {
           "title": "截至23:00收盘，国内期货主力合约多数上涨，燃料油、菜粕涨近2%，PX、PTA涨超1.5%。跌幅方面，焦煤、焦炭、液化石油气（LPG）、玻璃跌超1%。",
@@ -141,15 +182,15 @@
           "time_info": "[00时29分 ~ 01时20分]"
         },
         {
-          "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
-          "url": "https://flash.jin10.com/detail/20251226013420505800",
-          "source": "金十数据",
+          "title": "巫师盘点年度财经大事",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%AB%E5%B8%88%E7%9B%98%E7%82%B9%E5%B9%B4%E5%BA%A6%E8%B4%A2%E7%BB%8F%E5%A4%A7%E4%BA%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "03时18分"
         },
         {
           "title": "人民币汇率破7对房价股市有何影响",
@@ -199,8 +240,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时18分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -209,11 +250,12 @@
           "ranks": [
             15,
             21,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时18分]"
         }
       ]
     },
@@ -229,8 +271,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时18分]"
         }
       ]
     },
@@ -246,8 +288,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时18分]"
         }
       ]
     },
@@ -264,8 +306,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时18分]"
         }
       ]
     }
