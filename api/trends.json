@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T09:51:13.960036+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2025-12-25T11:29:28.550814+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 57,
+      "match_count": 64,
       "titles": [
         {
           "title": "贝森特暗示美联储未来方向：通胀“区间制”，取消“点阵图”，支持财政部，回归“幕后”",
@@ -52,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 09时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 11时29分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -87,8 +87,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 11时29分]"
         },
         {
           "title": "上期所原油期货2502合约夜盘收跌0.02%，报442.50元人民币/桶。 沪金夜盘收跌0.23%，沪银收涨1.54%。",
@@ -103,6 +103,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时34分 ~ 05时21分]"
+        },
+        {
+          "title": "Clocktower王凯文：白银是当前最高确信度交易，如果美联储“敢”在通胀下降息，那么白银“天上见” | Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761998",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时22分 ~ 11时29分]"
         },
         {
           "title": "周三（12月24日），降息赢家指数涨0.60%，报100.35点。 “特朗普关税输家”指数涨0.41%，散户抱团概念股指数/迷因股（meme stock）指数跌0.43%。",
@@ -125,7 +138,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -147,7 +160,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -163,6 +176,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "越南股指VN指数日内涨幅扩大至1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3026486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
           "title": "美联储明年1月维持利率不变的概率为84.5%",
           "url": "https://flash.jin10.com/detail/20251225061311082800",
           "source": "金十数据",
@@ -172,17 +196,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "A股商业航天概念延续强势，神剑股份6连板，九鼎新材3连板，广联航空、天奥电子涨停，超捷股份、上海港湾、中国卫星等涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3026430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
         },
         {
           "title": "金十图示：2025年12月25日（周四）全球股市指数-美洲市场（收盘）",
@@ -197,18 +210,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时34分 ~ 05时21分]"
-        },
-        {
-          "title": "Clocktower王凯文：白银是当前最高确信度交易，如果美联储“敢”在通胀下降息，那么白银“天上见” | Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761998",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时22分 ~ 09时51分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌0.49%，暂报3502.35点，整体呈现出U形走势。 MarketVector数字资产100指数跌0.88%，暂报17850.20点。",
@@ -343,6 +344,18 @@
           "time_info": "[02时34分 ~ 05时21分]"
         },
         {
+          "title": "A股商业航天概念延续强势，神剑股份6连板，九鼎新材3连板，广联航空、天奥电子涨停，超捷股份、上海港湾、中国卫星等涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3026430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时29分]"
+        },
+        {
           "title": "周三（12月24日），彭博电动汽车价格回报指数涨0.65%，报3485.54点。",
           "url": "https://wallstreetcn.com/livenews/3026310",
           "source": "华尔街见闻-快讯",
@@ -384,6 +397,30 @@
           "time_info": "[03时18分 ~ 07时22分]"
         },
         {
+          "title": "央行四季度例会：继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度",
+          "url": "https://wallstreetcn.com/articles/3762015",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 11时29分]"
+        },
+        {
+          "title": "突发！20CM涨停商业航天概念股近日遭控股股东减持97.44万股|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2239312",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 11时29分]"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的48.03亿美元。",
           "url": "https://flash.jin10.com/detail/20251225021645625800",
           "source": "金十数据",
@@ -410,26 +447,52 @@
           "time_info": "[03时18分 ~ 05时21分]"
         },
         {
-          "title": "央行四季度例会：继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度",
-          "url": "https://wallstreetcn.com/articles/3762015",
-          "source": "华尔街见闻",
+          "title": "国债期货开盘，30年期主力合约涨0.12%，10年期主力合约跌0.00%，5年期主力合约跌0.01%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3026428",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            6,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "time_info": "[09时51分 ~ 11时29分]"
         },
         {
-          "title": "突发！20CM涨停商业航天概念股近日遭控股股东减持97.44万股|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2239312",
-          "source": "财联社热门",
+          "title": "中证转债指数低开0.03%。北港转债、联创转债涨超4%，崧盛转债、嘉美转债、集智转债涨超3%；欧通转债跌超3%，金钟转债、大中转债跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3026426",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            7,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "time_info": "[09时51分 ~ 11时29分]"
+        },
+        {
+          "title": "上证指数开盘报3937.72点，跌0.08%。 深证成指开盘报13472.70点，跌0.10%。 创业板指开盘报3232.97点，涨0.11%。 沪深300开盘报4629.32点，跌0.10%。 科创50开盘报1347.78点，跌0.32%。 中证500开盘报7341.92点，跌0.14%。 中证1000开盘报7507.30点，涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3026424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时29分]"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251225084635956800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时29分]"
         },
         {
           "title": "标普500指数创盘中历史新高，目前涨0.16%，报6921.02点，突破10月29日顶部6920.34点。",
@@ -478,28 +541,6 @@
           "time_info": "07时22分"
         },
         {
-          "title": "国债期货开盘，30年期主力合约涨0.12%，10年期主力合约跌0.00%，5年期主力合约跌0.01%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3026428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "中证转债指数低开0.03%。北港转债、联创转债涨超4%，崧盛转债、嘉美转债、集智转债涨超3%；欧通转债跌超3%，金钟转债、大中转债跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3026426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
           "title": "欧洲STOXX 600指数初步收跌0.02%，报588.61点。 欧元区STOXX 50指数初步收跌0.05%，报5746.24点。 富时泛欧绩优300指数初步收跌0.04%，报2345.85点。 法国CAC 40指数收跌不到0.01%，报8103.58点。 英国富时100指数收跌0.19%，报9870.68点，富时250指数收跌0.16%，富时350指数收跌0.18%。 荷兰AEX指数收跌0.09%。 德国、意大利、希腊、丹麦股市休市。",
           "url": "https://wallstreetcn.com/livenews/3026288",
           "source": "华尔街见闻-快讯",
@@ -511,24 +552,13 @@
           "time_info": "01时20分"
         },
         {
-          "title": "上证指数开盘报3937.72点，跌0.08%。 深证成指开盘报13472.70点，跌0.10%。 创业板指开盘报3232.97点，涨0.11%。 沪深300开盘报4629.32点，跌0.10%。 科创50开盘报1347.78点，跌0.32%。 中证500开盘报7341.92点，跌0.14%。 中证1000开盘报7507.30点，涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3026424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
           "title": "钯期货触及跌停，为上市以来第一次跌停",
           "url": "https://flash.jin10.com/detail/20251225090556599800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -544,13 +574,35 @@
           "time_info": "02时34分"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251225105408370800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "日经225指数早盘收盘涨0.01%，日本东证指数早盘收涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3026468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-25）",
           "url": "https://flash.jin10.com/detail/20251225090302455800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -561,7 +613,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -572,18 +624,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20251225084635956800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -594,9 +635,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "A股机器人概念股集体走强，巨轮智能直线涨停，泰尔股份、锋龙股份、天奇股份、万向钱潮此前封板，拓斯达大涨超18%，昊志机电涨超12%。",
+          "url": "https://wallstreetcn.com/livenews/3026457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "金十图示：2025年12月25日（周四）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20251225103647534800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         },
         {
           "title": "三家公司同日冲刺A股IPO，合计募资近40亿元",
@@ -616,7 +679,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -632,13 +695,24 @@
           "time_info": "07时22分"
         },
         {
+          "title": "特朗普发表圣诞祝福 不忘自夸政绩",
+          "url": "https://flash.jin10.com/detail/20251225103018828800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
           "title": "日本东证指数转跌，此前一度涨0.4%。",
           "url": "https://wallstreetcn.com/livenews/3026407",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -663,6 +737,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "“特朗普”级战列舰来了",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9D%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         },
         {
           "title": "学者：特朗普锚定“第四处战场”",
@@ -690,8 +775,22 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
+          "url": "https://www.cls.cn/detail/2239383",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时22分 ~ 11时29分]"
+        },
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
           "url": "https://wallstreetcn.com/articles/3761989",
@@ -700,21 +799,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
-          "url": "https://www.cls.cn/detail/2239383",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时22分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 11时29分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -821,6 +907,17 @@
           "time_info": "[00时29分 ~ 01时20分]"
         },
         {
+          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
+          "url": "https://wallstreetcn.com/articles/3762016",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
           "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
           "url": "https://wallstreetcn.com/livenews/3026259",
           "source": "华尔街见闻-快讯",
@@ -846,18 +943,31 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2239423",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 11时29分]"
+        },
+        {
+          "title": "金价狂飙 千元内几乎买不到金饰",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E5%8D%83%E5%85%83%E5%86%85%E5%87%A0%E4%B9%8E%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%87%91%E9%A5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 11时29分]"
         },
         {
           "title": "金价又创历史新高",
@@ -871,15 +981,15 @@
           "time_info": "[09时50分 ~ 09时51分]"
         },
         {
-          "title": "金价狂飙 千元内几乎买不到金饰",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E5%8D%83%E5%85%83%E5%86%85%E5%87%A0%E4%B9%8E%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%87%91%E9%A5%B0",
-          "source": "百度热搜",
+          "title": "金十图示：2025年12月25日（周四）上海金早盘价为1002.46元/克，较国际金价(1008.23元/克)，低5.77元/克",
+          "url": "https://flash.jin10.com/detail/20251225102210297800",
+          "source": "金十数据",
           "ranks": [
-            30
+            22
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         }
       ]
     },
