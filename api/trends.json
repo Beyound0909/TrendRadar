@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T01:20:44.145250+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2025-12-27T02:33:22.745078+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时33分]"
         },
         {
           "title": "央行报告：着力健全有利于“长钱长投”的制度政策环境 显著提高各类中长期资金实际投资A股的规模和比例",
@@ -26,53 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
-        },
-        {
-          "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
-          "url": "https://flash.jin10.com/detail/20251227010749216800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时33分]"
         },
         {
           "title": "沪银期货主力合约日内涨幅扩大至5%，续创新高。",
           "url": "https://wallstreetcn.com/livenews/3027425",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "据AXIOS网站：乌克兰总统泽连斯基“准备”就美国总统特朗普的停火计划举行公投。",
-          "url": "https://flash.jin10.com/detail/20251227010459037800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "Monex Inc.外汇交易员Andrew Hazlett：本周流动性薄弱，这对本已处于相对弱势的美元并无帮助。 展望未来，我们的重点将放在通胀数据上，以此作为美联储下次降息的指引。",
-          "url": "https://wallstreetcn.com/livenews/3027412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
+            1,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "time_info": "[01时20分 ~ 02时33分]"
         },
         {
           "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
@@ -82,8 +49,45 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时33分]"
+        },
+        {
+          "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
+          "url": "https://flash.jin10.com/detail/20251227010749216800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时33分]"
+        },
+        {
+          "title": "Monex Inc.外汇交易员Andrew Hazlett：本周流动性薄弱，这对本已处于相对弱势的美元并无帮助。 展望未来，我们的重点将放在通胀数据上，以此作为美联储下次降息的指引。",
+          "url": "https://wallstreetcn.com/livenews/3027412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "time_info": "[00时28分 ~ 02时33分]"
+        },
+        {
+          "title": "据AXIOS网站：乌克兰总统泽连斯基“准备”就美国总统特朗普的停火计划举行公投。",
+          "url": "https://flash.jin10.com/detail/20251227010459037800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时33分]"
         },
         {
           "title": "A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，国投白银LOF再次跌停，商业航天活跃，算力硬件领跌",
@@ -93,8 +97,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时33分]"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌1.74%，暂报3478.23点，北京时间08:49曾跌至3440.26点。 MarketVector数字资产100指数跌1.39%，暂报17739.79点，一度短线跳水——23:15刷新日低至17686.04点。",
+          "url": "https://wallstreetcn.com/livenews/3027420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时33分]"
+        },
+        {
+          "title": "俄罗斯副外长Ryabkov：在（俄罗斯总统普京与美国总统特朗普）达成的Ankorage Agreements（安克雷奇协议）之外，不可能达成其他协议。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3027414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时33分]"
         },
         {
           "title": "纳斯达克金龙中国指数短线拉升，涨幅扩大至0.8%。热门中概股小鹏涨7.5%，理想涨3.1%，蔚来涨3.2%，拼多多涨2.1%，阿里巴巴涨1.7%。",
@@ -133,26 +161,15 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
-          "title": "最近24小时，MarketVector数字资产100小盘指数跌1.74%，暂报3478.23点，北京时间08:49曾跌至3440.26点。 MarketVector数字资产100指数跌1.39%，暂报17739.79点，一度短线跳水——23:15刷新日低至17686.04点。",
-          "url": "https://wallstreetcn.com/livenews/3027420",
+          "title": "沪银期货主力合约日内涨幅扩大至5%，报19030元/千克，续创新高。",
+          "url": "https://wallstreetcn.com/livenews/3027432",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "俄罗斯副外长Ryabkov：在（俄罗斯总统普京与美国总统特朗普）达成的Ankorage Agreements（安克雷奇协议）之外，不可能达成其他协议。（塔斯社）",
-          "url": "https://wallstreetcn.com/livenews/3027414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时33分"
         },
         {
           "title": "内盘期货夜市多数收涨，PVC涨约1.7%，铁矿石涨约1%，焦煤涨超0.8%，对二甲苯跌约2.7%",
@@ -246,8 +263,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时33分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -257,8 +274,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时33分]"
         },
         {
           "title": "标普500续创新高 “圣诞老人行情”预期支撑美股",
@@ -321,8 +338,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时33分]"
         }
       ]
     }
