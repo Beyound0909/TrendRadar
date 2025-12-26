@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T11:27:44.829708+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2025-12-26T12:37:23.738469+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 61,
+      "match_count": 71,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -277,6 +277,19 @@
           "time_info": "[00时29分 ~ 04时26分]"
         },
         {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时37分]"
+        },
+        {
           "title": "光大证券策略首席分析师：政策、产业、资金“三重共振”，2026年A股市场将依然乐观。",
           "url": "https://wallstreetcn.com/livenews/3026846",
           "source": "华尔街见闻-快讯",
@@ -303,16 +316,41 @@
           "time_info": "[01时20分 ~ 04时26分]"
         },
         {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
+          "title": "美联储独立性担忧缓解 分析称鲍威尔卸任后或彻底离场",
+          "url": "https://www.cls.cn/detail/2240387",
+          "source": "财联社热门",
           "ranks": [
+            10,
             9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时37分]"
+        },
+        {
+          "title": "巫师盘点年度财经大事",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%AB%E5%B8%88%E7%9B%98%E7%82%B9%E5%B9%B4%E5%BA%A6%E8%B4%A2%E7%BB%8F%E5%A4%A7%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 12时37分]"
+        },
+        {
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
+          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时27分]"
+          "time_info": "[11时27分 ~ 12时37分]"
         },
         {
           "title": "今年以来A股市场定增融资超7800亿元",
@@ -327,16 +365,16 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
-          "title": "美联储独立性担忧缓解 分析称鲍威尔卸任后或彻底离场",
-          "url": "https://www.cls.cn/detail/2240387",
-          "source": "财联社热门",
+          "title": "A股大金融板块震荡走强，海联金汇涨停，中银证券冲击涨停，兴业证券涨超6%，指南针、国盛证券、东方财富等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3026995",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            9
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时27分]"
+          "time_info": "[11时27分 ~ 12时37分]"
         },
         {
           "title": "如何看待人民币汇率破7",
@@ -349,6 +387,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时50分 ~ 11时27分]"
+        },
+        {
+          "title": "比特币在币安闪崩数秒反弹",
+          "url": "https://www.toutiao.com/trending/7587314062792491051/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时37分]"
         },
         {
           "title": "截至23:00收盘，国内期货主力合约多数上涨，燃料油、菜粕涨近2%，PX、PTA涨超1.5%。跌幅方面，焦煤、焦炭、液化石油气（LPG）、玻璃跌超1%。",
@@ -375,29 +425,6 @@
           "time_info": "[00时29分 ~ 01时20分]"
         },
         {
-          "title": "巫师盘点年度财经大事",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%AB%E5%B8%88%E7%9B%98%E7%82%B9%E5%B9%B4%E5%BA%A6%E8%B4%A2%E7%BB%8F%E5%A4%A7%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 11时27分]"
-        },
-        {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
           "title": "国债期货开盘，30年期主力合约跌0.01%，10年期主力合约涨0.00%，5年期主力合约涨0.02%，2年期主力合约跌0.00%。",
           "url": "https://wallstreetcn.com/livenews/3026933",
           "source": "华尔街见闻-快讯",
@@ -415,7 +442,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -453,6 +480,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "A股跳水",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%B7%B3%E6%B0%B4&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
           "title": "碳酸锂期货强势突破13万关口",
           "url": "https://flash.jin10.com/detail/20251226091537045800",
           "source": "金十数据",
@@ -475,26 +513,15 @@
           "time_info": "09时50分"
         },
         {
-          "title": "A股大金融板块震荡走强，海联金汇涨停，中银证券冲击涨停，兴业证券涨超6%，指南针、国盛证券、东方财富等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3026995",
-          "source": "华尔街见闻-快讯",
+          "title": "印度Sensex指数低开0.2%，报85225.28点。",
+          "url": "https://flash.jin10.com/detail/20251226114240188800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "比特币在币安闪崩数秒反弹",
-          "url": "https://www.toutiao.com/trending/7587314062792491051/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "12时37分"
         },
         {
           "title": "金银亚盘暴力拉升，现货白银一度上破75美元/盎司；特朗普宣称美军打击尼日利亚ISIS恐怖分子，此前曾警告美国将“火力全开”进入尼日利亚……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -503,9 +530,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "上证指数早盘收报3952.09点，跌0.19%。 深证成指早盘收报13554.07点，涨0.17%。 创业板指早盘收报3234.63点，跌0.15%。 沪深300早盘收报4643.95点，涨0.03%。 科创50早盘收报1342.12点，跌0.51%。 中证500早盘收报7415.97点，涨0.07%。 中证1000早盘收报7570.90点，跌0.11%。",
+          "url": "https://wallstreetcn.com/livenews/3027020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "2025年度财经热点盘点",
@@ -525,9 +563,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "金十图示：2025年12月26日（周五）富时中国A50指数成分股午盘收盘行情一览：银行板块多数走低，光伏设备、小金属板块大幅上扬",
+          "url": "https://flash.jin10.com/detail/20251226113331913800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "12月26日午间收评：三大指数集体冲高回落，全市场下跌个股近4000只",
+          "url": "https://wallstreetcn.com/livenews/3027019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "美联储明年1月维持利率不变的概率为84.5%",
@@ -539,6 +599,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251226113122193800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.33%，10年期主力合约涨0.09%，5年期主力合约涨0.06%，2年期主力合约涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3027017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251226113114287800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "碳酸锂期货主力合约涨超8%，突破13万元关口，创2023年11月以来新高。",
@@ -558,9 +651,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。铂涨超8%，碳酸锂、沪银涨超6%，氧化铝涨超4%，国际铜、沪铜涨超3%，菜粕涨近3%。跌幅方面，焦煤、焦炭跌超2%，甲醇、螺纹钢跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251226113036498800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "路透：力拓将更换2026年初的铁矿石定价指数",
@@ -569,9 +673,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "A股三大指数集体跳水翻绿。",
+          "url": "https://wallstreetcn.com/livenews/3027015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-26）",
@@ -591,7 +706,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -624,7 +739,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -646,7 +761,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -731,7 +846,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -772,19 +887,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时37分]"
         },
         {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3026999",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时37分]"
+        },
+        {
+          "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
+          "url": "https://flash.jin10.com/detail/20251226112935984800",
+          "source": "金十数据",
+          "ranks": [
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "12时37分"
         },
         {
           "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
@@ -796,6 +923,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时22分]"
+        },
+        {
+          "title": "美股今日正常开市，欧洲股市继续休市",
+          "url": "https://flash.jin10.com/detail/20251226112952955800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         }
       ]
     },
@@ -813,8 +969,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 11时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 12时37分]"
         }
       ]
     },
@@ -828,24 +984,6 @@
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
-          "url": "https://wallstreetcn.com/articles/3761989",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
           ],
           "is_new": false,
           "appearance_count": 10,
