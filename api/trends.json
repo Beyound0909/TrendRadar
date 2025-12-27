@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-27T07:22:36.315916+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2025-12-27T09:48:23.785621+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "央行报告：着力健全有利于“长钱长投”的制度政策环境 显著提高各类中长期资金实际投资A股的规模和比例",
+          "url": "https://www.cls.cn/detail/2241471",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时48分]"
+        },
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
           "url": "https://wallstreetcn.com/articles/3762107",
@@ -19,15 +30,16 @@
           "time_info": "[00时27分 ~ 07时22分]"
         },
         {
-          "title": "央行报告：着力健全有利于“长钱长投”的制度政策环境 显著提高各类中长期资金实际投资A股的规模和比例",
-          "url": "https://www.cls.cn/detail/2241471",
-          "source": "财联社热门",
+          "title": "A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，国投白银LOF再次跌停，商业航天活跃，算力硬件领跌",
+          "url": "https://wallstreetcn.com/articles/3762115",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时48分]"
         },
         {
           "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
@@ -35,17 +47,6 @@
           "source": "凤凰网",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时22分]"
-        },
-        {
-          "title": "A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，国投白银LOF再次跌停，商业航天活跃，算力硬件领跌",
-          "url": "https://wallstreetcn.com/articles/3762115",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -89,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
+          "url": "https://news.ifeng.com/c/8pQ4NhlD6Ve",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.2%，本周累涨约0.6%。 热门中概股里，小鹏初步收涨6.2%，蔚来涨4.1%，理想涨3.9%，小米涨2.1%，阿里巴巴涨1.4%。",
@@ -339,13 +351,24 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
+          "title": "特朗普：“未经我批准，泽连斯基一无所有”",
+          "url": "https://flash.jin10.com/detail/20251227085451542800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "周五（12月26日），明晟公司MSCI发展中国家股票指数收涨0.4%，科技板块领跑；2025年迄今，该指数已经累计上涨30%，有望创2017年以来最佳年度表现。 MSCI新兴市场外汇指数创9月中旬以来新高，（南美）哥伦比亚比索、（东欧）匈牙利福林领跑，巴西雷亚尔则一度跌0.5%——受到与大选相关的政治局势的拖累。",
           "url": "https://wallstreetcn.com/livenews/3027480",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -356,7 +379,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -370,6 +393,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "金十图示：2025年12月27日（周六）全球股市指数-美洲市场",
+          "url": "https://flash.jin10.com/detail/20251227092933662800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "金十图示：2025年12月26日（周五）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20251227092801571800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "报道：特朗普声称，在他批准之前，泽连斯基“什么都没有”",
@@ -463,7 +508,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -488,8 +533,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时48分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
@@ -504,15 +549,15 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
-          "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3027489",
-          "source": "华尔街见闻-快讯",
+          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
+          "url": "https://wallstreetcn.com/articles/3762133",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "09时48分"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
@@ -526,6 +571,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 07时22分]"
+        },
+        {
+          "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3027489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时48分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.45%，报363.21点，时隔一个交易日再创收盘历史新高，本周累计上涨4.43%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.04%，报2572.35点，也时隔一天再创收盘历史新高，本周累涨4.53%，周一美股开盘时“跳空”走高，后续持续高位震荡。",
@@ -574,6 +631,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
+          "url": "https://www.zhihu.com/question/1988017332140864055",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "金十图示：2025年12月26日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251227092537529800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "金十图示：2025年12月26日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251227092511152800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "黄金ETF收涨将近1.2%，领跑美股大类资产类ETF，今年已涨超72%",
+          "url": "https://wallstreetcn.com/livenews/3027493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "韩国电商Coupang美股盘初涨11%，创5月7日以来最佳盘中表现。",
