@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T18:23:58.675308+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2025-12-27T19:19:27.989348+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "央行报告：着力健全有利于“长钱长投”的制度政策环境 显著提高各类中长期资金实际投资A股的规模和比例",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时27分 ~ 18时23分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 19时19分]"
         },
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -54,11 +55,12 @@
             7,
             13,
             18,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 18时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 19时19分]"
         },
         {
           "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
@@ -82,6 +84,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时48分 ~ 12时35分]"
+        },
+        {
+          "title": "年内近40家上市公司分红超百亿 股息率居前A股名单一览",
+          "url": "https://www.cls.cn/detail/2241723",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 19时19分]"
         },
         {
           "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
@@ -112,18 +127,6 @@
           "time_info": "[01时20分 ~ 07时22分]"
         },
         {
-          "title": "年内近40家上市公司分红超百亿 股息率居前A股名单一览",
-          "url": "https://www.cls.cn/detail/2241723",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 18时23分]"
-        },
-        {
           "title": "特朗普：未经我批准 泽连斯基一无所有",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E7%BB%8F%E6%88%91%E6%89%B9%E5%87%86+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%80%E6%97%A0%E6%89%80%E6%9C%89",
           "source": "百度热搜",
@@ -134,8 +137,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时34分 ~ 18时23分]"
+          "appearance_count": 8,
+          "time_info": "[14时34分 ~ 19时19分]"
         },
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -146,8 +149,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时30分 ~ 18时23分]"
+          "appearance_count": 5,
+          "time_info": "[16时30分 ~ 19时19分]"
         },
         {
           "title": "WTI 2月原油期货收跌1.61美元，跌幅2.76%，报56.74美元/桶。 NYMEX 1月天然气期货收报4.3660美元/百万英热单位。 NYMEX 1月汽油期货收报1.6971美元/加仑，NYMEX 1月取暖油期货收报2.1070美元/加仑。",
@@ -159,6 +162,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
+          "url": "https://wallstreetcn.com/articles/3762159",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 19时19分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：正乘飞机前往美国会见美国总统特朗普，途中将先在加拿大停留，会见加拿大总理卡尼。",
+          "url": "https://flash.jin10.com/detail/20251227184915067800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.2%，本周累涨约0.6%。 热门中概股里，小鹏初步收涨6.2%，蔚来涨4.1%，理想涨3.9%，小米涨2.1%，阿里巴巴涨1.4%。",
@@ -237,18 +263,6 @@
           "time_info": "[13时24分 ~ 16时31分]"
         },
         {
-          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
-          "url": "https://wallstreetcn.com/articles/3762159",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 18时23分]"
-        },
-        {
           "title": "周五（12月26日），彭博电动汽车价格回报指数涨0.34%，报3502.38点，本周（连续五个交易日）累涨1.98%，整体持续走高。",
           "url": "https://wallstreetcn.com/livenews/3027464",
           "source": "华尔街见闻-快讯",
@@ -260,6 +274,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 07时22分]"
+        },
+        {
+          "title": "6000万买基金亏81% A股公司紧急报警",
+          "url": "https://www.baidu.com/s?wd=6000%E4%B8%87%E4%B9%B0%E5%9F%BA%E9%87%91%E4%BA%8F81%25+A%E8%82%A1%E5%85%AC%E5%8F%B8%E7%B4%A7%E6%80%A5%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时19分]"
         },
         {
           "title": "周五（12月26日）纽约尾盘，标普500股指期货最终跌0.02%，道指期货跌0.11%，纳斯达克100股指期货微涨不到0.01%。 罗素2000股指期货跌0.48%。",
@@ -405,6 +431,17 @@
           "time_info": "[01时20分 ~ 03时18分]"
         },
         {
+          "title": "美军圣诞节突袭尼日利亚，特朗普政府有何考量？",
+          "url": "https://news.ifeng.com/c/8pQfSUcW5fL",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时19分]"
+        },
+        {
           "title": "周五（12月26日），降息赢家指数涨0.03%，报100.38点，本周累计上涨0.45%。 “特朗普关税输家”指数涨0.48%，报112.72点，本周累跌跌0.18%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.85%，报16.03点，本周累跌4.89%。",
           "url": "https://wallstreetcn.com/livenews/3027470",
           "source": "华尔街见闻-快讯",
@@ -489,6 +526,18 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
+          "title": "老人存167万消失突发脑梗后离世",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%AD%98167%E4%B8%87%E6%B6%88%E5%A4%B1%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%90%8E%E7%A6%BB%E4%B8%96%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时19分]"
+        },
+        {
           "title": "泽连斯基将与特朗普会晤",
           "url": "https://www.toutiao.com/trending/7588308891545649194/",
           "source": "今日头条",
@@ -498,17 +547,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时34分 ~ 12时35分]"
-        },
-        {
-          "title": "美军圣诞节突袭尼日利亚，特朗普政府有何考量？",
-          "url": "https://news.ifeng.com/c/8pQfSUcW5fL",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "特朗普：“未经我批准，泽连斯基一无所有”",
@@ -542,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-27）",
+          "url": "https://flash.jin10.com/detail/20251227180421799800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "美国总统特朗普：认为与乌克兰总统泽连斯基的会谈将是“不错的”。 将在周末于海湖庄园接见泽连斯基和以色列总理内塔尼亚胡。 泽连斯基的任何提议都需要我的批准。 预计很快将与俄罗斯总统普京对话。（Politico）",
@@ -610,17 +659,6 @@
           "time_info": "00时28分"
         },
         {
-          "title": "6000万买基金亏81% A股公司紧急报警",
-          "url": "https://www.baidu.com/s?wd=6000%E4%B8%87%E4%B9%B0%E5%9F%BA%E9%87%91%E4%BA%8F81%25+A%E8%82%A1%E5%85%AC%E5%8F%B8%E7%B4%A7%E6%80%A5%E6%8A%A5%E8%AD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
           "title": "金十图示：2025年12月26日（周五）全球股市指数-美洲市场（盘初）",
           "url": "https://flash.jin10.com/detail/20251226230057493800",
           "source": "金十数据",
@@ -630,17 +668,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "老人存167万消失突发脑梗后离世",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%AD%98167%E4%B8%87%E6%B6%88%E5%A4%B1%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%90%8E%E7%A6%BB%E4%B8%96%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "截至23:00收盘，国内期货主力合约多数上涨。聚氯乙烯（PVC）、聚氯乙烯（PVC）月均价、塑料、烧碱、苯乙烯（EB）、丁二烯橡胶、玉米涨超1%。跌幅方面，PX、PTA跌超2%，瓶片、短纤跌超1%。",
@@ -700,8 +727,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时48分 ~ 18时23分]"
+          "appearance_count": 15,
+          "time_info": "[09时48分 ~ 19时19分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -712,8 +739,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时48分 ~ 18时23分]"
+          "appearance_count": 15,
+          "time_info": "[09时48分 ~ 19时19分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -729,20 +756,6 @@
           "time_info": "[00时27分 ~ 05时20分]"
         },
         {
-          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
-          "url": "https://www.cls.cn/detail/2241688",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时48分 ~ 18时23分]"
-        },
-        {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
           "url": "https://www.cls.cn/detail/2241565",
           "source": "财联社热门",
@@ -756,6 +769,21 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时27分 ~ 18时23分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时48分 ~ 19时19分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
