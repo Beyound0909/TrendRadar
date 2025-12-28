@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T12:47:15.866948+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2025-12-28T13:27:14.693902+08:00",
+  "total_titles_processed": 727,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "年内近40家上市公司分红超百亿 股息率居前A股名单一览",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 12时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 13时27分]"
         },
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -100,6 +100,18 @@
           "time_info": "[00时28分 ~ 10时01分]"
         },
         {
+          "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
+          "url": "https://www.cls.cn/detail/2241760",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 13时27分]"
+        },
+        {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
           "url": "https://wallstreetcn.com/articles/3762159",
           "source": "华尔街见闻",
@@ -111,16 +123,28 @@
           "time_info": "[00时27分 ~ 03时18分]"
         },
         {
-          "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
-          "url": "https://www.cls.cn/detail/2241760",
+          "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2241788",
           "source": "财联社热门",
           "ranks": [
+            11,
             7,
-            2
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 12时47分]"
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 13时27分]"
+        },
+        {
+          "title": "12 月 27 日四川成都多地反映突发巨响，并伴随明显震动感，可能是什么原因造成巨响？",
+          "url": "https://www.zhihu.com/question/1988333997147779695",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 13时27分]"
         },
         {
           "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
@@ -147,27 +171,39 @@
           "time_info": "[10时01分 ~ 11时54分]"
         },
         {
-          "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2241788",
-          "source": "财联社热门",
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 12时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 13时27分]"
         },
         {
-          "title": "12 月 27 日四川成都多地反映突发巨响，并伴随明显震动感，可能是什么原因造成巨响？",
-          "url": "https://www.zhihu.com/question/1988333997147779695",
-          "source": "知乎",
+          "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2241810",
+          "source": "财联社热门",
           "ranks": [
-            11
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 13时27分]"
+        },
+        {
+          "title": "特朗普与泽连斯基会晤时间有所调整",
+          "url": "https://flash.jin10.com/detail/20251228094750696800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            15,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时54分 ~ 12时47分]"
+          "time_info": "[11时54分 ~ 13时27分]"
         },
         {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
@@ -182,38 +218,15 @@
           "time_info": "[10时01分 ~ 11时54分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
+          "title": "特朗普为美国带来了什么改变",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88%E6%94%B9%E5%8F%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
-          "url": "https://www.cls.cn/detail/2241810",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "特朗普与泽连斯基会晤时间有所调整",
-          "url": "https://flash.jin10.com/detail/20251228094750696800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时47分]"
+          "time_info": "[13时26分 ~ 13时27分]"
         },
         {
           "title": "回顾2025全球热点事件",
@@ -260,11 +273,12 @@
           "source": "金十数据",
           "ranks": [
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时27分]"
         }
       ]
     },
