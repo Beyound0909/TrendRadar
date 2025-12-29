@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T07:28:34.703374+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2025-12-29T09:59:42.122263+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 64,
+      "match_count": 87,
       "titles": [
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3762120",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时59分]"
         },
         {
           "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
@@ -52,6 +53,19 @@
           "time_info": "[00时28分 ~ 07时28分]"
         },
         {
+          "title": "总要相信点什么——财经记者的2025年度脱口秀",
+          "url": "https://www.cls.cn/detail/2242163",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时59分]"
+        },
+        {
           "title": "年内近40家上市公司分红超百亿 股息率居前A股名单一览",
           "url": "https://www.cls.cn/detail/2241723",
           "source": "财联社热门",
@@ -67,18 +81,6 @@
           "url": "https://wallstreetcn.com/articles/3762196",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时28分]"
-        },
-        {
-          "title": "总要相信点什么——财经记者的2025年度脱口秀",
-          "url": "https://www.cls.cn/detail/2242163",
-          "source": "财联社热门",
-          "ranks": [
-            10,
             9
           ],
           "is_new": false,
@@ -277,9 +279,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "特朗普：不排除亲自前往乌克兰",
+          "url": "https://news.ifeng.com/c/8pTDPPdlvje",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "特朗普称俄乌“接近达成协议”，不排除三方会晤",
@@ -288,7 +301,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -321,6 +334,28 @@
           "time_info": "[00时28分 ~ 05时21分]"
         },
         {
+          "title": "30年期国债期货（TL）主力合约日内跌超0.90%，现报111.83元。",
+          "url": "https://flash.jin10.com/detail/20251229094512150800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "A股脑机接口板块持续走强，翔宇医疗涨近10%，三博脑科涨超8%，创新医疗涨超7%，美好医疗、爱朋医疗跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3027807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "美国总统特朗普在与乌克兰总统泽连斯基会面之前表示：已经与俄罗斯总统普京进行富有成效的对话。",
           "url": "https://wallstreetcn.com/livenews/3027681",
           "source": "华尔街见闻-快讯",
@@ -342,9 +377,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "台湾加权指数涨0.5%，创下28,708.64点的历史新高。",
+          "url": "https://flash.jin10.com/detail/20251229094222112800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "特朗普与普京通话：均认为临时停火只会延长俄乌冲突",
@@ -353,7 +399,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -364,9 +410,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至2%，恒指涨1%。新能源汽车股走强，蔚来涨超6%，小鹏汽车涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3027800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美银CEO：预计明年特朗普政府将缓和关税局势",
@@ -431,6 +488,18 @@
           "time_info": "[04时26分 ~ 07时28分]"
         },
         {
+          "title": "特朗普称俄乌“接近达成协议”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BF%84%E4%B9%8C%E2%80%9C%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 09时59分]"
+        },
+        {
           "title": "特朗普见泽连斯基前先与普京通话",
           "url": "https://flash.jin10.com/detail/20251229041258772800",
           "source": "金十数据",
@@ -466,17 +535,6 @@
           "time_info": "00时28分"
         },
         {
-          "title": "特朗普称俄乌“接近达成协议”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BF%84%E4%B9%8C%E2%80%9C%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
           "title": "唐宁街发言人：英国首相斯塔默今晚与美国总统特朗普、乌克兰总统泽连斯基以及欧洲领导人进行了通话。讨论重点是为乌克兰和平所做的努力，各国领导人称赞美国总统特朗普迄今取得的进展。",
           "url": "https://flash.jin10.com/detail/20251229060208978800",
           "source": "金十数据",
@@ -494,7 +552,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -516,9 +574,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "国债期货跌幅扩大，30年期主力合约盘中一度跌超0.7%，10年期主力合约跌超0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3027796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美国总统特朗普：俄罗斯想要结束这场战争。",
@@ -543,15 +612,70 @@
           "time_info": "06时22分"
         },
         {
+          "title": "30年期国债期货（TL）主力合约日内跌超0.50%，现报112.27元。",
+          "url": "https://flash.jin10.com/detail/20251229093313963800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "彻底转向还是观望反弹：金银大涨进一步动摇比特币投资者信心",
+          "url": "https://www.cls.cn/detail/2242065",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251229093127582800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "恒生科技指数涨超1%，零跑汽车涨超6%，小米跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3027788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "特朗普见泽连斯基前后均与普京通话",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%81%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%89%8D%E5%90%8E%E5%9D%87%E4%B8%8E%E6%99%AE%E4%BA%AC%E9%80%9A%E8%AF%9D%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
+          "url": "https://news.ifeng.com/c/8pTKjz1vjXV",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "俄总统特别代表德米特里耶夫：“全世界”都赞赏美国总统特朗普及其团队的和平努力。",
@@ -560,9 +684,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251229093124320800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "特朗普与泽连斯基未谈妥领土问题",
@@ -571,9 +706,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.03%，10年期主力合约跌0.04%，5年期主力合约跌0.02%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3027787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "龙头8连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2242179",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美国总统特朗普：俄乌谈判中有一两个棘手问题。",
@@ -587,6 +744,28 @@
           "time_info": "06时22分"
         },
         {
+          "title": "中证转债指数高开0.07%。天创转债涨20%触发临停，华正转债涨4.5%，银邦转债涨3.55%，春23转债、金诚转债涨超2%；再22转债跌超3%，京源转债、漱玉转债跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3027786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "特朗普与泽连斯基会晤",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%BC%9A%E6%99%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：与特朗普进行了精彩的会谈。",
           "url": "https://flash.jin10.com/detail/20251229055545224800",
           "source": "金十数据",
@@ -596,6 +775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "上证指数开盘报3964.65点，涨0.02%。 深证成指开盘报13604.30点，涨0.00%。 创业板指开盘报3237.77点，跌0.19%。 沪深300开盘报4658.27点，涨0.02%。 科创50开盘报1345.98点，涨0.01%。 中证500开盘报7467.50点，涨0.12%。 中证1000开盘报7606.44点，涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3027784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美国总统特朗普：认为我们正越来越接近达成俄乌协议，与泽连斯基举行了精彩的会晤；已与欧洲领导人通话，进行了非常棒的交流。",
@@ -615,7 +805,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -626,9 +816,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "恒指高开0.43%，报25928.89点；恒生科技指数涨0.88%。小鹏汽车涨超5%，零跑汽车涨超4%，蔚来涨3.8%，比亚迪股份、理想汽车涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3027781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "多因素支撑人民币汇率走强 双向波动仍将是常态",
@@ -648,7 +849,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -670,7 +871,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -681,7 +882,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -692,7 +893,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -703,7 +904,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -714,7 +915,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -725,7 +926,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -736,9 +937,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "台湾证交所加权股价指数高开0.4%报28,662.79点。",
+          "url": "https://wallstreetcn.com/livenews/3027769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美国总统特朗普：俄乌问题工作组人员包括威特科夫、库什纳、凯恩和鲁比奥；赫格塞斯也应该加入工作组。",
@@ -747,9 +959,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "商品期货开盘，钯主力合约跌超8%，铂跌近4%。沪银涨超4%，沪铜、氧化铝、生猪、国际铜涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3027768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "特朗普再次就泰柬停火邀功说了啥",
+          "url": "https://www.toutiao.com/trending/7589048685074320939/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美国总统特朗普：我认为与泽连斯基和普京之间的三方会晤将在合适的时机举行。",
@@ -758,9 +992,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初涨0.09%，上一个交易日夜盘收涨0.06%。",
+          "url": "https://wallstreetcn.com/livenews/3027766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "邱毅：高市早苗踩了特朗普两个大雷",
+          "url": "https://www.toutiao.com/trending/7588485828298129451/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     },
@@ -788,7 +1044,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
@@ -803,11 +1059,12 @@
           "url": "https://news.ifeng.com/c/8pTGEplZnSO",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 09时59分]"
         }
       ]
     },
@@ -823,8 +1080,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金亚盘下跌 但价格可能维持高位",
+          "url": "https://flash.jin10.com/detail/20251229093859229800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     }
