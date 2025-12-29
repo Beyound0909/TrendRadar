@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T14:39:44.373356+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2025-12-29T15:28:40.885316+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 128,
+      "match_count": 136,
       "titles": [
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 14时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 15时28分]"
         },
         {
           "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
@@ -67,6 +67,18 @@
           "time_info": "[00时28分 ~ 13时31分]"
         },
         {
+          "title": "特朗普：不排除亲自前往乌克兰",
+          "url": "https://news.ifeng.com/c/8pTDPPdlvje",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 15时28分]"
+        },
+        {
           "title": "年内近40家上市公司分红超百亿 股息率居前A股名单一览",
           "url": "https://www.cls.cn/detail/2241723",
           "source": "财联社热门",
@@ -89,18 +101,6 @@
           "time_info": "[00时28分 ~ 07时28分]"
         },
         {
-          "title": "特朗普：不排除亲自前往乌克兰",
-          "url": "https://news.ifeng.com/c/8pTDPPdlvje",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 14时39分]"
-        },
-        {
           "title": "泽连斯基：我想跟特朗普谈5个问题",
           "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
           "source": "凤凰网",
@@ -110,6 +110,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 06时22分]"
+        },
+        {
+          "title": "龙头8连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2242179",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 15时28分]"
         },
         {
           "title": "美国住房部长：将在佛罗里达州会见特朗普，讨论关于楼市的若干想法。需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -148,19 +161,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时20分 ~ 07时28分]"
-        },
-        {
-          "title": "龙头8连板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2242179",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 14时39分]"
         },
         {
           "title": "美国住房部长Scott Turner：将在佛罗里达州会见总统特朗普，讨论关于楼市的若干想法。 需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -334,6 +334,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "恒生科技指数转跌，此前一度涨超2%；恒生指数跌0.6%，此前一度涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3027983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "美国总统特朗普被问及是否认为俄罗斯总统普京对和平（协议）是严肃认真的，称：我的确那样认为。 普京对和平（协议的谈判）是非常严肃的。 我认为，普京和乌克兰总统泽连斯基都希望达成一份协议。 今天会议之后，我将与普京通电话。 我们将与欧洲首脑们对话。 对于结束俄乌战事，我并没有截止日期。 俄乌双方最近的攻势都很猛烈。 （被问及美西方冻结的俄罗斯资产的未来，称他自己）还没有做决定。",
           "url": "https://wallstreetcn.com/livenews/3027680",
           "source": "华尔街见闻-快讯",
@@ -438,7 +449,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -454,26 +465,26 @@
           "time_info": "07时28分"
         },
         {
-          "title": "30年期国债期货（TL）主力合约日内跌幅达1.20%，现报111.49元。",
-          "url": "https://flash.jin10.com/detail/20251229141932677800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "国债期货持续走弱，30年期主力合约盘中跌超1.2%，10年期跌0.29%，5年期跌0.20%，2年期跌0.07%。",
-          "url": "https://wallstreetcn.com/livenews/3027948",
+          "title": "国债期货收盘，30年期主力合约跌0.91%，10年期主力合约跌0.28%，5年期主力合约跌0.18%，2年期主力合约跌0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3027979",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时39分"
+          "time_info": "15时28分"
+        },
+        {
+          "title": "金十图示：2025年12月29日（周一）富时中国A50指数成分股今日收盘行情一览：银行股全线上涨、保险股、酿酒行业股全线下跌",
+          "url": "https://flash.jin10.com/detail/20251229150227262800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "多家A股公司打响年末“保壳大战”",
@@ -496,6 +507,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "权威专家谈人民币汇率“破7”：系多空分歧点位，切忌赌汇率走势",
+          "url": "https://www.cls.cn/detail/2242394",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时55分 ~ 15时28分]"
+        },
+        {
+          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
+          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时55分 ~ 15时28分]"
         },
         {
           "title": "期货热点追踪",
@@ -635,6 +670,18 @@
           "time_info": "[06时22分 ~ 07时28分]"
         },
         {
+          "title": "30年期国债期货（TL）主力合约日内跌幅达1.20%，现报111.49元。",
+          "url": "https://flash.jin10.com/detail/20251229141932677800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时28分]"
+        },
+        {
           "title": "A股医药商业股持续下挫，漱玉平民跌超18%，人民同泰、达嘉维康、英特集团、药易购均跌逾5%，华人健康、重药控股、开开实业等跟跌。",
           "url": "https://wallstreetcn.com/livenews/3027907",
           "source": "华尔街见闻-快讯",
@@ -645,6 +692,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 14时39分]"
+        },
+        {
+          "title": "国债期货持续走弱，30年期主力合约盘中跌超1.2%，10年期跌0.29%，5年期跌0.20%，2年期跌0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3027948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时28分]"
         },
         {
           "title": "恒生指数午后转跌，此前一度涨超1%。",
@@ -673,30 +732,6 @@
           "time_info": "[04时26分 ~ 07时28分]"
         },
         {
-          "title": "权威专家谈人民币汇率“破7”：系多空分歧点位，切忌赌汇率走势",
-          "url": "https://www.cls.cn/detail/2242394",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时55分 ~ 14时39分]"
-        },
-        {
-          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
-          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时55分 ~ 14时39分]"
-        },
-        {
           "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
           "url": "https://news.ifeng.com/c/8pTKjz1vjXV",
           "source": "凤凰网",
@@ -706,6 +741,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时59分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普当众施压泽连斯基",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24,
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时28分]"
         },
         {
           "title": "股指期货早盘收盘",
@@ -747,17 +796,16 @@
           "time_info": "[11时55分 ~ 13时31分]"
         },
         {
-          "title": "特朗普当众施压泽连斯基",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
-          "source": "百度热搜",
+          "title": "2025 年上证指数重回 4000 点，A 股成交额突破 400 万亿元，A 股这一年都有哪些看点？",
+          "url": "https://www.zhihu.com/question/1986751461766484039",
+          "source": "知乎",
           "ranks": [
-            29,
-            24,
-            23
+            20,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时52分 ~ 14时39分]"
+          "time_info": "[13时31分 ~ 15时28分]"
         },
         {
           "title": "特朗普称俄乌“接近达成协议”",
@@ -820,16 +868,15 @@
           "time_info": "[12时52分 ~ 13时31分]"
         },
         {
-          "title": "2025 年上证指数重回 4000 点，A 股成交额突破 400 万亿元，A 股这一年都有哪些看点？",
-          "url": "https://www.zhihu.com/question/1986751461766484039",
-          "source": "知乎",
+          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
+          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时39分]"
+          "time_info": "[14时39分 ~ 15时28分]"
         },
         {
           "title": "韩国保健福祉部称，得益于韩国首尔综合股价指数的强劲涨势，韩国国民年金公会今年的投资收益率预计将达到20%。",
@@ -842,6 +889,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时55分 ~ 12时52分]"
+        },
+        {
+          "title": "广期所铂主力合约触及跌停，跌幅10%，报634.35元/克。 沪银期货主力合约快速跳水，涨幅收窄至5%，此前一度涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3027938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时28分]"
         },
         {
           "title": "科创50指数涨超1%，寒武纪涨超7%，中芯国际、华虹涨超2%。",
@@ -866,6 +925,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时28分]"
         },
         {
           "title": "越南VN指数涨1%报1747.13点。",
@@ -911,6 +981,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌互现。钯、铂封跌停板，跌幅均为10%；碳酸锂跌超7%，多晶硅跌超4%，PX、PTA跌超2%。涨幅方面，铁矿石涨超2%，双胶纸、玉米、淀粉、生猪、塑料、塑料月均价涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251229150103651800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "美国总统特朗普：顿巴斯问题仍未解决，但我认为最终会得到解决。",
@@ -1034,17 +1115,6 @@
           "time_info": "07时28分"
         },
         {
-          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
-          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
           "title": "俄总统特别代表德米特里耶夫：“全世界”都赞赏美国总统特朗普及其团队的和平努力。",
           "url": "https://flash.jin10.com/detail/20251229063730645800",
           "source": "金十数据",
@@ -1089,15 +1159,15 @@
           "time_info": "09时59分"
         },
         {
-          "title": "广期所铂主力合约触及跌停，跌幅10%，报634.35元/克。 沪银期货主力合约快速跳水，涨幅收窄至5%，此前一度涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3027938",
+          "title": "A股收盘：沪指冲高回落录得9连阳，机器人、商业航天概念持续爆发",
+          "url": "https://wallstreetcn.com/livenews/3027971",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时39分"
+          "time_info": "15时28分"
         },
         {
           "title": "美国总统特朗普：俄乌谈判中有一两个棘手问题。",
@@ -1139,9 +1209,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "上证指数收报3965.28点，涨0.04%。 深证成指收报13537.10点，跌0.49%。 创业板指收报3222.61点，跌0.66%。 沪深300收报4639.37点，跌0.38%。 科创50收报1346.32点，涨0.04%。 中证500收报7430.61点，跌0.38%。 中证1000收报7594.16点，跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3027970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "特朗普与泽连斯基会晤",
@@ -1199,15 +1280,15 @@
           "time_info": "07时28分"
         },
         {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
+          "title": "商品期货收盘，钯、铂主力合约跌停，跌幅10%。碳酸锂跌超7%，多晶硅跌超4%，对二甲苯、PTA跌超2%。铁矿石涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3027967",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时39分"
+          "time_info": "15时28分"
         },
         {
           "title": "特朗普称俄乌“接近达成协议” 不排除三方会晤",
@@ -1249,7 +1330,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -1293,7 +1374,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -1326,7 +1407,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -1381,9 +1462,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "日经225指数收涨0.4%，报50526.92点。 日本东证指数收涨0.1%，报3426.52点。 韩国首尔综指收涨2.2%，报4220.56点，为11月3日以来最高收盘水平。 三星电子收盘上涨2.14%，SK海力士上涨6.84%，均创下史上最高收盘价。",
+          "url": "https://wallstreetcn.com/livenews/3027950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "美国总统特朗普：我们与俄乌双方的关系可能比以往任何时候都更加密切。",
@@ -1510,7 +1602,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
@@ -1524,15 +1616,27 @@
           "time_info": "[00时28分 ~ 11时55分]"
         },
         {
+          "title": "金十图示：2025年12月29日（周一）上海金午盘价为1001.63元/克，较国际金价(1004.09元/克)，低2.46元/克",
+          "url": "https://flash.jin10.com/detail/20251229150239734800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时28分]"
         },
         {
           "title": "金十图示：2025年12月29日（周一）上海金早盘价为1010.41元/克，较国际金价(1016.45元/克)，低6.04元/克",
