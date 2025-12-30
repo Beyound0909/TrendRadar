@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T14:37:12.362326+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2025-12-30T15:25:40.633331+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 164,
+      "match_count": 176,
       "titles": [
         {
           "title": "从补涨到尾盘跌停惊呆市场，碳酸锂铂钯多合约突发异动，为何情绪转向？",
@@ -34,11 +34,12 @@
           "url": "https://news.ifeng.com/c/8pUyRCwSPET",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 15时25分]"
         },
         {
           "title": "美联储新主席5月上任“利好出尽”？野村：明年7-11月的美国市场“需要特别警惕”",
@@ -68,17 +69,6 @@
           "time_info": "[00时29分 ~ 11时40分]"
         },
         {
-          "title": "普京称官邸遭袭 特朗普回应",
-          "url": "https://www.douyin.com/hot/2351475",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 14时37分]"
-        },
-        {
           "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
           "url": "https://wallstreetcn.com/articles/3762268",
           "source": "华尔街见闻",
@@ -87,8 +77,31 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 15时25分]"
+        },
+        {
+          "title": "解放军封岛军演，特朗普表态",
+          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时51分 ~ 14时37分]"
+          "time_info": "[11时40分 ~ 15时25分]"
+        },
+        {
+          "title": "普京称官邸遭袭 特朗普回应",
+          "url": "https://www.douyin.com/hot/2351475",
+          "source": "抖音",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 15时25分]"
         },
         {
           "title": "美国总统特朗普：伊朗可能正在美国轰炸过的地点之外重建其核计划。",
@@ -102,13 +115,24 @@
           "time_info": "05时21分"
         },
         {
+          "title": "金十图示：2025年12月30日（周二）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20251230151247203800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "日经225指数收跌0.4%，报50339.48点。 日本东证指数收跌0.5%，报3408.97点。 韩国首尔综指收盘跌0.2%，报4214.17点，该指数今年以来累计涨逾75%。",
           "url": "https://wallstreetcn.com/livenews/3028595",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -126,6 +150,17 @@
           "time_info": "[09时51分 ~ 14时37分]"
         },
         {
+          "title": "金十图示：2025年12月30日（周二）富时中国A50指数成分股今日收盘行情一览：银行股多数下跌，保险、酿酒悉数走低，半导体和石油逆势大涨",
+          "url": "https://flash.jin10.com/detail/20251230150929470800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "恒生科技指数日内涨幅扩大至1%。百度涨超4%，华虹半导体、中芯国际涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3028448",
           "source": "华尔街见闻-快讯",
@@ -135,17 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "解放军封岛军演，特朗普表态",
-          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 14时37分]"
         },
         {
           "title": "12月30日午间收评：沪指半日跌0.1%，数字货币、AI智能体概念走强",
@@ -253,6 +277,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时51分 ~ 12时41分]"
+        },
+        {
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 15时25分]"
         },
         {
           "title": "周一（12月29日），美联储隔夜逆回购协议（RRP）使用规模为105.51亿美元（交易对手12家），上个交易日报203.39亿美元。",
@@ -708,17 +744,6 @@
           "time_info": "[12时41分 ~ 14时37分]"
         },
         {
-          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
-          "url": "https://wallstreetcn.com/articles/3762270",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 14时37分]"
-        },
-        {
           "title": "美国总统特朗普：俄罗斯总统普京告诉我，他的官邸遭到乌克兰袭击。（就该事件）我不认同此类行为。",
           "url": "https://flash.jin10.com/detail/20251230024049423800",
           "source": "金十数据",
@@ -888,6 +913,18 @@
           "time_info": "[03时19分 ~ 05时21分]"
         },
         {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 15时25分]"
+        },
+        {
           "title": "美国总统特朗普：希望尽快进入加沙计划的第二阶段。",
           "url": "https://flash.jin10.com/detail/20251230022830346800",
           "source": "金十数据",
@@ -988,6 +1025,18 @@
           "time_info": "[00时30分 ~ 01时21分]"
         },
         {
+          "title": "A股商业航天概念午后跳水，神剑股份跌停。",
+          "url": "https://wallstreetcn.com/livenews/3028581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时25分]"
+        },
+        {
           "title": "俄罗斯总统助理乌沙科夫：俄罗斯总统普京告诉美国总统特朗普，乌克兰对俄罗斯总统府发动了无人机袭击。",
           "url": "https://flash.jin10.com/detail/20251230001452299800",
           "source": "金十数据",
@@ -1022,6 +1071,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
+          "title": "香港恒生指数涨1%，恒生科技指数涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3028578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时25分]"
         },
         {
           "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
@@ -1081,17 +1142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 11时40分]"
-        },
-        {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
         },
         {
           "title": "PEEK产品需求呈指数级增长 国内企业迎发展良机",
@@ -1189,6 +1239,18 @@
           "time_info": "[02时34分 ~ 03时19分]"
         },
         {
+          "title": "台湾证交所加权股价指数收跌0.4%报28,707.13点。",
+          "url": "https://wallstreetcn.com/livenews/3028563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时25分]"
+        },
+        {
           "title": "伊朗央行行长已于周一辞职，此前该国货币兑美元汇率跌至历史新低，引发自2022年以来规模最大的抗议活动，席卷德黑兰及其他多个城市。",
           "url": "https://flash.jin10.com/detail/20251230015948375800",
           "source": "金十数据",
@@ -1279,6 +1341,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "泰国央行：11月私人消费指数环比下降0.3%。",
+          "url": "https://flash.jin10.com/detail/20251230150150201800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约涨0.11%，10年期主力合约涨0.02%，5年期主力合约涨0.05%，2年期主力合约涨0.01%。",
           "url": "https://wallstreetcn.com/livenews/3028439",
           "source": "华尔街见闻-快讯",
@@ -1323,17 +1396,6 @@
           "time_info": "09时51分"
         },
         {
-          "title": "A股商业航天概念午后跳水，神剑股份跌停。",
-          "url": "https://wallstreetcn.com/livenews/3028581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
           "title": "美国总统特朗普：（谈与以色列总理内塔尼亚胡的会晤）我们已经在中东实现了和平，我们想保持现状。",
           "url": "https://flash.jin10.com/detail/20251230045346853800",
           "source": "金十数据",
@@ -1367,6 +1429,17 @@
           "time_info": "12时41分"
         },
         {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251230150136244800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "中证转债指数低开0.03%。神宇转债涨30%触发临停，嘉美转债涨超6%，天创转债涨超5%，广联转债涨超4%；航宇转债、金25转债、欧通转债、金诚转债等跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3028436",
           "source": "华尔街见闻-快讯",
@@ -1378,15 +1451,15 @@
           "time_info": "09时51分"
         },
         {
-          "title": "香港恒生指数涨1%，恒生科技指数涨2%。",
-          "url": "https://wallstreetcn.com/livenews/3028578",
+          "title": "A股收盘：沪指日线走出10连阳，机器人概念股集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3028611",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时37分"
+          "time_info": "15时25分"
         },
         {
           "title": "以色列总理内塔尼亚胡：与美国总统特朗普的会晤非常富有成效。",
@@ -1400,6 +1473,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "午盘收盘，国内期货主力合约涨跌不一。铂、钯封跌停板，跌幅均为13%；沪锡跌超4%，碳酸锂、沪银跌近4%，沪金跌超3%，国际铜、沪铜、集运欧线跌超2%。涨幅方面，沪镍、玻璃涨超3%，甲醇、纯碱涨超2%。",
+          "url": "https://flash.jin10.com/detail/20251230150038387800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "上证指数开盘报3947.87点，跌0.44%。 深证成指开盘报13466.30点，跌0.52%。 创业板指开盘报3208.32点，跌0.44%。 沪深300开盘报4617.32点，跌0.48%。 科创50开盘报1346.13点，跌0.01%。 中证500开盘报7390.14点，跌0.54%。 中证1000开盘报7556.54点，跌0.50%。",
           "url": "https://wallstreetcn.com/livenews/3028434",
           "source": "华尔街见闻-快讯",
@@ -1409,6 +1493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "上证指数收报3965.12点，跌0.00%。 深证成指收报13604.07点，涨0.49%。 创业板指收报3242.90点，涨0.63%。 沪深300收报4651.28点，涨0.26%。 科创50收报1359.87点，涨1.01%。 中证500收报7458.94点，涨0.38%。 中证1000收报7597.30点，涨0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3028609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "特朗普称得知普京官邸遭袭很生气",
@@ -1444,6 +1539,17 @@
           "time_info": "12时41分"
         },
         {
+          "title": "商品期货收盘，钯、铂主力合约跌停，跌幅13%。沪锡跌超4%，沪银跌近4%，碳酸锂、沪金跌超3%。沪镍、玻璃涨超3%，甲醇、纯碱涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3028607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "国债期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20251230113210978800",
           "source": "金十数据",
@@ -1472,7 +1578,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -1508,6 +1614,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "A股马字辈个股异动拉升，福龙马午后涨停，万里马、三羊马、天亿马等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3028598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "特朗普称美军在委内瑞拉行动中摧毁一大型设施",
@@ -1565,6 +1682,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "日经225指数收跌0.4%，报50339.48点。 日本东证指数收跌0.5%，报3408.97点。",
+          "url": "https://wallstreetcn.com/livenews/3028595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "克里姆林宫助理Ushakov：美国总统特朗普向俄罗斯总统普京介绍了自己与乌克兰总统泽连斯基会谈的情况。（塔斯社）",
           "url": "https://wallstreetcn.com/livenews/3028263",
           "source": "华尔街见闻-快讯",
@@ -1598,15 +1726,15 @@
           "time_info": "11时40分"
         },
         {
-          "title": "台湾证交所加权股价指数收跌0.4%报28,707.13点。",
-          "url": "https://wallstreetcn.com/livenews/3028563",
-          "source": "华尔街见闻-快讯",
+          "title": "日韩股市年度收官：KOSPI指数创26年最大涨幅 日经站稳5万点",
+          "url": "https://flash.jin10.com/detail/20251230143546489800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时37分"
+          "time_info": "15时25分"
         },
         {
           "title": "白宫发言人：美国总统特朗普已就乌克兰问题与俄罗斯总统普京进行了积极的通话。",
@@ -1653,6 +1781,17 @@
           "time_info": "00时30分"
         },
         {
+          "title": "韩元兑美元汇率在2025年迄今已上涨2.3%，有望终结连续四年的下跌势头。",
+          "url": "https://flash.jin10.com/detail/20251230143202741800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "标普500指数收跌24.20点，跌幅0.35%，报6905.74点。 道琼斯工业平均指数收跌249.04点，跌幅0.51%，报48461.93点。 纳斯达克综合指数（纳指）收跌118.748点，跌幅0.50%，报23474.349点。 纳斯达克100指数收跌118.83点，跌幅0.46%，报25525.56点。",
           "url": "https://wallstreetcn.com/livenews/3028327",
           "source": "华尔街见闻-快讯",
@@ -1681,7 +1820,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -1942,7 +2081,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -1963,8 +2102,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 15时25分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -2037,6 +2176,17 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
+          "url": "https://wallstreetcn.com/articles/3762263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "航空业ETF收跌将近1.3%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3028332",
           "source": "华尔街见闻-快讯",
@@ -2096,8 +2246,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 15时25分]"
         },
         {
           "title": "金价暴跌店员称跌幅首次见",
@@ -2105,11 +2255,12 @@
           "source": "微博",
           "ranks": [
             8,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 15时25分]"
         },
         {
           "title": "分析师：金价从历史高位回落 流动性稀薄正放大回调走势",
@@ -2205,8 +2356,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 14时37分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 15时25分]"
         }
       ]
     },
