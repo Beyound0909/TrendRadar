@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T17:28:42.989313+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2025-12-30T18:27:44.470262+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 191,
+      "match_count": 199,
       "titles": [
         {
           "title": "从补涨到尾盘跌停惊呆市场，碳酸锂铂钯多合约突发异动，为何情绪转向？",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时51分 ~ 17时28分]"
+          "appearance_count": 11,
+          "time_info": "[09时51分 ~ 18时27分]"
         },
         {
           "title": "美联储新主席5月上任“利好出尽”？野村：明年7-11月的美国市场“需要特别警惕”",
@@ -82,19 +82,6 @@
           "time_info": "[00时29分 ~ 11时40分]"
         },
         {
-          "title": "普京称官邸遭袭 特朗普回应",
-          "url": "https://www.douyin.com/hot/2351475",
-          "source": "抖音",
-          "ranks": [
-            1,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时26分 ~ 17时28分]"
-        },
-        {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
           "url": "https://wallstreetcn.com/articles/3762270",
           "source": "华尔街见闻",
@@ -102,11 +89,26 @@
             10,
             9,
             8,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时41分 ~ 18时27分]"
+        },
+        {
+          "title": "普京称官邸遭袭 特朗普回应",
+          "url": "https://www.douyin.com/hot/2351475",
+          "source": "抖音",
+          "ranks": [
+            1,
+            17,
+            20,
+            22
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时41分 ~ 17时28分]"
+          "time_info": "[13时26分 ~ 18时27分]"
         },
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -116,8 +118,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时27分]"
         },
         {
           "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
@@ -127,8 +129,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时27分]"
+        },
+        {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时36分 ~ 18时27分]"
         },
         {
           "title": "解放军封岛军演，特朗普表态",
@@ -140,6 +156,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时40分 ~ 15时25分]"
+        },
+        {
+          "title": "特朗普称美对委进行首次陆地打击",
+          "url": "https://www.douyin.com/hot/2352186",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "美国总统特朗普：伊朗可能正在美国轰炸过的地点之外重建其核计划。",
@@ -175,19 +202,6 @@
           "time_info": "14时37分"
         },
         {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时36分 ~ 17时28分]"
-        },
-        {
           "title": "解放军演习冲上日媒头条",
           "url": "https://www.toutiao.com/trending/7589446372420603401/",
           "source": "今日头条",
@@ -201,6 +215,17 @@
           "time_info": "[09时51分 ~ 14时37分]"
         },
         {
+          "title": "解放军军演登上日媒头条",
+          "url": "https://news.ifeng.com/c/8pVdoJqJEZa",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "金十图示：2025年12月30日（周二）富时中国A50指数成分股今日收盘行情一览：银行股多数下跌，保险、酿酒悉数走低，半导体和石油逆势大涨",
           "url": "https://flash.jin10.com/detail/20251230150929470800",
           "source": "金十数据",
@@ -210,6 +235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "金十图示：2025年12月30日（周二）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20251230180244845800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "恒生科技指数日内涨幅扩大至1%。百度涨超4%，华虹半导体、中芯国际涨超3%。",
@@ -288,6 +324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "浙江荣泰：拟发行H股股票并在港交所主板上市。",
+          "url": "https://wallstreetcn.com/livenews/3028700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "美国总统特朗普：美东时间08:00已经与俄罗斯总统普京通电话。",
@@ -448,6 +495,19 @@
           "time_info": "[02时34分 ~ 04时28分]"
         },
         {
+          "title": "平潭发展：公司股票短期内价格涨幅较大 已严重背离公司基本面",
+          "url": "https://wallstreetcn.com/livenews/3028657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 18时27分]"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.12%，报25603点。 恒生科技指数主连夜盘收跌0.04%，报5473点。",
           "url": "https://wallstreetcn.com/livenews/3028310",
           "source": "华尔街见闻-快讯",
@@ -522,18 +582,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 11时40分]"
-        },
-        {
-          "title": "平潭发展：公司股票短期内价格涨幅较大 已严重背离公司基本面",
-          "url": "https://wallstreetcn.com/livenews/3028657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时28分]"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡有时较难相处。希望内塔尼亚胡与叙利亚保持友好关系。",
@@ -1181,6 +1229,18 @@
           "time_info": "[15时25分 ~ 16时33分]"
         },
         {
+          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
+          "url": "https://wallstreetcn.com/articles/3762272",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时27分]"
+        },
+        {
           "title": "上证指数收报3965.12点，跌0.00%。 深证成指收报13604.07点，涨0.49%。 创业板指收报3242.90点，涨0.63%。 沪深300收报4651.28点，涨0.26%。 科创50收报1359.87点，涨1.01%。 中证500收报7458.94点，涨0.38%。 中证1000收报7597.30点，涨0.04%。",
           "url": "https://wallstreetcn.com/livenews/3028609",
           "source": "华尔街见闻-快讯",
@@ -1214,6 +1274,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 09时51分]"
+        },
+        {
+          "title": "特朗普称对中方此次军演不担忧，外交部回应",
+          "url": "https://www.cls.cn/detail/2244032",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时27分]"
         },
         {
           "title": "美国联邦住房金融局（FHFA）局长、“反美联储先锋”Bill Pulte：总统特朗普总统说得对，杰罗姆·鲍威尔必须辞职。",
@@ -1359,6 +1431,18 @@
           "time_info": "[02时34分 ~ 03时19分]"
         },
         {
+          "title": "交易员：印度央行在外汇市场抛售美元以支撑卢比汇率",
+          "url": "https://wallstreetcn.com/livenews/3028664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时27分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡离开酒店前往海湖庄园会见美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20251230021725324800",
           "source": "金十数据",
@@ -1393,6 +1477,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时37分 ~ 15时25分]"
+        },
+        {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.douyin.com/hot/2351614",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时27分]"
         },
         {
           "title": "伊朗央行行长已于周一辞职，此前该国货币兑美元汇率跌至历史新低，引发自2022年以来规模最大的抗议活动，席卷德黑兰及其他多个城市。",
@@ -1507,6 +1603,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
+          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：在午餐期间正式宣布，决定将以色列勋章授予美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20251230045508229800",
           "source": "金十数据",
@@ -1538,6 +1645,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普：如果伊朗真在重建核设施，我们会摧毁他们",
+          "url": "https://news.ifeng.com/c/8pVH0bcJ4eW",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "美国总统特朗普：（谈与以色列总理内塔尼亚胡的会晤）我们已经在中东实现了和平，我们想保持现状。",
@@ -1628,17 +1746,6 @@
           "time_info": "09时51分"
         },
         {
-          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
-          "url": "https://wallstreetcn.com/articles/3762272",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "特朗普称得知普京官邸遭袭很生气",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD%E5%BE%88%E7%94%9F%E6%B0%94%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -1678,7 +1785,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1694,15 +1801,26 @@
           "time_info": "12时41分"
         },
         {
-          "title": "特朗普称对中方此次军演不担忧，外交部回应",
-          "url": "https://www.cls.cn/detail/2244032",
+          "title": "克里姆林宫：（就美国总统特朗普对伊朗的警告表示）我们敦促各方避免局势升级。",
+          "url": "https://flash.jin10.com/detail/20251230172540100800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
+          "url": "https://www.cls.cn/detail/2244203",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "18时27分"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。铂、钯封跌停板，跌幅均为13%；沪锡跌超4%，碳酸锂、沪银跌超3%，沪金跌近3%，集运欧线、国际铜跌超2%。涨幅方面，沪镍涨超3%，玻璃、甲醇、纯碱涨超2%。",
@@ -1837,17 +1955,6 @@
           "time_info": "15时25分"
         },
         {
-          "title": "交易员：印度央行在外汇市场抛售美元以支撑卢比汇率",
-          "url": "https://wallstreetcn.com/livenews/3028664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "克里姆林宫助理Ushakov：美国总统特朗普向俄罗斯总统普京介绍了自己与乌克兰总统泽连斯基会谈的情况。（塔斯社）",
           "url": "https://wallstreetcn.com/livenews/3028263",
           "source": "华尔街见闻-快讯",
@@ -1934,17 +2041,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.douyin.com/hot/2351614",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "美国天然气期货日内涨幅扩大至3.00%，现报3.994美元/百万英热。",
@@ -2268,8 +2364,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时51分 ~ 17时28分]"
+          "appearance_count": 11,
+          "time_info": "[09时51分 ~ 18时27分]"
         },
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -2335,11 +2431,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 17时28分]"
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 18时27分]"
         },
         {
           "title": "（美股）费城金银指数收跌5.21%，报344.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌4.76%，报2449.98点，北京时间22:30美股开盘时跳空（加速）下跌。 原材料指数跌1.59%，金属与矿业指数跌1.95%。",
