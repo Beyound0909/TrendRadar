@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T04:26:41.466304+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2025-12-31T05:22:59.236009+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 59,
+      "match_count": 68,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "解放军军演登上日媒头条",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "得知普京官邸遭袭，特朗普：我很生气！",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
@@ -61,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
@@ -73,8 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "特朗普称不担心解放军绕台军演",
@@ -84,8 +84,30 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
+        },
+        {
+          "title": "金十图示：2025年12月30日（周二）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251231050552775800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "周二（12月30日），降息赢家指数跌0.33%，报99.34点。 “特朗普关税输家”指数跌0.70%，报111.29点。 “特朗普金融指数”跌0.60%，报173.74点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.97%，报15.49点。",
+          "url": "https://wallstreetcn.com/livenews/3028928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         },
         {
           "title": "WTI 2月原油期货收报57.95美元/桶。 NYMEX 2月天然气期货收报3.9720美元/百万英热单位。 NYMEX 1月汽油期货收报1.7210美元/加仑，NYMEX 1月取暖油期货收报2.1505美元/加仑。",
@@ -94,7 +116,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -110,27 +132,56 @@
           "time_info": "00时31分"
         },
         {
-          "title": "交易员们对美联储将在2026年降息两次的预期维持不变，此前发布了FOMC会议纪要。",
-          "url": "https://wallstreetcn.com/livenews/3028904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
           "title": "恒生指数主连夜盘收跌0.17%，报25880点。 恒生科技指数主连夜盘收跌0.32%，报5593点。",
           "url": "https://wallstreetcn.com/livenews/3028900",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时22分]"
+        },
+        {
+          "title": "恒指期货夜盘收跌0.17%，报25880点，低水25点。",
+          "url": "https://flash.jin10.com/detail/20251231030722240800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时22分]"
+        },
+        {
+          "title": "美联储会议纪要：降息决策极度胶着，大部分官员认为随着时间的推移继续降息是适宜的",
+          "url": "https://wallstreetcn.com/livenews/3028897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时22分]"
+        },
+        {
+          "title": "美联储会议纪要：少数与会者认为，12月降息并不合理。",
+          "url": "https://flash.jin10.com/detail/20251231030301436800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时22分]"
         },
         {
           "title": "非洲股市收盘播报｜周二（12月30日），南非富时/JSE非洲领先40可交易指数收涨0.43%，至10.87万点上方，2025年以来累计上涨44.20%，势必连续第三年走高、创历史上最佳年度表现。",
@@ -146,18 +197,6 @@
           "time_info": "[00时31分 ~ 02时35分]"
         },
         {
-          "title": "恒指期货夜盘收跌0.17%，报25880点，低水25点。",
-          "url": "https://flash.jin10.com/detail/20251231030722240800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时26分]"
-        },
-        {
           "title": "ICE原糖期货跌3.0%，报14.80美分。",
           "url": "https://wallstreetcn.com/livenews/3028866",
           "source": "华尔街见闻-快讯",
@@ -169,18 +208,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时23分 ~ 03时19分]"
-        },
-        {
-          "title": "美联储会议纪要：降息决策极度胶着，大部分官员认为随着时间的推移继续降息是适宜的",
-          "url": "https://wallstreetcn.com/livenews/3028897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时26分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.4%，连续三个交易日走高，报369.98点，创3月25日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 军工股萨博公司Saab AB收涨2.7%，在一众北欧个股里领跑。",
@@ -209,18 +236,6 @@
           "time_info": "[02时35分 ~ 04时26分]"
         },
         {
-          "title": "美联储会议纪要：少数与会者认为，12月降息并不合理。",
-          "url": "https://flash.jin10.com/detail/20251231030301436800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时26分]"
-        },
-        {
           "title": "美联储会议纪要：政策制定者强调，必须明确传达国债购买的目的仅在于确保利率稳定，与货币政策无关。",
           "url": "https://flash.jin10.com/detail/20251231030238280800",
           "source": "金十数据",
@@ -231,6 +246,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时26分]"
+        },
+        {
+          "title": "交易员们对美联储将在2026年降息两次的预期维持不变，此前发布了FOMC会议纪要。",
+          "url": "https://wallstreetcn.com/livenews/3028904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时22分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月31日 周三",
@@ -269,6 +296,19 @@
           "time_info": "[03时19分 ~ 04时26分]"
         },
         {
+          "title": "提醒：北京时间03:00，美联储将发布12月FOMC货币政策会议的纪要文件。",
+          "url": "https://wallstreetcn.com/livenews/3028895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时22分]"
+        },
+        {
           "title": "市场分析：美联储2026年开年或将延续“灵活应对”立场",
           "url": "https://flash.jin10.com/detail/20251231004600566800",
           "source": "金十数据",
@@ -279,18 +319,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时35分]"
-        },
-        {
-          "title": "提醒：北京时间03:00，美联储将发布12月FOMC货币政策会议的纪要文件。",
-          "url": "https://wallstreetcn.com/livenews/3028895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时26分]"
         },
         {
           "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
@@ -329,6 +357,18 @@
           "time_info": "[03时19分 ~ 04时26分]"
         },
         {
+          "title": "美联储部分官员对明年初进一步降息持谨慎态度",
+          "url": "https://flash.jin10.com/detail/20251231034515935800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时22分]"
+        },
+        {
           "title": "美联储会议纪要：多位与会者指出，通胀居高不下的风险可能变得根深蒂固，并暗示进一步降息可能被误认为美联储对2%通胀目标缺乏承诺。",
           "url": "https://flash.jin10.com/detail/20251231030120206800",
           "source": "金十数据",
@@ -339,6 +379,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时26分]"
+        },
+        {
+          "title": "市场分析：美联储会议纪要释放谨慎偏鸽的信号",
+          "url": "https://flash.jin10.com/detail/20251231033808378800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时22分]"
         },
         {
           "title": "美联储会议纪要：与会者认为准备金余额已降至充足水平。",
@@ -363,6 +415,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时26分]"
+        },
+        {
+          "title": "美联储工作人员的经济增速预测较10月份有所加快",
+          "url": "https://flash.jin10.com/detail/20251231033300544800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时22分]"
         },
         {
           "title": "Prosus于12月22-26日按均价52.8621欧元回购股票65.2573万，合计0.345亿欧元（折合0.406亿美元）。 同期，Naspers按均价1120.1722南非兰特回购33.8611万，合计3.793亿兰特（折合0.227亿美元）。",
@@ -401,6 +465,18 @@
           "time_info": "[03时19分 ~ 04时26分]"
         },
         {
+          "title": "美联储会议纪要：与会者普遍预计2026年经济增长速度将会加快",
+          "url": "https://flash.jin10.com/detail/20251231033050238800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时22分]"
+        },
+        {
           "title": "内盘期货夜市多数收涨，LPG、玻璃涨超2.1%，铁矿石跌约0.7%",
           "url": "https://wallstreetcn.com/livenews/3028845",
           "source": "华尔街见闻-快讯",
@@ -411,6 +487,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "美联储会议纪要：更为中性的政策立场有助于避免劳动力市场出现重大恶化",
+          "url": "https://flash.jin10.com/detail/20251231032508731800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时22分]"
+        },
+        {
+          "title": "美联储会议纪要：近几个月来就业下行风险有所增加",
+          "url": "https://flash.jin10.com/detail/20251231032024792800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时22分]"
         },
         {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点。 2025年以来，该国股市已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨（特朗普关税威胁曾在4月份造成一波V型“插曲”），后续高位持稳——试探2010年（欧债危机期间）年初顶部。 年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
@@ -425,6 +525,54 @@
           "time_info": "[01时23分 ~ 02时35分]"
         },
         {
+          "title": "美联储会议纪要：委员们一致认为准备金余额已降至充足水平",
+          "url": "https://flash.jin10.com/detail/20251231031954404800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时22分]"
+        },
+        {
+          "title": "美联储会议纪要：与会者普遍预期短期内通胀率将维持在较高水平",
+          "url": "https://flash.jin10.com/detail/20251231031836944800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时22分]"
+        },
+        {
+          "title": "美联储会议纪要：分歧严重 多数人认为利率可随通胀下降而下降",
+          "url": "https://flash.jin10.com/detail/20251231030859460800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时22分]"
+        },
+        {
+          "title": "外交部回应特朗普谈解放军军演",
+          "url": "https://www.douyin.com/hot/2352044",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时22分]"
+        },
+        {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
           "url": "https://wallstreetcn.com/articles/3762270",
           "source": "华尔街见闻",
@@ -436,26 +584,15 @@
           "time_info": "00时31分"
         },
         {
-          "title": "美联储部分官员对明年初进一步降息持谨慎态度",
-          "url": "https://flash.jin10.com/detail/20251231034515935800",
-          "source": "金十数据",
+          "title": "周二（12月30日），彭博电动汽车价格回报指数跌0.23%，报3458.80点。 北京时间09:32，指数显著下跌，刷新日低至3438.18点，13:08出现一波显著的反弹行情，13:55刷新日高至3482.11点。",
+          "url": "https://wallstreetcn.com/livenews/3028921",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "市场分析：美联储会议纪要释放谨慎偏鸽的信号",
-          "url": "https://flash.jin10.com/detail/20251231033808378800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "time_info": "05时22分"
         },
         {
           "title": "法国股指初步收涨0.81%，意大利股指初步收涨1.24%、银行指数涨2.06%，英国股指初步收涨0.82%。",
@@ -469,26 +606,48 @@
           "time_info": "01时23分"
         },
         {
-          "title": "美联储工作人员的经济增速预测较10月份有所加快",
-          "url": "https://flash.jin10.com/detail/20251231033300544800",
-          "source": "金十数据",
+          "title": "纳斯达克金龙中国指数收跌0.27%，报7616.03点，全天呈现出高开低走状态。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.08%，德银嘉实沪深300指数ETF（ASHR）收涨0.58%。 中国科技指数ETF（CQQQ）收涨0.89%，中概互联网指数ETF（KWEB）收跌0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3028919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "标普500指数收跌9.50点，跌幅0.14%，报6896.24点。 道琼斯工业平均指数收跌94.87点，跌幅0.20%，报48367.06点。 纳斯达克综合指数（纳指）收跌55.27点，跌幅0.24%，报23419.08点。 纳斯达克100指数收跌63.00点，跌幅0.25%，报25462.561点。 纳斯达克生物科技指数收跌1.03%，报5707.25点。 费城半导体指数收跌0.13%，报7169.099点。 费城证交所KBW银行指数收跌0.56%，报165.55点。 道琼斯KBW地区银行指数收跌0.78%，报125.26点。",
+          "url": "https://wallstreetcn.com/livenews/3028917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "美联储调查显示：未来12个月预计购买约2,200亿美元国库券",
+          "url": "https://wallstreetcn.com/livenews/3028916",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时26分"
+          "time_info": "05时22分"
         },
         {
-          "title": "美联储会议纪要：与会者普遍预计2026年经济增长速度将会加快",
-          "url": "https://flash.jin10.com/detail/20251231033050238800",
-          "source": "金十数据",
+          "title": "法官裁定：特朗普政府必须从美联储为CFPB申请资金",
+          "url": "https://wallstreetcn.com/livenews/3028915",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时26分"
+          "time_info": "05时22分"
         },
         {
           "title": "美联储会议纪要：多数与会者认为，如果通胀随时间推移下降，进一步放松货币政策将是合适的。",
@@ -524,17 +683,6 @@
           "time_info": "03时19分"
         },
         {
-          "title": "美联储会议纪要：更为中性的政策立场有助于避免劳动力市场出现重大恶化",
-          "url": "https://flash.jin10.com/detail/20251231032508731800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20251230234135335800",
           "source": "金十数据",
@@ -557,28 +705,6 @@
           "time_info": "03时19分"
         },
         {
-          "title": "美联储会议纪要：近几个月来就业下行风险有所增加",
-          "url": "https://flash.jin10.com/detail/20251231032024792800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "美联储会议纪要：委员们一致认为准备金余额已降至充足水平",
-          "url": "https://flash.jin10.com/detail/20251231031954404800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
           "title": "美联储将于十分钟后公布货币政策会议纪要。",
           "url": "https://flash.jin10.com/detail/20251231025000000800",
           "source": "金十数据",
@@ -590,26 +716,15 @@
           "time_info": "03时19分"
         },
         {
-          "title": "美联储会议纪要：与会者普遍预期短期内通胀率将维持在较高水平",
-          "url": "https://flash.jin10.com/detail/20251231031836944800",
-          "source": "金十数据",
+          "title": "芝加哥小麦期货跌超0.5%，纽约可可跌超2.4%",
+          "url": "https://wallstreetcn.com/livenews/3028909",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "美联储会议纪要：分歧严重 多数人认为利率可随通胀下降而下降",
-          "url": "https://flash.jin10.com/detail/20251231030859460800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "time_info": "05时22分"
         },
         {
           "title": "美国法庭裁决指出，特朗普政府关于消费者金融保护局（CFPB）拨款存在法律障碍的说法是企图“扼杀该机构的透明化尝试”。",
@@ -632,6 +747,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "WTI 2月原油期货收跌0.13美元，跌幅0.22%，报57.95美元/桶。 布伦特2月原油期货收跌0.02美元，跌幅0.03%，报61.92美元/桶。 中东Abu Dhabi Murban原油期货跌0.66%，报62.04美元/桶。 NYMEX 2月天然气期货收报3.9720美元/百万英热单位。 NYMEX 1月汽油期货收报1.7210美元/加仑，NYMEX 1月取暖油期货收报2.1505美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3028905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         },
         {
           "title": "泽连斯基：与特朗普讨论了将美军部署在乌克兰的问题",
@@ -676,23 +802,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
-        },
-        {
-          "title": "外交部回应特朗普谈解放军军演",
-          "url": "https://www.douyin.com/hot/2352044",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -704,8 +819,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -715,8 +830,41 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
+        },
+        {
+          "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251231050526825800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "金十图示：2025年12月30日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251231050523953800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收跌 百度涨超4%",
+          "url": "https://flash.jin10.com/detail/20251231050133467800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         },
         {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
@@ -739,6 +887,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 01时23分]"
+        },
+        {
+          "title": "生物科技ETF收跌将近1.1%，领跌美股行业ETF，能源ETF涨约0.8%",
+          "url": "https://wallstreetcn.com/livenews/3028922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         },
         {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股盘中）",
@@ -776,6 +935,90 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美联储会议纪要发布后，美元指数涨幅重新扩大至将近0.2%，逼近北京时间23:44刷新的日高98.269点。 美国10年期国债收益率持稳于4.12%附近，维持大约1个基点的涨幅；两年期美债收益率持稳于3.4450%附近，保持微幅下挫状态。 2/10年期美债收益率利差维持大约1.4个基点的涨幅，持稳于+67个基点下方。",
+          "url": "https://wallstreetcn.com/livenews/3028902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时22分]"
+        },
+        {
+          "title": "2年期美债收益率在美联储会议纪要公布后小幅走低，现报3.463%。",
+          "url": "https://flash.jin10.com/detail/20251231030419555800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时22分]"
+        },
+        {
+          "title": "中长期美债收益率涨超1个基点",
+          "url": "https://wallstreetcn.com/livenews/3028910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周二（12月30日）纽约尾盘，ICE美元指数涨0.21%，报98.241点，日内交投区间为97.939-98.269点。 彭博美元指数涨0.13%，报1202.97点，日内交投区间为1200.04-1203.23点。",
+          "url": "https://wallstreetcn.com/livenews/3028908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时22分]"
+        },
+        {
+          "title": "美联储会议纪要公布后，现货金银短线波动不大，美元指数DXY小幅走高。",
+          "url": "https://flash.jin10.com/detail/20251231030228136800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时26分]"
+        },
+        {
+          "title": "美元指数30日上涨",
+          "url": "https://flash.jin10.com/detail/20251231041346663800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -797,11 +1040,12 @@
           "url": "https://flash.jin10.com/detail/20251231031255557800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时22分]"
         }
       ]
     },
@@ -819,8 +1063,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "金价波动",
@@ -832,65 +1076,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美联储会议纪要发布后，美元指数涨幅重新扩大至将近0.2%，逼近北京时间23:44刷新的日高98.269点。 美国10年期国债收益率持稳于4.12%附近，维持大约1个基点的涨幅；两年期美债收益率持稳于3.4450%附近，保持微幅下挫状态。 2/10年期美债收益率利差维持大约1.4个基点的涨幅，持稳于+67个基点下方。",
-          "url": "https://wallstreetcn.com/livenews/3028902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时26分]"
-        },
-        {
-          "title": "2年期美债收益率在美联储会议纪要公布后小幅走低，现报3.463%。",
-          "url": "https://flash.jin10.com/detail/20251231030419555800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周二（12月30日）纽约尾盘，ICE美元指数涨0.21%，报98.241点，日内交投区间为97.939-98.269点。 彭博美元指数涨0.13%，报1202.97点，日内交投区间为1200.04-1203.23点。",
-          "url": "https://wallstreetcn.com/livenews/3028908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "美联储会议纪要公布后，现货金银短线波动不大，美元指数DXY小幅走高。",
-          "url": "https://flash.jin10.com/detail/20251231030228136800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时26分]"
         }
       ]
     },
