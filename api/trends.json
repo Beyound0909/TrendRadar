@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T00:31:35.433226+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-31T01:23:08.850080+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时23分]"
         },
         {
           "title": "解放军军演登上日媒头条",
@@ -26,19 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周二（12月30日），南非富时/JSE非洲领先40可交易指数收涨0.43%，至10.87万点上方，2025年以来累计上涨44.20%，势必连续第三年走高、创历史上最佳年度表现。",
-          "url": "https://wallstreetcn.com/livenews/3028856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时23分]"
         },
         {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点，2025年以来已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨，后续高位持稳——试探2010年（欧债危机期间）年初顶部，年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
@@ -52,15 +41,165 @@
           "time_info": "00时31分"
         },
         {
-          "title": "今日重点关注的财经数据与事件：2025年12月31日 周三",
-          "url": "https://flash.jin10.com/detail/20251231000000001800",
+          "title": "ICE原糖期货跌3.0%，报14.80美分。",
+          "url": "https://wallstreetcn.com/livenews/3028866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251231004751651800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时23分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.4%，连续三个交易日走高，报369.98点，创3月25日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 军工股萨博公司Saab AB收涨2.7%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3028865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周二（12月30日），南非富时/JSE非洲领先40可交易指数收涨0.43%，至10.87万点上方，2025年以来累计上涨44.20%，势必连续第三年走高、创历史上最佳年度表现。",
+          "url": "https://wallstreetcn.com/livenews/3028856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2025年12月31日 周三",
+          "url": "https://flash.jin10.com/detail/20251231000000001800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
+          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
+          "url": "https://wallstreetcn.com/articles/3762272",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
+          "url": "https://www.cls.cn/detail/2244203",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.douyin.com/hot/2351614",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
+          "url": "https://flash.jin10.com/detail/20251230235722002800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "Prosus于12月22-26日按均价52.8621欧元回购股票65.2573万，合计0.345亿欧元（折合0.406亿美元）。 同期，Naspers按均价1120.1722南非兰特回购33.8611万，合计3.793亿兰特（折合0.227亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3028848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "内盘期货夜市多数收涨，LPG、玻璃涨超2.1%，铁矿石跌约0.7%",
+          "url": "https://wallstreetcn.com/livenews/3028845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "市场分析：美联储2026年开年或将延续“灵活应对”立场",
+          "url": "https://flash.jin10.com/detail/20251231004600566800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时23分"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -74,81 +213,26 @@
           "time_info": "00时31分"
         },
         {
-          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
-          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
-          "url": "https://flash.jin10.com/detail/20251230235722002800",
+          "title": "意大利富时MIB指数收涨1.14%，2025全年累涨31%，创1998年以来最佳年度表现。",
+          "url": "https://flash.jin10.com/detail/20251231004342933800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时23分"
         },
         {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
+          "title": "法国股指初步收涨0.81%，意大利股指初步收涨1.24%、银行指数涨2.06%，英国股指初步收涨0.82%。",
+          "url": "https://wallstreetcn.com/livenews/3028862",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
-          "url": "https://wallstreetcn.com/articles/3762272",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "Prosus于12月22-26日按均价52.8621欧元回购股票65.2573万，合计0.345亿欧元（折合0.406亿美元）。 同期，Naspers按均价1120.1722南非兰特回购33.8611万，合计3.793亿兰特（折合0.227亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/3028848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
-          "url": "https://www.cls.cn/detail/2244203",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "内盘期货夜市多数收涨，LPG、玻璃涨超2.1%，铁矿石跌约0.7%",
-          "url": "https://wallstreetcn.com/livenews/3028845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时23分"
         },
         {
           "title": "期货热点追踪",
@@ -162,15 +246,15 @@
           "time_info": "00时31分"
         },
         {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.douyin.com/hot/2351614",
-          "source": "抖音",
+          "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点。 2025年以来，该国股市已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨（特朗普关税威胁曾在4月份造成一波V型“插曲”），后续高位持稳——试探2010年（欧债危机期间）年初顶部。 年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
+          "url": "https://wallstreetcn.com/livenews/3028855",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时23分"
         },
         {
           "title": "美国法庭裁决指出，特朗普政府关于消费者金融保护局（CFPB）拨款存在法律障碍的说法是企图“扼杀该机构的透明化尝试”。",
@@ -220,7 +304,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -230,8 +314,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时23分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -241,8 +325,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时23分]"
         },
         {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
@@ -252,8 +336,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "美股开盘：百度高开超4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%AB%98%E5%BC%80%E8%B6%854%25",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 01时23分]"
         },
         {
           "title": "行业ETF美股盘初多数走低，可选消费ETF、生物科技指数ETF跌超0.4%，网络股指数ETF跌约0.3%，全球科技股指数ETF涨0.1%，半导体ETF涨超0.3%。",
@@ -277,11 +372,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时23分]"
         },
         {
           "title": "金价波动",
