@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T21:34:41.774566+08:00",
-  "total_titles_processed": 1774,
+  "generated_at": "2025-12-31T22:23:00.356076+08:00",
+  "total_titles_processed": 1830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 169,
+      "match_count": 172,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时51分 ~ 21时34分]"
+          "appearance_count": 18,
+          "time_info": "[09时51分 ~ 22时23分]"
         },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -108,6 +108,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
+          "title": "A股2025年收官：沪指全年上涨18.41%，创指暴涨49.57%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32291082",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 22时23分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月31日 周三",
@@ -180,19 +193,6 @@
           "time_info": "04时26分"
         },
         {
-          "title": "A股2025年收官：沪指全年上涨18.41%，创指暴涨49.57%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32291082",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 21时34分]"
-        },
-        {
           "title": "2025期货大事回顾",
           "url": "https://flash.jin10.com/detail/20251231163336256800",
           "source": "金十数据",
@@ -204,6 +204,17 @@
           "time_info": "17时28分"
         },
         {
+          "title": "特朗普媒体科技集团(DJT.O)盘前上涨5.8%，此前该公司宣布计划向股东分发数字代币。",
+          "url": "https://flash.jin10.com/detail/20251231214148176800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点，2025年以来已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨，后续高位持稳——试探2010年（欧债危机期间）年初顶部，年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
           "url": "https://wallstreetcn.com/livenews/3028855",
           "source": "华尔街见闻-快讯",
@@ -213,17 +224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "欧洲斯托克50指数2025年上涨18%，为连续第三年上涨。",
-          "url": "https://wallstreetcn.com/livenews/3029373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
         },
         {
           "title": "台湾加权指数最高上涨0.5%，创下28,860.87点的新高。",
@@ -268,6 +268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "纳斯达克100指数期货、标普500指数期货均转涨。",
+          "url": "https://wallstreetcn.com/livenews/3029382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "A股2025年收官：沪指全年收涨超18%",
@@ -425,6 +436,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时39分 ~ 13时28分]"
+        },
+        {
+          "title": "美元年度跌幅势创八年来最大 美联储动向将左右后市",
+          "url": "https://wallstreetcn.com/livenews/3029347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 22时23分]"
         },
         {
           "title": "台湾证交所加权股价指数上涨1%至28,999.21点。",
@@ -598,18 +622,6 @@
           "time_info": "[17时28分 ~ 18时25分]"
         },
         {
-          "title": "美元年度跌幅势创八年来最大 美联储动向将左右后市",
-          "url": "https://wallstreetcn.com/livenews/3029347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时48分 ~ 21时34分]"
-        },
-        {
           "title": "美联储会议纪要：政策制定者强调，必须明确传达国债购买的目的仅在于确保利率稳定，与货币政策无关。",
           "url": "https://flash.jin10.com/detail/20251231030238280800",
           "source": "金十数据",
@@ -680,6 +692,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 16时33分]"
+        },
+        {
+          "title": "欧洲斯托克50指数2025年上涨18%，为连续第三年上涨。",
+          "url": "https://wallstreetcn.com/livenews/3029373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时23分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）全球股市指数-欧洲市场（收盘）",
@@ -792,6 +816,17 @@
           "time_info": "[11时39分 ~ 13时28分]"
         },
         {
+          "title": "12月热点观察团",
+          "url": "https://search.bilibili.com/all?keyword=%E7%83%AD%E7%82%B9%E8%A7%82%E5%AF%9F%E5%9B%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 22时23分]"
+        },
+        {
           "title": "市场分析：美联储2026年开年或将延续“灵活应对”立场",
           "url": "https://flash.jin10.com/detail/20251231004600566800",
           "source": "金十数据",
@@ -864,6 +899,18 @@
           "time_info": "[04时26分 ~ 05时22分]"
         },
         {
+          "title": "欧洲斯托克50指数2025年累涨18%，连续第三年录得上涨。",
+          "url": "https://flash.jin10.com/detail/20251231212234396800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时23分]"
+        },
+        {
           "title": "周二（12月30日），彭博电动汽车价格回报指数跌0.23%，报3458.80点。 北京时间09:32，指数显著下跌，刷新日低至3438.18点，13:08出现一波显著的反弹行情，13:55刷新日高至3482.11点。",
           "url": "https://wallstreetcn.com/livenews/3028921",
           "source": "华尔街见闻-快讯",
@@ -886,6 +933,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
+          "title": "法国CAC 40指数2025年上涨10%。",
+          "url": "https://wallstreetcn.com/livenews/3029368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时23分]"
         },
         {
           "title": "美联储会议纪要：多位与会者指出，通胀居高不下的风险可能变得根深蒂固，并暗示进一步降息可能被误认为美联储对2%通胀目标缺乏承诺。",
@@ -946,6 +1005,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时26分]"
+        },
+        {
+          "title": "法国CAC40指数12月31日（周三）收盘下跌18.65点，跌幅0.23%，报8149.50点；2025年累计上涨10%。",
+          "url": "https://flash.jin10.com/detail/20251231211900828800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时23分]"
         },
         {
           "title": "台湾证交所加权股价指数收涨0.9%报28,963.60点。",
@@ -1139,6 +1210,18 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "金十图示：2025年12月31日（周三）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20251231210552215800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时23分]"
+        },
+        {
           "title": "美联储会议纪要：近几个月来就业下行风险有所增加",
           "url": "https://flash.jin10.com/detail/20251231032024792800",
           "source": "金十数据",
@@ -1197,6 +1280,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时22分]"
+        },
+        {
+          "title": "英国富时100指数2025年上涨22%，创2009年以来最佳年度表现。",
+          "url": "https://wallstreetcn.com/livenews/3029354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时23分]"
         },
         {
           "title": "美联储会议纪要：与会者普遍预期短期内通胀率将维持在较高水平",
@@ -1367,28 +1462,6 @@
           "time_info": "19时21分"
         },
         {
-          "title": "欧洲斯托克50指数2025年累涨18%，连续第三年录得上涨。",
-          "url": "https://flash.jin10.com/detail/20251231212234396800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "法国CAC 40指数2025年上涨10%。",
-          "url": "https://wallstreetcn.com/livenews/3029368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
           "title": "股指期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251231093112981800",
           "source": "金十数据",
@@ -1433,15 +1506,15 @@
           "time_info": "16时33分"
         },
         {
-          "title": "法国CAC40指数12月31日（周三）收盘下跌18.65点，跌幅0.23%，报8149.50点；2025年累计上涨10%。",
-          "url": "https://flash.jin10.com/detail/20251231211900828800",
+          "title": "特朗普媒体科技集团(DJT.O)：计划向本集团持有者分发数字代币，将利用Crypto.com的技术进行（数字代币）分发。",
+          "url": "https://flash.jin10.com/detail/20251231213255545800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时34分"
+          "time_info": "22时23分"
         },
         {
           "title": "标普500指数收跌9.50点，跌幅0.14%，报6896.24点。 道琼斯工业平均指数收跌94.87点，跌幅0.20%，报48367.06点。 纳斯达克综合指数（纳指）收跌55.27点，跌幅0.24%，报23419.08点。 纳斯达克100指数收跌63.00点，跌幅0.25%，报25462.561点。 纳斯达克生物科技指数收跌1.03%，报5707.25点。 费城半导体指数收跌0.13%，报7169.099点。 费城证交所KBW银行指数收跌0.56%，报165.55点。 道琼斯KBW地区银行指数收跌0.78%，报125.26点。",
@@ -1554,17 +1627,6 @@
           "time_info": "12时40分"
         },
         {
-          "title": "金十图示：2025年12月31日（周三）投机情绪指数",
-          "url": "https://flash.jin10.com/detail/20251231210552215800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
           "title": "国债期货开盘，30年期主力合约涨0.04%，10年期主力合约涨0.05%，5年期主力合约涨0.02%，2年期主力合约涨0.00%。",
           "url": "https://wallstreetcn.com/livenews/3029003",
           "source": "华尔街见闻-快讯",
@@ -1670,7 +1732,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -1706,17 +1768,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
-        },
-        {
-          "title": "英国富时100指数2025年上涨22%，创2009年以来最佳年度表现。",
-          "url": "https://wallstreetcn.com/livenews/3029354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
         },
         {
           "title": "美联储将于十分钟后公布货币政策会议纪要。",
@@ -1961,17 +2012,6 @@
           "time_info": "09时51分"
         },
         {
-          "title": "12月热点观察团",
-          "url": "https://search.bilibili.com/all?keyword=%E7%83%AD%E7%82%B9%E8%A7%82%E5%AF%9F%E5%9B%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
           "title": "A股有色板块早盘拉升，江西铜业冲击涨停，云南铜业、盛达资源、国城矿业、精艺股份、紫金矿业等涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3029025",
           "source": "华尔街见闻-快讯",
@@ -1986,7 +2026,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -2010,8 +2050,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时21分 ~ 21时34分]"
+          "appearance_count": 20,
+          "time_info": "[07时21分 ~ 22时23分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -2047,6 +2087,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 09时51分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3029392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
@@ -2144,6 +2195,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 01时23分]"
+        },
+        {
+          "title": "特朗普媒体科技集团美股盘前涨近6%，此前该公司宣布计划向股东分发数字代币。",
+          "url": "https://wallstreetcn.com/livenews/3029381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股盘中）",
