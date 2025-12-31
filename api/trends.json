@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T11:39:00.484390+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2025-12-31T12:40:55.505044+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 114,
+      "match_count": 121,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -115,17 +115,6 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
-          "title": "台湾证交所加权股价指数上涨1%至28,999.21点。",
-          "url": "https://flash.jin10.com/detail/20251231111301925800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：希望与沙特及其他国家扩大亚伯拉罕协议。 伊朗正在新地点重建导弹能力。 如果哈马斯被解除武装，加沙可能出现新政府。 特朗普和我想要在西岸建设基础设施。 我认为伊朗需要特朗普的警告。",
           "url": "https://wallstreetcn.com/livenews/3028961",
           "source": "华尔街见闻-快讯",
@@ -137,6 +126,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "WTI原油期货突破58美元/桶，日内涨0.09%。",
+          "url": "https://flash.jin10.com/detail/20251231120332919800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "WTI 2月原油期货收报57.95美元/桶。 NYMEX 2月天然气期货收报3.9720美元/百万英热单位。 NYMEX 1月汽油期货收报1.7210美元/加仑，NYMEX 1月取暖油期货收报2.1505美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3028905",
           "source": "华尔街见闻-快讯",
@@ -146,17 +146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "上证指数早盘收报3962.24点，跌0.07%。 深证成指早盘收报13513.21点，跌0.67%。 创业板指早盘收报3207.24点，跌1.10%。 沪深300早盘收报4630.63点，跌0.44%。 科创50早盘收报1347.95点，跌0.88%。 中证500早盘收报7444.43点，跌0.19%。 中证1000早盘收报7583.94点，跌0.18%。",
-          "url": "https://wallstreetcn.com/livenews/3029073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
         },
         {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点，2025年以来已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨，后续高位持稳——试探2010年（欧债危机期间）年初顶部，年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
@@ -245,6 +234,18 @@
           "time_info": "[05时22分 ~ 07时22分]"
         },
         {
+          "title": "美联储会议纪要：“大多数”官员预计12月后适合继续降息，部分主张“一段时间”按兵不动",
+          "url": "https://wallstreetcn.com/articles/3762338",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 12时40分]"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20251230234135335800",
           "source": "金十数据",
@@ -295,6 +296,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 02时35分]"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨1%至28,999.21点。",
+          "url": "https://flash.jin10.com/detail/20251231111301925800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 12时40分]"
         },
         {
           "title": "周二（12月30日），降息赢家指数跌0.33%，报99.34点。 “特朗普关税输家”指数跌0.70%，报111.29点。 “特朗普金融指数”跌0.60%，报173.74点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.97%，报15.49点。",
@@ -384,6 +397,18 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "上证指数早盘收报3962.24点，跌0.07%。 深证成指早盘收报13513.21点，跌0.67%。 创业板指早盘收报3207.24点，跌1.10%。 沪深300早盘收报4630.63点，跌0.44%。 科创50早盘收报1347.95点，跌0.88%。 中证500早盘收报7444.43点，跌0.19%。 中证1000早盘收报7583.94点，跌0.18%。",
+          "url": "https://wallstreetcn.com/livenews/3029073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 12时40分]"
+        },
+        {
           "title": "美联储会议纪要：政策制定者强调，必须明确传达国债购买的目的仅在于确保利率稳定，与货币政策无关。",
           "url": "https://flash.jin10.com/detail/20251231030238280800",
           "source": "金十数据",
@@ -456,18 +481,6 @@
           "time_info": "[03时19分 ~ 04时26分]"
         },
         {
-          "title": "美联储会议纪要：“大多数”官员预计12月后适合继续降息，部分主张“一段时间”按兵不动",
-          "url": "https://wallstreetcn.com/articles/3762338",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 11时39分]"
-        },
-        {
           "title": "提醒：北京时间03:00，美联储将发布12月FOMC货币政策会议的纪要文件。",
           "url": "https://wallstreetcn.com/livenews/3028895",
           "source": "华尔街见闻-快讯",
@@ -481,6 +494,18 @@
           "time_info": "[03时19分 ~ 05时22分]"
         },
         {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 12时40分]"
+        },
+        {
           "title": "市场分析：美联储2026年开年或将延续“灵活应对”立场",
           "url": "https://flash.jin10.com/detail/20251231004600566800",
           "source": "金十数据",
@@ -491,6 +516,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时35分]"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.68%，10年期主力合约跌0.17%，5年期主力合约跌0.10%，2年期主力合约跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3029070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 12时40分]"
         },
         {
           "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
@@ -673,6 +710,18 @@
           "time_info": "[05时22分 ~ 06时22分]"
         },
         {
+          "title": "台湾证交所加权股价指数上涨1%至28,999.21点。",
+          "url": "https://wallstreetcn.com/livenews/3029064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 12时40分]"
+        },
+        {
           "title": "美联储会议纪要：多数官员支持进一步降息 但政策路径分歧显著",
           "url": "https://www.cls.cn/detail/2244722",
           "source": "财联社热门",
@@ -730,17 +779,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时23分]"
-        },
-        {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
         },
         {
           "title": "美联储会议纪要：更为中性的政策立场有助于避免劳动力市场出现重大恶化",
@@ -801,6 +839,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时35分]"
+        },
+        {
+          "title": "芝商所在一周内第二次提高贵金属期货的保证金",
+          "url": "https://wallstreetcn.com/livenews/3029049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 12时40分]"
         },
         {
           "title": "美联储会议纪要：委员们一致认为准备金余额已降至充足水平",
@@ -884,15 +934,15 @@
           "time_info": "07时22分"
         },
         {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.68%，10年期主力合约跌0.17%，5年期主力合约跌0.10%，2年期主力合约跌0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3029070",
+          "title": "恒生指数2025年累计上涨超27%",
+          "url": "https://wallstreetcn.com/livenews/3029081",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "12时40分"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -950,15 +1000,15 @@
           "time_info": "05时22分"
         },
         {
-          "title": "台湾证交所加权股价指数上涨1%至28,999.21点。",
-          "url": "https://wallstreetcn.com/livenews/3029064",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2025年12月31日（周三）富时中国A50指数成分股午盘收盘行情一览：银行股走势分化，保险、酿酒行业多数走低",
+          "url": "https://flash.jin10.com/detail/20251231113316231800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "12时40分"
         },
         {
           "title": "突发！7倍芯片概念股明起停牌核查|盘后公告集锦",
@@ -981,6 +1031,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251231113133663800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "中证转债指数高开0.13%。N天准转、鼎捷转债涨30%触发临停，天创转债涨超14%。",
@@ -1016,6 +1077,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251231113123228800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约涨0.04%，10年期主力合约涨0.05%，5年期主力合约涨0.02%，2年期主力合约涨0.00%。",
           "url": "https://wallstreetcn.com/livenews/3029003",
           "source": "华尔街见闻-快讯",
@@ -1044,9 +1116,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约有涨有跌。铂跌超10%，钯跌超9%，燃料油、沪银跌近2%，低硫燃料油（LU）、沪铅、焦炭、硅铁、SC原油、菜粕跌超1%。涨幅方面，集运欧线、沪铝、液化石油气（LPG）、沪铜、甲醇、国际铜、沪镍、玻璃、铝合金涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251231113049552800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "台湾加权指数首次突破29,000点，日内涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251231112444007800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "上证指数开盘报3968.73点，涨0.09%。 深证成指开盘报13627.26点，涨0.17%。 创业板指开盘报3247.74点，涨0.15%。 沪深300开盘报4656.48点，涨0.11%。 科创50开盘报1367.17点，涨0.54%。 中证500开盘报7473.75点，涨0.20%。 中证1000开盘报7606.65点，涨0.12%。",
@@ -1058,17 +1152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "芝商所在一周内第二次提高贵金属期货的保证金",
-          "url": "https://wallstreetcn.com/livenews/3029049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-31）",
@@ -1121,7 +1204,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
@@ -1220,7 +1303,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
@@ -1231,7 +1314,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
@@ -1275,7 +1358,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
@@ -1330,7 +1413,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         }
@@ -1373,8 +1456,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 11时39分]"
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 12时40分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
@@ -1568,7 +1651,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
