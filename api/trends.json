@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T15:26:40.417599+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2025-12-31T16:33:09.193562+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 137,
+      "match_count": 146,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -40,8 +40,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时51分 ~ 15时26分]"
+          "appearance_count": 11,
+          "time_info": "[09时51分 ~ 16时33分]"
+        },
+        {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12,
+            10,
+            5,
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时38分 ~ 16时33分]"
         },
         {
           "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
@@ -92,21 +108,6 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12,
-            10,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时38分 ~ 15时26分]"
-        },
-        {
           "title": "今日重点关注的财经数据与事件：2025年12月31日 周三",
           "url": "https://flash.jin10.com/detail/20251231000000001800",
           "source": "金十数据",
@@ -155,6 +156,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "金十图示：2025年12月31日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251231161444078800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "WTI 2月原油期货收报57.95美元/桶。 NYMEX 2月天然气期货收报3.9720美元/百万英热单位。 NYMEX 1月汽油期货收报1.7210美元/加仑，NYMEX 1月取暖油期货收报2.1505美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3028905",
           "source": "华尔街见闻-快讯",
@@ -177,17 +189,6 @@
           "time_info": "00时31分"
         },
         {
-          "title": "国债期货收盘，30年期主力合约跌0.35%，10年期主力合约跌0.07%，5年期主力合约跌0.04%，2年期主力合约跌0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3029162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
           "title": "台湾加权指数最高上涨0.5%，创下28,860.87点的新高。",
           "url": "https://flash.jin10.com/detail/20251231093749514800",
           "source": "金十数据",
@@ -208,6 +209,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "国台办回应特朗普称不担心台海局势",
+          "url": "https://www.toutiao.com/trending/7589884892247543346/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 16时33分]"
         },
         {
           "title": "外交部回应特朗普谈解放军军演",
@@ -535,6 +549,18 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "国债期货收盘，30年期主力合约跌0.35%，10年期主力合约跌0.07%，5年期主力合约跌0.04%，2年期主力合约跌0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3029162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 16时33分]"
+        },
+        {
           "title": "金十图示：2025年12月31日（周三）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251231004751651800",
           "source": "金十数据",
@@ -634,16 +660,15 @@
           "time_info": "[11时39分 ~ 13时28分]"
         },
         {
-          "title": "国台办回应特朗普称不担心台海局势",
-          "url": "https://www.toutiao.com/trending/7589884892247543346/",
-          "source": "今日头条",
+          "title": "A股2025年收官：沪指全年收涨超18%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A12025%E5%B9%B4%E6%94%B6%E5%AE%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E5%85%A8%E5%B9%B4%E6%94%B6%E6%B6%A8%E8%B6%8518%25",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            16
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 15时26分]"
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "市场分析：美联储2026年开年或将延续“灵活应对”立场",
@@ -933,6 +958,18 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
+          "title": "A股2025年收官：沪指11连阳全年涨超18%，创业板指全年涨近50%",
+          "url": "https://wallstreetcn.com/livenews/3029152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 16时33分]"
+        },
+        {
           "title": "美联储会议纪要：更为中性的政策立场有助于避免劳动力市场出现重大恶化",
           "url": "https://flash.jin10.com/detail/20251231032508731800",
           "source": "金十数据",
@@ -1064,6 +1101,17 @@
           "time_info": "[11时38分 ~ 11时39分]"
         },
         {
+          "title": "特朗普关于伊朗的强硬表态释放何信号",
+          "url": "https://www.toutiao.com/trending/7589843589102833215/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
           "title": "美联储调查：预计未来12 个月内美联储将购买2200亿美元短期国债",
           "url": "https://flash.jin10.com/detail/20251231063620956800",
           "source": "金十数据",
@@ -1073,6 +1121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "2025年期货年度表现出炉：贵金属、有色领涨 年度分化显著",
+          "url": "https://flash.jin10.com/detail/20251231160829349800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "2025年A股并购重组盘点： 活跃度显著提升 “硬科技”成焦点",
@@ -1119,6 +1178,17 @@
           "time_info": "13时28分"
         },
         {
+          "title": "英国富时100指数12月31日（周三）开盘上涨7.74点，涨幅0.08%，报9948.45点;<br/>法国CAC40指数12月31日（周三）开盘下跌32.25点，跌幅0.39%，报8135.90点;<br/>西班牙IBEX35指数12月31日（周三）开盘下跌77.14点，跌幅0.44%，报17277.76点;",
+          "url": "https://flash.jin10.com/detail/20251231160811329800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "股指期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251231093112981800",
           "source": "金十数据",
@@ -1139,6 +1209,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "英国富时100指数开盘涨0.1%，法国CAC 40指数涨0.4%，西班牙IBEX指数跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3029199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "金十期货12月31日讯，船运调查机构ITS数据显示，马来西亚12月1-31日棕榈油出口量为1240587吨，较上月同期出口的1316455吨减少5.8%。",
+          "url": "https://flash.jin10.com/detail/20251231160320080800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "标普500指数收跌9.50点，跌幅0.14%，报6896.24点。 道琼斯工业平均指数收跌94.87点，跌幅0.20%，报48367.06点。 纳斯达克综合指数（纳指）收跌55.27点，跌幅0.24%，报23419.08点。 纳斯达克100指数收跌63.00点，跌幅0.25%，报25462.561点。 纳斯达克生物科技指数收跌1.03%，报5707.25点。 费城半导体指数收跌0.13%，报7169.099点。 费城证交所KBW银行指数收跌0.56%，报165.55点。 道琼斯KBW地区银行指数收跌0.78%，报125.26点。",
@@ -1207,15 +1299,15 @@
           "time_info": "09时51分"
         },
         {
-          "title": "A股2025年收官：沪指11连阳全年涨超18%，创业板指全年涨近50%",
-          "url": "https://wallstreetcn.com/livenews/3029152",
+          "title": "A股七只股票市值超万亿 农业银行登顶榜首",
+          "url": "https://wallstreetcn.com/livenews/3029179",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时26分"
+          "time_info": "16时33分"
         },
         {
           "title": "三张罕见反对票背后的撕裂 美联储纪要今晚揭晓政策谜底",
@@ -1323,7 +1415,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -1337,6 +1429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "金十期货图示",
+          "url": "https://flash.jin10.com/detail/20251231153832822800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "红星冷链申请通过香港IPO发行2330万股股票。",
@@ -1367,7 +1470,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -1641,8 +1744,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时21分 ~ 15时26分]"
+          "appearance_count": 13,
+          "time_info": "[07时21分 ~ 16时33分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -2023,8 +2126,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时38分 ~ 14时38分]"
+          "appearance_count": 8,
+          "time_info": "[11时38分 ~ 16时33分]"
         }
       ]
     }
