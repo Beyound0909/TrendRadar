@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T17:28:19.258342+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2025-12-31T18:25:43.394288+08:00",
+  "total_titles_processed": 1484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 148,
+      "match_count": 154,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -37,11 +37,12 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时51分 ~ 17时28分]"
+          "appearance_count": 13,
+          "time_info": "[09时51分 ~ 18时25分]"
         },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -157,6 +158,28 @@
           "time_info": "07时22分"
         },
         {
+          "title": "中国外汇交易中心：调整CFETS人民币汇率指数货币篮子的权重 1月1日起生效",
+          "url": "https://wallstreetcn.com/livenews/3029258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "印度NIFTY中盘股100指数上涨1%，小盘股100指数涨1.1%。",
+          "url": "https://flash.jin10.com/detail/20251231173811817800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "WTI 2月原油期货收报57.95美元/桶。 NYMEX 2月天然气期货收报3.9720美元/百万英热单位。 NYMEX 1月汽油期货收报1.7210美元/加仑，NYMEX 1月取暖油期货收报2.1505美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3028905",
           "source": "华尔街见闻-快讯",
@@ -168,24 +191,13 @@
           "time_info": "04时26分"
         },
         {
-          "title": "证监会：研究探索跟踪REITs指数的交易型开放式指数基金（REITsETF）等创新产品",
-          "url": "https://wallstreetcn.com/livenews/3029221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "2025期货大事回顾",
           "url": "https://flash.jin10.com/detail/20251231163336256800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -210,6 +222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "港交所公告显示，渣打银行于12月30日在其他交易所回购了总计533,652股股票，金额为970万英镑。",
+          "url": "https://flash.jin10.com/detail/20251231172239775800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "Minimax申请香港IPO。 寻求发行2540万股股票，发行价指导区间为每股151-161港元。 预计股票将于1月7日定价，将从1月9日开始交易。",
@@ -513,6 +536,31 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "证监会：研究探索跟踪REITs指数的交易型开放式指数基金（REITsETF）等创新产品",
+          "url": "https://wallstreetcn.com/livenews/3029221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时25分]"
+        },
+        {
+          "title": "A股2025年收官：沪指全年收涨超18%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A12025%E5%B9%B4%E6%94%B6%E5%AE%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E5%85%A8%E5%B9%B4%E6%94%B6%E6%B6%A8%E8%B6%8518%25",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时25分]"
+        },
+        {
           "title": "美联储会议纪要：政策制定者强调，必须明确传达国债购买的目的仅在于确保利率稳定，与货币政策无关。",
           "url": "https://flash.jin10.com/detail/20251231030238280800",
           "source": "金十数据",
@@ -619,18 +667,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时38分 ~ 15时26分]"
-        },
-        {
-          "title": "A股2025年收官：沪指全年收涨超18%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A12025%E5%B9%B4%E6%94%B6%E5%AE%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E5%85%A8%E5%B9%B4%E6%94%B6%E6%B6%A8%E8%B6%8518%25",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时28分]"
         },
         {
           "title": "提醒：北京时间03:00，美联储将发布12月FOMC货币政策会议的纪要文件。",
@@ -1183,6 +1219,17 @@
           "time_info": "16时33分"
         },
         {
+          "title": "机构：镑美在美联储会议纪要后跌至多日低点",
+          "url": "https://flash.jin10.com/detail/20251231172127412800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "2025年A股并购重组盘点： 活跃度显著提升 “硬科技”成焦点",
           "url": "https://wallstreetcn.com/livenews/3028954",
           "source": "华尔街见闻-快讯",
@@ -1280,6 +1327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "李在明展示特朗普送的白宫金钥匙(图)",
+          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "创业板指半日跌超1%，AI应用端逆势走强。 恒指今日收跌0.87%，恒生科技指数跌1.12%。 芝商所再次提高交易保证金，贵金属集体重挫，白银跌超5%。 国家发改委：国产算力水平有望不断提升，为AI产业提供有力支撑。 国家发改委：2026年提前批“两重”项目安排约2200亿元，支持城市地下管网等281个项目。 荷兰经济大臣称对安世半导体采取强硬措施确有必要，商务部回应：荷方切勿一意孤行。 重回扩张区间！中国12月官方制造业PMI 50.1，非制造业PMI 50.2。 中国12月RatingDog制造业PMI 50.1，新出口订单在近3个月来第二次下降。",
@@ -1445,6 +1503,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "A股2025年收官：沪指全年上涨18.41%，创指暴涨49.57%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32291082",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-31）",
@@ -1771,8 +1840,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时21分 ~ 17时28分]"
+          "appearance_count": 15,
+          "time_info": "[07时21分 ~ 18时25分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
