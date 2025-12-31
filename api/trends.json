@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T09:51:58.306555+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2025-12-31T11:39:00.484390+08:00",
+  "total_titles_processed": 910,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 99,
+      "match_count": 114,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 09时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 11时39分]"
         },
         {
           "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
@@ -91,6 +91,17 @@
           "time_info": "[00时31分 ~ 05时22分]"
         },
         {
+          "title": "特朗普为何称不担心解放军绕台军演",
+          "url": "https://www.toutiao.com/trending/7589509514882891795/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2025年12月31日 周三",
           "url": "https://flash.jin10.com/detail/20251231000000001800",
           "source": "金十数据",
@@ -102,6 +113,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨1%至28,999.21点。",
+          "url": "https://flash.jin10.com/detail/20251231111301925800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "以色列总理内塔尼亚胡：希望与沙特及其他国家扩大亚伯拉罕协议。 伊朗正在新地点重建导弹能力。 如果哈马斯被解除武装，加沙可能出现新政府。 特朗普和我想要在西岸建设基础设施。 我认为伊朗需要特朗普的警告。",
@@ -126,6 +148,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "上证指数早盘收报3962.24点，跌0.07%。 深证成指早盘收报13513.21点，跌0.67%。 创业板指早盘收报3207.24点，跌1.10%。 沪深300早盘收报4630.63点，跌0.44%。 科创50早盘收报1347.95点，跌0.88%。 中证500早盘收报7444.43点，跌0.19%。 中证1000早盘收报7583.94点，跌0.18%。",
+          "url": "https://wallstreetcn.com/livenews/3029073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点，2025年以来已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨，后续高位持稳——试探2010年（欧债危机期间）年初顶部，年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
           "url": "https://wallstreetcn.com/livenews/3028855",
           "source": "华尔街见闻-快讯",
@@ -143,7 +176,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -210,6 +243,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 07时22分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251230234135335800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 11时39分]"
         },
         {
           "title": "美联储会议纪要：降息决策极度胶着，大部分官员认为随着时间的推移继续降息是适宜的",
@@ -286,18 +332,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时23分 ~ 03时19分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251230234135335800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 09时51分]"
         },
         {
           "title": "美联储明年1月维持利率不变的概率为85.1%",
@@ -420,6 +454,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时26分]"
+        },
+        {
+          "title": "美联储会议纪要：“大多数”官员预计12月后适合继续降息，部分主张“一段时间”按兵不动",
+          "url": "https://wallstreetcn.com/articles/3762338",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时39分]"
         },
         {
           "title": "提醒：北京时间03:00，美联储将发布12月FOMC货币政策会议的纪要文件。",
@@ -627,6 +673,17 @@
           "time_info": "[05时22分 ~ 06时22分]"
         },
         {
+          "title": "美联储会议纪要：多数官员支持进一步降息 但政策路径分歧显著",
+          "url": "https://www.cls.cn/detail/2244722",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
           "title": "美联储工作人员预测的经济增长前景略高于10月会议时的预期。",
           "url": "https://flash.jin10.com/detail/20251231030101389800",
           "source": "金十数据",
@@ -673,6 +730,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
         },
         {
           "title": "美联储会议纪要：更为中性的政策立场有助于避免劳动力市场出现重大恶化",
@@ -783,15 +851,15 @@
           "time_info": "[04时26分 ~ 05时22分]"
         },
         {
-          "title": "美联储会议纪要：“大多数”官员预计12月后适合继续降息，部分主张“一段时间”按兵不动",
-          "url": "https://wallstreetcn.com/articles/3762338",
-          "source": "华尔街见闻",
+          "title": "美媒：特朗普正试图让世界MAGA化",
+          "url": "https://www.toutiao.com/trending/7589793491610242587/",
+          "source": "今日头条",
           "ranks": [
-            6
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
         },
         {
           "title": "美联储调查：预计未来12 个月内美联储将购买2200亿美元短期国债",
@@ -816,6 +884,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.68%，10年期主力合约跌0.17%，5年期主力合约跌0.10%，2年期主力合约跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3029070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
           "url": "https://wallstreetcn.com/articles/3762270",
           "source": "华尔街见闻",
@@ -833,7 +912,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -844,7 +923,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -871,13 +950,24 @@
           "time_info": "05时22分"
         },
         {
+          "title": "台湾证交所加权股价指数上涨1%至28,999.21点。",
+          "url": "https://wallstreetcn.com/livenews/3029064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
           "title": "突发！7倍芯片概念股明起停牌核查|盘后公告集锦",
           "url": "https://www.cls.cn/detail/2244602",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -899,7 +989,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -932,7 +1022,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -948,15 +1038,37 @@
           "time_info": "03时19分"
         },
         {
+          "title": "芝商所一周内两次上调贵金属期货保证金叠加清淡的假日行情，现货金银价格回落，多头情绪大幅回调，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251231105426353800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
           "title": "上证指数开盘报3968.73点，涨0.09%。 深证成指开盘报13627.26点，涨0.17%。 创业板指开盘报3247.74点，涨0.15%。 沪深300开盘报4656.48点，涨0.11%。 科创50开盘报1367.17点，涨0.54%。 中证500开盘报7473.75点，涨0.20%。 中证1000开盘报7606.65点，涨0.12%。",
           "url": "https://wallstreetcn.com/livenews/3029000",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "芝商所在一周内第二次提高贵金属期货的保证金",
+          "url": "https://wallstreetcn.com/livenews/3029049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-31）",
@@ -965,7 +1077,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -987,7 +1099,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -1001,6 +1113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "贵金属期货短线回落",
+          "url": "https://flash.jin10.com/detail/20251231104945837800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "美国法庭裁决指出，特朗普政府关于消费者金融保护局（CFPB）拨款存在法律障碍的说法是企图“扼杀该机构的透明化尝试”。",
@@ -1042,7 +1165,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -1086,9 +1209,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "恒生科技指数日内跌超1%。携程集团跌超3%，网易跌近3%，华虹半导体逆市涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3029037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）全球股市指数-亚太市场",
+          "url": "https://flash.jin10.com/detail/20251231103423223800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "标普500指数低开5.30点，跌幅0.08%，报6900.44点； 道琼斯工业平均指数低开27.05点，跌幅0.06%，报48434.88点； 纳斯达克综合指数低开8.68点，跌幅0.04%，报23465.67点。",
@@ -1108,7 +1253,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -1124,13 +1269,24 @@
           "time_info": "03时19分"
         },
         {
+          "title": "现货钯金日内跌超4%，现报1555.31美元/盎司，此前芝商所一周内二次上调贵金属期货保证金。",
+          "url": "https://flash.jin10.com/detail/20251231103345970800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
           "title": "台湾证交所加权股价指数开盘变动不大。",
           "url": "https://wallstreetcn.com/livenews/3028989",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -1141,7 +1297,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -1152,7 +1308,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -1163,9 +1319,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "A股有色板块早盘拉升，江西铜业冲击涨停，云南铜业、盛达资源、国城矿业、精艺股份、紫金矿业等涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3029025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         }
       ]
     },
@@ -1206,8 +1373,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 11时39分]"
+        },
+        {
+          "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
+          "url": "https://www.cls.cn/detail/2244733",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时21分 ~ 09时51分]"
+          "time_info": "[09时51分 ~ 11时39分]"
         },
         {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
@@ -1221,17 +1399,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 09时51分]"
-        },
-        {
-          "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
-          "url": "https://www.cls.cn/detail/2244733",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
         },
         {
           "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
@@ -1366,6 +1533,59 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
+          "title": "金价周二略微反弹",
+          "url": "https://wallstreetcn.com/livenews/3028932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）上海金早盘价为980.89元/克，较国际金价(976.71元/克)，高4.18元/克",
+          "url": "https://flash.jin10.com/detail/20251231105932049800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1415,48 +1635,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "金价周二略微反弹",
-          "url": "https://wallstreetcn.com/livenews/3028932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时22分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
         }
       ]
     },
@@ -1549,6 +1727,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待黄金白银价格波动",
+          "url": "https://www.douyin.com/hot/2351661",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
         }
       ]
     }
