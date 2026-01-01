@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T15:25:47.201547+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-01-01T16:33:06.315853+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,19 @@
           "time_info": "[00时29分 ~ 04时26分]"
         },
         {
+          "title": "突发！300亿商业航天概念股涉嫌信息披露违法违规被证监会立案|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2245906",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 16时33分]"
+        },
+        {
           "title": "中方回应特朗普涉东部战区军演言论",
           "url": "https://www.toutiao.com/trending/7589836293949902363/",
           "source": "今日头条",
@@ -64,11 +77,12 @@
           "ranks": [
             3,
             2,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 15时25分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 16时33分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.1%。 热门中概股里，蔚来初步收跌7.3%，小鹏跌4.7%，文远知行跌2.5%，网易、理想、百度、新东方、小马智行跌超1%。",
@@ -91,17 +105,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        },
-        {
-          "title": "巴基斯坦KSE-100指数涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3029582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         },
         {
           "title": "标普500指数跌0.5%，纳斯达克100指数跌0.6%。",
@@ -158,18 +161,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时18分 ~ 06时23分]"
-        },
-        {
-          "title": "突发！300亿商业航天概念股涉嫌信息披露违法违规被证监会立案|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2245906",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 15时25分]"
         },
         {
           "title": "周三（12月31日），彭博电动汽车价格回报指数跌0.40%，报3444.85点。 12月份累涨0.76%呈现出W形走势，四季度累涨0.14%，2025年累计上涨超43.84%。",
@@ -293,6 +284,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3029582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时33分]"
         },
         {
           "title": "比特币跌穿87600美元刷新日低，日内稍早持续震荡上行，北京时间22:09还曾涨至89081.91美元刷新日高，之后相对显著地持续下挫。 彭博数据显示，狗狗币短线跳水，日内整体跌超5.13%，刷新日低至0.1164美元。",
@@ -789,8 +792,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 15时25分]"
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 16时33分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
@@ -934,8 +937,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 15时25分]"
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 16时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         }
       ]
     },
