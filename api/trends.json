@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T18:26:43.455175+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-01-01T19:21:07.721175+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "A股2025年收官：沪指全年上涨18.41%，创指暴涨49.57%",
@@ -53,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时10分 ~ 18时26分]"
+          "appearance_count": 12,
+          "time_info": "[12时10分 ~ 19时21分]"
         },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -97,6 +97,21 @@
           "time_info": "05时21分"
         },
         {
+          "title": "巴基斯坦KSE-100指数涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3029582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            17,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 19时21分]"
+        },
+        {
           "title": "美国总统特朗普宣布：从芝加哥、洛杉矶、波特兰撤走国民警卫队。",
           "url": "https://wallstreetcn.com/livenews/3029479",
           "source": "华尔街见闻-快讯",
@@ -106,6 +121,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "股神谢幕！伯克希尔生涯最后一年，巴菲特坚决“卖股票，囤现金”",
+          "url": "https://wallstreetcn.com/articles/3762420",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 19时21分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "标普500指数跌0.5%，纳斯达克100指数跌0.6%。",
@@ -162,20 +200,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时18分 ~ 06时23分]"
-        },
-        {
-          "title": "巴基斯坦KSE-100指数涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3029582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 18时26分]"
         },
         {
           "title": "周三（12月31日），彭博电动汽车价格回报指数跌0.40%，报3444.85点。 12月份累涨0.76%呈现出W形走势，四季度累涨0.14%，2025年累计上涨超43.84%。",
@@ -301,18 +325,6 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
-          "title": "股神谢幕！伯克希尔生涯最后一年，巴菲特坚决“卖股票，囤现金”",
-          "url": "https://wallstreetcn.com/articles/3762420",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 18时26分]"
-        },
-        {
           "title": "比特币跌穿87600美元刷新日低，日内稍早持续震荡上行，北京时间22:09还曾涨至89081.91美元刷新日高，之后相对显著地持续下挫。 彭博数据显示，狗狗币短线跳水，日内整体跌超5.13%，刷新日低至0.1164美元。",
           "url": "https://wallstreetcn.com/livenews/3029434",
           "source": "华尔街见闻-快讯",
@@ -411,6 +423,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "“股票盛世”！全球股市连续第3年“两位数上涨”",
+          "url": "https://wallstreetcn.com/articles/3762416",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 19时21分]"
         },
         {
           "title": "美国能源信息署（EIA）数据显示上周汽油库存增幅大于预期，美国汽油期货跌幅扩大。",
@@ -677,7 +700,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -808,8 +831,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时01分 ~ 18时26分]"
+          "appearance_count": 14,
+          "time_info": "[10时01分 ~ 19时21分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -917,22 +940,12 @@
           "url": "https://wallstreetcn.com/articles/3762429",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
-          "url": "https://flash.jin10.com/detail/20260101173343204800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时21分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -940,11 +953,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时21分]"
+        },
+        {
+          "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
+          "url": "https://flash.jin10.com/detail/20260101173343204800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时26分]"
+          "time_info": "[18时26分 ~ 19时21分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -953,9 +979,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时21分]"
         }
       ]
     },
