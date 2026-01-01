@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T12:10:58.007445+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2026-01-01T13:30:05.111703+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "A股2025年收官：沪指全年上涨18.41%，创指暴涨49.57%",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时30分]"
         },
         {
           "title": "美联储会议纪要：“大多数”官员预计12月后适合继续降息，部分主张“一段时间”按兵不动",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 12时10分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 13时30分]"
         },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -309,6 +309,18 @@
           "time_info": "[05时21分 ~ 07时22分]"
         },
         {
+          "title": "突发！300亿商业航天概念股涉嫌信息披露违法违规被证监会立案|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2245906",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时30分]"
+        },
+        {
           "title": "穆迪分析：美联储或于2026年上半年积极降息三次",
           "url": "https://wallstreetcn.com/livenews/3029442",
           "source": "华尔街见闻-快讯",
@@ -478,6 +490,18 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
+          "url": "https://flash.jin10.com/detail/20260101113737125800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时30分]"
+        },
+        {
           "title": "穆迪分析：美联储或于2026年上半年积极降息三次",
           "url": "https://flash.jin10.com/detail/20260101011006569800",
           "source": "金十数据",
@@ -571,6 +595,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "印度Nifty快速消费品指数跌2%。",
+          "url": "https://flash.jin10.com/detail/20260101123935564800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
+        },
+        {
           "title": "纽约白银期货跌超9%下探70美元整数位心理关口，现货白银全年涨约148%",
           "url": "https://wallstreetcn.com/livenews/3029495",
           "source": "华尔街见闻-快讯",
@@ -580,28 +615,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
-          "url": "https://flash.jin10.com/detail/20260101113737125800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "突发！300亿商业航天概念股涉嫌信息披露违法违规被证监会立案|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2245906",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月23日当周，在纽约商品交易所（NYMEX）和洲际交易所（ICE）的四个主要市场中，天然气投机者的净多头头寸减少37,185份合约，至127,281份合约。",
@@ -654,7 +667,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -665,7 +678,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -698,7 +711,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -754,6 +767,18 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 13时30分]"
+        },
+        {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260101050538351800",
           "source": "金十数据",
@@ -764,18 +789,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时23分]"
-        },
-        {
-          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
-          "url": "https://www.cls.cn/detail/2246008",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 12时10分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
@@ -906,8 +919,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 12时10分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 13时30分]"
         }
       ]
     },
