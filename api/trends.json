@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T16:33:06.315853+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-01-01T17:28:13.480617+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "A股2025年收官：沪指全年上涨18.41%，创指暴涨49.57%",
@@ -49,11 +49,12 @@
           "ranks": [
             13,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时10分 ~ 16时33分]"
+          "appearance_count": 9,
+          "time_info": "[12时10分 ~ 17时28分]"
         },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -238,6 +239,19 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "巴基斯坦KSE-100指数涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3029582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 17时28分]"
+        },
+        {
           "title": "标普500指数的11个板块全线收跌，房地产板块跌1%，原材料、工业、信息技术/科技、可选消费板块跌0.88%-0.8%，能源板块跌0.52%表现“顺数第二”，电信板块跌0.4%。",
           "url": "https://wallstreetcn.com/livenews/3029489",
           "source": "华尔街见闻-快讯",
@@ -284,18 +298,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "巴基斯坦KSE-100指数涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3029582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 16时33分]"
         },
         {
           "title": "比特币跌穿87600美元刷新日低，日内稍早持续震荡上行，北京时间22:09还曾涨至89081.91美元刷新日高，之后相对显著地持续下挫。 彭博数据显示，狗狗币短线跳水，日内整体跌超5.13%，刷新日低至0.1164美元。",
@@ -396,6 +398,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "股神谢幕！伯克希尔生涯最后一年，巴菲特坚决“卖股票，囤现金”",
+          "url": "https://wallstreetcn.com/articles/3762420",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 17时28分]"
         },
         {
           "title": "美国能源信息署（EIA）数据显示上周汽油库存增幅大于预期，美国汽油期货跌幅扩大。",
@@ -773,6 +786,19 @@
           "time_info": "[00时29分 ~ 06时23分]"
         },
         {
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时01分 ~ 17时28分]"
+        },
+        {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
           "url": "https://www.cls.cn/detail/2245895",
           "source": "财联社热门",
@@ -782,18 +808,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时22分]"
-        },
-        {
-          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
-          "url": "https://www.cls.cn/detail/2246008",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 16时33分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
@@ -924,6 +938,51 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 17时28分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
+          "url": "https://wallstreetcn.com/livenews/3029596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -937,25 +996,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 16时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
+          "appearance_count": 11,
+          "time_info": "[10时01分 ~ 17时28分]"
         }
       ]
     },
