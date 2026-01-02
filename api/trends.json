@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T16:32:50.404227+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-01-02T17:28:08.833615+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 67,
+      "match_count": 72,
       "titles": [
         {
           "title": "股神谢幕！伯克希尔生涯最后一年，巴菲特坚决“卖股票，囤现金”",
@@ -66,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时53分 ~ 16时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 17时28分]"
         },
         {
           "title": "突发！300亿商业航天概念股涉嫌信息披露违法违规被证监会立案|盘后公告集锦",
@@ -155,15 +155,15 @@
           "time_info": "[01时22分 ~ 06时23分]"
         },
         {
-          "title": "欧洲斯托克50指数涨0.5%，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3029776",
-          "source": "华尔街见闻-快讯",
+          "title": "全球股市开门红：纳指期货涨1%，英股创新高，欧股集体走高，金银领衔贵金属反弹，伦铝站上3000美元",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 17时28分]"
         },
         {
           "title": "即将揭晓！三位美联储主席竞逐者，谁能笑到最后？",
@@ -237,6 +237,30 @@
           "time_info": "[04时27分 ~ 07时22分]"
         },
         {
+          "title": "伊朗最高领袖顾问拉里贾尼：美国总统特朗普应当明白，美国干涉伊朗抗议问题无异于在整个地区引发混乱。",
+          "url": "https://flash.jin10.com/detail/20260102171345253800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "特朗普承认服用阿司匹林",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 17时28分]"
+        },
+        {
           "title": "韩国央行行长：韩元汇率走低，部分原因在于韩国加大了对海外股票的投资。",
           "url": "https://flash.jin10.com/detail/20260102113019204800",
           "source": "金十数据",
@@ -274,6 +298,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时28分 ~ 15时27分]"
+        },
+        {
+          "title": "欧洲斯托克50指数涨0.5%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3029776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时28分]"
         },
         {
           "title": "恒生指数早盘涨2.18%，恒生科技指数涨3.38%。壁仞科技上市首日涨超72%；华虹半导体涨超9%，百度集团涨超7%，三花智控涨超6%，网易涨超5%，理想汽车涨超4%，中芯国际涨超4%，金风科技涨超17%，德林控股涨超14%。",
@@ -367,18 +403,6 @@
           "time_info": "[00时31分 ~ 02时34分]"
         },
         {
-          "title": "特朗普承认服用阿司匹林",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 16时32分]"
-        },
-        {
           "title": "特朗普承认手上瘀伤是服用药物造成",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%89%8B%E4%B8%8A%E7%98%80%E4%BC%A4%E6%98%AF%E6%9C%8D%E7%94%A8%E8%8D%AF%E7%89%A9%E9%80%A0%E6%88%90",
           "source": "百度热搜",
@@ -413,6 +437,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时37分 ~ 15时27分]"
+        },
+        {
+          "title": "港股2026年开门红：恒生指数收盘涨2.76%，恒生科技指数涨4%，壁仞科技涨约76%",
+          "url": "https://wallstreetcn.com/livenews/3029770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时28分]"
         },
         {
           "title": "韩国KOSPI指数上涨2%。",
@@ -473,6 +509,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时27分 ~ 16时32分]"
+        },
+        {
+          "title": "欧洲斯托克50指数开盘跌0.2%，德国DAX指数平开，英国富时100指数涨0.1%，法国CAC 40指数跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3029768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时28分]"
         },
         {
           "title": "英国12月Nationwide房价指数年率 0.6%，预期1.20%，前值1.80%。",
@@ -571,6 +619,17 @@
           "time_info": "[00时31分 ~ 01时22分]"
         },
         {
+          "title": "唐驳虎：特朗普发现“弹药”不够用了",
+          "url": "https://www.toutiao.com/trending/7590682268167835155/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 17时28分]"
+        },
+        {
           "title": "特朗普的关税大棒挥不下去了吗",
           "url": "https://www.toutiao.com/trending/7590646791305956874/",
           "source": "今日头条",
@@ -580,17 +639,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "港股2026年开门红：恒生指数收盘涨2.76%，恒生科技指数涨4%，壁仞科技涨约76%",
-          "url": "https://wallstreetcn.com/livenews/3029770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
         },
         {
           "title": "马杜罗证实曾与特朗普通话10分钟 重申“要和平不要战争”",
@@ -615,17 +663,6 @@
           "time_info": "09时53分"
         },
         {
-          "title": "欧洲斯托克50指数开盘跌0.2%，德国DAX指数平开，英国富时100指数涨0.1%，法国CAC 40指数跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3029768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
           "title": "美联储1月维持利率不变的概率为85.1%",
           "url": "https://flash.jin10.com/detail/20260102060939087800",
           "source": "金十数据",
@@ -643,7 +680,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -720,7 +757,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -747,6 +784,17 @@
           "time_info": "15时27分"
         },
         {
+          "title": "恒生指数公司将于2月13日公布第四季度季检结果。",
+          "url": "https://wallstreetcn.com/livenews/3029780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "机构首席投资官：美联储预计将继续将利率降至中性",
           "url": "https://flash.jin10.com/detail/20260102142910940800",
           "source": "金十数据",
@@ -756,6 +804,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "英国富时100指数首次突破10000点大关，日内涨0.78%。",
+          "url": "https://wallstreetcn.com/livenews/3029777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "台湾加权指数上涨0.8%，创下29,202.23点的历史新高。",
@@ -815,6 +874,95 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 17时28分]"
+        },
+        {
+          "title": "美股三大股指期货周五开盘微涨。",
+          "url": "https://flash.jin10.com/detail/20260102070027378800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "美股盘前，中概股大涨，百度涨约12%",
+          "url": "https://wallstreetcn.com/livenews/3029794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
+          "url": "https://wallstreetcn.com/livenews/3029712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时28分]"
+        },
+        {
+          "title": "美股期货上涨，金银领衔贵金属反弹，美元疲软",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 16时32分]"
+        },
+        {
+          "title": "美股三大股指期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.55%，道指期货涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3029787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "美股三大股指期货走高，纳指期货涨超1%，标普500指数期货涨0.55%，道指期货涨0.23%。",
+          "url": "https://flash.jin10.com/detail/20260102165416378800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 5,
       "titles": [
@@ -831,30 +979,32 @@
           "time_info": "[00时30分 ~ 16时32分]"
         },
         {
-          "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
-          "url": "https://www.zhihu.com/question/1990084005744362243",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时53分 ~ 16时32分]"
-        },
-        {
           "title": "UP主解读DeepSeek梁文锋新论文",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
           "source": "bilibili 热搜",
           "ranks": [
             1,
             2,
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时42分 ~ 16时32分]"
+          "appearance_count": 11,
+          "time_info": "[11时42分 ~ 17时28分]"
+        },
+        {
+          "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
+          "url": "https://www.zhihu.com/question/1990084005744362243",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 17时28分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -870,8 +1020,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时30分 ~ 16时32分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 17时28分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -892,7 +1042,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -942,66 +1092,23 @@
           "url": "https://wallstreetcn.com/articles/3762439",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
-          "url": "https://www.cls.cn/detail/2246008",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时30分 ~ 16时32分]"
-        },
-        {
-          "title": "美股三大股指期货周五开盘微涨。",
-          "url": "https://flash.jin10.com/detail/20260102070027378800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
-          "url": "https://wallstreetcn.com/livenews/3029712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时28分]"
-        },
-        {
-          "title": "美股期货上涨，金银领衔贵金属反弹，美元疲软",
-          "url": "https://wallstreetcn.com/articles/3762449",
-          "source": "华尔街见闻",
-          "ranks": [
             10,
             9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时26分 ~ 16时32分]"
+          "time_info": "[16时32分 ~ 17时28分]"
+        },
+        {
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 17时28分]"
         }
       ]
     },
@@ -1050,6 +1157,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 15时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债于2026年首个交易日下跌，就业市场韧性引关注",
+          "url": "https://flash.jin10.com/detail/20260102170712304800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     }
