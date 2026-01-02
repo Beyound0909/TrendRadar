@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T11:43:17.352815+08:00",
-  "total_titles_processed": 762,
+  "generated_at": "2026-01-02T12:44:00.193368+08:00",
+  "total_titles_processed": 821,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "股神谢幕！伯克希尔生涯最后一年，巴菲特坚决“卖股票，囤现金”",
@@ -38,11 +38,12 @@
             9,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 11时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 12时44分]"
         },
         {
           "title": "“股票盛世”！全球股市连续第3年“两位数上涨”",
@@ -138,17 +139,6 @@
           "time_info": "09时53分"
         },
         {
-          "title": "韩国央行行长：韩元汇率走低，部分原因在于韩国加大了对海外股票的投资。",
-          "url": "https://flash.jin10.com/detail/20260102113019204800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
           "title": "【2026年第一个交易日，港股高开】香港恒生指数开盘涨0.34%，恒生科技指数涨0.58%。携程集团、网易涨超2%，理想汽车、京东健康等涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3029693",
           "source": "华尔街见闻-快讯",
@@ -169,6 +159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "恒生指数早盘涨2.18%，恒生科技指数涨3.38%。壁仞科技上市首日涨超72%；华虹半导体涨超9%，百度集团涨超7%，三花智控涨超6%，网易涨超5%，理想汽车涨超4%，中芯国际涨超4%，金风科技涨超17%，德林控股涨超14%。",
+          "url": "https://wallstreetcn.com/livenews/3029726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "特朗普：10月份体检时进行的是CT扫描而非核磁共振",
@@ -194,6 +195,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "即将揭晓！三位美联储主席竞逐者，谁能笑到最后？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32292469",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 12时44分]"
+        },
+        {
+          "title": "即将揭晓！三位美联储主席竞逐者，谁能笑到最后？",
+          "url": "https://news.ifeng.com/c/8pZwQivoI8w",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 12时44分]"
+        },
+        {
+          "title": "韩国央行行长：韩元汇率走低，部分原因在于韩国加大了对海外股票的投资。",
+          "url": "https://flash.jin10.com/detail/20260102113019204800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时44分]"
+        },
+        {
+          "title": "数字人民币2.0：“计息数字货币”的机制与技术创新",
+          "url": "https://wallstreetcn.com/articles/3762426",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 12时44分]"
         },
         {
           "title": "韩国综合股价指数创纪录高位。",
@@ -222,28 +270,6 @@
           "time_info": "[04时27分 ~ 07时22分]"
         },
         {
-          "title": "即将揭晓！三位美联储主席竞逐者，谁能笑到最后？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32292469",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时43分]"
-        },
-        {
-          "title": "即将揭晓！三位美联储主席竞逐者，谁能笑到最后？",
-          "url": "https://news.ifeng.com/c/8pZwQivoI8w",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时43分]"
-        },
-        {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
           "url": "https://flash.jin10.com/detail/20260101224323084800",
           "source": "金十数据",
@@ -257,15 +283,64 @@
           "time_info": "[00时31分 ~ 02时34分]"
         },
         {
-          "title": "数字人民币2.0：“计息数字货币”的机制与技术创新",
-          "url": "https://wallstreetcn.com/articles/3762426",
-          "source": "华尔街见闻",
+          "title": "香港恒生指数涨超2%，恒生科技指数涨3.58%。",
+          "url": "https://wallstreetcn.com/livenews/3029711",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
+          "time_info": "[11时43分 ~ 12时44分]"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨1%至29,257.22点。",
+          "url": "https://wallstreetcn.com/livenews/3029708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时44分]"
+        },
+        {
+          "title": "台湾加权指数上涨0.8%，创下29,202.23点的历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3029703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时44分]"
+        },
+        {
+          "title": "纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
+          "url": "https://flash.jin10.com/detail/20260102105358575800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时44分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）全球股市指数-亚太市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260102104431874800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时44分]"
         },
         {
           "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
@@ -302,17 +377,6 @@
           "time_info": "09时53分"
         },
         {
-          "title": "香港恒生指数涨超2%，恒生科技指数涨3.58%。",
-          "url": "https://wallstreetcn.com/livenews/3029711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
           "title": "美联储1月维持利率不变的概率为85.1%",
           "url": "https://flash.jin10.com/detail/20260102060939087800",
           "source": "金十数据",
@@ -346,6 +410,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "韩国央行行长：美元兑韩元汇率走高部分源于韩国对海外股票投资增加",
+          "url": "https://wallstreetcn.com/livenews/3029719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "韩国央行行长李昌镛：将审视韩国央行对未来利率路径的前瞻性指引政策，美元兑韩元汇率在1400点位的高位似乎与韩国经济的基本面相去甚远。",
           "url": "https://flash.jin10.com/detail/20260102083048672800",
           "source": "金十数据",
@@ -366,17 +441,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "台湾证交所加权股价指数上涨1%至29,257.22点。",
-          "url": "https://wallstreetcn.com/livenews/3029708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
         },
         {
           "title": "周四（1月1日），孟加拉DSE广义指数收涨0.93%，报4910.61点，本周（连续五个自然日，12月31日休市）累计上涨0.55%。",
@@ -402,45 +466,12 @@
         },
         {
           "title": "台湾加权指数上涨0.8%，创下29,202.23点的历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3029703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
-          "url": "https://flash.jin10.com/detail/20260102105358575800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）全球股市指数-亚太市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260102104431874800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "台湾加权指数上涨0.8%，创下29,202.23点的历史新高。",
           "url": "https://flash.jin10.com/detail/20260102102042870800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -451,7 +482,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -462,7 +493,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -503,8 +534,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 11时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 12时44分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -517,8 +548,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 11时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 12时44分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -540,11 +571,12 @@
           "url": "https://www.zhihu.com/question/1990084005744362243",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 12时44分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -554,8 +586,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 12时44分]"
         }
       ]
     },
@@ -618,11 +650,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 11时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 12时44分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -640,11 +673,12 @@
           "url": "https://wallstreetcn.com/livenews/3029712",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时44分]"
         }
       ]
     },
@@ -657,11 +691,12 @@
           "url": "https://www.toutiao.com/trending/7589803875436118022/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 12时44分]"
         }
       ]
     }
