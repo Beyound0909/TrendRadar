@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T15:21:37.635598+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-01-03T16:31:27.098350+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 71,
+      "match_count": 82,
       "titles": [
         {
           "title": "港股收盘｜科技指数涨超4%迎“开门红” 硬科技与政策消费双轮驱动",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 15时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 16时31分]"
         },
         {
           "title": "即将揭晓！三位美联储主席竞逐者，谁能笑到最后？",
@@ -29,6 +29,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时22分]"
+        },
+        {
+          "title": "【早报】中国“人造太阳”实验有新进展；纳斯达克中国金龙指数涨超4%",
+          "url": "https://www.cls.cn/detail/2246533",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 16时31分]"
         },
         {
           "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
@@ -44,6 +59,25 @@
           "time_info": "[00时29分 ~ 12时35分]"
         },
         {
+          "title": "周五（1月2日）纽约尾盘，标普500股指期货最终涨0.13%，道指期货涨0.55%，纳斯达克100股指期货跌0.24%。 罗素2000股指期涨货0.89%。",
+          "url": "https://wallstreetcn.com/livenews/3029949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            10,
+            12,
+            13,
+            14,
+            16,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时23分 ~ 16时31分]"
+        },
+        {
           "title": "“A+H”股热潮延续！12月累计27家A股上市公司筹划赴港上市，CPO龙头天孚通信在列",
           "url": "https://www.cls.cn/detail/2246407",
           "source": "财联社热门",
@@ -54,8 +88,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时23分 ~ 15时21分]"
+          "appearance_count": 12,
+          "time_info": "[06时23分 ~ 16时31分]"
         },
         {
           "title": "通话后，高市都笑裂了，特朗普转头就见美驻华大使",
@@ -86,24 +120,6 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
-          "title": "周五（1月2日）纽约尾盘，标普500股指期货最终涨0.13%，道指期货涨0.55%，纳斯达克100股指期货跌0.24%。 罗素2000股指期涨货0.89%。",
-          "url": "https://wallstreetcn.com/livenews/3029949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            10,
-            12,
-            13,
-            14,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时23分 ~ 15时21分]"
-        },
-        {
           "title": "特朗普又下黑手，强制“与中国有关联公司”剥离涉美芯片资产",
           "url": "https://news.ifeng.com/c/8pbhuK7HgiN",
           "source": "凤凰网",
@@ -112,22 +128,41 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 16时31分]"
         },
         {
-          "title": "【早报】中国“人造太阳”实验有新进展；纳斯达克中国金龙指数涨超4%",
-          "url": "https://www.cls.cn/detail/2246533",
-          "source": "财联社热门",
+          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302492",
+          "source": "澎湃新闻",
           "ranks": [
+            14,
             13,
-            6,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 16时31分]"
+        },
+        {
+          "title": "沃旭能源Orsted AS与Equinor ASA起诉美国总特朗普政府阻挠它们在美国多个海上风电项目建设的决定。",
+          "url": "https://wallstreetcn.com/livenews/3029951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
             8,
-            7
+            10,
+            11,
+            12,
+            14,
+            19,
+            25
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时47分 ~ 15时21分]"
+          "time_info": "[07时22分 ~ 16时31分]"
         },
         {
           "title": "周五（1月2日）纽约尾盘，现货黄金涨0.20%，报4327.96美元/盎司，本周累计下跌4.51%，12月29日显著走低，后续低位持稳。 COMEX黄金期货跌0.04%，报4339.50美元/盎司，本周累跌4.67%。",
@@ -182,37 +217,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[06时23分 ~ 15时21分]"
-        },
-        {
-          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302492",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 15时21分]"
-        },
-        {
-          "title": "沃旭能源Orsted AS与Equinor ASA起诉美国总特朗普政府阻挠它们在美国多个海上风电项目建设的决定。",
-          "url": "https://wallstreetcn.com/livenews/3029951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            10,
-            11,
-            12,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 15时21分]"
         },
         {
           "title": "伊朗外交部强烈谴责美国总统特朗普和其他美国官员对伊朗内政的干涉主义言论。",
@@ -346,6 +350,28 @@
           "time_info": "[02时34分 ~ 05时18分]"
         },
         {
+          "title": "特朗普下令空袭委内瑞拉",
+          "url": "https://www.toutiao.com/trending/7591020324596564014/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "美方证实：特朗普下令空袭委内瑞拉",
+          "url": "https://news.ifeng.com/c/8pcChxGY8j9",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "WTI 2月原油期货收报57.32美元/桶。 NYMEX 2月天然气期货收报3.6180美元/百万英热单位。 NYMEX 2月汽油期货收报1.6982美元/加仑，NYMEX 2月取暖油期货收报2.1151美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3029923",
           "source": "华尔街见闻-快讯",
@@ -355,6 +381,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "特朗普下令打击委内瑞拉境内目标",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%89%93%E5%87%BB%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "特朗普下令空袭委内瑞拉",
+          "url": "https://www.douyin.com/hot/2356137",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "AI软件指数收跌超2.7%，成分股Palantir、MongoDB、Adobe表现最差，美光涨超10%在信息技术板块表现不俗",
@@ -395,7 +443,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -437,6 +485,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时34分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普下令空袭委内瑞拉",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "美媒：美国官员证实特朗普已下令对委内瑞拉进行空袭",
+          "url": "https://wallstreetcn.com/livenews/3029985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司：据两名美国官员透露，特朗普在实际行动发生前几天就批准了美军对委内瑞拉进行陆地打击。",
+          "url": "https://flash.jin10.com/detail/20260103160316191800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "特朗普承认没少吃药，否认开会睡觉",
@@ -699,6 +780,30 @@
           "time_info": "[00时29分 ~ 02时34分]"
         },
         {
+          "title": "骚乱持续蔓延，伊朗高官警告特朗普：干涉之手“必被砍掉”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302834",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普解释手背瘀青：阿司匹林吃多了，剂量高于医生建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302530",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 16时31分]"
+        },
+        {
           "title": "李在明为何此时晒特朗普所赠金钥匙",
           "url": "https://www.toutiao.com/trending/7590278251684577326/",
           "source": "今日头条",
@@ -770,17 +875,6 @@
           "time_info": "[11时24分 ~ 11时25分]"
         },
         {
-          "title": "骚乱持续蔓延，伊朗高官警告特朗普：干涉之手“必被砍掉”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302834",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时21分]"
-        },
-        {
           "title": "纳斯达克中国金龙指数涨幅扩大至4%。",
           "url": "https://wallstreetcn.com/livenews/3029862",
           "source": "华尔街见闻-快讯",
@@ -793,17 +887,6 @@
           "time_info": "[00时29分 ~ 01时20分]"
         },
         {
-          "title": "特朗普解释手背瘀青：阿司匹林吃多了，剂量高于医生建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302530",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时21分]"
-        },
-        {
           "title": "伊朗汇率为何暴雷",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%B1%87%E7%8E%87%E4%B8%BA%E4%BD%95%E6%9A%B4%E9%9B%B7",
           "source": "bilibili 热搜",
@@ -813,6 +896,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时34分 ~ 12时35分]"
+        },
+        {
+          "title": "美媒称特朗普政府已获悉委内瑞拉首都发生爆炸",
+          "url": "https://wallstreetcn.com/livenews/3029983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "商品基准指数“重置”在即，面临抛售风险，金银开年“冲高回落”",
+          "url": "https://wallstreetcn.com/articles/3762466",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.54%，报595.40点。 欧元区STOXX 50指数初步收涨0.73%，报5833.58点。 富时泛欧绩优300指数初步收涨0.58%，报2373.95点。",
@@ -835,6 +940,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美媒：美官员证实特朗普下令打击委内瑞拉境内目标",
+          "url": "https://flash.jin10.com/detail/20260103153558768800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "标普500指数高开32.61点，涨幅0.48%，报6878.11点； 道琼斯工业平均指数高开42.69点，涨幅0.09%，报48105.98点； 纳斯达克综合指数高开239.50点，涨幅1.03%，报23481.49点。",
@@ -890,6 +1006,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "美媒称特朗普政府已获悉委内瑞拉首都发生爆炸",
+          "url": "https://flash.jin10.com/detail/20260103150823763800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "沃旭能源就特朗普暂停50亿美元海上风电项目提起诉讼",
@@ -971,8 +1098,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 16时31分]"
         },
         {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
@@ -983,11 +1110,12 @@
             9,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时34分 ~ 15时21分]"
+          "appearance_count": 17,
+          "time_info": "[02时34分 ~ 16时31分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -1008,11 +1136,12 @@
             10,
             9,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 15时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 16时31分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
@@ -1026,11 +1155,12 @@
             16,
             17,
             19,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时23分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[06时23分 ~ 16时31分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -1042,8 +1172,26 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 16时31分]"
+        },
+        {
+          "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
+          "url": "https://wallstreetcn.com/livenews/3029953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            9,
+            10,
+            11,
+            13,
+            18,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时47分 ~ 15时21分]"
+          "time_info": "[07时22分 ~ 16时31分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -1072,23 +1220,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时34分 ~ 09时47分]"
-        },
-        {
-          "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
-          "url": "https://wallstreetcn.com/livenews/3029953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            9,
-            10,
-            11,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 15时21分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
@@ -1340,8 +1471,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 15时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 16时31分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -1372,11 +1503,12 @@
             14,
             15,
             17,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时23分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[06时23分 ~ 16时31分]"
         }
       ]
     },
