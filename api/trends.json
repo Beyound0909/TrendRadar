@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T07:23:09.337006+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-01-06T09:53:25.630730+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 90,
+      "match_count": 113,
       "titles": [
         {
           "title": "一图看懂 | A股新年迎“新顶流”，脑机接口有哪些因素催化？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时53分]"
         },
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
@@ -36,11 +36,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时53分]"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -116,8 +117,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时53分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -207,13 +208,24 @@
           "time_info": "00时31分"
         },
         {
+          "title": "【早报】猛涨超7%！COMEX白银期货单日暴力拉升；证监会发声，打击财务造假",
+          "url": "https://www.cls.cn/detail/2248634",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "据NBC：美国总统特朗普表示，该项目可能只需不到18个月。",
           "url": "https://flash.jin10.com/detail/20260106070427283800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -243,15 +255,48 @@
           "time_info": "[00时31分 ~ 06时24分]"
         },
         {
+          "title": "墨总统回应特朗普：合作可以干预不行",
+          "url": "https://www.toutiao.com/trending/7591151766478290986/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
           "url": "https://flash.jin10.com/detail/20260106070419372800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20260106093106759800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20260106093103801800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，文远知行、拼多多初步收涨3%，小马智行涨2.6%，美团涨1.9%，理想、腾讯、京东、阿里涨幅不到1%，小鹏、网易则跌超1%，百胜中国跌2.8%，小米跌3%，蔚来跌5.1%。",
@@ -271,7 +316,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -282,7 +327,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -304,9 +349,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "沪深300指数涨幅扩大至0.8%，有望创2022年1月来收盘新高。",
+          "url": "https://wallstreetcn.com/livenews/3031257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
@@ -562,13 +618,24 @@
           "time_info": "06时24分"
         },
         {
+          "title": "恒指涨幅扩大至1%，恒生科技指数涨1.6%。京东健康涨超6%，商汤涨超5%，华虹半导体涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3031255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "据NBC：美国总统特朗普表示，美国并未与委内瑞拉开战。",
           "url": "https://flash.jin10.com/detail/20260106070009215800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -593,6 +660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
+          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "欧洲STOXX 600指数创盘中历史新高。",
@@ -645,9 +723,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "据四位石油行业高管表示，无论是在马杜罗被捕之前还是之后，美国总统特朗普政府都未与埃克森、Conoco或雪佛龙就委内瑞拉问题进行过任何会谈。",
@@ -683,6 +772,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：12月30日当周，投机者所持布伦特与WTI原油净多头头寸创六周新高。 所持NYMEX天然气净多头头寸创一年新低。",
           "url": "https://wallstreetcn.com/livenews/3031086",
           "source": "华尔街见闻-快讯",
@@ -703,6 +803,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约跌0.20%，10年期主力合约跌0.13%，5年期主力合约跌0.06%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3031242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
+          "url": "https://www.cls.cn/detail/2248515",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "土耳其总统埃尔多安：我在电话中告诉特朗普，委内瑞拉绝不能被拖入混乱之中。",
@@ -727,6 +849,39 @@
           "time_info": "05时24分"
         },
         {
+          "title": "中证转债指数高开0.13%。塞力转债涨超11%，大中转债、振华转债、博瑞转债、金诚转债涨超3%；再22转债跌超2%，盟升转债、天创转债跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3031241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%B7%B1%E5%BA%A6%E4%BB%8B%E5%85%A5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-01-06）",
+          "url": "https://flash.jin10.com/detail/20260106090710411800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "道指涨穿4.9万点创盘中历史新高，生物科技指数跌超2%",
           "url": "https://wallstreetcn.com/livenews/3030978",
           "source": "华尔街见闻-快讯",
@@ -738,6 +893,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "A股脑机接口概念继续大涨，三博脑科、美好医疗、创新医疗、普利特、塞力医疗、岩山科技、盈趣科技等均2连板，爱朋医疗、熵基科技、翔宇医疗、伟思医疗等高开超10%。",
+          "url": "https://wallstreetcn.com/livenews/3031240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至12月30日当周，股票基金经理将标普500芝商所（CME）净多头仓位增加6,233手合约，至942,921手。股票基金投机者将标普500芝商所（CME）净空头头寸削减7,688手合约，至364,403手。",
           "url": "https://flash.jin10.com/detail/20260106043653723800",
           "source": "金十数据",
@@ -747,6 +913,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "上证指数开盘报4026.02点，涨0.06%。 深证成指开盘报13830.30点，涨0.01%。 创业板指开盘报3279.81点，跌0.45%。 沪深300开盘报4719.21点，涨0.03%。 科创50开盘报1401.79点，跌0.12%。 中证500开盘报7663.94点，涨0.17%。 中证1000开盘报7756.16点，涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3031236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月30日当周，在纽约商品交易所（NYMEX）和洲际交易所（ICE）的四个主要市场中，天然气投机者的净多头头寸减少3,293份合约，至123,988份合约。",
@@ -870,6 +1047,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "恒指高开0.59%，报26502.40点；恒生科技指数涨0.79%。腾讯音乐涨超2%，携程、百度、快手、比亚迪股份等涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3031233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至12月30日当周，COMEX黄金投机者将净多头头寸减少10,668手，至126,873手。COMEX白银投机者将净多头头寸减少7,270手，至16,595手。",
           "url": "https://flash.jin10.com/detail/20260106043214467800",
           "source": "金十数据",
@@ -925,6 +1113,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "伦铜期货涨至13090美元/吨上方，再创新高。",
+          "url": "https://wallstreetcn.com/livenews/3031226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "美国ISM制造业指数创一年最低点，工厂活动持续萎缩",
           "url": "https://wallstreetcn.com/livenews/3030965",
           "source": "华尔街见闻-快讯",
@@ -958,6 +1157,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "碳酸锂期货主力合约盘中涨幅扩大至6.7%。",
+          "url": "https://wallstreetcn.com/livenews/3031223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "美国12月ISM制造业物价支付指数 58.5，预期 58.7，前值 58.5。",
           "url": "https://wallstreetcn.com/livenews/3030963",
           "source": "华尔街见闻-快讯",
@@ -986,9 +1196,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "台湾证交所加权股价指数低开0.6%报29,933.65点。",
+          "url": "https://wallstreetcn.com/livenews/3031220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "美国12月ISM制造业指数 47.9，预期 48.4，前值 48.2。",
@@ -1000,6 +1221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "商品期货开盘，碳酸锂主力合约涨超4%，沪银、钯、沪铝、铂、沪铜、铝合金、国际铜、苹果涨超2%。焦煤跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3031219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "墨西哥总统强硬回应特朗普：可以合作缉毒 但不准跨界",
@@ -1024,6 +1256,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "富时中国A50指数期货盘初涨0.44%，上一个交易日夜盘收涨0.58%。",
+          "url": "https://wallstreetcn.com/livenews/3031217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "欧洲斯托克600指数续创新高，达到600点。",
           "url": "https://flash.jin10.com/detail/20260105234150657800",
           "source": "金十数据",
@@ -1044,6 +1287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "ICC原检察官：特朗普犯了“侵略罪”",
+          "url": "https://www.toutiao.com/trending/7591104646660948011/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
@@ -1069,22 +1323,36 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时53分]"
         },
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
           "url": "https://wallstreetcn.com/articles/3762559",
           "source": "华尔街见闻",
           "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 09时53分]"
+        },
+        {
+          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
+          "url": "https://www.cls.cn/detail/2248624",
+          "source": "财联社热门",
+          "ranks": [
+            8,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 09时53分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
@@ -1121,17 +1389,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
-          "url": "https://www.cls.cn/detail/2248624",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "美股收盘：道指创新高 雪佛龙涨5%",
@@ -1204,7 +1461,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -1220,13 +1477,24 @@
           "time_info": "[03时22分 ~ 05时24分]"
         },
         {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "OpenAI支持的公司推家务机器人 售价2万美元",
           "url": "https://flash.jin10.com/detail/20260106063634804800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -1316,7 +1584,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         }
@@ -1377,6 +1645,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄仁勋新年第一场演讲提了DeepSeek",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%BC%94%E8%AE%B2%E6%8F%90%E4%BA%86DeepSeek",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
