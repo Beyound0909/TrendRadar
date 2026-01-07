@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T11:41:42.417841+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-01-07T12:43:26.673113+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 120,
+      "match_count": 124,
       "titles": [
         {
           "title": "央行：继续实施适度宽松的货币政策 加大逆周期和跨周期调节力度",
@@ -97,6 +97,28 @@
           "time_info": "[04时27分 ~ 07时24分]"
         },
         {
+          "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
+          "url": "https://www.cls.cn/detail/2249909",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 12时43分]"
+        },
+        {
+          "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
+          "url": "https://news.ifeng.com/c/8piFwnPic7a",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 12时43分]"
+        },
+        {
           "title": "特朗普向多个国家发出威胁",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
           "source": "bilibili 热搜",
@@ -122,35 +144,13 @@
           "time_info": "[00时33分 ~ 01时26分]"
         },
         {
-          "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
-          "url": "https://www.cls.cn/detail/2249909",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 11时41分]"
-        },
-        {
-          "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
-          "url": "https://news.ifeng.com/c/8piFwnPic7a",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 11时41分]"
-        },
-        {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
           "source": "bilibili 热搜",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -166,15 +166,28 @@
           "time_info": "03时19分"
         },
         {
-          "title": "金十图示：2026年01月07日（周三）富时中国A50指数成分股午盘收盘行情一览：银行、酿酒、半导体板块多数走弱，保险、通信设备股飘红",
-          "url": "https://flash.jin10.com/detail/20260107113230526800",
-          "source": "金十数据",
+          "title": "日经225指数跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3032112",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "12时43分"
+        },
+        {
+          "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
+          "url": "https://www.cls.cn/detail/2249902",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 12时43分]"
         },
         {
           "title": "比特币价格上涨引发疯狂猜想：委内瑞拉是否存有隐秘的加密货币？",
@@ -200,17 +213,6 @@
           "time_info": "00时33分"
         },
         {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260107113111509800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
           "title": "凯投宏观：澳洲联储可能无视通胀放缓，最快下月加息",
           "url": "https://flash.jin10.com/detail/20260107093940653800",
           "source": "金十数据",
@@ -222,15 +224,15 @@
           "time_info": "09时52分"
         },
         {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260107113107771800",
+          "title": "韩国KOSPI指数回吐涨幅，日内转跌，现跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260107120825593800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "12时43分"
         },
         {
           "title": "2025年12月份全球制造业采购经理指数较上月微幅下降",
@@ -244,26 +246,16 @@
           "time_info": "09时52分"
         },
         {
-          "title": "上证指数早盘收报4095.54点，涨0.29%。 深证成指早盘收报14071.35点，涨0.35%。 创业板指早盘收报3332.74点，涨0.41%。 沪深300早盘收报4792.05点，涨0.03%。 科创50早盘收报1445.48点，涨1.13%。 中证500早盘收报7902.04点，涨1.13%。 中证1000早盘收报7930.24点，涨0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3032090",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
           "ranks": [
-            3
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约大面积飘红，焦煤涨停，沪镍涨超7%，焦炭涨超6%，沪锡、玻璃、纯碱涨超5%，不锈钢、沪银、碳酸锂涨超4%，氧化铝、钯、铁矿石、烧碱涨超3%。跌幅方面，SC原油跌超2%，低硫燃料油、燃料油跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260107113041451800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 12时43分]"
         },
         {
           "title": "富时新加坡海峡时报指数触及盘中历史新高。",
@@ -288,15 +280,15 @@
           "time_info": "09时52分"
         },
         {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.06%，10年期主力合约与昨日持平，5年期主力合约与昨日持平，2年期主力合约与昨日持平。",
-          "url": "https://wallstreetcn.com/livenews/3032087",
+          "title": "印度央行在外汇市场抛售美元以支撑卢比汇率。",
+          "url": "https://wallstreetcn.com/livenews/3032108",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "12时43分"
         },
         {
           "title": "周二（1月6日），美联储隔夜逆回购协议（RRP）使用规模为25.82亿美元（交易对手10家），上个交易日报64.85亿美元。",
@@ -323,6 +315,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时19分 ~ 05时23分]"
+        },
+        {
+          "title": "金十图示：2026年01月07日（周三）富时中国A50指数成分股午盘收盘行情一览：银行、酿酒、半导体板块多数走弱，保险、通信设备股飘红",
+          "url": "https://flash.jin10.com/detail/20260107113230526800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时43分]"
         },
         {
           "title": "A股可控核聚变板块持续上扬，远东股份、弘讯科技涨停，中国核建、国机重装、王子新材、天力复合、保变电气跟涨。",
@@ -361,6 +365,18 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260107113111509800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时43分]"
+        },
+        {
           "title": "美国总统特朗普再次批评国防承包商，称：将与承包商们对话。",
           "url": "https://wallstreetcn.com/livenews/3031788",
           "source": "华尔街见闻-快讯",
@@ -385,30 +401,6 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
-          "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
-          "url": "https://www.cls.cn/detail/2249902",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 11时41分]"
-        },
-        {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 11时41分]"
-        },
-        {
           "title": "据华尔街日报：美国国务卿鲁比奥向议员们透露，特朗普有意购买格陵兰岛，并淡化了军事行动的可能性。鲁比奥称，白宫正利用言辞向丹麦施压，促使其展开谈判。",
           "url": "https://flash.jin10.com/detail/20260107055329321800",
           "source": "金十数据",
@@ -421,6 +413,18 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260107113107771800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时43分]"
+        },
+        {
           "title": "周二（1月6日）纽约尾盘，标普500股指期货最终涨0.62%，道指期货涨1.06%，纳斯达克100股指期货涨0.94%。 罗素2000股指期货涨1.32%。",
           "url": "https://wallstreetcn.com/livenews/3031922",
           "source": "华尔街见闻-快讯",
@@ -431,6 +435,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时24分]"
+        },
+        {
+          "title": "上证指数早盘收报4095.54点，涨0.29%。 深证成指早盘收报14071.35点，涨0.35%。 创业板指早盘收报3332.74点，涨0.41%。 沪深300早盘收报4792.05点，涨0.03%。 科创50早盘收报1445.48点，涨1.13%。 中证500早盘收报7902.04点，涨1.13%。 中证1000早盘收报7930.24点，涨0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3032090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时43分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约大面积飘红，焦煤涨停，沪镍涨超7%，焦炭涨超6%，沪锡、玻璃、纯碱涨超5%，不锈钢、沪银、碳酸锂涨超4%，氧化铝、钯、铁矿石、烧碱涨超3%。跌幅方面，SC原油跌超2%，低硫燃料油、燃料油跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260107113041451800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时43分]"
         },
         {
           "title": "WTI 2月原油期货收跌1.19美元，跌幅2.04%，报57.13美元/桶。 布伦特3月原油期货收跌1.06美元，跌幅1.772%，报60.70美元/桶。 NYMEX 2月天然气期货收报3.35美元/百万英热单位。 NYMEX 2月汽油期货收报1.7006美元/加仑，NYMEX 2月取暖油期货收报2.0830美元/加仑。",
@@ -493,6 +521,18 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.06%，10年期主力合约与昨日持平，5年期主力合约与昨日持平，2年期主力合约与昨日持平。",
+          "url": "https://wallstreetcn.com/livenews/3032087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时43分]"
+        },
+        {
           "title": "A股“13连阳” 散户机构都在入场",
           "url": "https://www.toutiao.com/trending/7592226933111262774/",
           "source": "今日头条",
@@ -503,6 +543,53 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 03时19分]"
+        },
+        {
+          "title": "特朗普向印度发出新警告",
+          "url": "https://news.ifeng.com/c/8piCojZXRGw",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 12时43分]"
+        },
+        {
+          "title": "紫光国芯启动A股IPO辅导 脱胎于英飞凌 聚焦DRAM存储技术",
+          "url": "https://www.cls.cn/detail/2249957",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 12时43分]"
+        },
+        {
+          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
+          "url": "https://www.cls.cn/detail/2249952",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时43分]"
+        },
+        {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时43分]"
         },
         {
           "title": "周二（1月6日），彭博电动汽车价格回报指数涨2.36%，报3604.19点，亚太盘初以来持续上涨。 成分股中，禾赛科技涨10.9%，Aurora Innovation涨10.1%，美国雅宝ALB涨8.4%，小马智行涨5.5%，MobilEye涨5.4%，意法半导体涨5.3%，特斯拉则跌4.2%表现最差。",
@@ -517,27 +604,28 @@
           "time_info": "[05时23分 ~ 06时24分]"
         },
         {
-          "title": "紫光国芯启动A股IPO辅导 脱胎于英飞凌 聚焦DRAM存储技术",
-          "url": "https://www.cls.cn/detail/2249957",
-          "source": "财联社热门",
+          "title": "焦煤期货主力合约触及涨停，涨幅7.98%。 焦炭期货主力合约涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3032080",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            8
+            6,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时52分 ~ 11时41分]"
+          "time_info": "[11时41分 ~ 12时43分]"
         },
         {
-          "title": "特朗普向印度发出新警告",
-          "url": "https://news.ifeng.com/c/8piCojZXRGw",
-          "source": "凤凰网",
+          "title": "焦煤期货主力合约触及涨停，涨幅7.98%，报1164元/吨。",
+          "url": "https://flash.jin10.com/detail/20260107111831651800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时52分 ~ 11时41分]"
+          "time_info": "[11时41分 ~ 12时43分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.13%，报26685点。 恒生科技指数主连夜盘收跌0.43%，报5809点。",
@@ -562,6 +650,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时24分]"
+        },
+        {
+          "title": "A股光刻机、光刻胶概念持续走高，南大光电20cm涨停，高盟新材、华融化学、雅克科技、恒坤新材等多股此前封板，安集科技、鼎龙股份、容大感光均涨超15%。",
+          "url": "https://wallstreetcn.com/livenews/3032068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时43分]"
         },
         {
           "title": "美国高级官员表示，美国总统特朗普及其顾问正在讨论各种选项，包括从丹麦手中购买该领土，或与该岛建立自由联合协定。",
@@ -693,28 +793,6 @@
           "time_info": "09时52分"
         },
         {
-          "title": "焦煤期货主力合约触及涨停，涨幅7.98%。 焦炭期货主力合约涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3032080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
-          "url": "https://www.cls.cn/detail/2249952",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
           "title": "股指期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20260107093108571800",
           "source": "金十数据",
@@ -726,17 +804,6 @@
           "time_info": "09时52分"
         },
         {
-          "title": "焦煤期货主力合约触及涨停，涨幅7.98%，报1164元/吨。",
-          "url": "https://flash.jin10.com/detail/20260107111831651800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
           "title": "A股存储芯片板块开盘领涨，普冉股份20cm涨停，股价创历史新高，恒烁股份、聚辰股份、江波龙、香农芯创、联芸科技等涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3032017",
           "source": "华尔街见闻-快讯",
@@ -746,17 +813,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
-        },
-        {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
         },
         {
           "title": "国债期货早盘开盘",
@@ -825,17 +881,6 @@
           "time_info": "05时23分"
         },
         {
-          "title": "A股光刻机、光刻胶概念持续走高，南大光电20cm涨停，高盟新材、华融化学、雅克科技、恒坤新材等多股此前封板，安集科技、鼎龙股份、容大感光均涨超15%。",
-          "url": "https://wallstreetcn.com/livenews/3032068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
           "title": "研究：特朗普关税未明显推高美国通胀 关税收入已开始下滑",
           "url": "https://www.cls.cn/detail/2249781",
           "source": "财联社热门",
@@ -897,7 +942,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -1100,6 +1145,17 @@
           "time_info": "09时52分"
         },
         {
+          "title": "业内：A股真的“雄起”了",
+          "url": "https://www.toutiao.com/trending/7592422241896255030/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "特朗普：将与国防承包商对话。",
           "url": "https://flash.jin10.com/detail/20260107000150386800",
           "source": "金十数据",
@@ -1227,7 +1283,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -1282,7 +1338,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -1427,8 +1483,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 11时41分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 12时43分]"
         },
         {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
@@ -1442,6 +1498,18 @@
           "time_info": "[07时23分 ~ 07时24分]"
         },
         {
+          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
+          "url": "https://wallstreetcn.com/articles/3762638",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 12时43分]"
+        },
+        {
           "title": "Strategy美股盘后涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3031899",
           "source": "华尔街见闻-快讯",
@@ -1452,18 +1520,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
-          "url": "https://wallstreetcn.com/articles/3762638",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 11时41分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）美股热门股票行情一览（美股收盘）",
@@ -1617,11 +1673,12 @@
           "url": "https://flash.jin10.com/detail/20260107111347667800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时43分]"
         },
         {
           "title": "金价涨超1%，上探4500美元关口",
@@ -1697,11 +1754,12 @@
           "url": "https://wallstreetcn.com/livenews/3032063",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时43分]"
         }
       ]
     },
