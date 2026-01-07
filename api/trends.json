@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T20:51:50.498903+08:00",
-  "total_titles_processed": 1875,
+  "generated_at": "2026-01-07T21:41:49.675222+08:00",
+  "total_titles_processed": 1980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 205,
+      "match_count": 212,
       "titles": [
         {
           "title": "央行：继续实施适度宽松的货币政策 加大逆周期和跨周期调节力度",
@@ -36,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时52分 ~ 20时51分]"
+          "appearance_count": 14,
+          "time_info": "[09时52分 ~ 21时41分]"
         },
         {
           "title": "2025年全年新增开户2744万户，这在A股史上是什么水平？",
@@ -55,6 +56,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时33分 ~ 09时52分]"
+        },
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时35分 ~ 21时41分]"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -114,21 +128,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时41分 ~ 20时51分]"
-        },
-        {
-          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
-          "url": "https://www.cls.cn/detail/2250493",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 20时51分]"
+          "appearance_count": 13,
+          "time_info": "[11时41分 ~ 21时41分]"
         },
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -169,6 +170,20 @@
           "time_info": "[14时38分 ~ 17时32分]"
         },
         {
+          "title": "贵金属集体跳水！关键大宗商品指数再平衡明日开启",
+          "url": "https://wallstreetcn.com/articles/3762715",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 21时41分]"
+        },
+        {
           "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
           "url": "https://news.ifeng.com/c/8piFwnPic7a",
           "source": "凤凰网",
@@ -191,20 +206,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时28分 ~ 16时35分]"
-        },
-        {
-          "title": "贵金属集体跳水！关键大宗商品指数再平衡明日开启",
-          "url": "https://wallstreetcn.com/articles/3762715",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 20时51分]"
         },
         {
           "title": "特朗普支持格陵兰岛独立",
@@ -283,8 +284,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 20时51分]"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 21时41分]"
+        },
+        {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时41分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -415,7 +428,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -426,7 +439,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -468,17 +481,6 @@
           "time_info": "[13时28分 ~ 19时23分]"
         },
         {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
           "title": "富时新加坡海峡时报指数触及盘中历史新高。",
           "url": "https://flash.jin10.com/detail/20260107093409083800",
           "source": "金十数据",
@@ -488,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "东方汇理：下调美元立场至“谨慎”预计美联储将进一步降息",
+          "url": "https://flash.jin10.com/detail/20260107212536882800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "恒生科技指数跌幅扩大至1.2%。",
@@ -510,6 +523,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 21时41分]"
         },
         {
           "title": "A股收评：沪指微涨录得14连阳",
@@ -842,19 +868,6 @@
           "time_info": "[12时43分 ~ 13时28分]"
         },
         {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 20时51分]"
-        },
-        {
           "title": "A股“13连阳” 散户机构都在入场",
           "url": "https://www.toutiao.com/trending/7592226933111262774/",
           "source": "今日头条",
@@ -878,6 +891,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时41分 ~ 13时28分]"
+        },
+        {
+          "title": "李大霄：A股十四连阳上攻势头放缓",
+          "url": "https://www.toutiao.com/trending/7592514223378137131/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 21时41分]"
         },
         {
           "title": "周二（1月6日），彭博电动汽车价格回报指数涨2.36%，报3604.19点，亚太盘初以来持续上涨。 成分股中，禾赛科技涨10.9%，Aurora Innovation涨10.1%，美国雅宝ALB涨8.4%，小马智行涨5.5%，MobilEye涨5.4%，意法半导体涨5.3%，特斯拉则跌4.2%表现最差。",
@@ -1071,6 +1096,18 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时41分]"
+        },
+        {
           "title": "十年新高再刷新！A股放量大涨，沪指创纪录13连阳",
           "url": "https://m.thepaper.cn/newsDetail_forward_32325817",
           "source": "澎湃新闻",
@@ -1081,18 +1118,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 14时38分]"
-        },
-        {
-          "title": "李大霄：A股十四连阳上攻势头放缓",
-          "url": "https://www.toutiao.com/trending/7592514223378137131/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时51分]"
         },
         {
           "title": "特朗普敲打印度",
@@ -1178,9 +1203,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "直击存储芯片风口：A股头部公司及“预备队”各家优势一览",
+          "url": "https://www.cls.cn/detail/2251000",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "股指期货早盘开盘",
@@ -1222,7 +1258,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1376,7 +1412,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1475,7 +1511,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1761,18 +1797,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
-          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -2129,6 +2154,17 @@
           "time_info": "14时38分"
         },
         {
+          "title": "德国DAX指数首破25000点 与英股、欧洲综指共创历史新高",
+          "url": "https://flash.jin10.com/detail/20260107211103117800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "越南VN指数涨1%，至1834.77点。",
           "url": "https://wallstreetcn.com/livenews/3032041",
           "source": "华尔街见闻-快讯",
@@ -2195,6 +2231,17 @@
           "time_info": "17时32分"
         },
         {
+          "title": "焦煤期货主力合约持续拉升，现涨超6%；焦炭期货主力合约涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3032478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "和讯投顾：A股目标剑指4100点",
           "url": "https://www.toutiao.com/trending/7592548235051273778/",
           "source": "今日头条",
@@ -2226,6 +2273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "纽约证券交易所：将于2026年上市MSCI指数期权。",
+          "url": "https://wallstreetcn.com/livenews/3032477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "特朗普模仿举重动作嘲讽跨性别运动员",
@@ -2261,6 +2319,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "波罗的海干散货指数跌2.95%，至1776点。",
+          "url": "https://wallstreetcn.com/livenews/3032476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "特朗普女婿库什纳：特朗普对安全保障感到满意。",
           "url": "https://flash.jin10.com/detail/20260107031127205800",
           "source": "金十数据",
@@ -2289,7 +2358,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -2303,6 +2372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "夜盘期货开盘，焦煤涨逾4%，焦炭涨3%，纯碱涨逾2%，烧碱、铁矿石、玻璃、棉纱、菜粕涨逾1%；沪银跌逾2%，沪铜、原油、国际铜、沪金等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3032475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "美国总统特朗普：除了纽约那边，所有人都支持我们在委内瑞拉的行动。",
@@ -2628,7 +2708,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -2720,6 +2800,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "国际金价为何一路狂飙",
+          "url": "https://www.toutiao.com/trending/7591730575850602502/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美债收益率在ADP数据公布后维持早盘跌势；10年期收益率最新下跌3.9个基点，报4.14%。",
+          "url": "https://flash.jin10.com/detail/20260107212025200800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美债收益率普遍涨超1个基点",
+          "url": "https://wallstreetcn.com/livenews/3031877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "外媒：黄金或已超越美债，成官方储备第一大资产",
+          "url": "https://flash.jin10.com/detail/20260107144926716800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
@@ -2761,34 +2891,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美债收益率普遍涨超1个基点",
-          "url": "https://wallstreetcn.com/livenews/3031877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "外媒：黄金或已超越美债，成官方储备第一大资产",
-          "url": "https://flash.jin10.com/detail/20260107144926716800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
         }
       ]
     },
