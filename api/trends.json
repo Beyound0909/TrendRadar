@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T06:24:34.024053+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-01-09T07:21:12.784227+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 114,
+      "match_count": 124,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时21分]"
         },
         {
           "title": "重要商品指数再平衡今日开启，两大投行预言“白银两周内调整”，高盛“关键还是伦敦”",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时21分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -39,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时21分]"
         },
         {
           "title": "美国媒体人：特朗普增加军费表明美国可能正准备“世界大战”",
@@ -53,8 +54,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时21分]"
         },
         {
           "title": "特朗普“炮轰”美国军火商",
@@ -64,8 +65,57 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时21分]"
+        },
+        {
+          "title": "200斤小伙离不开红烧肉突发脑出血",
+          "url": "https://www.baidu.com/s?wd=200%E6%96%A4%E5%B0%8F%E4%BC%99%E7%A6%BB%E4%B8%8D%E5%BC%80%E7%BA%A2%E7%83%A7%E8%82%89%E7%AA%81%E5%8F%91%E8%84%91%E5%87%BA%E8%A1%80",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            10,
+            17,
+            18,
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普 ：禁止囤房",
+          "url": "https://www.douyin.com/hot/2360816",
+          "source": "抖音",
+          "ranks": [
+            16,
+            11,
+            14,
+            15,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时21分]"
+        },
+        {
+          "title": "深圳坪山突发山火",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9D%AA%E5%B1%B1%E7%AA%81%E5%8F%91%E5%B1%B1%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14,
+            13,
+            17,
+            15,
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时21分]"
         },
         {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
@@ -83,54 +133,6 @@
           "time_info": "[00时33分 ~ 06时24分]"
         },
         {
-          "title": "200斤小伙离不开红烧肉突发脑出血",
-          "url": "https://www.baidu.com/s?wd=200%E6%96%A4%E5%B0%8F%E4%BC%99%E7%A6%BB%E4%B8%8D%E5%BC%80%E7%BA%A2%E7%83%A7%E8%82%89%E7%AA%81%E5%8F%91%E8%84%91%E5%87%BA%E8%A1%80",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            10,
-            17,
-            18,
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时24分]"
-        },
-        {
-          "title": "特朗普 ：禁止囤房",
-          "url": "https://www.douyin.com/hot/2360816",
-          "source": "抖音",
-          "ranks": [
-            16,
-            11,
-            14,
-            15,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时24分]"
-        },
-        {
-          "title": "深圳坪山突发山火",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9D%AA%E5%B1%B1%E7%AA%81%E5%8F%91%E5%B1%B1%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            14,
-            13,
-            17,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时24分]"
-        },
-        {
           "title": "美联储：美国未经季节性调整的商业票据未偿余额增加441亿美元。",
           "url": "https://flash.jin10.com/detail/20260109020055723800",
           "source": "金十数据",
@@ -140,17 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
-        },
-        {
-          "title": "美国联邦住房金融局局长普尔特：（就特朗普指示购买2000亿美元的抵押贷款债券）我们正在着手处理。",
-          "url": "https://flash.jin10.com/detail/20260109055617117800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：房地美和房利美有工具来执行总统特朗普的住房命令。",
@@ -164,17 +155,6 @@
           "time_info": "00时33分"
         },
         {
-          "title": "特朗普：必须“拥有”整个格陵兰",
-          "url": "https://wallstreetcn.com/livenews/3033587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "美联储：美国未经季节性调整的外国金融商业票据未偿余额增加15亿美元。",
           "url": "https://flash.jin10.com/detail/20260109020041058800",
           "source": "金十数据",
@@ -184,6 +164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "“美联储传声筒”Nick Timiraos：特朗普称，他已指示代表购买价值2000亿美元的住房抵押贷款支持证券，以缩小抵押贷款利差并降低利率。实现这一目标的主要机制是通过房利美和房地美的自留投资组合，根据它们与美国财政部的现有协议，这两家公司（每家公司）持有的抵押贷款投资不得超过2250亿美元。截至2025年11月，两家公司在这些投资组合中各持有约1240亿美元，这意味着它们各自可以再购买1000亿美元的住房抵押贷款支持证券。",
+          "url": "https://flash.jin10.com/detail/20260109070042711800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "阿根廷MERVAL指数收涨2.08%，报307.7万点。",
@@ -208,28 +199,6 @@
           "time_info": "02时32分"
         },
         {
-          "title": "金十图示：2026年01月08日（周四）华尔街恐惧与贪婪指数（美盘后）",
-          "url": "https://flash.jin10.com/detail/20260109054525006800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "“南下”热情高涨，开年首周逾10家A股公司冲刺H股上市",
-          "url": "https://wallstreetcn.com/livenews/3033585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "美国联邦住房金融局局长Pulte：预计美国总统特朗普将在下个月就房利美和房地美的IPO作出决定。",
           "url": "https://flash.jin10.com/detail/20260109003127574800",
           "source": "金十数据",
@@ -252,15 +221,31 @@
           "time_info": "02时32分"
         },
         {
-          "title": "周四（1月8日）纽约尾盘，标普500股指期货最终涨0.15%，道指期货涨0.70%，纳斯达克100股指期货跌0.47%。 罗素2000股指期货涨1.37%。",
-          "url": "https://wallstreetcn.com/livenews/3033582",
-          "source": "华尔街见闻-快讯",
+          "title": "深圳坪山突发山火",
+          "url": "https://www.douyin.com/hot/2361411",
+          "source": "抖音",
           "ranks": [
-            5
+            16,
+            13,
+            11,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时28分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普退群“弃子”都有哪些",
+          "url": "https://www.toutiao.com/trending/7592986570223799834/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时21分]"
         },
         {
           "title": "美参院推进限制特朗普对委动武决议",
@@ -276,6 +261,18 @@
           "time_info": "[01时29分 ~ 03时22分]"
         },
         {
+          "title": "美国联邦住房金融局局长普尔特：（就特朗普指示购买2000亿美元的抵押贷款债券）我们正在着手处理。",
+          "url": "https://flash.jin10.com/detail/20260109055617117800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
           "title": "人事管理办公室（OPM）数据显示：美国总统特朗普第二任期内，已经有超过32.2万名雇员离开联邦机构。 教育部减员39%，财政部流失21%。",
           "url": "https://wallstreetcn.com/livenews/3033551",
           "source": "华尔街见闻-快讯",
@@ -286,6 +283,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时24分]"
+        },
+        {
+          "title": "特朗普：必须“拥有”整个格陵兰",
+          "url": "https://wallstreetcn.com/livenews/3033587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
         },
         {
           "title": "恒指期货夜盘收涨0.65%，报26312点，高水163点。",
@@ -324,6 +333,18 @@
           "time_info": "[05时24分 ~ 06时24分]"
         },
         {
+          "title": "金十图示：2026年01月08日（周四）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260109054525006800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
           "title": "美国总统特朗普：古巴有麻烦。",
           "url": "https://wallstreetcn.com/livenews/3033509",
           "source": "华尔街见闻-快讯",
@@ -334,6 +355,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时28分]"
+        },
+        {
+          "title": "“南下”热情高涨，开年首周逾10家A股公司冲刺H股上市",
+          "url": "https://wallstreetcn.com/livenews/3033585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
         },
         {
           "title": "美国总统特朗普：（谈对尼日利亚的袭击事件）希望能将此视为一次性的袭击事件，但如果基督徒遭到杀害，那可能就会变成“多次袭击事件”了。",
@@ -384,17 +417,39 @@
           "time_info": "[02时32分 ~ 03时22分]"
         },
         {
-          "title": "深圳坪山突发山火",
-          "url": "https://www.douyin.com/hot/2361411",
-          "source": "抖音",
+          "title": "周四（1月8日）纽约尾盘，标普500股指期货最终涨0.15%，道指期货涨0.70%，纳斯达克100股指期货跌0.47%。 罗素2000股指期货涨1.37%。",
+          "url": "https://wallstreetcn.com/livenews/3033582",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            13,
-            11
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
+          "url": "https://www.zhihu.com/question/1992497349604438807",
+          "source": "知乎",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时28分 ~ 06时24分]"
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
+          "title": "贵金属继续调整！白银跌超3%，重要商品指数再平衡今日开启",
+          "url": "https://wallstreetcn.com/articles/3762830",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 07时21分]"
         },
         {
           "title": "两公司蹭脑机接口概念热点收监管函",
@@ -408,18 +463,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时33分 ~ 02时32分]"
-        },
-        {
-          "title": "特朗普退群“弃子”都有哪些",
-          "url": "https://www.toutiao.com/trending/7592986570223799834/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时24分]"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：房利美和房地美都有关于处理特朗普住房命令的工具。",
@@ -482,6 +525,18 @@
           "time_info": "[02时32分 ~ 03时22分]"
         },
         {
+          "title": "美国石油公司高管们将于美东时间周五14:00（北京时间周六03:00）在白宫会见总统特朗普。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3033580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
           "title": "美国通胀预期上升就业前景恶化 或阻碍美联储本月调整利率",
           "url": "https://flash.jin10.com/detail/20260109002119191800",
           "source": "金十数据",
@@ -506,6 +561,18 @@
           "time_info": "[04时28分 ~ 05时24分]"
         },
         {
+          "title": "美国总统特朗普：现在，我正特别关注住房市场。已指示我的代表购买2000亿美元的抵押贷款债券。",
+          "url": "https://flash.jin10.com/detail/20260109052917631800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.09%，暂报4030.30点，在震荡下行行情中、于北京时间22:45刷新日低至3895.69点，随后反弹。 MarketVectorTM数字资产100中盘指数跌0.37%，报3812.71点。 MarketVector数字资产100指数跌0.79%，报18858.80点。",
           "url": "https://wallstreetcn.com/livenews/3033471",
           "source": "华尔街见闻-快讯",
@@ -516,6 +583,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 02时32分]"
+        },
+        {
+          "title": "芝商所再出手 近期第三次上调贵金属期货保证金",
+          "url": "https://flash.jin10.com/detail/20260109052701974800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
         },
         {
           "title": "谁是下任美联储主席？特朗普：心中已有决定",
@@ -530,6 +609,18 @@
           "time_info": "[02时32分 ~ 03时22分]"
         },
         {
+          "title": "美国总统特朗普：与英特尔首席执行官举行了不错的会晤。",
+          "url": "https://flash.jin10.com/detail/20260109051423232800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
           "title": "报道：特朗普政府考虑“收买”格陵兰岛居民",
           "url": "https://wallstreetcn.com/livenews/3033488",
           "source": "华尔街见闻-快讯",
@@ -542,6 +633,42 @@
           "time_info": "[02时32分 ~ 03时22分]"
         },
         {
+          "title": "金十图示：2026年01月08日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260109050958828800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
+          "title": "周四（1月8日）纽约尾盘，现货黄金涨0.37%，报4473.13美元/盎司，整体呈现出V形反转走势。 COMEX黄金期货涨0.48%，报4483.30美元/盎司，北京时间20:16刷新日低至4415美元。",
+          "url": "https://wallstreetcn.com/livenews/3033574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
+          "title": "美联储1月7日当周贴现窗贷款余额72.3亿美元，之前一周96.6亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3033573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
           "title": "WTI 2月原油期货收涨1.77美元，涨幅3.16%，报57.76美元/桶。 布伦特3月原油期货收报61.99美元/桶。 NYMEX 2月天然气期货收报3.4070美元/百万英热单位。 NYMEX 2月汽油期货收报1.7603美元/加仑，NYMEX 2月取暖油期货收报2.1195美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3033524",
           "source": "华尔街见闻-快讯",
@@ -552,6 +679,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时24分]"
+        },
+        {
+          "title": "美最高法院裁决特朗普关税前夕，财长声称：若败诉不影响关税收入",
+          "url": "https://wallstreetcn.com/livenews/3033579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
         },
         {
           "title": "超过12位石油公司的老板们将出席美国总统特朗普关于委内瑞拉的会议。 列席会议的企业高管包括Harold Hamm，埃克森美孚、雪佛龙、康菲石油的高管们也将参加会议。",
@@ -576,6 +715,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时24分]"
+        },
+        {
+          "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
+          "url": "https://www.zhihu.com/question/1992163357625643469",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
         },
         {
           "title": "丹麦与格陵兰岛的外交官们前往美国白宫，会见特朗普政府的官员们。（美联社）",
@@ -622,17 +783,6 @@
           "time_info": "03时22分"
         },
         {
-          "title": "美国石油公司高管们将于美东时间周五14:00（北京时间周六03:00）在白宫会见总统特朗普。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3033580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "美国总统特朗普：共和党人应该为那些在战争权力法案上与民主党人投票一致的参议员感到羞耻。",
           "url": "https://flash.jin10.com/detail/20260109015027875800",
           "source": "金十数据",
@@ -644,6 +794,17 @@
           "time_info": "02时32分"
         },
         {
+          "title": "美联储1月维持利率不变的概率为86.2%",
+          "url": "https://flash.jin10.com/detail/20260109064223521800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "美国总统特朗普：伊朗做得并不好。 如果伊朗暴乱份子死亡，将打击伊朗。",
           "url": "https://wallstreetcn.com/livenews/3033502",
           "source": "华尔街见闻-快讯",
@@ -653,39 +814,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
-        },
-        {
-          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
-          "url": "https://www.zhihu.com/question/1992497349604438807",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "贵金属继续调整！白银跌超3%，重要商品指数再平衡今日开启",
-          "url": "https://wallstreetcn.com/articles/3762830",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "美国总统特朗普：现在，我正特别关注住房市场。已指示我的代表购买2000亿美元的抵押贷款债券。",
-          "url": "https://flash.jin10.com/detail/20260109052917631800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "据消息人士透露，委内瑞拉正积极与特朗普政府合作，推进其向美国出口石油的计划，委临时领导人德尔茜·罗德里格斯与美国国务卿鲁比奥保持密切沟通。（英国金融时报）",
@@ -732,15 +860,15 @@
           "time_info": "03时22分"
         },
         {
-          "title": "芝商所再出手 近期第三次上调贵金属期货保证金",
-          "url": "https://flash.jin10.com/detail/20260109052701974800",
+          "title": "美国联邦住房金融局局长普尔特：房利美和房地美将执行美国总统特朗普的指令。",
+          "url": "https://flash.jin10.com/detail/20260109064037718800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时21分"
         },
         {
           "title": "美国财长贝森特：仍然有四名候选人有望接替美联储主席鲍威尔。 我们（贝森特+总统特朗普）还没有面试贝莱德分析师Rick Rieder。 特朗普可能会在前往达沃斯之前、或之后宣布决定。",
@@ -754,6 +882,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "特朗普再次就骚乱事件对伊朗发出威胁",
+          "url": "https://wallstreetcn.com/livenews/3033594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "美国财长贝森特：美联储应尽其所能刺激投资，降低利率。",
           "url": "https://flash.jin10.com/detail/20260109014647956800",
           "source": "金十数据",
@@ -765,15 +904,26 @@
           "time_info": "02时32分"
         },
         {
-          "title": "美国总统特朗普：与英特尔首席执行官举行了不错的会晤。",
-          "url": "https://flash.jin10.com/detail/20260109051423232800",
+          "title": "特朗普指示购买2000亿美元住房抵押贷款支持证券",
+          "url": "https://flash.jin10.com/detail/20260109063019559800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时21分"
+        },
+        {
+          "title": "专家预计1月资金面将延续宽松态势",
+          "url": "https://wallstreetcn.com/livenews/3033593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "美国参议院多数议员投票支持推进一项决议，该决议将阻止特朗普在未获得国会授权的情况下对委内瑞拉采取进一步军事行动，目前投票仍在继续。",
@@ -785,28 +935,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
-        },
-        {
-          "title": "金十图示：2026年01月08日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260109050958828800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "周四（1月8日）纽约尾盘，现货黄金涨0.37%，报4473.13美元/盎司，整体呈现出V形反转走势。 COMEX黄金期货涨0.48%，报4483.30美元/盎司，北京时间20:16刷新日低至4415美元。",
-          "url": "https://wallstreetcn.com/livenews/3033574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "美国白宫：特朗普将否决委内瑞拉战争权力的决议。",
@@ -831,15 +959,15 @@
           "time_info": "04时28分"
         },
         {
-          "title": "美联储1月7日当周贴现窗贷款余额72.3亿美元，之前一周96.6亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3033573",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普将于十分钟后出席政策会议。",
+          "url": "https://flash.jin10.com/detail/20260109062000001800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时21分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年1月9日 周五",
@@ -875,17 +1003,6 @@
           "time_info": "04时28分"
         },
         {
-          "title": "美最高法院裁决特朗普关税前夕，财长声称：若败诉不影响关税收入",
-          "url": "https://wallstreetcn.com/livenews/3033579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "美国总统特朗普声称，如果伊朗“杀害骚乱者”，将严厉打击伊朗。",
           "url": "https://flash.jin10.com/detail/20260109023647944800",
           "source": "金十数据",
@@ -914,7 +1031,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -936,7 +1053,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -963,6 +1080,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "特朗普：我不需要国际法",
+          "url": "https://flash.jin10.com/detail/20260109055904551800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "美国参议院要求阻挠特朗普对委内瑞拉采取进一步军事行动，白宫赶紧回应：特朗普会否决",
           "url": "https://wallstreetcn.com/livenews/3033463",
           "source": "华尔街见闻-快讯",
@@ -980,7 +1108,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -1013,7 +1141,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -1068,7 +1196,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -1244,7 +1372,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -1288,7 +1416,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -1318,7 +1446,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -1330,8 +1458,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时21分]"
+        },
+        {
+          "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
+          "url": "https://www.cls.cn/detail/2252454",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 阿里巴巴涨超5%",
@@ -1346,6 +1496,30 @@
           "time_info": "[05时24分 ~ 06时24分]"
         },
         {
+          "title": "（美股）费城金银指数收涨0.10%，报367.31点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.05%，报2583.79点，北京时间22:30美股开盘时候跳水，23:00刷新日低至2525.03点。 （美股）原材料指数涨0.94%，报239.45点。 （美股）金属与矿业指数跌0.89%，报228.50点。",
+          "url": "https://wallstreetcn.com/livenews/3033575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
+          "title": "金十图示：2026年01月08日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260109050537009800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
           "title": "癌症药品生产商Revolution Medicines（RVMD）美股尾盘暂停交易，临时停牌前涨幅5.2%。 Erasca Inc.（ERAS）临时停牌，暂停交易前涨幅扩大至22%。 据英国金融时报，Merck洽谈收购该公司，但双方还没有敲定最终协议。",
           "url": "https://wallstreetcn.com/livenews/3033545",
           "source": "华尔街见闻-快讯",
@@ -1357,35 +1531,13 @@
           "time_info": "05时24分"
         },
         {
-          "title": "（美股）费城金银指数收涨0.10%，报367.31点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.05%，报2583.79点，北京时间22:30美股开盘时候跳水，23:00刷新日低至2525.03点。 （美股）原材料指数涨0.94%，报239.45点。 （美股）金属与矿业指数跌0.89%，报228.50点。",
-          "url": "https://wallstreetcn.com/livenews/3033575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "金十图示：2026年01月08日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260109050537009800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "金十图示：2026年01月08日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260109050534682800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -1396,7 +1548,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -1429,7 +1581,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -1440,7 +1592,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         }
@@ -1448,7 +1600,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "报道：英伟达+OpenAI支持的数据中心公司Nscale考虑融资20亿美元",
@@ -1485,6 +1637,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时24分]"
+        },
+        {
+          "title": "报道：OpenAI拟收购高管教练AI工具Convogo核心团队",
+          "url": "https://wallstreetcn.com/livenews/3033598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
@@ -1565,7 +1728,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         }
