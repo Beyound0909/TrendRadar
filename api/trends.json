@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T11:42:17.586642+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-01-08T12:42:14.127436+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 124,
+      "match_count": 135,
       "titles": [
         {
           "title": "贵金属集体跳水！关键大宗商品指数再平衡明日开启",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 11时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 12时42分]"
         },
         {
           "title": "直击存储芯片风口：A股头部公司及“预备队”各家优势一览",
@@ -48,11 +48,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 11时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 12时42分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -69,6 +70,17 @@
           "time_info": "[00时34分 ~ 07时23分]"
         },
         {
+          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
+          "url": "https://www.zhihu.com/question/1992497349604438807",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 12时42分]"
+        },
+        {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
           "url": "https://www.zhihu.com/question/1991388819304510504",
           "source": "知乎",
@@ -81,15 +93,16 @@
           "time_info": "[00时34分 ~ 07时23分]"
         },
         {
-          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
-          "url": "https://www.zhihu.com/question/1992497349604438807",
-          "source": "知乎",
+          "title": "特朗普提出将美军费提至1.5万亿美元",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E5%B0%86%E7%BE%8E%E5%86%9B%E8%B4%B9%E6%8F%90%E8%87%B31.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 12时42分]"
         },
         {
           "title": "A股14连阳",
@@ -107,15 +120,15 @@
           "time_info": "[00时34分 ~ 05时23分]"
         },
         {
-          "title": "特朗普提出将美军费提至1.5万亿美元",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E5%B0%86%E7%BE%8E%E5%86%9B%E8%B4%B9%E6%8F%90%E8%87%B31.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
+          "title": "天价比特币，被美国“黑吃黑”？起底太子集团创始人陈志",
+          "url": "https://finance.ifeng.com/c/8pkAbqGJef5",
+          "source": "凤凰网",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "time_info": "[12时41分 ~ 12时42分]"
         },
         {
           "title": "WTI 2月原油期货收报55.99美元/桶。 NYMEX 2月天然气期货收报3.525-美元/百万英热单位。 NYMEX 2月汽油期货收报1.6945美元/加仑，NYMEX 2月取暖油期货收报2.0567美元/加仑。",
@@ -138,17 +151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        },
-        {
-          "title": "日经225指数日内跌幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3032916",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
         },
         {
           "title": "美国财政部顾问Lavorgna：希望美联储继续降息。",
@@ -212,7 +214,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -237,17 +239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "上证指数早盘收报4089.45点，涨0.09%。 深证成指早盘收报14003.09点，跌0.20%。 创业板指早盘收报3312.47点，跌0.52%。 沪深300早盘收报4753.96点，跌0.48%。 科创50早盘收报1468.93点，涨1.77%。 中证500早盘收报7923.76点，涨0.62%。 中证1000早盘收报7975.31点，涨0.87%。",
-          "url": "https://wallstreetcn.com/livenews/3032910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
         },
         {
           "title": "美国财政部顾问Lavorgna：美联储应继续降息。",
@@ -294,6 +285,18 @@
           "time_info": "09时53分"
         },
         {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 12时42分]"
+        },
+        {
           "title": "上期所原油期货2502合约夜盘收跌2.19%，报415.50元人民币/桶。 沪金夜盘收跌0.31%，沪银收跌2.99%。",
           "url": "https://wallstreetcn.com/livenews/3032649",
           "source": "华尔街见闻-快讯",
@@ -305,6 +308,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 04时29分]"
+        },
+        {
+          "title": "日经225指数日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3032916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时42分]"
         },
         {
           "title": "美国总统特朗普：采购的设备将改善委内瑞拉的电网和能源设施。",
@@ -366,6 +381,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 04时29分]"
+        },
+        {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 12时42分]"
         },
         {
           "title": "美国总统特朗普：他们将用从我们新的石油协议中获得的资金来支付。",
@@ -452,6 +479,18 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "上证指数早盘收报4089.45点，涨0.09%。 深证成指早盘收报14003.09点，跌0.20%。 创业板指早盘收报3312.47点，跌0.52%。 沪深300早盘收报4753.96点，跌0.48%。 科创50早盘收报1468.93点，涨1.77%。 中证500早盘收报7923.76点，涨0.62%。 中证1000早盘收报7975.31点，涨0.87%。",
+          "url": "https://wallstreetcn.com/livenews/3032910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时42分]"
+        },
+        {
           "title": "特朗普质疑北约在美国需要时会否给予支持",
           "url": "https://flash.jin10.com/detail/20260108034118954800",
           "source": "金十数据",
@@ -488,16 +527,16 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
+          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
+          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            13
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 12时42分]"
         },
         {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
@@ -549,6 +588,40 @@
           "time_info": "[04时29分 ~ 05时23分]"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.18%，10年期主力合约涨0.08%，5年期主力合约涨0.07%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3032906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时42分]"
+        },
+        {
+          "title": "财联社C50风向指数调查：2026年MLF与买断式逆回购或延续小额净投放 财政重心从总量加码向结构增效转型",
+          "url": "https://www.cls.cn/detail/2251489",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
+          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
           "title": "美国交通部：特朗普政府扣留了加州政府1.6亿美元资金，原因是该州未能撤销超过17,000张由外国人持有的商业驾照。",
           "url": "https://flash.jin10.com/detail/20260108060318362800",
           "source": "金十数据",
@@ -597,6 +670,17 @@
           "time_info": "[00时34分 ~ 01时28分]"
         },
         {
+          "title": "学者：特朗普把美国往绝路上带",
+          "url": "https://www.toutiao.com/trending/7592771781304258098/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
           "title": "【内塔尼亚胡：特朗普已为以色列对黎真主党发动新一轮军事行动“开绿灯”】7日获悉，以色列总理内塔尼亚胡向内阁部长透露，美国总统特朗普已为以色列在黎巴嫩对真主党发动新一轮军事行动“开绿灯”。据悉，以色列和美国方面均对黎巴嫩政府在应对真主党威胁方面的表现“表示不满”。不过，暂无信息明确指出以军是否即将对黎巴嫩真主党发起大规模军事打击。（央视）",
           "url": "https://wallstreetcn.com/livenews/3032730",
           "source": "华尔街见闻-快讯",
@@ -607,28 +691,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
-          "url": "https://wallstreetcn.com/articles/3762789",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
-        },
-        {
-          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
-          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
         },
         {
           "title": "受特朗普对住房的评论影响，黑石集团股价一度下跌9.3%。",
@@ -691,6 +753,18 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "泰国股指SET指数日内跌幅扩大至1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3032897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时42分]"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉的石油收入只能用于购买美国制造的产品。 采购将包括美国药品和农产品。 委内瑞拉承诺与美国做生意。",
           "url": "https://wallstreetcn.com/livenews/3032726",
           "source": "华尔街见闻-快讯",
@@ -739,6 +813,18 @@
           "time_info": "[02时36分 ~ 03时22分]"
         },
         {
+          "title": "A股商业航天概念持续走强，航天晨光、航天电器、航天电子、天箭科技、通宇通讯、江顺科技、盛洋科技等十余只成分股封涨停板。",
+          "url": "https://wallstreetcn.com/livenews/3032891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时42分]"
+        },
+        {
           "title": "特朗普：我将呼吁美国国会将其编入法典。",
           "url": "https://flash.jin10.com/detail/20260108014836291800",
           "source": "金十数据",
@@ -761,6 +847,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时22分]"
+        },
+        {
+          "title": "富时中国A50指数期货日内跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3032885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时42分]"
         },
         {
           "title": "金十图示：2026年01月07日（周三）华尔街恐惧与贪婪指数（美盘后）",
@@ -808,17 +906,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.18%，10年期主力合约涨0.08%，5年期主力合约涨0.07%，2年期主力合约涨0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3032906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
         },
         {
           "title": "特朗普：委内瑞拉石油收入将只买美国制造的产品",
@@ -953,6 +1040,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "摩根士丹利：全球基金12月增持中国股票 受被动型流入支撑",
+          "url": "https://wallstreetcn.com/livenews/3032918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
           "title": "据Punchbowl：美国总统特朗普将于2月24日发表国情咨文。",
           "url": "https://flash.jin10.com/detail/20260108050259724800",
           "source": "金十数据",
@@ -975,6 +1073,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "美国总统特朗普：将于美东时间周四下午5:30参加政策会议。",
+          "url": "https://flash.jin10.com/detail/20260108114002884800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
           "title": "上证指数开盘报4077.72点，跌0.20%。 深证成指开盘报13971.89点，跌0.42%。 创业板指开盘报3308.74点，跌0.63%。 沪深300开盘报4761.01点，跌0.33%。 科创50开盘报1441.19点，跌0.15%。 中证500开盘报7853.21点，跌0.28%。 中证1000开盘报7886.81点，跌0.25%。",
           "url": "https://wallstreetcn.com/livenews/3032823",
           "source": "华尔街见闻-快讯",
@@ -984,17 +1093,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "泰国股指SET指数日内跌幅扩大至1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3032897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
         },
         {
           "title": "特朗普：军工企业不应分红或回购股票 高管年薪不可超500万美元",
@@ -1017,6 +1115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "日经225指数日内跌幅达1.00%。",
+          "url": "https://flash.jin10.com/detail/20260108113653024800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "经济学家：澳洲联储仓促加息或扰乱脆弱复苏",
@@ -1047,9 +1156,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "金十图示：2026年01月08日（周四）富时中国A50指数成分股午盘收盘行情一览：多数板块飘绿，煤炭、电力股逆市上涨。",
+          "url": "https://flash.jin10.com/detail/20260108113248858800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "芝加哥大豆期货涨超0.9%，豆粕涨超1.9%，小麦涨约1.6%",
@@ -1063,15 +1183,15 @@
           "time_info": "05时23分"
         },
         {
-          "title": "A股商业航天概念持续走强，航天晨光、航天电器、航天电子、天箭科技、通宇通讯、江顺科技、盛洋科技等十余只成分股封涨停板。",
-          "url": "https://wallstreetcn.com/livenews/3032891",
-          "source": "华尔街见闻-快讯",
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260108113111491800",
+          "source": "金十数据",
           "ranks": [
-            16
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "12时42分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-01-08）",
@@ -1085,6 +1205,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260108113108754800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
           "title": "特朗普政府：美国正在研究委内瑞拉石油资金的去向",
           "url": "https://wallstreetcn.com/livenews/3032739",
           "source": "华尔街见闻-快讯",
@@ -1094,17 +1225,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "富时中国A50指数期货日内跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3032885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
         },
         {
           "title": "白宫新闻秘书莱维特：（谈格陵兰岛）特朗普和国家安全团队正在积极讨论。",
@@ -1146,9 +1266,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，焦煤涨超5%，碳酸锂、焦炭、BR橡胶涨超2%，玻璃涨超1%。跌幅方面，集运欧线跌超8%，多晶硅跌超7%，沪银跌超3%，硅铁、国际铜、沪镍、工业硅、SC原油、铂、沪铜、甲醇跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260108113059969800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "周三（1月7日），降息赢家指数跌1.33%，报101.94点。 “特朗普关税输家”指数跌1.60%，报115.99点。 “特朗普金融指数”跌1.63%，报179.24点。 散户抱团概念股指数/迷因股（meme stock）指数跌3.10%，报16.10点。",
@@ -1223,7 +1354,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -1300,7 +1431,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -1333,7 +1464,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -1421,7 +1552,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         }
@@ -1441,8 +1572,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 11时42分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 12时42分]"
         },
         {
           "title": "美股三大期指涨跌不一 贵金属、存储概念盘前承压 | 今夜看点",
@@ -1557,8 +1688,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时42分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 12时42分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
