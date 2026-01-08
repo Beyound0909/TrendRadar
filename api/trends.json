@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T19:23:35.100822+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2026-01-08T20:52:12.097815+08:00",
+  "total_titles_processed": 1876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 195,
+      "match_count": 202,
       "titles": [
         {
           "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
@@ -65,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时41分 ~ 19时23分]"
+          "appearance_count": 12,
+          "time_info": "[12时41分 ~ 20时52分]"
         },
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -80,8 +80,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时41分 ~ 19时23分]"
+          "appearance_count": 14,
+          "time_info": "[11时41分 ~ 20时52分]"
         },
         {
           "title": "天价比特币，被美国“黑吃黑”？起底太子集团创始人陈志",
@@ -131,11 +131,12 @@
             13,
             14,
             15,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时53分 ~ 19时23分]"
+          "appearance_count": 15,
+          "time_info": "[09时53分 ~ 20时52分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -188,6 +189,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 07时23分]"
+        },
+        {
+          "title": "白银提前大跳水？彭博商品指数再平衡“倒计时” 一文了解将发生什么",
+          "url": "https://www.cls.cn/detail/2251693",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 20时52分]"
         },
         {
           "title": "A股14连阳",
@@ -299,7 +313,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -348,6 +362,17 @@
           "time_info": "17时31分"
         },
         {
+          "title": "网传申银万国期货员工因降薪维权遭袭，当事人回应：“动手的是总经理，我已经报警”",
+          "url": "https://wallstreetcn.com/livenews/3033322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "股指期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20260108093109471800",
           "source": "金十数据",
@@ -387,7 +412,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -412,6 +437,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 20时52分]"
         },
         {
           "title": "美国财政部顾问Lavorgna：美联储应继续降息。",
@@ -493,16 +530,16 @@
           "time_info": "[13时28分 ~ 16时35分]"
         },
         {
-          "title": "白银提前大跳水？彭博商品指数再平衡“倒计时” 一文了解将发生什么",
-          "url": "https://www.cls.cn/detail/2251693",
+          "title": "【每日收评】三大指数小幅收跌，商业航天等热门题材反复活跃，全市场超百股涨停",
+          "url": "https://www.cls.cn/detail/2251858",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时34分 ~ 19时23分]"
+          "time_info": "[17时31分 ~ 20时52分]"
         },
         {
           "title": "日经225指数日内跌幅扩大至1%。",
@@ -724,6 +761,19 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "今天A股发生了这些变化",
+          "url": "https://www.toutiao.com/trending/7591811735389405238/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 20时52分]"
+        },
+        {
           "title": "哥伦比亚总统与特朗普通电话",
           "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
           "source": "百度热搜",
@@ -734,29 +784,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时38分 ~ 16时35分]"
-        },
-        {
-          "title": "特朗普一口气退出了哪66个国际组织？",
-          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时23分]"
-        },
-        {
-          "title": "【每日收评】三大指数小幅收跌，商业航天等热门题材反复活跃，全市场超百股涨停",
-          "url": "https://www.cls.cn/detail/2251858",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时23分]"
         },
         {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
@@ -844,6 +871,17 @@
           "time_info": "[11时42分 ~ 12时42分]"
         },
         {
+          "title": "深圳坪山突发山火",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9D%AA%E5%B1%B1%E7%AA%81%E5%8F%91%E5%B1%B1%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
+        },
+        {
           "title": "美国交通部：特朗普政府扣留了加州政府1.6亿美元资金，原因是该州未能撤销超过17,000张由外国人持有的商业驾照。",
           "url": "https://flash.jin10.com/detail/20260108060318362800",
           "source": "金十数据",
@@ -903,6 +941,28 @@
           "time_info": "[12时41分 ~ 12时42分]"
         },
         {
+          "title": "重要商品指数再平衡今日开启，两大投行预言“白银两周内调整”，高盛“关键还是伦敦”",
+          "url": "https://wallstreetcn.com/articles/3762801",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
+        },
+        {
+          "title": "特朗普“炮轰”美国军火商",
+          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
+        },
+        {
           "title": "【内塔尼亚胡：特朗普已为以色列对黎真主党发动新一轮军事行动“开绿灯”】7日获悉，以色列总理内塔尼亚胡向内阁部长透露，美国总统特朗普已为以色列在黎巴嫩对真主党发动新一轮军事行动“开绿灯”。据悉，以色列和美国方面均对黎巴嫩政府在应对真主党威胁方面的表现“表示不满”。不过，暂无信息明确指出以军是否即将对黎巴嫩真主党发起大规模军事打击。（央视）",
           "url": "https://wallstreetcn.com/livenews/3032730",
           "source": "华尔街见闻-快讯",
@@ -921,18 +981,6 @@
           "ranks": [
             9,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时23分]"
-        },
-        {
-          "title": "今天A股发生了这些变化",
-          "url": "https://www.toutiao.com/trending/7591811735389405238/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1452,7 +1500,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1488,6 +1536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "特朗普宣布扩军计划 重燃全球军工行情",
+          "url": "https://flash.jin10.com/detail/20260108203127157800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "特朗普锁定委内瑞拉石油，加拿大原油价格暴跌",
@@ -1650,7 +1709,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1727,7 +1786,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1862,6 +1921,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20260108201737290800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "周三（1月7日），降息赢家指数跌1.33%，报101.94点。 “特朗普关税输家”指数跌1.60%，报115.99点。 “特朗普金融指数”跌1.63%，报179.24点。 散户抱团概念股指数/迷因股（meme stock）指数跌3.10%，报16.10点。",
@@ -2024,7 +2094,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -2247,6 +2317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "郑商所：动力煤期货2701合约交易保证金标准为50% 涨跌停板幅度为10%",
+          "url": "https://wallstreetcn.com/livenews/3033288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         }
       ]
     },
@@ -2395,7 +2476,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         }
@@ -2414,8 +2495,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时53分 ~ 19时23分]"
+          "appearance_count": 15,
+          "time_info": "[09时53分 ~ 20时52分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
