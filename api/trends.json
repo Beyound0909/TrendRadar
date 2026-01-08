@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T04:28:55.763958+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-01-09T05:24:42.266863+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 86,
+      "match_count": 92,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "重要商品指数再平衡今日开启，两大投行预言“白银两周内调整”，高盛“关键还是伦敦”",
@@ -28,8 +28,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
+        },
+        {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
+        },
+        {
+          "title": "美国媒体人：特朗普增加军费表明美国可能正准备“世界大战”",
+          "url": "https://www.cls.cn/detail/2252295",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
+        },
+        {
+          "title": "特朗普“炮轰”美国军火商",
+          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "美联储：美国未经季节性调整的商业票据未偿余额增加441亿美元。",
@@ -54,83 +89,15 @@
           "time_info": "00时33分"
         },
         {
-          "title": "美联储：美国未经季节性调整的外国金融商业票据未偿余额增加15亿美元。",
-          "url": "https://flash.jin10.com/detail/20260109020041058800",
-          "source": "金十数据",
+          "title": "人事管理办公室（OPM）数据显示：美国总统特朗普第二任期内，已经有超过32.2万名雇员离开联邦机构。 教育部减员39%，财政部流失21%。",
+          "url": "https://wallstreetcn.com/livenews/3033551",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "美联储：美国经季节性调整的商业票据未偿余额在1月7日当周增加1259亿美元。",
-          "url": "https://flash.jin10.com/detail/20260109020024900800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "美国联邦住房金融局局长Pulte：预计美国总统特朗普将在下个月就房利美和房地美的IPO作出决定。",
-          "url": "https://flash.jin10.com/detail/20260109003127574800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "特朗普一口气退出了哪66个国际组织？",
-          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时28分]"
-        },
-        {
-          "title": "特朗普称已决定美联储主席人选",
-          "url": "https://flash.jin10.com/detail/20260109015652533800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "美国媒体人：特朗普增加军费表明美国可能正准备“世界大战”",
-          "url": "https://www.cls.cn/detail/2252295",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时28分]"
-        },
-        {
-          "title": "特朗普“炮轰”美国军火商",
-          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时28分]"
+          "time_info": "05时24分"
         },
         {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
@@ -143,8 +110,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "200斤小伙离不开红烧肉突发脑出血",
@@ -155,11 +122,12 @@
             10,
             17,
             18,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "特朗普 ：禁止囤房",
@@ -173,8 +141,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "深圳坪山突发山火",
@@ -184,11 +152,100 @@
             18,
             14,
             13,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
+        },
+        {
+          "title": "美联储：美国未经季节性调整的外国金融商业票据未偿余额增加15亿美元。",
+          "url": "https://flash.jin10.com/detail/20260109020041058800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国财经媒体Semafor：华纳兄弟探索公司(WBD.O)高层已私下表示，如果派拉蒙公司提高出价，他们愿意再次与该公司展开对话。",
+          "url": "https://flash.jin10.com/detail/20260109050017560800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "阿根廷MERVAL指数收涨2.08%，报307.7万点。",
+          "url": "https://wallstreetcn.com/livenews/3033550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美联储：美国经季节性调整的商业票据未偿余额在1月7日当周增加1259亿美元。",
+          "url": "https://flash.jin10.com/detail/20260109020024900800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "据美联社援引消息人士报道，美国总统特朗普的顾问在白宫会见了丹麦和格陵兰岛的特使。",
+          "url": "https://flash.jin10.com/detail/20260109045909351800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美国联邦住房金融局局长Pulte：预计美国总统特朗普将在下个月就房利美和房地美的IPO作出决定。",
+          "url": "https://flash.jin10.com/detail/20260109003127574800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "美国总统特朗普：（谈对尼日利亚的袭击事件）希望能将此视为一次性的袭击事件，但如果基督徒遭到杀害，那可能就会变成“多次袭击事件”了。",
+          "url": "https://flash.jin10.com/detail/20260109045808959800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普称已决定美联储主席人选",
+          "url": "https://flash.jin10.com/detail/20260109015652533800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "美参院推进限制特朗普对委动武决议",
@@ -277,6 +334,18 @@
           "time_info": "[00时33分 ~ 02时32分]"
         },
         {
+          "title": "特朗普退群“弃子”都有哪些",
+          "url": "https://www.toutiao.com/trending/7592986570223799834/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 05时24分]"
+        },
+        {
           "title": "美国联邦住房金融局局长Pulte：房利美和房地美都有关于处理特朗普住房命令的工具。",
           "url": "https://flash.jin10.com/detail/20260109002620712800",
           "source": "金十数据",
@@ -301,6 +370,30 @@
           "time_info": "[00时33分 ~ 01时29分]"
         },
         {
+          "title": "美国总统特朗普暗示，无意赦免（被前总统拜登收监的）原加密货币交易所FTX创始人Sam Bankman-Fried（SBF）。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3033530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时24分]"
+        },
+        {
+          "title": "美国国会预算办公室预计美联储今年将小幅降息",
+          "url": "https://flash.jin10.com/detail/20260109033515043800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时24分]"
+        },
+        {
           "title": "美国总统特朗普：就“参议院寻求限制我对委内瑞拉继续动武”的表决结果谴责参议院共和党。 “战争权法案”是违反宪法的。 参议院下周将围绕这个议题投票。",
           "url": "https://wallstreetcn.com/livenews/3033492",
           "source": "华尔街见闻-快讯",
@@ -323,6 +416,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时29分]"
+        },
+        {
+          "title": "当被问及美国民众何时才能收到特朗普承诺从关税收入中拨出的2000美元支票，特朗普表示，发放这些款项无需国会批准。当被问及具体时间表时，他回答说：“我想大概在年底左右。”",
+          "url": "https://flash.jin10.com/detail/20260109032840133800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时24分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.09%，暂报4030.30点，在震荡下行行情中、于北京时间22:45刷新日低至3895.69点，随后反弹。 MarketVectorTM数字资产100中盘指数跌0.37%，报3812.71点。 MarketVector数字资产100指数跌0.79%，报18858.80点。",
@@ -361,6 +466,30 @@
           "time_info": "[02时32分 ~ 03时22分]"
         },
         {
+          "title": "深圳坪山突发山火",
+          "url": "https://www.douyin.com/hot/2361411",
+          "source": "抖音",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时24分]"
+        },
+        {
+          "title": "WTI 2月原油期货收涨1.77美元，涨幅3.16%，报57.76美元/桶。 布伦特3月原油期货收报61.99美元/桶。 NYMEX 2月天然气期货收报3.4070美元/百万英热单位。 NYMEX 2月汽油期货收报1.7603美元/加仑，NYMEX 2月取暖油期货收报2.1195美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3033524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时24分]"
+        },
+        {
           "title": "超过12位石油公司的老板们将出席美国总统特朗普关于委内瑞拉的会议。 列席会议的企业高管包括Harold Hamm，埃克森美孚、雪佛龙、康菲石油的高管们也将参加会议。",
           "url": "https://wallstreetcn.com/livenews/3033482",
           "source": "华尔街见闻-快讯",
@@ -373,26 +502,27 @@
           "time_info": "[02时32分 ~ 03时22分]"
         },
         {
-          "title": "特朗普退群“弃子”都有哪些",
-          "url": "https://www.toutiao.com/trending/7592986570223799834/",
-          "source": "今日头条",
+          "title": "最准外汇预测家、Prestige Economics总裁Jason Schenker，鉴于美联储今年前六个月将降息两次，美元将走弱。 Schenker在彭博对主要外汇对预测的评比中连续三个季度力压群雄。 他预计，随着美国经济复苏，美元将在下半年反弹。 他还说：“大宗商品货币今年可能会走强”，比如澳元、卢布、墨西哥比索和巴西雷亚尔。",
+          "url": "https://wallstreetcn.com/livenews/3033520",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            18,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时32分]"
+          "time_info": "[04时28分 ~ 05时24分]"
         },
         {
-          "title": "美国总统特朗普暗示，无意赦免（被前总统拜登收监的）原加密货币交易所FTX创始人Sam Bankman-Fried（SBF）。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3033530",
+          "title": "丹麦与格陵兰岛的外交官们前往美国白宫，会见特朗普政府的官员们。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3033546",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时28分"
+          "time_info": "05时24分"
         },
         {
           "title": "美国参议院以52比47的票数通过了关于战争权力的决议，限制特朗普对委内瑞拉采取军事行动的能力。",
@@ -415,17 +545,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
-        },
-        {
-          "title": "美国国会预算办公室预计美联储今年将小幅降息",
-          "url": "https://flash.jin10.com/detail/20260109033515043800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
         },
         {
           "title": "特朗普：支持推进“限制总统战争权”的共和党议员不应连任",
@@ -459,17 +578,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
-        },
-        {
-          "title": "当被问及美国民众何时才能收到特朗普承诺从关税收入中拨出的2000美元支票，特朗普表示，发放这些款项无需国会批准。当被问及具体时间表时，他回答说：“我想大概在年底左右。”",
-          "url": "https://flash.jin10.com/detail/20260109032840133800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
         },
         {
           "title": "据消息人士透露，委内瑞拉正积极与特朗普政府合作，推进其向美国出口石油的计划，委临时领导人德尔茜·罗德里格斯与美国国务卿鲁比奥保持密切沟通。（英国金融时报）",
@@ -566,7 +674,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -599,18 +707,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "WTI 2月原油期货收涨1.77美元，涨幅3.16%，报57.76美元/桶。 布伦特3月原油期货收报61.99美元/桶。 NYMEX 2月天然气期货收报3.4070美元/百万英热单位。 NYMEX 2月汽油期货收报1.7603美元/加仑，NYMEX 2月取暖油期货收报2.1195美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3033524",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -648,17 +745,6 @@
           "time_info": "02时32分"
         },
         {
-          "title": "深圳坪山突发山火",
-          "url": "https://www.douyin.com/hot/2361411",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
           "title": "美国总统特朗普就美联储主席人选表示：“我心里已经有决定了”。",
           "url": "https://flash.jin10.com/detail/20260109014507392800",
           "source": "金十数据",
@@ -676,7 +762,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -714,24 +800,13 @@
           "time_info": "01时29分"
         },
         {
-          "title": "最准外汇预测家、Prestige Economics总裁Jason Schenker，鉴于美联储今年前六个月将降息两次，美元将走弱。 Schenker在彭博对主要外汇对预测的评比中连续三个季度力压群雄。 他预计，随着美国经济复苏，美元将在下半年反弹。 他还说：“大宗商品货币今年可能会走强”，比如澳元、卢布、墨西哥比索和巴西雷亚尔。",
-          "url": "https://wallstreetcn.com/livenews/3033520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
           "title": "美国白宫：美国总统特朗普政府即将宣布成立新的司法部全国欺诈执法司。",
           "url": "https://flash.jin10.com/detail/20260109030848573800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -764,7 +839,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -775,7 +850,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -819,7 +894,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -841,7 +916,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -896,7 +971,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -918,7 +993,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -991,58 +1066,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "报道：英伟达+OpenAI支持的数据中心公司Nscale考虑融资20亿美元",
-          "url": "https://wallstreetcn.com/livenews/3033538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "OpenAI推出OpenAI for Healthcare。",
-          "url": "https://wallstreetcn.com/livenews/3033531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
-          "url": "https://flash.jin10.com/detail/20260109024531943800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
-          "url": "https://www.cls.cn/detail/2252286",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -1053,8 +1078,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 阿里巴巴涨超5%",
+          "url": "https://flash.jin10.com/detail/20260109050055276800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "癌症药品生产商Revolution Medicines（RVMD）美股尾盘暂停交易，临时停牌前涨幅5.2%。 Erasca Inc.（ERAS）临时停牌，暂停交易前涨幅扩大至22%。 据英国金融时报，Merck洽谈收购该公司，但双方还没有敲定最终协议。",
+          "url": "https://wallstreetcn.com/livenews/3033545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "金十图示：2026年01月08日（周四）美股热门股票行情一览（美股盘中）",
@@ -1081,8 +1128,60 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "报道：英伟达+OpenAI支持的数据中心公司Nscale考虑融资20亿美元",
+          "url": "https://wallstreetcn.com/livenews/3033538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时24分]"
+        },
+        {
+          "title": "OpenAI推出OpenAI for Healthcare。",
+          "url": "https://wallstreetcn.com/livenews/3033531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时24分]"
+        },
+        {
+          "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
+          "url": "https://www.cls.cn/detail/2252286",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时24分]"
+        },
+        {
+          "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
+          "url": "https://flash.jin10.com/detail/20260109024531943800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -1094,8 +1193,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
@@ -1106,8 +1205,47 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
+        },
+        {
+          "title": "10年期美债收益率涨超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3033543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数8日上涨",
+          "url": "https://flash.jin10.com/detail/20260109044102190800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美元指数涨超0.2%",
+          "url": "https://wallstreetcn.com/livenews/3033540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
@@ -1142,8 +1280,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 04时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 05时24分]"
         }
       ]
     }
