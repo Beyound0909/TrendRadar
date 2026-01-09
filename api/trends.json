@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T06:24:26.179751+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2026-01-10T07:23:09.811335+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 155,
+      "match_count": 167,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
@@ -41,6 +41,19 @@
           "time_info": "[00时31分 ~ 06时24分]"
         },
         {
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时23分]"
+        },
+        {
           "title": "美国12月非农喜忧参半 美联储6月前降息概率全面走低",
           "url": "https://www.cls.cn/detail/2253593",
           "source": "财联社热门",
@@ -50,20 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时24分]"
-        },
-        {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -71,11 +72,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
@@ -85,8 +87,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时23分]"
+        },
+        {
+          "title": "美国总统特朗普：（委内瑞拉反对派领导人）马查多将于周二或周三抵达华盛顿。马查多可能与委内瑞拉的政权运作有关联。",
+          "url": "https://flash.jin10.com/detail/20260110045705300800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
         },
         {
           "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
@@ -100,17 +113,6 @@
           "time_info": "[01时25分 ~ 05时24分]"
         },
         {
-          "title": "美国总统特朗普：（委内瑞拉反对派领导人）马查多将于周二或周三抵达华盛顿。马查多可能与委内瑞拉的政权运作有关联。",
-          "url": "https://flash.jin10.com/detail/20260110045705300800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
           "title": "美国总统特朗普：期待在不久的将来与哥伦比亚总统会晤。",
           "url": "https://flash.jin10.com/detail/20260110045523616800",
           "source": "金十数据",
@@ -118,8 +120,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗开始“杀人”，美国会介入。但这并不意味着会派地面部队。",
@@ -129,8 +131,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
         },
         {
           "title": "美国总统特朗普：伊朗麻烦大了，密切关注伊朗局势。",
@@ -140,8 +142,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普：如果不能轻松获得格陵兰，那就只能走难的路",
+          "url": "https://news.ifeng.com/c/8pn09qhmuYz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
+          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "花旗预计美联储将在3月、7月和9月各降息25个基点，而此前的预测是今年1月、3月和9月降息。",
@@ -199,15 +212,15 @@
           "time_info": "04时28分"
         },
         {
-          "title": "英伟达EVP、Worldwide Field Operations主管Ajay Puri执行内部交易，1月7日卖出公司股票20万，套现3760万元。",
-          "url": "https://wallstreetcn.com/livenews/3034439",
+          "title": "美国总统特朗普：进行了一场非常不错的会议。",
+          "url": "https://wallstreetcn.com/livenews/3034457",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时23分"
         },
         {
           "title": "美国总统特朗普：可能今天作出决定。",
@@ -276,15 +289,15 @@
           "time_info": "04时28分"
         },
         {
-          "title": "特朗普称委内瑞拉反对派要员马查多下周访美",
-          "url": "https://wallstreetcn.com/livenews/3034437",
+          "title": "美国能源部长Wright：今天从众多石油公司了解到（与投资委内瑞拉相关的）“大量兴趣”。 雪佛龙今天作出具体的（投资委内瑞拉的）承诺。 雪佛龙告知特朗普政府，该公司认为（委内瑞拉石油）产量有望增长50%。 未来8-12年，（美国）可能会从委内瑞拉捞取到300万桶/日的石油（供应）。 （对于去风险资本（derisking capital））美国可以改变（委内瑞拉的）政府行为。 后续将与委内瑞拉政府接触。 美国希望颠覆（总统马杜罗治下的）委内瑞拉治理方式。",
+          "url": "https://wallstreetcn.com/livenews/3034455",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时23分"
         },
         {
           "title": "美联储博斯蒂克：不招人、不解雇仍是劳动力市场的主要动态。",
@@ -318,17 +331,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        },
-        {
-          "title": "加拿大标普/TSX综合指数收涨0.72%，报32612.93点，时隔两个交易日再创收盘历史新高，本周累计上涨2.29%。 小盘股指收涨1.14%，报1260.03点，创收盘历史新高，本周累涨4.61%。",
-          "url": "https://wallstreetcn.com/livenews/3034436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "美联储博斯蒂克：就业市场已趋于降温，但尚不清楚其是否从根本上走弱。",
@@ -373,6 +375,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "航天电子：股票交易异常波动",
+          "url": "https://www.toutiao.com/trending/7593021166730838052/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 07时23分]"
         },
         {
           "title": "15连阳后，A股继续上攻！沪指突破4100点关口",
@@ -449,6 +464,18 @@
           "time_info": "[05时24分 ~ 06时24分]"
         },
         {
+          "title": "英伟达EVP、Worldwide Field Operations主管Ajay Puri执行内部交易，1月7日卖出公司股票20万，套现3760万元。",
+          "url": "https://wallstreetcn.com/livenews/3034439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
           "title": "美国里士满联储主席Barkin：不确定性和生产力增长造成招聘偏低。 （非农）就业人口增幅与企业报告的情况吻合。 失业率下降受人欢迎，但这也仅仅是一个月的数据而已。 美联储必须继续观察职责所面临的两哥方面。 整体经济需求仍然看似健康。",
           "url": "https://wallstreetcn.com/livenews/3034347",
           "source": "华尔街见闻-快讯",
@@ -475,6 +502,18 @@
           "time_info": "[02时36分 ~ 04时28分]"
         },
         {
+          "title": "特朗普称委内瑞拉反对派要员马查多下周访美",
+          "url": "https://wallstreetcn.com/livenews/3034437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.64%，报26408点。 恒生科技指数主连夜盘收涨0.81%，报5748点。",
           "url": "https://wallstreetcn.com/livenews/3034364",
           "source": "华尔街见闻-快讯",
@@ -499,6 +538,18 @@
           "time_info": "[05时24分 ~ 06时24分]"
         },
         {
+          "title": "加拿大标普/TSX综合指数收涨0.72%，报32612.93点，时隔两个交易日再创收盘历史新高，本周累计上涨2.29%。 小盘股指收涨1.14%，报1260.03点，创收盘历史新高，本周累涨4.61%。",
+          "url": "https://wallstreetcn.com/livenews/3034436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
           "title": "美国总统特朗普：我喜欢丹麦，但他们并不拥有格陵兰。 不管他们（丹麦）喜欢与否，我都要对格陵兰做点什么。 要么和平解决，要么（我）硬来（the easy or hard way）。",
           "url": "https://wallstreetcn.com/livenews/3034416",
           "source": "华尔街见闻-快讯",
@@ -511,18 +562,6 @@
           "time_info": "[05时24分 ~ 06时24分]"
         },
         {
-          "title": "航天电子：股票交易异常波动",
-          "url": "https://www.toutiao.com/trending/7593021166730838052/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时22分]"
-        },
-        {
           "title": "美国总统特朗普：委内瑞拉似乎是盟友。",
           "url": "https://flash.jin10.com/detail/20260110045154253800",
           "source": "金十数据",
@@ -530,8 +569,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
         },
         {
           "title": "美国总统特朗普：不认为有必要“俘虏”俄罗斯总统普京。",
@@ -541,8 +580,162 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普讲话期间，康菲石油(COP.N)股价下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260110045006833800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美国总统特朗普：没人真正知道古巴局势会如何发展。",
+          "url": "https://flash.jin10.com/detail/20260110044609852800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美国总统特朗普：（对埃克森美孚说）我们要速度和质量。",
+          "url": "https://flash.jin10.com/detail/20260110044317465800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美国总统特朗普：不回顾石油公司过去损失了多少。",
+          "url": "https://flash.jin10.com/detail/20260110044046754800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：1月6日当周，瑞士法郎的净空头头寸为-40,266手合约。英镑净空头头寸为-30,538份合约。日元净多头头寸为8,815手合约。",
+          "url": "https://flash.jin10.com/detail/20260110043411993800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：投机者在1月6日当周将芝加哥期货交易所美国10年期国债期货的净空头头寸削减24,106手合约，至915,552手。投机者在截至1月6日当周将芝加哥期货交易所美国2年期国债期货的净空头头寸削减52,953手合约，至1,346,654手。",
+          "url": "https://flash.jin10.com/detail/20260110043235342800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：在截至1月6日的一周内，四大主要纽约商品交易所和洲际交易所天然气投机者的净多头头寸减少44,472手合约，至79,516手合约。",
+          "url": "https://flash.jin10.com/detail/20260110043134434800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至1月6日的一周，芝商所标普500期货的股票基金经理将净多头仓位增加了20,846手合约，至963,767手。投机性空头头寸增加了50,614手合约，至415,017手。",
+          "url": "https://flash.jin10.com/detail/20260110043120533800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至1月6日当周，白银投机者将净多头头寸增加1063手合约，至17658手。",
+          "url": "https://flash.jin10.com/detail/20260110043042058800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至1月6日当周，原油投机者将WTI净空头头寸削减1047手合约，降至11983手。",
+          "url": "https://flash.jin10.com/detail/20260110043031775800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至1月6日当周，铜投机者将净多头头寸削减3,537手合约，降至66,896手。",
+          "url": "https://flash.jin10.com/detail/20260110043016519800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至1月6日当周，黄金投机者将净多头头寸削减2,617手合约，至124,256手。",
+          "url": "https://flash.jin10.com/detail/20260110043006267800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普施压大型石油公司在委内瑞拉投资1000亿美元",
+          "url": "https://flash.jin10.com/detail/20260110042928179800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普今天发表讲话时，衣领上别着一枚他自己形象的徽章。",
+          "url": "https://flash.jin10.com/detail/20260110042306371800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时23分]"
         },
         {
           "title": "特朗普的“房管局长”Pulte：需要处理鲍威尔",
@@ -569,15 +762,15 @@
           "time_info": "[05时24分 ~ 06时24分]"
         },
         {
-          "title": "特朗普讲话期间，康菲石油(COP.N)股价下跌1%。",
-          "url": "https://flash.jin10.com/detail/20260110045006833800",
-          "source": "金十数据",
+          "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
+          "url": "https://wallstreetcn.com/articles/3762987",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
+          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：相信总统特朗普将在达沃斯宣布一些不错的想法。 （2026年即将举办的）达沃斯将因（美国）住房市场而非常兴奋。 （关于房利美+房地美，即两房）信心存在于流动性之中。 两房IPO仍然可能迅速发生。 在推出50年期抵押贷款（产品）之前，我们还有其他的优先议题。 （对于抵押贷款债券）我们已经购买大约30亿美元。 正处于执行2000亿美元购买的过程中。 抵押贷款债券购买能够利好两房。 特朗普对金融机构购买独栋住宅的禁令很重要。",
@@ -628,17 +821,6 @@
           "time_info": "[05时24分 ~ 06时24分]"
         },
         {
-          "title": "美国总统特朗普：没人真正知道古巴局势会如何发展。",
-          "url": "https://flash.jin10.com/detail/20260110044609852800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
           "title": "纳斯达克100指数涨超1%，英特尔涨10.4%领跑，拉姆研究涨8.4%，阿斯麦ADR涨6.9%，应用材料涨5.9%，科磊涨5.7%。 标普500指数涨超0.7%，道指涨0.5%，半导体指数涨2.8%，银行指数微跌。",
           "url": "https://wallstreetcn.com/livenews/3034357",
           "source": "华尔街见闻-快讯",
@@ -651,26 +833,16 @@
           "time_info": "[03时22分 ~ 04时28分]"
         },
         {
-          "title": "美国总统特朗普：（对埃克森美孚说）我们要速度和质量。",
-          "url": "https://flash.jin10.com/detail/20260110044317465800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：将继续举办石油会议，（但后续）就没有新闻发布会了。",
+          "url": "https://wallstreetcn.com/livenews/3034430",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "美国总统特朗普：不回顾石油公司过去损失了多少。",
-          "url": "https://flash.jin10.com/detail/20260110044046754800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
+          "time_info": "[06时24分 ~ 07时23分]"
         },
         {
           "title": "【特朗普：美国将立即开始提炼和销售5000万桶委石油】1月9日，美国总统特朗普在白宫与大型石油企业高管举行会议。 特朗普表示，将讨论石油公司如何重建委内瑞拉的石油产业，部分资金将流向委内瑞拉和石油公司。特朗普称，委内瑞拉8日向美国提供了3000万桶石油。 特朗普还称，美政府将决定哪些石油公司将进入委内瑞拉，石油公司将直接与美国打交道，而不是与委内瑞拉。 特朗普还表示，美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可以购买想要的任何数量的石油，美方将“几乎立即开放业务”。特朗普称下周将与石油公司再次举行会议。（央视）",
@@ -695,116 +867,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时22分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：1月6日当周，瑞士法郎的净空头头寸为-40,266手合约。英镑净空头头寸为-30,538份合约。日元净多头头寸为8,815手合约。",
-          "url": "https://flash.jin10.com/detail/20260110043411993800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：投机者在1月6日当周将芝加哥期货交易所美国10年期国债期货的净空头头寸削减24,106手合约，至915,552手。投机者在截至1月6日当周将芝加哥期货交易所美国2年期国债期货的净空头头寸削减52,953手合约，至1,346,654手。",
-          "url": "https://flash.jin10.com/detail/20260110043235342800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：在截至1月6日的一周内，四大主要纽约商品交易所和洲际交易所天然气投机者的净多头头寸减少44,472手合约，至79,516手合约。",
-          "url": "https://flash.jin10.com/detail/20260110043134434800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至1月6日的一周，芝商所标普500期货的股票基金经理将净多头仓位增加了20,846手合约，至963,767手。投机性空头头寸增加了50,614手合约，至415,017手。",
-          "url": "https://flash.jin10.com/detail/20260110043120533800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至1月6日当周，白银投机者将净多头头寸增加1063手合约，至17658手。",
-          "url": "https://flash.jin10.com/detail/20260110043042058800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至1月6日当周，原油投机者将WTI净空头头寸削减1047手合约，降至11983手。",
-          "url": "https://flash.jin10.com/detail/20260110043031775800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至1月6日当周，铜投机者将净多头头寸削减3,537手合约，降至66,896手。",
-          "url": "https://flash.jin10.com/detail/20260110043016519800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至1月6日当周，黄金投机者将净多头头寸削减2,617手合约，至124,256手。",
-          "url": "https://flash.jin10.com/detail/20260110043006267800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "特朗普施压大型石油公司在委内瑞拉投资1000亿美元",
-          "url": "https://flash.jin10.com/detail/20260110042928179800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "特朗普今天发表讲话时，衣领上别着一枚他自己形象的徽章。",
-          "url": "https://flash.jin10.com/detail/20260110042306371800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
         },
         {
           "title": "美联储博斯蒂克：听到依赖外国工人的行业面临压力。",
@@ -860,6 +922,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "美国农业部长（USDA）部长Rollins：特朗普政府暂停向明尼苏达州发放联邦资金，立即生效。 这包括当前激活的资金和未来可能会审批的资金。",
+          "url": "https://wallstreetcn.com/livenews/3034452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "美联储博斯蒂克：成本压力不仅仅来自关税。",
@@ -939,6 +1012,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "美国能源部长Wright：“不久”将前往委内瑞拉。 （自从特朗普授意美军强行掳走委内瑞拉总统马杜罗以来）还没有与Delcy Rodriguez直接对话。 多家石油公司将在未来数周围绕投资委内瑞拉出钱。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3034450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "泛欧交易所：原定于2月2日推出的商品期货晚间交易时段将推迟至4月13日上线。",
           "url": "https://flash.jin10.com/detail/20260110000042130800",
           "source": "金十数据",
@@ -994,13 +1078,24 @@
           "time_info": "03时22分"
         },
         {
+          "title": "特朗普的MBS购买计划被比作“准QE”，为交易员带来买入长债的理由",
+          "url": "https://wallstreetcn.com/livenews/3034449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "特朗普称美国必须拥有整个格陵兰，白宫“购岛”方案流出",
           "url": "https://wallstreetcn.com/articles/3762902",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -1036,17 +1131,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        },
-        {
-          "title": "美国总统特朗普：将继续举办石油会议，（但后续）就没有新闻发布会了。",
-          "url": "https://wallstreetcn.com/livenews/3034430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "WTI原油期货日内大涨3.00%，现报59.50美元/桶。",
@@ -1148,6 +1232,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "据知情人士透露，校车公司First Student已经为其美国IPO计划遴选银行机构。 这家获得殷拓EQT AB支持的公司正与高盛、摩根士丹利、加拿大皇家银行围绕其首次公开发行股票而合作。 买断公司EQT曾在2025年后期与潜在（承销行）顾问们进行过初步的讨论。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3034446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "美联储博斯蒂克：高端消费者一直在消费，经济一直具有韧性。",
           "url": "https://flash.jin10.com/detail/20260110011012215800",
           "source": "金十数据",
@@ -1242,9 +1337,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "贵州毕节凌晨突发4.5级地震",
+          "url": "https://wallstreetcn.com/livenews/3034444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "美国总统特朗普：我们为今天无法接待（所有）石油公司而道歉，但能源部长和内政部长将在下周会见他们。",
@@ -1280,6 +1386,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "周五（1月9日）纽约尾盘，标普500股指期货最终涨0.60%，道指期货涨0.47%，纳斯达克100股指期货涨0.96%。 罗素2000股指期货涨0.77%。",
+          "url": "https://wallstreetcn.com/livenews/3034443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "美国总统特朗普：期待在二月第一周与哥伦比亚总统佩特罗在白宫会面。",
           "url": "https://flash.jin10.com/detail/20260110024635635800",
           "source": "金十数据",
@@ -1308,7 +1425,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -1319,9 +1436,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "特朗普：“无论难易”都要得到格陵兰岛",
+          "url": "https://wallstreetcn.com/livenews/3034441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "美国法官表示，她将暂时阻止特朗普政府取消至少1万名拉美移民合法身份的举措。",
@@ -1377,6 +1505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普强推千亿美元委内瑞拉石油复兴计划，美能源巨头反应冷淡",
+          "url": "https://wallstreetcn.com/livenews/3034440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "美最高法院计划于1月14日颁布一批裁决，或涉及特朗普关税案",
@@ -1440,7 +1579,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -1737,7 +1876,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         }
@@ -1839,6 +1978,18 @@
           "time_info": "[00时31分 ~ 06时24分]"
         },
         {
+          "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
+          "url": "https://wallstreetcn.com/livenews/3034432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
           "title": "美国家庭财富升至纪录新高，得益于美股上涨，但房地产市场低迷",
           "url": "https://wallstreetcn.com/livenews/3034339",
           "source": "华尔街见闻-快讯",
@@ -1849,17 +2000,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时22分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
-          "url": "https://wallstreetcn.com/livenews/3034432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "金十图示：2026年01月09日（周五）美股热门股票行情一览（美股盘中）",
@@ -1907,7 +2047,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         }
@@ -1915,8 +2055,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
+          "url": "https://wallstreetcn.com/articles/3762954",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 07时23分]"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.94%，暂报4077.63点，最近七个自然日累计上涨7.54%，1月3-6日平滑地持续上涨，6-8日持续回撤。 MarketVectorTM数字资产100中盘指数跌0.49%，报3799.01点，最近七天累涨2.37%。 MarketVector数字资产100指数涨0.58%，报19000.72点，最近七天累涨1.89%。 最近七天，比特币累涨1.72%，1月5日曾达到94785.88美元；以太坊期内持平，6日曾涨至306.405美元。 Solana累涨6.02%，狗狗币累涨1.58%，XRP累涨5.6%。",
           "url": "https://wallstreetcn.com/livenews/3034317",
@@ -1943,7 +2094,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
@@ -1951,17 +2102,29 @@
           "source": "知乎",
           "ranks": [
             13,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时27分 ~ 06时24分]"
+          "appearance_count": 7,
+          "time_info": "[04时27分 ~ 07时23分]"
+        },
+        {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 07时23分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
@@ -1973,6 +2136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "两年期美债收益率在非农日涨约4.4个基点，本周累涨约5.9个基点",
+          "url": "https://wallstreetcn.com/livenews/3034451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         }
       ]
     }
