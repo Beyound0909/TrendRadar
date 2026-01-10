@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T07:23:09.811335+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-01-10T09:50:21.230434+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 167,
+      "match_count": 186,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -23,11 +23,26 @@
           "url": "https://www.douyin.com/hot/2362093",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 09时50分]"
+        },
+        {
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 09时50分]"
         },
         {
           "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
@@ -41,19 +56,6 @@
           "time_info": "[00时31分 ~ 06时24分]"
         },
         {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 07时23分]"
-        },
-        {
           "title": "美国12月非农喜忧参半 美联储6月前降息概率全面走低",
           "url": "https://www.cls.cn/detail/2253593",
           "source": "财联社热门",
@@ -63,8 +65,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 09时50分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -201,6 +203,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
+          "url": "https://flash.jin10.com/detail/20260110092636627800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "特朗普：价值40亿美元的委内瑞拉石油正被运往美国",
           "url": "https://wallstreetcn.com/livenews/3034378",
           "source": "华尔街见闻-快讯",
@@ -212,15 +225,39 @@
           "time_info": "04时28分"
         },
         {
-          "title": "美国总统特朗普：进行了一场非常不错的会议。",
-          "url": "https://wallstreetcn.com/livenews/3034457",
+          "title": "沃尔玛将被纳入纳斯达克100指数",
+          "url": "https://wallstreetcn.com/livenews/3034470",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "09时50分"
+        },
+        {
+          "title": "15连阳后，A股继续上攻！沪指突破4100点关口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32333007",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 09时50分]"
+        },
+        {
+          "title": "5名共和党议员倒戈，美参议院限制对委继续动武，特朗普怒了",
+          "url": "https://news.ifeng.com/c/8pn8nmIhgou",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "美国总统特朗普：可能今天作出决定。",
@@ -232,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "特朗普：我解决了拜登留下的高房贷利率难题，为美国家庭减轻负担",
+          "url": "https://flash.jin10.com/detail/20260110092012620800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "美国总统特朗普在会见石油行业高管们时声称：被美国扣押的油轮正在重返委内瑞拉。 被扣押的石油将通过“能源协议”出售。 与委内瑞拉民众的关系非常不错。 与委内瑞拉政府官员关系也很好。",
@@ -289,17 +337,6 @@
           "time_info": "04时28分"
         },
         {
-          "title": "美国能源部长Wright：今天从众多石油公司了解到（与投资委内瑞拉相关的）“大量兴趣”。 雪佛龙今天作出具体的（投资委内瑞拉的）承诺。 雪佛龙告知特朗普政府，该公司认为（委内瑞拉石油）产量有望增长50%。 未来8-12年，（美国）可能会从委内瑞拉捞取到300万桶/日的石油（供应）。 （对于去风险资本（derisking capital））美国可以改变（委内瑞拉的）政府行为。 后续将与委内瑞拉政府接触。 美国希望颠覆（总统马杜罗治下的）委内瑞拉治理方式。",
-          "url": "https://wallstreetcn.com/livenews/3034455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
           "title": "美联储博斯蒂克：不招人、不解雇仍是劳动力市场的主要动态。",
           "url": "https://flash.jin10.com/detail/20260110011701983800",
           "source": "金十数据",
@@ -331,6 +368,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "美国总统特朗普：自2026年1月20日起，作为美国总统，我将要求实施为期一年的信用卡利率上限政策，利率不得超过10%。",
+          "url": "https://flash.jin10.com/detail/20260110091128037800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "美国财长贝森特：美国目前发现，关税以物价上涨的形式转嫁给消费者的比例“非常、非常小”。 如果最高法院做出不利于特朗普政府的裁决，财政部有充足的资金支付任何关税退款。 任何关税退款都将在数周、数月、甚至可能是一年的时间内陆续流出。",
+          "url": "https://wallstreetcn.com/livenews/3034466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "美联储博斯蒂克：就业市场已趋于降温，但尚不清楚其是否从根本上走弱。",
@@ -377,6 +436,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "美国财长贝森特：抵押贷款回购的目标是大致匹配美联储资产负债表中住房抵押贷款支持证券（MBS）的到期规模。",
+          "url": "https://wallstreetcn.com/livenews/3034465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "航天电子：股票交易异常波动",
           "url": "https://www.toutiao.com/trending/7593021166730838052/",
           "source": "今日头条",
@@ -390,16 +460,17 @@
           "time_info": "[01时25分 ~ 07时23分]"
         },
         {
-          "title": "15连阳后，A股继续上攻！沪指突破4100点关口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32333007",
-          "source": "澎湃新闻",
+          "title": "英伟达EVP、Worldwide Field Operations主管Ajay Puri执行内部交易，1月7日卖出公司股票20万，套现3760万元。",
+          "url": "https://wallstreetcn.com/livenews/3034439",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            20
+            1,
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 09时50分]"
         },
         {
           "title": "美国里士满联储主席Barkin：美联储没理由不会迎来以为良好的主席。",
@@ -464,16 +535,16 @@
           "time_info": "[05时24分 ~ 06时24分]"
         },
         {
-          "title": "英伟达EVP、Worldwide Field Operations主管Ajay Puri执行内部交易，1月7日卖出公司股票20万，套现3760万元。",
-          "url": "https://wallstreetcn.com/livenews/3034439",
+          "title": "美国总统特朗普：进行了一场非常不错的会议。",
+          "url": "https://wallstreetcn.com/livenews/3034457",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            19
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
+          "time_info": "[07时23分 ~ 09时50分]"
         },
         {
           "title": "美国里士满联储主席Barkin：不确定性和生产力增长造成招聘偏低。 （非农）就业人口增幅与企业报告的情况吻合。 失业率下降受人欢迎，但这也仅仅是一个月的数据而已。 美联储必须继续观察职责所面临的两哥方面。 整体经济需求仍然看似健康。",
@@ -512,6 +583,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美国能源部长Wright：今天从众多石油公司了解到（与投资委内瑞拉相关的）“大量兴趣”。 雪佛龙今天作出具体的（投资委内瑞拉的）承诺。 雪佛龙告知特朗普政府，该公司认为（委内瑞拉石油）产量有望增长50%。 未来8-12年，（美国）可能会从委内瑞拉捞取到300万桶/日的石油（供应）。 （对于去风险资本（derisking capital））美国可以改变（委内瑞拉的）政府行为。 后续将与委内瑞拉政府接触。 美国希望颠覆（总统马杜罗治下的）委内瑞拉治理方式。",
+          "url": "https://wallstreetcn.com/livenews/3034455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时50分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.64%，报26408点。 恒生科技指数主连夜盘收涨0.81%，报5748点。",
@@ -571,6 +654,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
+          "url": "https://wallstreetcn.com/articles/3762987",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 09时50分]"
         },
         {
           "title": "美国总统特朗普：不认为有必要“俘虏”俄罗斯总统普京。",
@@ -762,15 +857,16 @@
           "time_info": "[05时24分 ~ 06时24分]"
         },
         {
-          "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
-          "url": "https://wallstreetcn.com/articles/3762987",
-          "source": "华尔街见闻",
+          "title": "美国农业部长（USDA）部长Rollins：特朗普政府暂停向明尼苏达州发放联邦资金，立即生效。 这包括当前激活的资金和未来可能会审批的资金。",
+          "url": "https://wallstreetcn.com/livenews/3034452",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
+          "time_info": "[07时23分 ~ 09时50分]"
         },
         {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：相信总统特朗普将在达沃斯宣布一些不错的想法。 （2026年即将举办的）达沃斯将因（美国）住房市场而非常兴奋。 （关于房利美+房地美，即两房）信心存在于流动性之中。 两房IPO仍然可能迅速发生。 在推出50年期抵押贷款（产品）之前，我们还有其他的优先议题。 （对于抵押贷款债券）我们已经购买大约30亿美元。 正处于执行2000亿美元购买的过程中。 抵押贷款债券购买能够利好两房。 特朗普对金融机构购买独栋住宅的禁令很重要。",
@@ -809,6 +905,18 @@
           "time_info": "[05时24分 ~ 06时24分]"
         },
         {
+          "title": "美国能源部长Wright：“不久”将前往委内瑞拉。 （自从特朗普授意美军强行掳走委内瑞拉总统马杜罗以来）还没有与Delcy Rodriguez直接对话。 多家石油公司将在未来数周围绕投资委内瑞拉出钱。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3034450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时50分]"
+        },
+        {
           "title": "标普500（住房）建筑商指数涨6.9%，创7月以来最大单日涨幅。",
           "url": "https://wallstreetcn.com/livenews/3034412",
           "source": "华尔街见闻-快讯",
@@ -819,6 +927,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时24分]"
+        },
+        {
+          "title": "特朗普的MBS购买计划被比作“准QE”，为交易员带来买入长债的理由",
+          "url": "https://wallstreetcn.com/livenews/3034449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时50分]"
         },
         {
           "title": "纳斯达克100指数涨超1%，英特尔涨10.4%领跑，拉姆研究涨8.4%，阿斯麦ADR涨6.9%，应用材料涨5.9%，科磊涨5.7%。 标普500指数涨超0.7%，道指涨0.5%，半导体指数涨2.8%，银行指数微跌。",
@@ -857,6 +977,18 @@
           "time_info": "[05时24分 ~ 06时24分]"
         },
         {
+          "title": "据知情人士透露，校车公司First Student已经为其美国IPO计划遴选银行机构。 这家获得殷拓EQT AB支持的公司正与高盛、摩根士丹利、加拿大皇家银行围绕其首次公开发行股票而合作。 买断公司EQT曾在2025年后期与潜在（承销行）顾问们进行过初步的讨论。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3034446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时50分]"
+        },
+        {
           "title": "纽约可可期货大跌12%，出口商趁近期价格反弹进行套期保值",
           "url": "https://wallstreetcn.com/livenews/3034338",
           "source": "华尔街见闻-快讯",
@@ -867,6 +999,54 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时22分]"
+        },
+        {
+          "title": "贵州毕节凌晨突发4.5级地震",
+          "url": "https://wallstreetcn.com/livenews/3034444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时50分]"
+        },
+        {
+          "title": "周五（1月9日）纽约尾盘，标普500股指期货最终涨0.60%，道指期货涨0.47%，纳斯达克100股指期货涨0.96%。 罗素2000股指期货涨0.77%。",
+          "url": "https://wallstreetcn.com/livenews/3034443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时50分]"
+        },
+        {
+          "title": "特朗普：“无论难易”都要得到格陵兰岛",
+          "url": "https://wallstreetcn.com/livenews/3034441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时50分]"
+        },
+        {
+          "title": "特朗普强推千亿美元委内瑞拉石油复兴计划，美能源巨头反应冷淡",
+          "url": "https://wallstreetcn.com/livenews/3034440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时50分]"
         },
         {
           "title": "美联储博斯蒂克：听到依赖外国工人的行业面临压力。",
@@ -913,6 +1093,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "纳斯达克：沃尔玛百货(WMT.N)被纳入纳斯达克100指数成分股，调整将于2026年1月20日生效。沃尔玛取代阿斯利康公司在纳斯达克100指数中的位置。",
+          "url": "https://flash.jin10.com/detail/20260110090233333800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "特朗普重返白宫，六大银行预计将获利1570亿美元",
           "url": "https://wallstreetcn.com/livenews/3034372",
           "source": "华尔街见闻-快讯",
@@ -924,15 +1115,26 @@
           "time_info": "04时28分"
         },
         {
-          "title": "美国农业部长（USDA）部长Rollins：特朗普政府暂停向明尼苏达州发放联邦资金，立即生效。 这包括当前激活的资金和未来可能会审批的资金。",
-          "url": "https://wallstreetcn.com/livenews/3034452",
+          "title": "A股铜业上市公司业绩大幅回暖",
+          "url": "https://wallstreetcn.com/livenews/3034464",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "09时50分"
+        },
+        {
+          "title": "A股16连阳 4100点上方是危险边缘吗",
+          "url": "https://www.toutiao.com/trending/7593268657476603401/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "美联储博斯蒂克：成本压力不仅仅来自关税。",
@@ -1012,15 +1214,15 @@
           "time_info": "04时28分"
         },
         {
-          "title": "美国能源部长Wright：“不久”将前往委内瑞拉。 （自从特朗普授意美军强行掳走委内瑞拉总统马杜罗以来）还没有与Delcy Rodriguez直接对话。 多家石油公司将在未来数周围绕投资委内瑞拉出钱。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3034450",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：“无论难易”都要得到格陵兰岛",
+          "url": "https://flash.jin10.com/detail/20260110084951705800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "09时50分"
         },
         {
           "title": "泛欧交易所：原定于2月2日推出的商品期货晚间交易时段将推迟至4月13日上线。",
@@ -1078,17 +1280,6 @@
           "time_info": "03时22分"
         },
         {
-          "title": "特朗普的MBS购买计划被比作“准QE”，为交易员带来买入长债的理由",
-          "url": "https://wallstreetcn.com/livenews/3034449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
           "title": "特朗普称美国必须拥有整个格陵兰，白宫“购岛”方案流出",
           "url": "https://wallstreetcn.com/articles/3762902",
           "source": "华尔街见闻",
@@ -1098,6 +1289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
+          "url": "https://wallstreetcn.com/articles/3762973",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "泛欧交易所：原定于欧洲中部时间20:30结束的商品期货晚间交易时段现改至欧洲中部时间20:15结束。",
@@ -1188,6 +1390,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "美国总统特朗普：我们已经与石油行业高管们达成了某种意义上的（投资委内瑞拉的）协议。",
+          "url": "https://wallstreetcn.com/livenews/3034459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "期货盯盘神器专属文章",
           "url": "https://flash.jin10.com/detail/20260109235411508800",
           "source": "金十数据",
@@ -1221,6 +1434,17 @@
           "time_info": "02时36分"
         },
         {
+          "title": "美国财长贝森特：如果美国最高法院裁定反对特朗普政府（关税政策），财政部有足够的资金支付任何关税退款。",
+          "url": "https://flash.jin10.com/detail/20260110083753572800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "哥伦比亚总统：“特朗普对我说已在策划军事行动”",
           "url": "https://wallstreetcn.com/livenews/3034287",
           "source": "华尔街见闻-快讯",
@@ -1230,17 +1454,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "据知情人士透露，校车公司First Student已经为其美国IPO计划遴选银行机构。 这家获得殷拓EQT AB支持的公司正与高盛、摩根士丹利、加拿大皇家银行围绕其首次公开发行股票而合作。 买断公司EQT曾在2025年后期与潜在（承销行）顾问们进行过初步的讨论。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3034446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         },
         {
           "title": "美联储博斯蒂克：高端消费者一直在消费，经济一直具有韧性。",
@@ -1342,17 +1555,6 @@
           "time_info": "06时24分"
         },
         {
-          "title": "贵州毕节凌晨突发4.5级地震",
-          "url": "https://wallstreetcn.com/livenews/3034444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
           "title": "美国总统特朗普：我们为今天无法接待（所有）石油公司而道歉，但能源部长和内政部长将在下周会见他们。",
           "url": "https://flash.jin10.com/detail/20260110024722779800",
           "source": "金十数据",
@@ -1362,6 +1564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "美国财长贝森特：抵押贷款回购的目标是大致匹配美联储资产负债表中住房抵押贷款支持证券（MBS）的到期规模。",
+          "url": "https://flash.jin10.com/detail/20260110082954645800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "大摩：将美联储未来两次潜在降息时间的预期推后",
@@ -1384,17 +1597,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "周五（1月9日）纽约尾盘，标普500股指期货最终涨0.60%，道指期货涨0.47%，纳斯达克100股指期货涨0.96%。 罗素2000股指期货涨0.77%。",
-          "url": "https://wallstreetcn.com/livenews/3034443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         },
         {
           "title": "美国总统特朗普：期待在二月第一周与哥伦比亚总统佩特罗在白宫会面。",
@@ -1439,17 +1641,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
-        },
-        {
-          "title": "特朗普：“无论难易”都要得到格陵兰岛",
-          "url": "https://wallstreetcn.com/livenews/3034441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         },
         {
           "title": "美国法官表示，她将暂时阻止特朗普政府取消至少1万名拉美移民合法身份的举措。",
@@ -1505,17 +1696,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "特朗普强推千亿美元委内瑞拉石油复兴计划，美能源巨头反应冷淡",
-          "url": "https://wallstreetcn.com/livenews/3034440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         },
         {
           "title": "美最高法院计划于1月14日颁布一批裁决，或涉及特朗普关税案",
@@ -1593,6 +1773,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
+          "url": "https://www.zhihu.com/question/1991889804833599714",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "波罗的海干散货运价指数五连跌，因海岬型船需求低迷",
@@ -1683,6 +1874,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "美国财长贝森特：抵押贷款回购的目标是大致匹配美联储资产负债表中住房抵押贷款支持证券的到期规模。",
+          "url": "https://flash.jin10.com/detail/20260110081339169800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收涨0.89%，报609.38点，时隔两天再创收盘历史新高。 欧元区STOXX 50指数初步收涨1.43%，报5988.88点。 富时泛欧绩优300指数初步收涨0.95%，报2428.69点。",
           "url": "https://wallstreetcn.com/livenews/3034304",
           "source": "华尔街见闻-快讯",
@@ -1703,6 +1905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普称委内瑞拉反对派要员马查多下周访美",
+          "url": "https://flash.jin10.com/detail/20260110080700491800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "埃克森美孚CEO：委内瑞拉境内的业务需要（特朗普政府提供武装）保护。 本公司在委内瑞拉的业务需要双倍保护。 公司准备在委内瑞拉部署一个地面（武装）团队。 公司能在数周内于委内瑞拉启动。",
@@ -1870,6 +2083,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "道琼斯指数1月9日（周五）收盘上涨237.96点，涨幅0.48%，报49504.07点；<br/>标普500指数1月9日（周五）收盘上涨44.82点，涨幅0.65%，报6966.28点；<br/>纳斯达克综合指数1月9日（周五）收盘上涨191.33点，涨幅0.81%，报23671.35点。",
+          "url": "https://flash.jin10.com/detail/20260110080352972800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌1.30%，报7695.62点，本周累计下跌2.09%，1月5-6日冲高回落。 热门中概股里，小鹏初步收跌2.6%，阿里跌2.3%，蔚来跌2%，百度涨1.5%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.56%，XtrackersHarvest中证50（ASHS）收涨2.73%。 中概互联网指数ETF（KWEB）收跌0.25%，中国科技指数ETF（CQQQ）收涨1.00%。",
           "url": "https://wallstreetcn.com/livenews/3034407",
           "source": "华尔街见闻-快讯",
@@ -1879,6 +2103,86 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 06时24分]"
+        },
+        {
+          "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
+          "url": "https://wallstreetcn.com/articles/3762954",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 06时24分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
+          "url": "https://wallstreetcn.com/livenews/3034432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美国家庭财富升至纪录新高，得益于美股上涨，但房地产市场低迷",
+          "url": "https://wallstreetcn.com/livenews/3034339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时22分]"
+        },
+        {
+          "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
+          "url": "https://www.cls.cn/detail/2253716",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "金十图示：2026年01月09日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260110013122783800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         }
       ]
     },
@@ -1946,71 +2250,95 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
+      "keyword_group": "美元",
+      "match_count": 4,
       "titles": [
         {
-          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
-          "url": "https://wallstreetcn.com/articles/3762848",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时24分]"
-        },
-        {
-          "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
+          "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
           "url": "https://wallstreetcn.com/articles/3762954",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时24分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
-          "url": "https://wallstreetcn.com/livenews/3034432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
+          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
-          "title": "美国家庭财富升至纪录新高，得益于美股上涨，但房地产市场低迷",
-          "url": "https://wallstreetcn.com/livenews/3034339",
+          "title": "非农数据“温和”，标普新高，美元指数四连涨，黄金重回4500关口",
+          "url": "https://wallstreetcn.com/articles/3762954",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.94%，暂报4077.63点，最近七个自然日累计上涨7.54%，1月3-6日平滑地持续上涨，6-8日持续回撤。 MarketVectorTM数字资产100中盘指数跌0.49%，报3799.01点，最近七天累涨2.37%。 MarketVector数字资产100指数涨0.58%，报19000.72点，最近七天累涨1.89%。 最近七天，比特币累涨1.72%，1月5日曾达到94785.88美元；以太坊期内持平，6日曾涨至306.405美元。 Solana累涨6.02%，狗狗币累涨1.58%，XRP累涨5.6%。",
+          "url": "https://wallstreetcn.com/livenews/3034317",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时22分]"
-        },
-        {
-          "title": "金十图示：2026年01月09日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260110013122783800",
-          "source": "金十数据",
-          "ranks": [
-            30
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时36分"
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美元指数非农日涨0.2%，本周累涨超0.7%",
+          "url": "https://wallstreetcn.com/livenews/3034392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
+          "url": "https://www.zhihu.com/question/1923049081044960601",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时27分 ~ 09时50分]"
+        },
+        {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 09时50分]"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     },
@@ -2054,78 +2382,21 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
-          "url": "https://wallstreetcn.com/articles/3762954",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.94%，暂报4077.63点，最近七个自然日累计上涨7.54%，1月3-6日平滑地持续上涨，6-8日持续回撤。 MarketVectorTM数字资产100中盘指数跌0.49%，报3799.01点，最近七天累涨2.37%。 MarketVector数字资产100指数涨0.58%，报19000.72点，最近七天累涨1.89%。 最近七天，比特币累涨1.72%，1月5日曾达到94785.88美元；以太坊期内持平，6日曾涨至306.405美元。 Solana累涨6.02%，狗狗币累涨1.58%，XRP累涨5.6%。",
-          "url": "https://wallstreetcn.com/livenews/3034317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "美元指数非农日涨0.2%，本周累涨超0.7%",
-          "url": "https://wallstreetcn.com/livenews/3034392",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
-          "url": "https://www.zhihu.com/question/1923049081044960601",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时27分 ~ 07时23分]"
-        },
-        {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
+        {
+          "title": "两年期美债收益率在非农日涨约4.4个基点，本周累涨约5.9个基点",
+          "url": "https://wallstreetcn.com/livenews/3034451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时50分]"
+        },
         {
           "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
           "url": "https://wallstreetcn.com/articles/3762888",
@@ -2136,17 +2407,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "两年期美债收益率在非农日涨约4.4个基点，本周累涨约5.9个基点",
-          "url": "https://wallstreetcn.com/livenews/3034451",
-          "source": "华尔街见闻-快讯",
+          "title": "去年金价狂飙美元贬值 美元信用裂痕扩大产加速去美元化",
+          "url": "https://flash.jin10.com/detail/20260110082505272800",
+          "source": "金十数据",
           "ranks": [
-            7
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "09时50分"
         }
       ]
     }
