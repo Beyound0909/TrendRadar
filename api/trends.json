@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T10:02:57.601648+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-01-11T12:11:25.060645+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 31,
+      "match_count": 38,
       "titles": [
         {
           "title": "Neuralink今年大规模生产脑机接口设备！龙头5天4板，产业链价值量占比居前的A股名单及相关业务一览",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 10时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时11分]"
         },
         {
           "title": "特朗普放话：我可不要中俄当邻居",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 10时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时11分]"
         },
         {
           "title": "特朗普暗示：突袭式军事行动，或成美未来海外用兵主要模式",
@@ -66,8 +66,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 10时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时11分]"
         },
         {
           "title": "应声涨停！A股年报行情纵深推进，17家上市公司净利最高同比预增超100%",
@@ -79,8 +79,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 10时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时11分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -93,8 +93,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 10时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时11分]"
         },
         {
           "title": "俄罗斯回应特朗普释放俄船员",
@@ -136,6 +136,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普：很快打击墨西哥境内",
+          "url": "https://wallstreetcn.com/articles/3763023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时18分 ~ 12时11分]"
         },
         {
           "title": "长三角联动发展指数研究启动 从七大维度展开分析",
@@ -200,17 +214,15 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "特朗普：很快打击墨西哥境内",
-          "url": "https://wallstreetcn.com/articles/3763023",
-          "source": "华尔街见闻",
+          "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
+          "url": "https://news.ifeng.com/c/8pobzhsarXJ",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            7
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时18分 ~ 10时02分]"
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 12时11分]"
         },
         {
           "title": "特朗普：很快打击墨境内",
@@ -224,17 +236,6 @@
           "time_info": "[00时28分 ~ 06时22分]"
         },
         {
-          "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
-          "url": "https://news.ifeng.com/c/8pobzhsarXJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
           "url": "https://wallstreetcn.com/articles/3762987",
           "source": "华尔街见闻",
@@ -246,15 +247,37 @@
           "time_info": "00时28分"
         },
         {
-          "title": "特朗普再次威胁伊朗，伊朗军方：团结起来挫败敌人阴谋",
-          "url": "https://wallstreetcn.com/livenews/3034596",
+          "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
+          "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "英媒爆料：特朗普已下令美军司令部制定“入侵”格陵兰岛计划，遭军方抵制",
+          "url": "https://wallstreetcn.com/livenews/3034618",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
+          "url": "https://www.zhihu.com/question/1993621515099399503",
+          "source": "知乎",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "12时11分"
         },
         {
           "title": "不让债权人染指，特朗普打造防火墙将委内瑞拉石油收入圈在美国",
@@ -267,6 +290,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 10时02分]"
+        },
+        {
+          "title": "特朗普再次威胁伊朗，伊朗军方：团结起来挫败敌人阴谋",
+          "url": "https://wallstreetcn.com/livenews/3034596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 12时11分]"
         },
         {
           "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
@@ -286,22 +321,83 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 10时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 12时11分]"
         },
         {
           "title": "美媒：特朗普听取对伊朗打击方案简报 但尚未作出最终决定",
           "url": "https://flash.jin10.com/detail/20260111084513676800",
           "source": "金十数据",
           "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 12时11分]"
+        },
+        {
+          "title": "据纽约时报：特朗普尚未就打击伊朗做出最终决定，但官员表示他正认真考虑授权发动打击。",
+          "url": "https://flash.jin10.com/detail/20260111084158477800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 12时11分]"
+        },
+        {
+          "title": "特朗普：委内瑞拉已大规模启动释放政治犯的程序",
+          "url": "https://flash.jin10.com/detail/20260111083436451800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 12时11分]"
+        },
+        {
+          "title": "特朗普再次威胁干涉伊朗 称准备提供“帮助”",
+          "url": "https://flash.jin10.com/detail/20260111081229064800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 12时11分]"
+        },
+        {
+          "title": "据CBS：当地时间今日上午，特朗普按计划前往佛罗里达州当地的牙医诊所就诊。白宫方面表示，此次治疗未使用麻醉剂。",
+          "url": "https://flash.jin10.com/detail/20260110232001539800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 12时11分]"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
+          "url": "https://news.ifeng.com/c/8pp0Cwro8Vo",
+          "source": "凤凰网",
+          "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "12时11分"
         },
         {
           "title": "特朗普被曝听取军事打击伊朗方案",
@@ -310,7 +406,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -326,26 +422,15 @@
           "time_info": "07时22分"
         },
         {
-          "title": "据纽约时报：特朗普尚未就打击伊朗做出最终决定，但官员表示他正认真考虑授权发动打击。",
-          "url": "https://flash.jin10.com/detail/20260111084158477800",
-          "source": "金十数据",
+          "title": "全面代替美联储？房贷QE后，特朗普要给信用卡利率设“10%上限”",
+          "url": "https://wallstreetcn.com/articles/3763014",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "特朗普：委内瑞拉已大规模启动释放政治犯的程序",
-          "url": "https://flash.jin10.com/detail/20260111083436451800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "12时11分"
         },
         {
           "title": "美国12月非农喜忧参半 美联储6月前降息概率全面走低",
@@ -359,32 +444,32 @@
           "time_info": "00时28分"
         },
         {
-          "title": "特朗普再次威胁干涉伊朗 称准备提供“帮助”",
-          "url": "https://flash.jin10.com/detail/20260111081229064800",
-          "source": "金十数据",
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32362509",
+          "source": "澎湃新闻",
           "ranks": [
-            21
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "12时11分"
         },
         {
-          "title": "据CBS：当地时间今日上午，特朗普按计划前往佛罗里达州当地的牙医诊所就诊。白宫方面表示，此次治疗未使用麻醉剂。",
-          "url": "https://flash.jin10.com/detail/20260110232001539800",
-          "source": "金十数据",
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
+          "url": "https://wallstreetcn.com/livenews/3034603",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "12时11分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
@@ -413,8 +498,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 10时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时11分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -424,8 +509,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 10时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时11分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -453,6 +538,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时32分 ~ 07时22分]"
+        },
+        {
+          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1990551534715556923",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     },
