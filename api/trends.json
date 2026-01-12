@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T14:41:14.072948+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-01-12T15:30:42.489826+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 136,
+      "match_count": 154,
       "titles": [
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
@@ -21,6 +21,17 @@
           "time_info": "[00时28分 ~ 09时59分]"
         },
         {
+          "title": "特朗普，又要“抢东西”？",
+          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时58分 ~ 15时30分]"
+        },
+        {
           "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
           "url": "https://wallstreetcn.com/articles/3763038",
           "source": "华尔街见闻",
@@ -29,8 +40,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 14时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 15时30分]"
+        },
+        {
+          "title": "美国司法部对美联储主席开启“刑事调查”，鲍威尔“这是美联储不听话的结果”",
+          "url": "https://wallstreetcn.com/articles/3763056",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时58分 ~ 15时30分]"
+        },
+        {
+          "title": "特朗普发图自称“委内瑞拉代总统”",
+          "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时56分 ~ 15时30分]"
         },
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -45,15 +80,29 @@
           "time_info": "[01时20分 ~ 07时22分]"
         },
         {
-          "title": "特朗普，又要“抢东西”？",
-          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
-          "source": "凤凰网",
+          "title": "美联储主席鲍威尔被刑事调查，具体情况如何？他会提前结束任期吗？",
+          "url": "https://www.zhihu.com/question/1993965084217713724",
+          "source": "知乎",
           "ranks": [
+            1,
             2
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时58分 ~ 14时41分]"
+          "time_info": "[11时56分 ~ 15时30分]"
+        },
+        {
+          "title": "美联储主席鲍威尔证实遭刑事指控威胁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366032",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时58分 ~ 15时30分]"
         },
         {
           "title": "Neuralink今年大规模生产脑机接口设备！龙头5天4板，产业链价值量占比居前的A股名单及相关业务一览",
@@ -68,40 +117,28 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "美国司法部对美联储主席开启“刑事调查”，鲍威尔“这是美联储不听话的结果”",
-          "url": "https://wallstreetcn.com/articles/3763056",
-          "source": "华尔街见闻",
+          "title": "美联储主席鲍威尔遭刑事调查",
+          "url": "https://www.douyin.com/hot/2364900",
+          "source": "抖音",
           "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时58分 ~ 14时41分]"
-        },
-        {
-          "title": "特朗普发图自称“委内瑞拉代总统”",
-          "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
-          "source": "凤凰网",
-          "ranks": [
+            9,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 14时41分]"
+          "appearance_count": 7,
+          "time_info": "[11时56分 ~ 15时30分]"
         },
         {
-          "title": "美联储主席鲍威尔被刑事调查，具体情况如何？他会提前结束任期吗？",
-          "url": "https://www.zhihu.com/question/1993965084217713724",
+          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1993540481494311303",
           "source": "知乎",
           "ranks": [
-            1,
-            2
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 14时41分]"
+          "appearance_count": 9,
+          "time_info": "[09时58分 ~ 15时30分]"
         },
         {
           "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
@@ -116,17 +153,15 @@
           "time_info": "[00时28分 ~ 11时56分]"
         },
         {
-          "title": "美联储主席鲍威尔证实遭刑事指控威胁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366032",
-          "source": "澎湃新闻",
+          "title": "美联储主席回应遭刑事调查",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E9%81%AD%E5%88%91%E4%BA%8B%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            5,
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时58分 ~ 14时41分]"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 15时30分]"
         },
         {
           "title": "应声涨停！A股年报行情纵深推进，17家上市公司净利最高同比预增超100%",
@@ -166,16 +201,15 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "美联储主席鲍威尔遭刑事调查",
-          "url": "https://www.douyin.com/hot/2364900",
-          "source": "抖音",
+          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
+          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 14时41分]"
+          "appearance_count": 7,
+          "time_info": "[11时56分 ~ 15时30分]"
         },
         {
           "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
@@ -190,16 +224,59 @@
           "time_info": "[09时58分 ~ 13时32分]"
         },
         {
-          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1993540481494311303",
-          "source": "知乎",
+          "title": "特朗普威胁古巴尽快同美国“达成协议”",
+          "url": "https://www.cls.cn/detail/2254162",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            12
+            9,
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时58分 ~ 14时41分]"
+          "time_info": "[11时56分 ~ 15时30分]"
+        },
+        {
+          "title": "近期A股上涨的主要原因是什么",
+          "url": "https://www.toutiao.com/trending/7594289285063265838/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            6,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时56分 ~ 15时30分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            8,
+            19,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时56分 ~ 15时30分]"
+        },
+        {
+          "title": "1月12日投资避雷针：因股票交易异常波动公告涉嫌重大遗漏等 这只大牛股被证监会立案",
+          "url": "https://www.cls.cn/detail/2254278",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时56分 ~ 15时30分]"
         },
         {
           "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
@@ -213,6 +290,31 @@
           "time_info": "[09时58分 ~ 09时59分]"
         },
         {
+          "title": "十大券商看后市｜A股跨年行情或继续演绎，板块轮动概率上升",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32365239",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时56分 ~ 15时30分]"
+        },
+        {
+          "title": "特朗普对台问题表态引岛内热议",
+          "url": "https://www.douyin.com/hot/2364980",
+          "source": "抖音",
+          "ranks": [
+            19,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时56分 ~ 15时30分]"
+        },
+        {
           "title": "全美抗议 特朗普“后院”失火",
           "url": "https://www.toutiao.com/trending/7594088610216361990/",
           "source": "今日头条",
@@ -222,17 +324,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时20分 ~ 07时22分]"
-        },
-        {
-          "title": "美联储主席回应遭刑事调查",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E9%81%AD%E5%88%91%E4%BA%8B%E8%B0%83%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
         },
         {
           "title": "美联储主席鲍威尔遭刑事调查",
@@ -266,6 +357,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "A股16连阳，港股为何不涨？",
+          "url": "https://wallstreetcn.com/articles/3763061",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 15时30分]"
         },
         {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
@@ -307,6 +410,19 @@
           "time_info": "[00时28分 ~ 05时21分]"
         },
         {
+          "title": "A股公司砸580万年薪返聘 最大近90岁",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%85%AC%E5%8F%B8%E7%A0%B8580%E4%B8%87%E5%B9%B4%E8%96%AA%E8%BF%94%E8%81%98+%E6%9C%80%E5%A4%A7%E8%BF%9190%E5%B2%81",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 15时30分]"
+        },
+        {
           "title": "本周重要事件与数据预告：美国CPI、中国贸易帐；美联储官员密集发声",
           "url": "https://flash.jin10.com/detail/20260112071258895800",
           "source": "金十数据",
@@ -335,7 +451,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -373,6 +489,17 @@
           "time_info": "13时32分"
         },
         {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260112151618744800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
           "title": "A股电池板块震荡下挫，德福科技跌超10%，欣旺达、先导智能、科达利、宁德时代、安孚科技均跌超4%。",
           "url": "https://wallstreetcn.com/livenews/3034886",
           "source": "华尔街见闻-快讯",
@@ -382,28 +509,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
-        },
-        {
-          "title": "A股脑机接口概念震荡走高，南京熊猫6天5板，道氏技术涨超18%，创新医疗、诚益通、三博脑科、翔宇医疗、美好医疗、伟思医疗跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3035038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
-          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 14时41分]"
         },
         {
           "title": "美国共和党参议员蒂利斯：如果之前还有人怀疑特朗普政府内部的顾问是否正在积极推动结束美联储的独立性，那么现在应该没有任何疑问了。",
@@ -450,29 +555,15 @@
           "time_info": "09时59分"
         },
         {
-          "title": "特朗普威胁古巴尽快同美国“达成协议”",
-          "url": "https://www.cls.cn/detail/2254162",
-          "source": "财联社热门",
+          "title": "国债期货收盘，30年期主力合约涨0.30%，10年期主力合约涨0.06%，5年期主力合约涨0.05%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3035072",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 14时41分]"
-        },
-        {
-          "title": "近期A股上涨的主要原因是什么",
-          "url": "https://www.toutiao.com/trending/7594289285063265838/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 14时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年1月12日 周一",
@@ -489,32 +580,6 @@
           "time_info": "[04时26分 ~ 14时41分]"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            8,
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 14时41分]"
-        },
-        {
-          "title": "1月12日投资避雷针：因股票交易异常波动公告涉嫌重大遗漏等 这只大牛股被证监会立案",
-          "url": "https://www.cls.cn/detail/2254278",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 14时41分]"
-        },
-        {
           "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3034760",
           "source": "华尔街见闻-快讯",
@@ -529,18 +594,6 @@
           "time_info": "[04时26分 ~ 07时22分]"
         },
         {
-          "title": "十大券商看后市｜A股跨年行情或继续演绎，板块轮动概率上升",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32365239",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 14时41分]"
-        },
-        {
           "title": "美联储主席鲍威尔遭刑事调查",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E9%B2%8D%E5%A8%81%E5%B0%94%E9%81%AD%E5%88%91%E4%BA%8B%E8%B0%83%E6%9F%A5",
           "source": "百度热搜",
@@ -548,18 +601,6 @@
             9,
             20,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 14时41分]"
-        },
-        {
-          "title": "特朗普对台问题表态引岛内热议",
-          "url": "https://www.douyin.com/hot/2364980",
-          "source": "抖音",
-          "ranks": [
-            19,
-            16
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -666,6 +707,18 @@
           "time_info": "[12时53分 ~ 13时32分]"
         },
         {
+          "title": "A股脑机接口概念震荡走高，南京熊猫6天5板，道氏技术涨超18%，创新医疗、诚益通、三博脑科、翔宇医疗、美好医疗、伟思医疗跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3035038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 15时30分]"
+        },
+        {
           "title": "金十图示：2026年01月12日（周一）富时中国A50指数成分股午盘收盘行情一览：银行、石油、煤炭股走低，半导体、酿酒板块飘红",
           "url": "https://flash.jin10.com/detail/20260112113304095800",
           "source": "金十数据",
@@ -712,31 +765,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时56分 ~ 12时53分]"
-        },
-        {
-          "title": "A股16连阳，港股为何不涨？",
-          "url": "https://wallstreetcn.com/articles/3763061",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 14时41分]"
-        },
-        {
-          "title": "A股公司砸580万年薪返聘 最大近90岁",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%85%AC%E5%8F%B8%E7%A0%B8580%E4%B8%87%E5%B9%B4%E8%96%AA%E8%BF%94%E8%81%98+%E6%9C%80%E5%A4%A7%E8%BF%9190%E5%B2%81",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 14时41分]"
         },
         {
           "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
@@ -810,6 +838,39 @@
           "time_info": "[05时21分 ~ 07时22分]"
         },
         {
+          "title": "A股成交额破3.5万亿创新纪录！商业航天涨停潮，恒科指涨2%，智谱大涨30%领涨AI应用，金属再爆发、沪银飙升13%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
+        },
+        {
+          "title": "A股成交刷新纪录",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E6%88%90%E4%BA%A4%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
+        },
+        {
+          "title": "三大指数涨超1% 两市成交额创新高",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E6%B6%A8%E8%B6%851%25+%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
+        },
+        {
           "title": "股指期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20260112113139577800",
           "source": "金十数据",
@@ -858,6 +919,29 @@
           "time_info": "[13时32分 ~ 14时41分]"
         },
         {
+          "title": "A股三大股指午后均涨超1%，创业板指现涨1.8%，AI应用、文化传媒等板块涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3035027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 15时30分]"
+        },
+        {
+          "title": "4100点之上A股如何掘金",
+          "url": "https://www.toutiao.com/trending/7594301147179912758/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
+        },
+        {
           "title": "志特新材20CM五连板成今年首只翻倍股 盘中创历史新高A股名单一览",
           "url": "https://www.cls.cn/detail/2254076",
           "source": "财联社热门",
@@ -867,6 +951,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "北证50指数午后涨超5%，成分股中星图测控30CM涨停，富士达、天力复合均涨超20%。",
+          "url": "https://wallstreetcn.com/livenews/3035022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 15时30分]"
         },
         {
           "title": "中证500股指期货（IC）主力合约日内涨幅达2.00%，现报8165.4点。",
@@ -916,6 +1012,17 @@
           "time_info": "[11时56分 ~ 12时53分]"
         },
         {
+          "title": "A股成交额破纪录",
+          "url": "https://www.douyin.com/hot/2365292",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
+        },
+        {
           "title": "特朗普发图自称委内瑞拉代总统",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%9B%BE%E8%87%AA%E7%A7%B0%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -925,6 +1032,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时56分 ~ 12时53分]"
+        },
+        {
+          "title": "宋清辉：A股4000点潜藏风险不容忽视",
+          "url": "https://www.toutiao.com/trending/7594345010414226980/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
         },
         {
           "title": "美联储主席鲍威尔遭刑事调查",
@@ -1006,6 +1124,17 @@
           "time_info": "09时59分"
         },
         {
+          "title": "金十图示：2026年01月12日（周一）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260112151022020800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
           "title": "特朗普：伊朗昨日呼吁就核问题进行谈判。美国可能和伊朗会面。",
           "url": "https://wallstreetcn.com/livenews/3034881",
           "source": "华尔街见闻-快讯",
@@ -1039,17 +1168,6 @@
           "time_info": "13时32分"
         },
         {
-          "title": "A股三大股指午后均涨超1%，创业板指现涨1.8%，AI应用、文化传媒等板块涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3035027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
           "title": "集运指数（欧线）主力合约日内涨幅扩大至10.00%，现报1267.3点。",
           "url": "https://flash.jin10.com/detail/20260112091958884800",
           "source": "金十数据",
@@ -1067,7 +1185,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1081,17 +1199,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
-        },
-        {
-          "title": "北证50指数午后涨超5%，成分股中星图测控30CM涨停，富士达、天力复合均涨超20%。",
-          "url": "https://wallstreetcn.com/livenews/3035022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
         },
         {
           "title": "英媒爆料：特朗普已下令美军司令部制定“入侵”格陵兰岛计划，遭军方抵制",
@@ -1122,9 +1229,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "金十期货1月12日讯，据上海航运交易所数据，截至2026年1月12日，上海出口集装箱结算运价指数（欧洲航线）报1956.39点，与上期相比涨8.9%。",
+          "url": "https://flash.jin10.com/detail/20260112150556187800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         },
         {
           "title": "特朗普称在考虑干预伊朗局势的“强硬选项”",
@@ -1166,9 +1284,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）富时中国A50指数成分股今日收盘行情一览：银行股午后反弹，酿酒、半导体全天上涨",
+          "url": "https://flash.jin10.com/detail/20260112150249963800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         },
         {
           "title": "美联储1月维持利率不变的概率为95.6%",
@@ -1221,7 +1350,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1243,9 +1372,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "A股收盘：沪指涨超1%走出17连阳，全市场成交超3.6万亿刷新纪录",
+          "url": "https://wallstreetcn.com/livenews/3035062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-01-12）",
@@ -1276,9 +1416,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260112150149756800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         },
         {
           "title": "增量资金加速流入，A股春季行情或仍有演绎空间",
@@ -1303,6 +1454,17 @@
           "time_info": "11时56分"
         },
         {
+          "title": "上证指数收报4165.29点，涨1.09%。 深证成指收报14366.91点，涨1.75%。 创业板指收报3388.34点，涨1.82%。 沪深300收报4789.92点，涨0.65%。 科创50收报1511.84点，涨2.43%。 中证500收报8249.13点，涨2.39%。 中证1000收报8357.01点，涨2.80%。",
+          "url": "https://wallstreetcn.com/livenews/3035061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
           "title": "美媒：特朗普盟友将投放超级碗广告宣传“特朗普账户”",
           "url": "https://flash.jin10.com/detail/20260112111415549800",
           "source": "金十数据",
@@ -1323,6 +1485,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "商品期货收盘，碳酸锂、沪锡主力合约涨停，沪银涨超14%，集运欧线涨超11%，沪镍涨超5%，铂、焦煤涨超4%，钯、沪铜、国际铜、苯乙烯涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3035059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌互现。沪银涨超14%，集运欧线涨超11%，碳酸锂、沪锡均封涨停板，沪镍涨超5%，铂、焦煤涨超4%；跌幅方面，多晶硅跌超2%，花生、燃料油跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260112150113291800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         },
         {
           "title": "16倍大牛股天普股份复牌一字跌停，因公司股票交易异常波动公告涉嫌重大遗漏等，中国证监会决定对公司进行立案。",
@@ -1353,7 +1537,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1386,9 +1570,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "A股成交额首次达到3.5万亿元",
+          "url": "https://wallstreetcn.com/livenews/3035052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         },
         {
           "title": "恒指高开0.55%，报26376.84点；恒生科技指数涨0.88%。美团、百度、哔哩哔哩涨超2%。",
@@ -1408,9 +1603,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "美国驻印度大使在新德里表示，希望特朗普在一两年内访问印度。 美国和印度继续积极在贸易、安全和科技领域合作。 有关贸易问题的下一次讨论将在周二进行。",
+          "url": "https://wallstreetcn.com/livenews/3035048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         },
         {
           "title": "花旗：澳洲联储加息的可能性增加",
@@ -1419,7 +1625,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1430,7 +1636,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1474,7 +1680,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1581,7 +1787,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "鲍威尔遭刑事调查冲击全球市场：美元急跌、金价升破4600美元",
@@ -1591,8 +1797,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 14时41分]"
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 15时30分]"
         },
         {
           "title": "金价",
@@ -1652,6 +1858,17 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
+          "title": "金十图示：2026年01月12日（周一）上海金午盘价为1023.27元/克，较国际金价（1026.16元/克）低2.89元/克",
+          "url": "https://flash.jin10.com/detail/20260112150725808800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
           "title": "金十图示：2026年01月12日（周一）上海金早盘价为1021.18元/克，较国际金价（1026.61元/克）低5.43元/克",
           "url": "https://flash.jin10.com/detail/20260112110122883800",
           "source": "金十数据",
@@ -1666,8 +1883,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时58分 ~ 15时30分]"
+        },
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
           "url": "https://wallstreetcn.com/articles/3762924",
@@ -1681,30 +1911,18 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时58分 ~ 14时41分]"
-        },
-        {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
           "url": "https://wallstreetcn.com/articles/3763053",
           "source": "华尔街见闻",
           "ranks": [
             9,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时58分 ~ 14时41分]"
+          "appearance_count": 9,
+          "time_info": "[09时58分 ~ 15时30分]"
         },
         {
           "title": "美股三大股指期货小幅低开，纳指期货下跌0.2%。",
@@ -1716,12 +1934,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美股期货走低，标普500指数期货跌0.6%，纳指期货跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3035046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -1750,6 +1979,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时28分 ~ 06时22分]"
+        },
+        {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
