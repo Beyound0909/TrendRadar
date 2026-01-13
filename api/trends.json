@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T05:24:44.517913+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-01-14T06:25:24.897742+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 98,
+      "match_count": 119,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时25分]"
         },
         {
           "title": "A股成交再创历史天量！创业板跌2%，商业航天集体回调，新“易中天”延续强势，恒指涨近1%，医药股活跃，碳酸锂逆势涨超7%",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时25分]"
         },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时25分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时25分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -77,26 +77,48 @@
           "time_info": "[00时35分 ~ 05时24分]"
         },
         {
+          "title": "美国总统特朗普：格陵兰岛总理因坚持与丹麦保持关系而面临困境。",
+          "url": "https://flash.jin10.com/detail/20260114060351977800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
           "title": "韩国12月出口物价指数年率 5.5%，前值7.00%。",
           "url": "https://flash.jin10.com/detail/20260114050002161800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
         {
-          "title": "摩根大通收跌4.2%，费城银行指数跌1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3036404",
+          "title": "美联储1月维持利率不变的概率为97.2%",
+          "url": "https://flash.jin10.com/detail/20260114060208779800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "美国总统特朗普：摩根大通CEO戴蒙就调查美联储主席鲍威尔一事谴责司法部，那样做“是错误的”。",
+          "url": "https://wallstreetcn.com/livenews/3036430",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "06时25分"
         },
         {
           "title": "韩国12月进口物价指数年率 0.3%，前值2.20%。",
@@ -105,18 +127,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "周二（1月13日），彭博电动汽车价格回报指数涨0.28%，报3619.10点，亚太早盘持续走高，北京时间13:00过后逐步回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3036403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -254,6 +265,18 @@
           "time_info": "[03时23分 ~ 04时29分]"
         },
         {
+          "title": "摩根大通收跌4.2%，费城银行指数跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3036404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时25分]"
+        },
+        {
           "title": "美国总统特朗普：对委内瑞拉的袭击一如既往地完美无瑕，我们正在与委内瑞拉人民合作。",
           "url": "https://flash.jin10.com/detail/20260114030503953800",
           "source": "金十数据",
@@ -288,6 +311,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
+          "title": "周二（1月13日），彭博电动汽车价格回报指数涨0.28%，报3619.10点，亚太早盘持续走高，北京时间13:00过后逐步回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3036403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时25分]"
         },
         {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
@@ -499,7 +534,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -510,9 +545,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "白宫：美国总统特朗普提名WeatherTech首席执行官（CEO）David MacNeil为联邦贸易委员会（FTC）成员。",
+          "url": "https://wallstreetcn.com/livenews/3036428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "美国总统特朗普：目前信用卡利率太高了。",
@@ -532,9 +578,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗最好老实点。",
+          "url": "https://flash.jin10.com/detail/20260114055446897800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "标普500指数收跌13.53点，跌幅0.19%，报6963.74点。 道琼斯工业平均指数收跌398.21点，跌幅0.80%，报49191.99点。 纳斯达克综合指数（纳指）收跌24.032点，跌幅0.10%，报23709.873点。 纳斯达克100指数收跌45.711点，跌幅0.18%，报25741.952点。 纳斯达克生物科技指数收涨0.02%，报5775.48点。 费城半导体指数收涨0.95%，报7747.993点。 费城证交所KBW银行指数收跌1.26%，报166.87点，1月6日涨至172.98点创盘中历史新高以来逐步回撤。 道琼斯KBW地区银行指数收跌0.59%，报126.85点。",
@@ -543,9 +600,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "周二（1月13日）纽约尾盘，标普500股指期货最终跌0.25%，道指期货跌0.85%，纳斯达克100股指期货跌0.22%。 罗素2000股指期货跌0.08%。",
+          "url": "https://wallstreetcn.com/livenews/3036427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "美国总统特朗普：（当被问及是否会向伊朗提供援助时）你们会知道的。",
@@ -568,6 +636,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美联储巴尔金：与2025年第一季度不同，我没有听到企业强烈相信会通过价格上涨来降低成本。",
+          "url": "https://flash.jin10.com/detail/20260114055356949800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年1月14日 周三",
@@ -601,6 +680,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：将与保险公司会面讨论医疗保健事宜。",
+          "url": "https://flash.jin10.com/detail/20260114055312582800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "美联储穆萨莱姆：通胀风险正在缓和 目前没有进一步降息的必要",
@@ -642,7 +732,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -656,6 +746,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：我认为摩根大通CEO戴蒙在美联储问题上是错的。",
+          "url": "https://flash.jin10.com/detail/20260114055225359800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "美联储Barkin：通胀在正确的方向上变化。",
+          "url": "https://wallstreetcn.com/livenews/3036423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "据AXIOS：特朗普政府国家安全委员会负责人今天就伊朗问题举行了讨论。特朗普没有参加。",
@@ -686,7 +798,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -719,9 +831,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "美国总统特朗普：当我看到那里正在发生的死亡事件时，伊朗始终萦绕在我的脑海中。很快就会拿到伊朗的死亡数据。",
+          "url": "https://flash.jin10.com/detail/20260114055131078800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "德国DAX 30指数初步收涨0.05%，报25417.30点。 法国股指初步收跌0.15%，意大利股指初步收跌0.41%、银行指数涨0.33%，英国股指初步收涨0.03%。",
@@ -746,6 +869,17 @@
           "time_info": "02时35分"
         },
         {
+          "title": "美联储巴尔金：失业率有所上升，但似乎并未失控。",
+          "url": "https://flash.jin10.com/detail/20260114055130462800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收跌0.08%，报610.44点。 欧元区STOXX 50指数初步收涨0.33%，报6029.35点。 富时泛欧绩优300指数初步收跌0.04%，报2435.88点。",
           "url": "https://wallstreetcn.com/livenews/3036307",
           "source": "华尔街见闻-快讯",
@@ -766,6 +900,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普指责明州资金欺诈 指示贝森特彻查",
+          "url": "https://flash.jin10.com/detail/20260114054843083800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "特朗普称已取消所有与伊朗官员的会谈",
@@ -801,6 +946,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "美联储巴尔金：通胀高于我们的目标，但似乎尚未加速。",
+          "url": "https://flash.jin10.com/detail/20260114054829147800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
           "title": "美国总统特朗普：如果我们在关税诉讼中败诉，我们会想办法的。",
           "url": "https://flash.jin10.com/detail/20260114032319867800",
           "source": "金十数据",
@@ -821,6 +977,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "周二（1月13日，美国CPI通胀数据发布日），降息赢家指数涨0.53%，报107.28点，出现六波V形走势。 “特朗普关税输家”指数涨0.42%，报120.23点。 “特朗普金融指数”跌1.05%，报174.13点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.50%，报16.44点。",
+          "url": "https://wallstreetcn.com/livenews/3036416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "美国总统特朗普：希望看到油价出现在53美元/桶。",
@@ -851,7 +1018,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -884,9 +1051,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普：美国正处于去通胀式经济繁荣",
+          "url": "https://flash.jin10.com/detail/20260114054427229800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "纳斯达克金龙中国指数跌幅扩大至1.97%——在周一大幅上涨之后回撤，跌幅目前已经显著收窄至1.5%。",
@@ -917,7 +1095,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -942,6 +1120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "哈塞特称他敬重美联储主席鲍威尔",
+          "url": "https://wallstreetcn.com/livenews/3036410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "美国总统特朗普：过去，经济形势好的时候利率就会下降。",
@@ -1038,7 +1227,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -1098,6 +1287,28 @@
           "time_info": "00时35分"
         },
         {
+          "title": "美联储巴尔金：拥有央行独立性的国家经济表现更好。",
+          "url": "https://flash.jin10.com/detail/20260114053614373800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.86%，报7874.82点。 热门中概股里，小马智行跌9.6%，拼多多跌超5%，阿里涨0.4%。 ETF中，XtrackersHarvest中证50（ASHS）收跌2.08%，德银嘉实沪深300指数ETF（ASHR）收跌1.40%。 中国科技指数ETF（CQQQ）收跌3.33%，中概互联网指数ETF（KWEB）收跌1.96%。",
+          "url": "https://wallstreetcn.com/livenews/3036402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
           "title": "美国总统特朗普：将在底特律谈论经济。",
           "url": "https://flash.jin10.com/detail/20260113233358056800",
           "source": "金十数据",
@@ -1118,12 +1329,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "美国CPI发布日+华尔街大行拉开季度财报序幕之际，标普500指数收跌13.53点，跌幅0.19%，报6963.74点。 道琼斯工业平均指数收跌398.21点，跌幅0.80%，报49191.99点。 纳斯达克综合指数（纳指）收跌24.032点，跌幅0.10%，报23709.873点。 纳斯达克100指数收跌45.711点，跌幅0.18%，报25741.952点。",
+          "url": "https://wallstreetcn.com/livenews/3036399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "金十图示：2026年01月13日（周二）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260114052420824800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -1136,8 +1369,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时25分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -1146,7 +1379,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -1157,7 +1390,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -1168,7 +1401,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -1197,6 +1430,17 @@
           "time_info": "[03时23分 ~ 04时29分]"
         },
         {
+          "title": "现货白银涨约2.2%，美股盘初突破89美元创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3036425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260114013126429800",
           "source": "金十数据",
@@ -1206,6 +1450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "金融业ETF收跌超1.9%，领跌美股行业ETF，标普能源板块涨超1.5%",
+          "url": "https://wallstreetcn.com/livenews/3036413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "金十图示：2026年01月13日（周二）热门中概股行情一览（美股盘中）",
@@ -1232,8 +1487,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时25分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1256,8 +1511,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时25分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -1268,8 +1523,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时35分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 06时25分]"
         }
       ]
     },
@@ -1308,7 +1563,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         }
@@ -1324,11 +1579,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时25分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -1338,8 +1594,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时25分]"
         }
       ]
     },
@@ -1356,11 +1612,12 @@
             5,
             9,
             7,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时25分]"
         },
         {
           "title": "金价",
@@ -1369,11 +1626,12 @@
           "ranks": [
             23,
             30,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 05时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 06时25分]"
         }
       ]
     },
@@ -1388,7 +1646,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         }
