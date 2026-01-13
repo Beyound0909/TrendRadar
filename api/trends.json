@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T21:43:44.773157+08:00",
-  "total_titles_processed": 1880,
+  "generated_at": "2026-01-13T22:28:52.295040+08:00",
+  "total_titles_processed": 1979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 249,
+      "match_count": 259,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -162,8 +162,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时50分 ~ 21时43分]"
+          "appearance_count": 16,
+          "time_info": "[09时50分 ~ 22时28分]"
+        },
+        {
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 22时28分]"
+        },
+        {
+          "title": "A股成交再创历史天量！创业板跌2%，商业航天集体回调，新“易中天”延续强势，恒指涨近1%，医药股活跃，碳酸锂逆势涨超7%",
+          "url": "https://wallstreetcn.com/articles/3763139",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 22时28分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -179,32 +203,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时50分 ~ 21时43分]"
-        },
-        {
-          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 21时43分]"
-        },
-        {
-          "title": "A股成交再创历史天量！创业板跌2%，商业航天集体回调，新“易中天”延续强势，恒指涨近1%，医药股活跃，碳酸锂逆势涨超7%",
-          "url": "https://wallstreetcn.com/articles/3763139",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 21时43分]"
+          "appearance_count": 16,
+          "time_info": "[09时50分 ~ 22时28分]"
         },
         {
           "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
@@ -256,8 +256,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时50分 ~ 21时43分]"
+          "appearance_count": 16,
+          "time_info": "[09时50分 ~ 22时28分]"
         },
         {
           "title": "人民币汇率创近32个月新高",
@@ -383,6 +383,17 @@
           "time_info": "[01时26分 ~ 06时22分]"
         },
         {
+          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
+          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 22时28分]"
+        },
+        {
           "title": "美联储主席鲍威尔被刑事调查，具体情况如何？他会提前结束任期吗？",
           "url": "https://www.zhihu.com/question/1993965084217713724",
           "source": "知乎",
@@ -392,17 +403,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 05时24分]"
-        },
-        {
-          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
-          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 21时43分]"
         },
         {
           "title": "美国两州把特朗普政府告了",
@@ -489,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "策略师：如果美国12月的通胀趋势持续 美联储将有空间在Q1降息",
+          "url": "https://flash.jin10.com/detail/20260113221026604800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
@@ -643,7 +654,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -1144,6 +1155,19 @@
           "time_info": "[19时23分 ~ 21时43分]"
         },
         {
+          "title": "五角大楼“披萨指数”再次飙升",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E2%80%9C%E6%8A%AB%E8%90%A8%E6%8C%87%E6%95%B0%E2%80%9D%E5%86%8D%E6%AC%A1%E9%A3%99%E5%8D%87",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 22时28分]"
+        },
+        {
           "title": "A股终结17连阳",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E7%BB%88%E7%BB%9317%E8%BF%9E%E9%98%B3",
           "source": "百度热搜",
@@ -1431,6 +1455,17 @@
           "time_info": "[11时40分 ~ 12时43分]"
         },
         {
+          "title": "美联储主席“潜在接班人”放话：必须将利率降至3%！",
+          "url": "https://www.cls.cn/detail/2256095",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时28分]"
+        },
+        {
           "title": "白宫新闻秘书利维特：美国总统特朗普并未指示司法部官员调查美联储主席鲍威尔。",
           "url": "https://flash.jin10.com/detail/20260113021950421800",
           "source": "金十数据",
@@ -1620,18 +1655,6 @@
           "time_info": "[05时24分 ~ 06时22分]"
         },
         {
-          "title": "五角大楼“披萨指数”再次飙升",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E2%80%9C%E6%8A%AB%E8%90%A8%E6%8C%87%E6%95%B0%E2%80%9D%E5%86%8D%E6%AC%A1%E9%A3%99%E5%8D%87",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 21时43分]"
-        },
-        {
           "title": "金十图示：2026年01月13日（周二）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260113004534613800",
           "source": "金十数据",
@@ -1814,7 +1837,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -1847,7 +1870,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -1929,6 +1952,17 @@
           "time_info": "13时28分"
         },
         {
+          "title": "沪锡期货主力合约涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3036222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "美国参议院银行业委员会共和党籍议员Cramer：鲍威尔并非罪犯，应尽快结束针对美联储的调查，以“恢复对美联储的信心”。",
           "url": "https://flash.jin10.com/detail/20260113003336595800",
           "source": "金十数据",
@@ -1968,7 +2002,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -2045,18 +2079,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "美联储主席“潜在接班人”放话：必须将利率降至3%！",
-          "url": "https://www.cls.cn/detail/2256095",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -2089,7 +2112,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -2138,6 +2161,17 @@
           "time_info": "11时40分"
         },
         {
+          "title": "芝商所计划于2月9日推出100盎司白银期货合约",
+          "url": "https://flash.jin10.com/detail/20260113220446116800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：伊朗对美国公开披露的信息与私底下沟通的不一样。 总统特朗普有兴趣探索伊朗方面的信息。 特朗普已经与星链Starlink老板马斯克讨论伊朗的网络问题。 空袭伊朗是众多选项之一。 在通过外交手段处理伊朗问题方面，美国特使Witkoff是一个重要的“玩家”。",
           "url": "https://wallstreetcn.com/livenews/3035517",
           "source": "华尔街见闻-快讯",
@@ -2177,9 +2211,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
+        },
+        {
+          "title": "美国芝商所将推出100盎司白银期货",
+          "url": "https://wallstreetcn.com/livenews/3036217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "特朗普媒体科技集团推出“美国优先”主题投资工具。",
@@ -2188,7 +2233,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -2213,6 +2258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "丹麦首相：（谈特朗普对格陵兰岛的兴趣）有大量证据表明，最艰难的部分还在后面。",
+          "url": "https://flash.jin10.com/detail/20260113220415069800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "欧洲央行管委兼法国央行行长Villeroy：我们（欧元区）已经在抗击通胀中获胜。 货币政策正在获胜，欧洲央行不应当变更这样的货币政策。 有关欧洲央行可能会在2026年加息的想法是错误的。 欧洲央行面临通胀下行风险。",
@@ -2378,6 +2434,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "高盛资管：美联储独立性日渐成为焦点，通胀数据将转为“市场配角”",
+          "url": "https://flash.jin10.com/detail/20260113220224275800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "前美联储主席格林斯潘、伯南克、耶伦，以及其他曾经担任美联储官员的人士再次发声：美国总统特朗普“动用司法手段来攻击（现任主席鲍威尔）”将破坏美联储（的独立性）。",
@@ -2600,6 +2667,17 @@
           "time_info": "15时27分"
         },
         {
+          "title": "通胀数据公布后，交易员加大对美联储提前降息的押注",
+          "url": "https://wallstreetcn.com/livenews/3036209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "美联储主席潜在候选人、贝莱德首席投资官Rick Rieder：认为美联储席位是独立的。",
           "url": "https://flash.jin10.com/detail/20260113041332502800",
           "source": "金十数据",
@@ -2609,6 +2687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "芝商所（CME）计划于2月9日推出100盎司白银期货。",
+          "url": "https://flash.jin10.com/detail/20260113220113822800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "A股三市成交额再创历史新高",
@@ -2738,9 +2827,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
+        },
+        {
+          "title": "德邦股份：拟以股东会决议方式主动终止公司股票上市，股票复牌",
+          "url": "https://wallstreetcn.com/livenews/3036206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "美国农产品期货下跌，芝加哥玉米期货跌3%，自2025年10月1日出现历史最长天数政府关门以来，特朗普政府首次披露农产品库存报告。",
@@ -2760,7 +2860,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -2853,6 +2953,17 @@
           "time_info": "11时40分"
         },
         {
+          "title": "下载金十数据APP：实时更新全球财经资讯，个性化推荐你感兴趣的内容，助你轻松掌握市场动态>>",
+          "url": "https://flash.jin10.com/detail/20260113215016353800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "中概指数涨超3%，KWEB和CQQQ至少涨2.8%，知乎涨超20%，阿里涨超7%",
           "url": "https://wallstreetcn.com/livenews/3035431",
           "source": "华尔街见闻-快讯",
@@ -2911,8 +3022,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时50分 ~ 21时43分]"
+          "appearance_count": 16,
+          "time_info": "[09时50分 ~ 22时28分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -2925,8 +3036,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时50分 ~ 21时43分]"
+          "appearance_count": 16,
+          "time_info": "[09时50分 ~ 22时28分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -3035,6 +3146,18 @@
           "time_info": "[00时31分 ~ 01时26分]"
         },
         {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时28分]"
+        },
+        {
           "title": "Alphabet旗下谷歌公司：与苹果进入一份多年合作协议。 新款苹果基础模型将建立在谷歌Gemini基础之上。 模型将有助于支持未来的苹果智能功能。",
           "url": "https://wallstreetcn.com/livenews/3035456",
           "source": "华尔街见闻-快讯",
@@ -3057,17 +3180,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 14时38分]"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         },
         {
           "title": "谷歌今年将在越南研发并生产高端手机。",
@@ -3139,7 +3251,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -3196,11 +3308,12 @@
           "url": "https://wallstreetcn.com/livenews/3036204",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时28分]"
         },
         {
           "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
@@ -3260,6 +3373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3036218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
@@ -3422,8 +3546,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时40分 ~ 21时43分]"
+          "appearance_count": 15,
+          "time_info": "[11时40分 ~ 22时28分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -3435,8 +3559,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时34分 ~ 21时43分]"
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 22时28分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
@@ -3467,7 +3591,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "摩根大通美债客户调查显示净多头比例降至2024年10月以来最低",
@@ -3492,6 +3616,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时22分]"
+        },
+        {
+          "title": "美债收益率、美元因通胀数据温和而走弱",
+          "url": "https://flash.jin10.com/detail/20260113215529222800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "中金：如果美国通胀与流动性冲击导致中美股票、黄金、美债等资产回调，建议逢低增配",
@@ -3542,7 +3677,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         }
