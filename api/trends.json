@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T18:29:02.842725+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2026-01-14T19:24:22.888297+08:00",
+  "total_titles_processed": 1781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 233,
+      "match_count": 243,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -63,11 +63,12 @@
             2,
             3,
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时57分 ~ 18时29分]"
+          "appearance_count": 15,
+          "time_info": "[09时57分 ~ 19时24分]"
         },
         {
           "title": "时隔两年，融资保证金比例回归100%，历次调整A股走势如何？",
@@ -78,8 +79,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时28分 ~ 18时29分]"
+          "appearance_count": 8,
+          "time_info": "[15时28分 ~ 19时24分]"
         },
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -90,8 +91,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 18时29分]"
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 19时24分]"
         },
         {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
@@ -116,8 +117,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时57分 ~ 18时29分]"
+          "appearance_count": 15,
+          "time_info": "[09时57分 ~ 19时24分]"
         },
         {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
@@ -128,8 +129,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时52分 ~ 18时29分]"
+          "appearance_count": 14,
+          "time_info": "[11时52分 ~ 19时24分]"
         },
         {
           "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
@@ -153,11 +154,12 @@
             19,
             15,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时49分 ~ 18时29分]"
+          "appearance_count": 13,
+          "time_info": "[12时49分 ~ 19时24分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -182,6 +184,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时35分 ~ 05时24分]"
+        },
+        {
+          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
+          "url": "https://wallstreetcn.com/articles/3763239",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 19时24分]"
         },
         {
           "title": "融资保证金比例历次调整A股走势如何",
@@ -209,6 +224,32 @@
           "time_info": "[11时52分 ~ 15时28分]"
         },
         {
+          "title": "A股调整融资保证金有何影响",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E8%B0%83%E6%95%B4%E8%9E%8D%E8%B5%84%E4%BF%9D%E8%AF%81%E9%87%91%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时24分]"
+        },
+        {
+          "title": "深交所调整融资保证金比例，不得低于 100%，上证指数大幅调整，如何解读这一调整？",
+          "url": "https://www.zhihu.com/question/1994763870120670029",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 19时24分]"
+        },
+        {
           "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
           "url": "https://www.cls.cn/detail/2256871",
           "source": "财联社热门",
@@ -223,28 +264,17 @@
           "time_info": "[11时52分 ~ 15时28分]"
         },
         {
-          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
-          "url": "https://wallstreetcn.com/articles/3763239",
-          "source": "华尔街见闻",
+          "title": "中方回应“特朗普称不需要国际法”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            6
+            29,
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 18时29分]"
-        },
-        {
-          "title": "A股调整融资保证金有何影响",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E8%B0%83%E6%95%B4%E8%9E%8D%E8%B5%84%E4%BF%9D%E8%AF%81%E9%87%91%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 18时29分]"
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 19时24分]"
         },
         {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
@@ -275,7 +305,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -291,17 +321,15 @@
           "time_info": "09时57分"
         },
         {
-          "title": "深交所调整融资保证金比例，不得低于 100%，上证指数大幅调整，如何解读这一调整？",
-          "url": "https://www.zhihu.com/question/1994763870120670029",
-          "source": "知乎",
+          "title": "【监管“降温”组合拳出手 专家：政策调控旨在为市场“降温”，而非“熄火”】14日，A股三大指数冲高回落。截至收盘，沪指跌0.31%，报4126.09点；深证成指涨0.56%，创业板指涨0.82%。市场成交额逼近4万亿元，超半数个股上涨。午间收盘后，沪深北交易所发布通知，针对新开融资合约，适度调整融资保证金比例从80%提高至100%。午盘沪指迅速跳水翻绿，最低下跌0.85%至4103.62点。南开大学金融发展研究院院长田利辉表示，融资政策的调整叠加热门概念股的高效监管，说明A股监管的“组合拳”已经打出。政策调控旨在为市场“降温”，而非“熄火”，未来市场将更强调基本面与合规性。短期波动难免，但“慢牛”“长牛”格局正逐步夯实。投资者需摒弃短期博弈思维，以理性与耐心穿越市场波动，共享中国经济高质量发展的红利。（央广网）",
+          "url": "https://wallstreetcn.com/livenews/3036975",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            13,
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 18时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "A股收评：沪指冲高回落跌0.31%",
@@ -311,19 +339,6 @@
             15,
             28,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 18时29分]"
-        },
-        {
-          "title": "中方回应“特朗普称不需要国际法”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26,
-            27
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -407,6 +422,18 @@
           "time_info": "14时39分"
         },
         {
+          "title": "2026年投资日历来了！12图锁定全年财经大事",
+          "url": "https://www.cls.cn/detail/2257151",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 19时24分]"
+        },
+        {
           "title": "韩国12月出口物价指数年率 5.5%，前值7.00%。",
           "url": "https://flash.jin10.com/detail/20260114050002161800",
           "source": "金十数据",
@@ -438,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "金十期货1月14日讯，印尼锡出口商协会：2026年生产配额审批工作目前正在进行中，预估2026年锡生产配额约为60000吨。",
+          "url": "https://flash.jin10.com/detail/20260114184743046800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "美国总统特朗普：摩根大通CEO戴蒙就调查美联储主席鲍威尔一事谴责司法部，那样做“是错误的”。",
@@ -479,7 +517,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -534,9 +572,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时24分]"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -830,18 +881,6 @@
           "time_info": "[11时52分 ~ 12时49分]"
         },
         {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 18时29分]"
-        },
-        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -864,17 +903,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时38分 ~ 15时28分]"
-        },
-        {
-          "title": "2026年投资日历来了！12图锁定全年财经大事",
-          "url": "https://www.cls.cn/detail/2257151",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "特朗普参观汽车工厂遭工人辱骂",
@@ -1469,6 +1497,17 @@
           "time_info": "15时28分"
         },
         {
+          "title": "【上交所发布关于国晟科技相关情况的通报：对相关投资者采取了暂停账户交易等自律监管措施】国晟科技近期多次出现异常波动情形，公司已多次发布风险提示公告，提请广大投资者审慎投资，注意投资风险。近日，该股股价继续大幅波动，部分投资者在交易该股过程中存在影响股票交易正常秩序的异常交易行为，上交所依规对相关投资者采取了暂停账户交易等自律监管措施。上交所再次提醒投资者关注风险，审慎参与，合规交易。",
+          "url": "https://wallstreetcn.com/livenews/3036961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "美国总统特朗普：美联储主席人选将在未来几周内确定。",
           "url": "https://flash.jin10.com/detail/20260114015937307800",
           "source": "金十数据",
@@ -1607,7 +1646,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1684,7 +1723,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1775,6 +1814,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "美检察官称给鲍威尔发传票不为攻击美联储",
+          "url": "https://wallstreetcn.com/livenews/3036953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "日本央行行长：通胀达标就会继续加息",
+          "url": "https://www.toutiao.com/trending/7595133959109873215/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "美国总统特朗普：（谈及美国在伊朗的盟友）他们应该撤出。",
@@ -2085,6 +2146,17 @@
           "time_info": "15时28分"
         },
         {
+          "title": "中文在线：针对近期市场关注热点，公司主营业务目前不涉及GEO",
+          "url": "https://wallstreetcn.com/livenews/3036948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "美国总统特朗普：如果我们在关税诉讼中败诉，我们会想办法的。",
           "url": "https://flash.jin10.com/detail/20260114032319867800",
           "source": "金十数据",
@@ -2261,6 +2333,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "巴基斯坦KSE-100指数初步收跌0.7%，报182,745点。",
+          "url": "https://flash.jin10.com/detail/20260114183024270800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "纳斯达克金龙中国指数跌幅扩大至1.97%——在周一大幅上涨之后回撤，跌幅目前已经显著收窄至1.5%。",
           "url": "https://wallstreetcn.com/livenews/3036284",
           "source": "华尔街见闻-快讯",
@@ -2426,6 +2509,17 @@
           "time_info": "14时39分"
         },
         {
+          "title": "华泰：今年A股净流入资金或达1.6万亿",
+          "url": "https://www.toutiao.com/trending/7595135546549079558/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "美国众议院议长约翰逊：周一就信用卡利率上限设定为10%一事与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20260113233739122800",
           "source": "金十数据",
@@ -2490,6 +2584,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "刘和平：特朗普抛弃“台独”是算计",
+          "url": "https://www.toutiao.com/trending/7595056380969812031/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "美国总统特朗普：美联储主席鲍威尔要么无能，要么不正直。鲍威尔的工作做得并不好。",
@@ -2646,6 +2751,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "科达制造：正在筹划以发行股份及支付现金的方式收购公司控股子公司广东特福国际控股有限公司的少数股权，同时募集配套资金，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3036925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "金十图示：2026年01月13日（周二）华尔街恐惧与贪婪指数（美盘后）",
           "url": "https://flash.jin10.com/detail/20260114052420824800",
           "source": "金十数据",
@@ -2681,8 +2797,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时57分 ~ 18时29分]"
+          "appearance_count": 15,
+          "time_info": "[09时57分 ~ 19时24分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -2881,6 +2997,20 @@
           "time_info": "[00时35分 ~ 16时35分]"
         },
         {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 19时24分]"
+        },
+        {
           "title": "gemini3pro 真那么好用吗？",
           "url": "https://www.zhihu.com/question/1990762235694434081",
           "source": "知乎",
@@ -2891,19 +3021,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时35分 ~ 06时25分]"
-        },
-        {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 18时29分]"
         },
         {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
