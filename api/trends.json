@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T06:25:54.586672+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-01-15T07:20:40.781391+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 140,
+      "match_count": 150,
       "titles": [
         {
           "title": "长期股票投资试点再迎增量资金：鸿鹄志远三期3号成立，11只险资私募证券基金投入运作丨独家",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 07时20分]"
         },
         {
           "title": "2026年投资日历来了！12图锁定全年财经大事",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 07时20分]"
         },
         {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 07时20分]"
         },
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -64,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 07时20分]"
         },
         {
           "title": "A股调整融资保证金有何影响",
@@ -77,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 07时20分]"
         },
         {
           "title": "斩杀线登美国头条,牢A连夜跑路",
@@ -88,8 +88,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 07时20分]"
+        },
+        {
+          "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
+          "url": "https://news.ifeng.com/c/8puu58c2sSy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时24分 ~ 07时20分]"
         },
         {
           "title": "时隔两年，融资保证金比例回归100%，历次调整A股走势如何？",
@@ -103,15 +114,15 @@
           "time_info": "[00时34分 ~ 01时29分]"
         },
         {
-          "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
-          "url": "https://news.ifeng.com/c/8puu58c2sSy",
-          "source": "凤凰网",
+          "title": "贝森特和日本财务大臣片山皋月就汇率与矿产问题举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3037344",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 06时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -164,18 +175,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "周三（1月14日）纽约尾盘，标普500股指期货最终跌0.63%，道指期货跌0.24%，纳斯达克100股指期货跌1.19%。 罗素2000股指期货涨0.52%。",
-          "url": "https://wallstreetcn.com/livenews/3037320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -189,17 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "周三（1月14日），降息赢家指数跌0.73%，报106.49点。 “特朗普关税输家”指数跌1.70%，报118.18点，早盘爆出美国最高法院再次没有就特朗普关税政策官司做判决前后显著下跌，日内绝大部分时间低位窄幅震荡。 “特朗普金融指数”跌0.86%，报172.60点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.24%，报16.24点。",
-          "url": "https://wallstreetcn.com/livenews/3037319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
         },
         {
           "title": "美联储卡什卡利：下一任美联储主席必须提出其最有力的论据，且仅拥有一票表决权。",
@@ -222,6 +211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "路透调查：约三分之二日本企业认为日本央行最近一次加息是合适的。",
+          "url": "https://flash.jin10.com/detail/20260115070055771800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "特朗普再批鲍威尔",
@@ -357,6 +357,18 @@
           "time_info": "[04时25分 ~ 05时25分]"
         },
         {
+          "title": "周三（1月14日）纽约尾盘，标普500股指期货最终跌0.63%，道指期货跌0.24%，纳斯达克100股指期货跌1.19%。 罗素2000股指期货涨0.52%。",
+          "url": "https://wallstreetcn.com/livenews/3037320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时20分]"
+        },
+        {
           "title": "美联储卡什卡利：持续听到企业表示希望合法移民。",
           "url": "https://flash.jin10.com/detail/20260115012521401800",
           "source": "金十数据",
@@ -367,6 +379,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 02时37分]"
+        },
+        {
+          "title": "周三（1月14日），降息赢家指数跌0.73%，报106.49点。 “特朗普关税输家”指数跌1.70%，报118.18点，早盘爆出美国最高法院再次没有就特朗普关税政策官司做判决前后显著下跌，日内绝大部分时间低位窄幅震荡。 “特朗普金融指数”跌0.86%，报172.60点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.24%，报16.24点。",
+          "url": "https://wallstreetcn.com/livenews/3037319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时20分]"
         },
         {
           "title": "美12月CPI什么信号？华尔街对本月降息不抱期望，“新美联储通讯社”称联储观望态度不大可能变",
@@ -560,6 +584,18 @@
           "time_info": "[05时25分 ~ 06时25分]"
         },
         {
+          "title": "委内瑞拉代理总统Rodriguez：与美国总统特朗普的通话富有成效，也是热情友好的。",
+          "url": "https://wallstreetcn.com/livenews/3037315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时20分]"
+        },
+        {
           "title": "上期所原油期货2502合约夜盘收涨1.80%，报457元人民币/桶。 沪金夜盘收涨0.46%，沪银收涨4.40%。",
           "url": "https://wallstreetcn.com/livenews/3037257",
           "source": "华尔街见闻-快讯",
@@ -606,6 +642,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时25分]"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年1月15日 周四",
+          "url": "https://flash.jin10.com/detail/20260115000000001800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 07时20分]"
         },
         {
           "title": "周三（1月14日），美联储隔夜逆回购协议（RRP）使用规模为32.23亿美元（交易对手15家），上个交易日报32.77亿美元。",
@@ -819,20 +867,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
         {
-          "title": "委内瑞拉代理总统Rodriguez：与美国总统特朗普的通话富有成效，也是热情友好的。",
-          "url": "https://wallstreetcn.com/livenews/3037315",
+          "title": "避险与货币宽松预期驱动，机构认为金属价格后市易涨难跌",
+          "url": "https://wallstreetcn.com/livenews/3037336",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时20分"
         },
         {
           "title": "美联储理事米兰：央行官员介入他国事务是不恰当的。",
@@ -874,7 +922,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -945,6 +993,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "美国总统特朗普：与Delcy Rodriguez进行了一场非常不错的通话。 讨论了石油、矿产、贸易、“国家安全”。",
+          "url": "https://wallstreetcn.com/livenews/3037333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
           "title": "美联储理事米兰：美国的制度是强大的，关键在于政策是好是坏。",
           "url": "https://flash.jin10.com/detail/20260115001423189800",
           "source": "金十数据",
@@ -973,7 +1032,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -984,7 +1043,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1061,7 +1120,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1094,9 +1153,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美国官员：特朗普将亲自挑选加沙和平委员会成员。",
+          "url": "https://flash.jin10.com/detail/20260115064618560800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "美联储卡什卡利：不预计通胀会再次飙升。",
@@ -1127,9 +1197,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "12月以来披露8起案例，A股公司跨境并购民企唱主角",
+          "url": "https://wallstreetcn.com/livenews/3037328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "美联储卡什卡利：非常确信住房相关通胀正在缓解。",
@@ -1171,7 +1252,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1193,7 +1274,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1237,7 +1318,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1251,6 +1332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "委内瑞拉代总统证实同特朗普通话",
+          "url": "https://wallstreetcn.com/livenews/3037326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "美联储博斯蒂克：通胀挑战尚未取得胜利。",
@@ -1286,6 +1378,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "特朗普称“总会有办法解决”格陵兰岛问题",
+          "url": "https://wallstreetcn.com/livenews/3037325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
           "title": "美联储博斯蒂克：可能给价格带来更大的上行压力，这是我们必须关注的。",
           "url": "https://flash.jin10.com/detail/20260115011323457800",
           "source": "金十数据",
@@ -1314,9 +1417,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美国财政部：美国财长贝森特在与日本同行会晤中指出“汇率过度波动不可取”，并“强调了稳健制定和沟通货币政策的必要性”。",
+          "url": "https://flash.jin10.com/detail/20260115064025158800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "美联储博斯蒂克：随着我们进入2026年，经济很可能会变得更强劲。",
@@ -1347,7 +1461,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1369,7 +1483,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1391,7 +1505,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1424,7 +1538,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1473,15 +1587,15 @@
           "time_info": "05时25分"
         },
         {
-          "title": "今日重点关注的财经数据与事件：2026年1月15日 周四",
-          "url": "https://flash.jin10.com/detail/20260115000000001800",
+          "title": "美国总统特朗普：与委内瑞拉临时总统罗德里格斯进行了非常良好的通话。讨论了许多议题，包括石油、矿产、贸易，当然还有国家安全。",
+          "url": "https://flash.jin10.com/detail/20260115062858254800",
           "source": "金十数据",
           "ranks": [
-            25
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时35分"
+          "time_info": "07时20分"
         },
         {
           "title": "美联储博斯蒂克：通胀距离我们所需水平仍有相当距离。",
@@ -1597,7 +1711,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1608,8 +1722,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 07时20分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -1632,8 +1746,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 07时20分]"
         },
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -1646,6 +1760,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 01时29分]"
+        },
+        {
+          "title": "科技股重挫拖累美股，美小盘股指跑赢大盘，白银突破93美元，金银比跌破50",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "网络股指数ETF收跌约1.7%，领跌美股行业ETF，标普能源板块涨超2.2%",
@@ -1700,11 +1825,23 @@
           "url": "https://wallstreetcn.com/livenews/3037317",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时20分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
+          "url": "https://www.cls.cn/detail/2258154",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时20分"
         },
         {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
@@ -1858,8 +1995,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 07时20分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -1869,8 +2006,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 07时20分]"
         }
       ]
     },
