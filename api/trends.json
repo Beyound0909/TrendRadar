@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T02:37:42.182443+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-01-15T03:22:08.718608+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 73,
+      "match_count": 85,
       "titles": [
         {
           "title": "长期股票投资试点再迎增量资金：鸿鹄志远三期3号成立，11只险资私募证券基金投入运作丨独家",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "2026年投资日历来了！12图锁定全年财经大事",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "时隔两年，融资保证金比例回归100%，历次调整A股走势如何？",
@@ -52,6 +52,53 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 01时29分]"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时22分]"
+        },
+        {
+          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
+          "url": "https://wallstreetcn.com/articles/3763239",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时22分]"
+        },
+        {
+          "title": "A股调整融资保证金有何影响",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E8%B0%83%E6%95%B4%E8%9E%8D%E8%B5%84%E4%BF%9D%E8%AF%81%E9%87%91%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时22分]"
+        },
+        {
+          "title": "斩杀线登美国头条,牢A连夜跑路",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349097&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E7%99%BB%E7%BE%8E%E5%9B%BD%E5%A4%B4%E6%9D%A1%2C%E7%89%A2A%E8%BF%9E%E5%A4%9C%E8%B7%91%E8%B7%AF",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -71,22 +118,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "美国天然气期货日内暴跌9.00%，现报3.111美元/百万英热。",
@@ -100,24 +134,24 @@
           "time_info": "00时35分"
         },
         {
+          "title": "美联储褐皮书：本次经济情况有所改善",
+          "url": "https://wallstreetcn.com/livenews/3037263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
           "title": "美联储卡什卡利：我坚信美联储官员将继续做出他们所能做出的最佳决策。",
           "url": "https://flash.jin10.com/detail/20260115014630761800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "美联储Kashkari：美联储独立性对美国经济做出贡献。 下一任美联储主席将不得不向FOMC提供最具说服力的说明。 每个官员都只有一票，论据最充分的获胜。",
-          "url": "https://wallstreetcn.com/livenews/3037243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
@@ -128,20 +162,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
         {
-          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
-          "url": "https://wallstreetcn.com/articles/3763239",
-          "source": "华尔街见闻",
+          "title": "美联储褐皮书：在十二个联邦储备区中，有八个地区的整体经济活动以小幅至温和的速度增长，三个地区报告无变化，一个地区报告温和下降。",
+          "url": "https://flash.jin10.com/detail/20260115030314065800",
+          "source": "金十数据",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.27%，报2690点。 恒生科技指数主连夜盘收跌0.76%，报5858点。",
+          "url": "https://wallstreetcn.com/livenews/3037266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "德国DAX 30指数初步收跌0.52%，报25288.25点。 法国股指初步收跌0.19%，意大利股指初步收涨0.26%、银行指数跌0.26%，英国股指初步收涨0.35%。",
@@ -166,18 +211,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时29分]"
-        },
-        {
-          "title": "A股调整融资保证金有何影响",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E8%B0%83%E6%95%B4%E8%9E%8D%E8%B5%84%E4%BF%9D%E8%AF%81%E9%87%91%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "美联储卡什卡利：不确定当前就业市场的盈亏平衡利率是多少。",
@@ -228,6 +261,18 @@
           "time_info": "[01时29分 ~ 02时37分]"
         },
         {
+          "title": "美联储Kashkari：美联储独立性对美国经济做出贡献。 下一任美联储主席将不得不向FOMC提供最具说服力的说明。 每个官员都只有一票，论据最充分的获胜。",
+          "url": "https://wallstreetcn.com/livenews/3037243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时22分]"
+        },
+        {
           "title": "美12月CPI什么信号？华尔街对本月降息不抱期望，“新美联储通讯社”称联储观望态度不大可能变",
           "url": "https://wallstreetcn.com/articles/3763221",
           "source": "华尔街见闻",
@@ -261,17 +306,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时29分]"
-        },
-        {
-          "title": "斩杀线登美国头条,牢A连夜跑路",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349097&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E7%99%BB%E7%BE%8E%E5%9B%BD%E5%A4%B4%E6%9D%A1%2C%E7%89%A2A%E8%BF%9E%E5%A4%9C%E8%B7%91%E8%B7%AF",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "深交所调整融资保证金比例，不得低于 100%，上证指数大幅调整，如何解读这一调整？",
@@ -321,6 +355,18 @@
           "time_info": "[01时29分 ~ 02时37分]"
         },
         {
+          "title": "美联储Kashkari：（经历了历史上持续天数最长的政府关门事件之后）需要数月时间，数据才能再次给出清晰的信息。",
+          "url": "https://wallstreetcn.com/livenews/3037235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时22分]"
+        },
+        {
           "title": "美联储卡什卡利：美联储的职责与通胀目标存在紧张关系。",
           "url": "https://flash.jin10.com/detail/20260115012159015800",
           "source": "金十数据",
@@ -345,6 +391,30 @@
           "time_info": "[01时29分 ~ 02时37分]"
         },
         {
+          "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
+          "url": "https://wallstreetcn.com/livenews/3037229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时22分]"
+        },
+        {
+          "title": "美国明尼阿波利斯联储主席Kashkari（2026年FOMC票委）：通胀太高，但趋势处于正确的方向。 如果通胀持续得足够长久，人们会质疑美联储（维持价格稳定性的信誉）。 我对美国经济前景的展望是，增速会相当不错。",
+          "url": "https://wallstreetcn.com/livenews/3037226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时22分]"
+        },
+        {
           "title": "标普500指数跌幅扩大至1%，科技板块跌超1.8%，可选消费板块跌1.7%，电信板块跌1.2%，能源板块涨1.8%。 道指跌267点跌超0.5%，纳指跌348点跌幅1.5%，半导体指数跌1.5%，银行指数跌1.2%。",
           "url": "https://wallstreetcn.com/livenews/3037194",
           "source": "华尔街见闻-快讯",
@@ -355,6 +425,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时29分]"
+        },
+        {
+          "title": "特朗普再批鲍威尔",
+          "url": "https://www.douyin.com/hot/2367805",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 03时22分]"
         },
         {
           "title": "美联储理事米兰：通胀正在下降，其他一切都只是噪音。",
@@ -374,7 +455,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
@@ -396,20 +477,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
         {
-          "title": "美联储Kashkari：（经历了历史上持续天数最长的政府关门事件之后）需要数月时间，数据才能再次给出清晰的信息。",
-          "url": "https://wallstreetcn.com/livenews/3037235",
+          "title": "恒指期货夜盘收跌0.30%，报26892.10点，低水107.71点。",
+          "url": "https://flash.jin10.com/detail/20260115030156248800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "提醒：北京时间03:00，美联储将发布经济状况“褐皮书”，美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯做开场白讲话。",
+          "url": "https://wallstreetcn.com/livenews/3037259",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时37分"
+          "time_info": "03时22分"
         },
         {
           "title": "美联储理事米兰重申今年需要降息150个基点。",
@@ -429,9 +521,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "美联储褐皮书：对未来活动的展望略显乐观，大多数人预计未来几个月将出现轻微至温和的增长。",
+          "url": "https://flash.jin10.com/detail/20260115030058594800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "美联储理事米兰：央行官员介入他国事务是不恰当的。",
@@ -451,9 +554,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "上期所原油期货2502合约夜盘收涨1.80%，报457元人民币/桶。 沪金夜盘收涨0.46%，沪银收涨4.40%。",
+          "url": "https://wallstreetcn.com/livenews/3037257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "美联储理事米兰：对美联储的威胁不会引发通货膨胀。",
@@ -476,6 +590,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "公开与特朗普对骂遭停职，福特工人获得汽车工会力挺",
+          "url": "https://wallstreetcn.com/livenews/3037256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "美联储理事米兰：关于美国机构面临风险的说法来自那些寻求“点击量”的人。",
@@ -522,15 +647,15 @@
           "time_info": "01时29分"
         },
         {
-          "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
-          "url": "https://wallstreetcn.com/livenews/3037229",
+          "title": "周三（1月14日），美联储隔夜逆回购协议（RRP）使用规模为32.23亿美元（交易对手15家），上个交易日报32.77亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3037249",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时37分"
+          "time_info": "03时22分"
         },
         {
           "title": "美联储卡什卡利：我对经济前景相当乐观，预计经济将稳健增长，不认为美联储有必要实施量化宽松。",
@@ -550,7 +675,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
@@ -572,18 +697,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "美国明尼阿波利斯联储主席Kashkari（2026年FOMC票委）：通胀太高，但趋势处于正确的方向。 如果通胀持续得足够长久，人们会质疑美联储（维持价格稳定性的信誉）。 我对美国经济前景的展望是，增速会相当不错。",
-          "url": "https://wallstreetcn.com/livenews/3037226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
@@ -605,7 +719,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
@@ -619,6 +733,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "美联储将于十分钟后公布经济状况褐皮书。",
+          "url": "https://flash.jin10.com/detail/20260115025000002800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "德国财长：敦促欧洲在特朗普时代展现强硬立场",
@@ -641,6 +766,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了15个对手方的32.23亿美元。",
+          "url": "https://flash.jin10.com/detail/20260115024616241800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "美联储博斯蒂克：通胀挑战尚未取得胜利。",
@@ -844,8 +980,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时22分]"
+        },
+        {
+          "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 03时22分]"
         },
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -860,17 +1008,6 @@
           "time_info": "[00时34分 ~ 01时29分]"
         },
         {
-          "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
           "title": "美股集体低开 携程跌近17%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
           "source": "百度热搜",
@@ -878,8 +1015,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
@@ -888,7 +1025,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
@@ -899,7 +1036,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         }
@@ -959,8 +1096,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -984,11 +1121,12 @@
           "url": "https://wallstreetcn.com/livenews/3037234",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时22分]"
         }
       ]
     },
@@ -1003,7 +1141,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         }
