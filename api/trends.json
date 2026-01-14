@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T13:28:04.334395+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-01-14T14:39:04.361831+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 181,
+      "match_count": 195,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 13时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 14时39分]"
         },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -63,8 +63,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 13时28分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时39分]"
+        },
+        {
+          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
+          "url": "https://www.cls.cn/detail/2256844",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时39分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -91,17 +104,29 @@
           "time_info": "[00时35分 ~ 05时24分]"
         },
         {
-          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
-          "url": "https://www.cls.cn/detail/2256844",
-          "source": "财联社热门",
+          "title": "美12月CPI什么信号？华尔街对本月降息不抱期望，“新美联储通讯社”称联储观望态度不大可能变",
+          "url": "https://wallstreetcn.com/articles/3763221",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            3,
-            6
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 13时28分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时39分]"
+        },
+        {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时52分 ~ 14时39分]"
         },
         {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
@@ -137,26 +162,41 @@
           "time_info": "09时57分"
         },
         {
-          "title": "A股锂矿概念股午后持续下探，国城矿业跌超9%，中矿资源跌超7%，盛新锂能、大中矿业等股跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3036678",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时52分 ~ 14时39分]"
         },
         {
-          "title": "A股三大指数集体跳水翻绿，沪指此前一度涨超1%，创业板指、深成指一度涨超2%，全市场超3000家个股下跌。",
-          "url": "https://wallstreetcn.com/livenews/3036677",
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时52分 ~ 14时39分]"
+        },
+        {
+          "title": "特朗普：对伊朗最终目标是“赢”",
+          "url": "https://wallstreetcn.com/livenews/3036719",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "14时39分"
         },
         {
           "title": "美通胀降温未改降息预期，摩根大通领跌金融股，日元跌至159，比特币年内新高",
@@ -176,9 +216,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "日经225指数收涨1.5%，报54,341.23点，连续第二天创新高。 日本东证指数收涨1.3%，报3,644.16点。 韩国首尔综指收涨0.6%，报4,723.10点。",
+          "url": "https://wallstreetcn.com/livenews/3036718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "韩国12月出口物价指数年率 5.5%，前值7.00%。",
@@ -214,6 +265,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "香港财经事务及库务局长许正宇：将发布加强黄金中央清算系统建设最新计划",
+          "url": "https://wallstreetcn.com/livenews/3036717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "韩国12月进口物价指数年率 0.3%，前值2.20%。",
           "url": "https://flash.jin10.com/detail/20260114050002137800",
           "source": "金十数据",
@@ -247,17 +309,29 @@
           "time_info": "11时52分"
         },
         {
-          "title": "美12月CPI什么信号？华尔街对本月降息不抱期望，“新美联储通讯社”称联储观望态度不大可能变",
-          "url": "https://wallstreetcn.com/articles/3763221",
-          "source": "华尔街见闻",
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            8
+            11,
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时57分 ~ 13时28分]"
+          "time_info": "[12时49分 ~ 14时39分]"
+        },
+        {
+          "title": "评标专家突发身体不适时有发生，曾有专家因擅离评标室被处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32380843",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 14时39分]"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -273,6 +347,19 @@
           "time_info": "[03时23分 ~ 05时24分]"
         },
         {
+          "title": "今日重点关注的财经数据与事件：2026年1月14日 周三",
+          "url": "https://flash.jin10.com/detail/20260114000000001800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 14时39分]"
+        },
+        {
           "title": "美国总统特朗普：我们会让油价进一步下降。",
           "url": "https://flash.jin10.com/detail/20260114030931033800",
           "source": "金十数据",
@@ -285,16 +372,16 @@
           "time_info": "[03时23分 ~ 04时29分]"
         },
         {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
-          "source": "财联社热门",
+          "title": "A股锂矿概念股午后持续下探，国城矿业跌超9%，中矿资源跌超7%，盛新锂能、大中矿业等股跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3036678",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7
+            1,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 13时28分]"
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时39分]"
         },
         {
           "title": "美国总统特朗普：通用汽车和Stellantis公司发展势头良好。",
@@ -357,6 +444,18 @@
           "time_info": "[04时29分 ~ 05时24分]"
         },
         {
+          "title": "A股三大指数集体跳水翻绿，沪指此前一度涨超1%，创业板指、深成指一度涨超2%，全市场超3000家个股下跌。",
+          "url": "https://wallstreetcn.com/livenews/3036677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时39分]"
+        },
+        {
           "title": "美国总统特朗普：正在冻结向非法移民发放的福利金。",
           "url": "https://flash.jin10.com/detail/20260114035534058800",
           "source": "金十数据",
@@ -403,18 +502,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时52分 ~ 12时49分]"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年1月14日 周三",
-          "url": "https://flash.jin10.com/detail/20260114000000001800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 07时22分]"
         },
         {
           "title": "美国总统特朗普：美国人现在撤离伊朗是个好主意。",
@@ -538,52 +625,27 @@
           "time_info": "[11时52分 ~ 12时49分]"
         },
         {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            9
+            21,
+            26
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时52分 ~ 13时28分]"
+          "time_info": "[13时27分 ~ 14时39分]"
         },
         {
-          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
-          "url": "https://www.cls.cn/detail/2256871",
-          "source": "财联社热门",
+          "title": "特朗普参观汽车工厂遭工人辱骂",
+          "url": "https://www.douyin.com/hot/2367043",
+          "source": "抖音",
           "ranks": [
-            13,
-            10,
-            12
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 13时28分]"
-        },
-        {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时28分]"
-        },
-        {
-          "title": "评标专家突发身体不适时有发生，曾有专家因擅离评标室被处罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32380843",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时28分]"
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
@@ -610,6 +672,18 @@
           "time_info": "[06时25分 ~ 07时22分]"
         },
         {
+          "title": "中国30年期国债期货主力合约拉升翻红。30年期特别国债2500006收益率持续回落至日内低位附近。",
+          "url": "https://wallstreetcn.com/livenews/3036670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时39分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗最好老实点。",
           "url": "https://flash.jin10.com/detail/20260114055446897800",
           "source": "金十数据",
@@ -632,6 +706,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时22分]"
+        },
+        {
+          "title": "A股三大指数涨幅午后收窄，沪指涨幅收窄至0.6%，深成指和创业板指涨幅收窄至1%。",
+          "url": "https://wallstreetcn.com/livenews/3036667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时39分]"
         },
         {
           "title": "美联储巴尔金：与2025年第一季度不同，我没有听到企业强烈相信会通过价格上涨来降低成本。",
@@ -910,17 +996,6 @@
           "time_info": "[12时49分 ~ 13时28分]"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 13时28分]"
-        },
-        {
           "title": "2026年A股春季行情为何提前爆发",
           "url": "https://www.toutiao.com/trending/7594718497024773673/",
           "source": "今日头条",
@@ -931,6 +1006,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时52分 ~ 12时49分]"
+        },
+        {
+          "title": "特朗普演讲时突然模仿拜登",
+          "url": "https://www.toutiao.com/trending/7594003113268543524/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "美国总统特朗普：我们将开始通过陆路打击毒贩。",
@@ -955,6 +1041,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "澳新银行：美联储降息暂停期不会持久",
+          "url": "https://flash.jin10.com/detail/20260114135620348800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，小马智行跌9.6%，拼多多跌超5%，阿里涨0.4%。",
           "url": "https://wallstreetcn.com/livenews/3036402",
           "source": "华尔街见闻-快讯",
@@ -975,17 +1072,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
-        },
-        {
-          "title": "中国30年期国债期货主力合约拉升翻红。30年期特别国债2500006收益率持续回落至日内低位附近。",
-          "url": "https://wallstreetcn.com/livenews/3036670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
         },
         {
           "title": "美国总统特朗普：目前信用卡利率太高了。",
@@ -1041,17 +1127,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
-        },
-        {
-          "title": "A股三大指数涨幅午后收窄，沪指涨幅收窄至0.6%，深成指和创业板指涨幅收窄至1%。",
-          "url": "https://wallstreetcn.com/livenews/3036667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
         },
         {
           "title": "美国总统特朗普：（当被问及是否会向伊朗提供援助时）你们会知道的。",
@@ -1131,6 +1206,17 @@
           "time_info": "11时52分"
         },
         {
+          "title": "韩国央行官员：美元兑韩元汇率位于1400上方区间，不符合经济基本面。",
+          "url": "https://flash.jin10.com/detail/20260114135341483800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "美联储穆萨莱姆：通胀风险正在缓和 目前没有进一步降息的必要",
           "url": "https://flash.jin10.com/detail/20260113235744733800",
           "source": "金十数据",
@@ -1192,9 +1278,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "美媒：特朗普曾深夜发短信追问军舰“生锈”问题，美海军抓紧制定解决方案",
+          "url": "https://wallstreetcn.com/livenews/3036708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "美国总统特朗普：本周晚些时候，我将宣布我们的医疗可负担性框架。",
@@ -1247,9 +1344,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "印度NIFTY金属指数创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20260114134748217800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "国债期货开盘，30年期主力合约跌0.05%，10年期主力合约跌0.02%，5年期主力合约涨0.01%，2年期主力合约跌0.00%。",
@@ -1261,6 +1369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "特朗普将率“最大美国代表团”出席达沃斯论坛",
+          "url": "https://wallstreetcn.com/livenews/3036705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "据AXIOS：特朗普政府国家安全委员会负责人今天就伊朗问题举行了讨论。特朗普没有参加。",
@@ -1368,7 +1487,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -1404,6 +1523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "恒生指数午后转跌，恒生科技指数跌0.19%。",
+          "url": "https://wallstreetcn.com/livenews/3036700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "美联储巴尔金：失业率有所上升，但似乎并未失控。",
@@ -1514,6 +1644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "韩国央行官员称，美元兑韩元汇率位于1400上方区间，不符合经济基本面。 有必要采取政策措施以缓解市场过度悲观的情绪。",
+          "url": "https://wallstreetcn.com/livenews/3036697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "美联储巴尔金：通胀高于我们的目标，但似乎尚未加速。",
@@ -1714,6 +1855,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "台湾证交所加权股价指数收涨0.8%报30,941.78点。",
+          "url": "https://wallstreetcn.com/livenews/3036691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "美国总统特朗普：美联储主席扼杀了经济的每一次反弹。",
           "url": "https://flash.jin10.com/detail/20260114031448130800",
           "source": "金十数据",
@@ -1844,6 +1996,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "A股算力租赁概念午后走高，宏景科技20cm涨停，润泽科技涨超10%，铜牛信息、中富通、并行科技、奥飞数据、首都在线跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3036681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "美国众议院议长约翰逊：周一就信用卡利率上限设定为10%一事与美国总统特朗普通话。",
@@ -2072,6 +2235,19 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
+          "url": "https://www.cls.cn/detail/2256863",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 14时39分]"
+        },
+        {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
           "url": "https://wallstreetcn.com/articles/3763167",
           "source": "华尔街见闻",
@@ -2086,19 +2262,6 @@
           "time_info": "[00时35分 ~ 06时25分]"
         },
         {
-          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
-          "url": "https://www.cls.cn/detail/2256863",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时22分 ~ 13时28分]"
-        },
-        {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
           "url": "https://wallstreetcn.com/articles/3763167",
           "source": "华尔街见闻",
@@ -2106,8 +2269,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 13时28分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时39分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -2215,7 +2378,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -2246,11 +2409,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 13时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 14时39分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -2263,12 +2427,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时35分 ~ 06时25分]"
+        },
+        {
+          "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
+          "url": "https://www.zhihu.com/question/1994310970621859099",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "花旗预测三个月内金价达5000美元",
@@ -2322,6 +2497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "澳新银行预计2026年下半年黄金价格将高于5000美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3036683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     },
@@ -2393,11 +2579,29 @@
             9,
             8,
             15,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 13时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 14时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳新银行预计，2026年下半年黄金交易价格将高于5000美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260114133123697800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     },
