@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T11:52:27.907416+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-01-14T12:49:51.503781+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 164,
+      "match_count": 172,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 11时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 12时49分]"
         },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 11时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 12时49分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -83,11 +83,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 11时52分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 12时49分]"
         },
         {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
@@ -98,8 +99,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 11时52分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 12时49分]"
         },
         {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
@@ -144,17 +145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "上证指数早盘收报4188.24点，涨1.20%。 深证成指早盘收报14449.57点，涨1.98%。 创业板指早盘收报3396.35点，涨2.24%。 沪深300早盘收报4812.48点，涨1.08%。 科创50早盘收报1524.03点，涨3.71%。 中证500早盘收报8360.89点，涨2.67%。 中证1000早盘收报8410.43点，涨2.53%。",
-          "url": "https://wallstreetcn.com/livenews/3036630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
         },
         {
           "title": "韩国12月出口物价指数年率 5.5%，前值7.00%。",
@@ -218,18 +208,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.40%，10年期主力合约跌0.01%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3036627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -355,6 +334,18 @@
           "time_info": "[02时35分 ~ 03时23分]"
         },
         {
+          "title": "上证指数早盘收报4188.24点，涨1.20%。 深证成指早盘收报14449.57点，涨1.98%。 创业板指早盘收报3396.35点，涨2.24%。 沪深300早盘收报4812.48点，涨1.08%。 科创50早盘收报1524.03点，涨3.71%。 中证500早盘收报8360.89点，涨2.67%。 中证1000早盘收报8410.43点，涨2.53%。",
+          "url": "https://wallstreetcn.com/livenews/3036630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时49分]"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2026年1月14日 周三",
           "url": "https://flash.jin10.com/detail/20260114000000001800",
           "source": "金十数据",
@@ -463,6 +454,43 @@
           "time_info": "[05时24分 ~ 06时25分]"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.40%，10年期主力合约跌0.01%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3036627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时49分]"
+        },
+        {
+          "title": "美12月CPI什么信号？华尔街对本月降息不抱期望，“新美联储通讯社”称联储观望态度不大可能变",
+          "url": "https://wallstreetcn.com/articles/3763221",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 12时49分]"
+        },
+        {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时49分]"
+        },
+        {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
           "url": "https://wallstreetcn.com/livenews/3036337",
           "source": "华尔街见闻-快讯",
@@ -485,6 +513,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时22分]"
+        },
+        {
+          "title": "妻子突发脑梗 丈夫深情不离不弃",
+          "url": "https://www.toutiao.com/trending/7594788630410854419/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时49分]"
         },
         {
           "title": "美国总统特朗普：伊朗最好老实点。",
@@ -559,8 +599,8 @@
           "time_info": "[04时29分 ~ 05时24分]"
         },
         {
-          "title": "美12月CPI什么信号？华尔街对本月降息不抱期望，“新美联储通讯社”称联储观望态度不大可能变",
-          "url": "https://wallstreetcn.com/articles/3763221",
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
           "source": "华尔街见闻",
           "ranks": [
             10,
@@ -568,7 +608,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时57分 ~ 11时52分]"
+          "time_info": "[11时52分 ~ 12时49分]"
         },
         {
           "title": "美国总统特朗普：本周稍晚将公布医疗保健框架。 这将解决可承受能力问题。 “最惠国”医药价格应当就够我在中期选举中胜出了。",
@@ -581,6 +621,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
+          "title": "MSCI明晟亚太地区(除日本)指数触及纪录高位，最新上涨0.45%。",
+          "url": "https://wallstreetcn.com/livenews/3036620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时49分]"
+        },
+        {
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时49分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.3%，报385.71点，创3月5日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 丹麦可再生能源公司Orsted AS（沃旭能源）涨5.4%，在一众北欧个股里领跑，美国法官批准该公司在美国（被总统特朗普叫停的一个）海上风电场项目可以继续推进。",
@@ -727,6 +791,18 @@
           "time_info": "[04时29分 ~ 05时24分]"
         },
         {
+          "title": "2026年A股春季行情为何提前爆发",
+          "url": "https://www.toutiao.com/trending/7594718497024773673/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时49分]"
+        },
+        {
           "title": "美国总统特朗普：我们将开始通过陆路打击毒贩。",
           "url": "https://flash.jin10.com/detail/20260114034918816800",
           "source": "金十数据",
@@ -771,17 +847,6 @@
           "time_info": "09时57分"
         },
         {
-          "title": "妻子突发脑梗 丈夫深情不离不弃",
-          "url": "https://www.toutiao.com/trending/7594788630410854419/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
           "title": "美国总统特朗普：目前信用卡利率太高了。",
           "url": "https://flash.jin10.com/detail/20260114034307085800",
           "source": "金十数据",
@@ -810,7 +875,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -835,17 +900,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
-        },
-        {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
         },
         {
           "title": "美国总统特朗普：（当被问及是否会向伊朗提供援助时）你们会知道的。",
@@ -876,9 +930,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "日本央行行长植田和男：如果经济前景实现，将继续加息。 正确的政策调整将带来更长期的经济增长。 薪资和物价可能继续温和上升。",
+          "url": "https://wallstreetcn.com/livenews/3036653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "美国总统特朗普：美联储主席人选将在未来几周内确定。",
@@ -920,29 +985,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "MSCI明晟亚太地区(除日本)指数触及纪录高位，最新上涨0.45%。",
-          "url": "https://wallstreetcn.com/livenews/3036620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -1002,6 +1045,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "美国总统特朗普：本周晚些时候，我将宣布我们的医疗可负担性框架。",
           "url": "https://flash.jin10.com/detail/20260114034153120800",
           "source": "金十数据",
@@ -1041,7 +1095,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -1055,6 +1109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "花旗上调陆港股市基准指数目标位 看好盈利前景改善",
+          "url": "https://wallstreetcn.com/livenews/3036650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "据AXIOS：特朗普政府国家安全委员会负责人今天就伊朗问题举行了讨论。特朗普没有参加。",
@@ -1101,15 +1166,15 @@
           "time_info": "09时57分"
         },
         {
-          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
-          "url": "https://www.cls.cn/detail/2256871",
-          "source": "财联社热门",
+          "title": "交易员称，印度央行已在外汇市场抛售美元以支撑卢比汇率。",
+          "url": "https://wallstreetcn.com/livenews/3036649",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时52分"
+          "time_info": "12时49分"
         },
         {
           "title": "美国总统特朗普：（谈及美国在伊朗的盟友）他们应该撤出。",
@@ -1154,6 +1219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "日本东证指数继续走高，现涨逾1%。",
+          "url": "https://flash.jin10.com/detail/20260114115921935800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "德国DAX 30指数初步收涨0.05%，报25417.30点。 法国股指初步收跌0.15%，意大利股指初步收跌0.41%、银行指数涨0.33%，英国股指初步收涨0.03%。",
@@ -1382,7 +1458,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -1418,6 +1494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "评标专家突发身体不适时有发生，曾有专家因擅离评标室被处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32380843",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "美国众议院议长约翰逊：特朗普无需在爱泼斯坦案调查中作证。",
@@ -1497,6 +1584,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "日本东证指数日内涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3036637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "美国总统特朗普：美联储主席扼杀了经济的每一次反弹。",
           "url": "https://flash.jin10.com/detail/20260114031448130800",
           "source": "金十数据",
@@ -1539,6 +1637,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普回应格陵兰岛总理选择丹麦而非美国：我不同意，他会有大麻烦",
+          "url": "https://wallstreetcn.com/livenews/3036636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "美国总统特朗普：美联储里有个真正的死脑筋。",
@@ -1723,18 +1832,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "2026年A股春季行情为何提前爆发",
-          "url": "https://www.toutiao.com/trending/7594718497024773673/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -1789,7 +1887,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -1888,8 +1986,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 11时52分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 12时49分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1899,8 +1997,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 11时52分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 12时49分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -2042,8 +2140,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 11时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 12时49分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -2112,7 +2210,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         }
@@ -2185,11 +2283,12 @@
             10,
             9,
             8,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 11时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 12时49分]"
         }
       ]
     },
