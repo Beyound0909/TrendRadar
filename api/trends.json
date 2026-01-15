@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T21:42:20.644189+08:00",
-  "total_titles_processed": 2032,
+  "generated_at": "2026-01-15T22:28:35.132699+08:00",
+  "total_titles_processed": 2124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 289,
+      "match_count": 309,
       "titles": [
         {
           "title": "长期股票投资试点再迎增量资金：鸿鹄志远三期3号成立，11只险资私募证券基金投入运作丨独家",
@@ -44,6 +44,18 @@
           "time_info": "[12时43分 ~ 17时31分]"
         },
         {
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 22时28分]"
+        },
+        {
           "title": "【早报】长期股票投资试点再迎增量资金；上交所暂停国晟科技相关投资者账户交易",
           "url": "https://www.cls.cn/detail/2258174",
           "source": "财联社热门",
@@ -53,18 +65,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时53分 ~ 15时28分]"
-        },
-        {
-          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
-          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时34分 ~ 21时42分]"
         },
         {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
@@ -106,6 +106,17 @@
           "time_info": "[12时43分 ~ 19时23分]"
         },
         {
+          "title": "美军航母开往中东，特朗普要“速战速决”？",
+          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 22时28分]"
+        },
+        {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
           "url": "https://wallstreetcn.com/articles/3763239",
           "source": "华尔街见闻",
@@ -139,11 +150,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时53分 ~ 21时42分]"
+          "appearance_count": 17,
+          "time_info": "[09时53分 ~ 22时28分]"
         },
         {
           "title": "A股调整融资保证金有何影响",
@@ -176,8 +188,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时53分 ~ 21时42分]"
+          "appearance_count": 17,
+          "time_info": "[09时53分 ~ 22时28分]"
         },
         {
           "title": "38岁女子呕吐一夜后突发脑梗瘫痪",
@@ -215,17 +227,6 @@
           "time_info": "[00时34分 ~ 19时23分]"
         },
         {
-          "title": "美军航母开往中东，特朗普要“速战速决”？",
-          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 21时42分]"
-        },
-        {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
           "url": "https://www.cls.cn/detail/2258166",
           "source": "财联社热门",
@@ -259,6 +260,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 01时29分]"
+        },
+        {
+          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
+          "url": "https://news.ifeng.com/c/8pvxjHceg37",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 22时28分]"
         },
         {
           "title": "韩国央行发布政策声明后，韩国3年期国债期货下跌。",
@@ -332,6 +345,18 @@
           "time_info": "[09时53分 ~ 14时38分]"
         },
         {
+          "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32388823",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 22时28分]"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
           "url": "https://flash.jin10.com/detail/20260115002530191800",
           "source": "金十数据",
@@ -376,6 +401,17 @@
           "time_info": "16时35分"
         },
         {
+          "title": "美联储古尔斯比：应将重点放在降低通胀上",
+          "url": "https://flash.jin10.com/detail/20260115220533956800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "【特朗普称观望伊朗局势发展】当地时间1月14日下午，美国总统特朗普在白宫对媒体谈及伊朗局势时表示，“我们要先观望局势发展”。他同时指出美国政府收到了“来自伊朗非常积极的声明”。不过他也并未排除美国采取军事行动的可能性。美媒分析指出，特朗普的这番言论“似乎意在缓解外界对局势可能升级为更广泛地区冲突的担忧”。(CCTV国际时讯",
           "url": "https://wallstreetcn.com/livenews/3037300",
           "source": "华尔街见闻-快讯",
@@ -415,7 +451,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -470,9 +506,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "美联储理事巴尔将于十分钟后参加\"稳定币\"小组讨论。",
+          "url": "https://flash.jin10.com/detail/20260115220500001800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "韩国首尔综合指数涨1%报4770.41点。",
@@ -503,21 +550,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
-        },
-        {
-          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
-          "url": "https://news.ifeng.com/c/8pvxjHceg37",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 21时42分]"
         },
         {
           "title": "美联储卡什卡利：我坚信美联储官员将继续做出他们所能做出的最佳决策。",
@@ -551,6 +586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "特朗普暂缓对关键矿产加征关税 白银跌势重启",
+          "url": "https://flash.jin10.com/detail/20260115220231302800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "野村资产管理预计日本日经225指数有望在2040年达到20万点",
@@ -603,7 +649,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -617,6 +663,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "机构：A股或站上5000点",
+          "url": "https://www.toutiao.com/trending/7595224717343539209/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            13,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 22时28分]"
         },
         {
           "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
@@ -643,16 +703,16 @@
           "time_info": "[03时21分 ~ 06时25分]"
         },
         {
-          "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32388823",
-          "source": "澎湃新闻",
+          "title": "史无前例，欧盟、英国、瑞典、韩国等多国央行力挺鲍威尔，为何全球央行都要求美联储必须保持独立性？",
+          "url": "https://www.zhihu.com/question/1995054361659843455",
+          "source": "知乎",
           "ranks": [
-            20,
+            18,
             19
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时34分 ~ 21时42分]"
+          "time_info": "[19时23分 ~ 22时28分]"
         },
         {
           "title": "特朗普被曝希望对伊朗的军事打击快速且具决定性",
@@ -887,6 +947,18 @@
           "time_info": "[06时25分 ~ 07时20分]"
         },
         {
+          "title": "台积电财报点燃市场情绪，纳指期货转涨，伊朗局势暂时降温，原油跌4%，白银一度跌7%",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 22时28分]"
+        },
+        {
           "title": "美联储卡什卡利：持续听到企业表示希望合法移民。",
           "url": "https://flash.jin10.com/detail/20260115012521401800",
           "source": "金十数据",
@@ -921,19 +993,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时20分]"
-        },
-        {
-          "title": "机构：A股或站上5000点",
-          "url": "https://www.toutiao.com/trending/7595224717343539209/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时23分 ~ 21时42分]"
         },
         {
           "title": "美12月CPI什么信号？华尔街对本月降息不抱期望，“新美联储通讯社”称联储观望态度不大可能变",
@@ -1007,16 +1066,39 @@
           "time_info": "[05时25分 ~ 06时25分]"
         },
         {
-          "title": "史无前例，欧盟、英国、瑞典、韩国等多国央行力挺鲍威尔，为何全球央行都要求美联储必须保持独立性？",
-          "url": "https://www.zhihu.com/question/1995054361659843455",
-          "source": "知乎",
+          "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
+          "url": "https://wallstreetcn.com/articles/3763340",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            19
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时23分 ~ 21时42分]"
+          "time_info": "[20时51分 ~ 22时28分]"
+        },
+        {
+          "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
+          "url": "https://www.cls.cn/detail/2258951",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 22时28分]"
+        },
+        {
+          "title": "A股调整到位了吗",
+          "url": "https://www.toutiao.com/trending/7595540979696799282/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 22时28分]"
         },
         {
           "title": "特朗普邀请记者喝放了5天的牛奶",
@@ -1044,17 +1126,6 @@
           "time_info": "[02时37分 ~ 04时25分]"
         },
         {
-          "title": "台积电财报点燃市场情绪，纳指期货转涨，伊朗局势暂时降温，原油跌4%，白银一度跌7%",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 21时42分]"
-        },
-        {
           "title": "深交所调整融资保证金比例，不得低于 100%，上证指数大幅调整，如何解读这一调整？",
           "url": "https://www.zhihu.com/question/1994763870120670029",
           "source": "知乎",
@@ -1077,29 +1148,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时53分 ~ 12时43分]"
-        },
-        {
-          "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
-          "url": "https://wallstreetcn.com/articles/3763340",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 21时42分]"
-        },
-        {
-          "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
-          "url": "https://www.cls.cn/detail/2258951",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 21时42分]"
         },
         {
           "title": "特朗普同委内瑞拉代总统通话",
@@ -1136,18 +1184,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时34分 ~ 17时31分]"
-        },
-        {
-          "title": "A股调整到位了吗",
-          "url": "https://www.toutiao.com/trending/7595540979696799282/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 21时42分]"
         },
         {
           "title": "媒体：A股监管明确“慢牛”信号",
@@ -1764,6 +1800,17 @@
           "time_info": "14时38分"
         },
         {
+          "title": "美联储博斯蒂克：美联储的独立性使我们能够保持耐心。",
+          "url": "https://flash.jin10.com/detail/20260115215829526800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "避险与货币宽松预期驱动，机构认为金属价格后市易涨难跌",
           "url": "https://wallstreetcn.com/livenews/3037336",
           "source": "华尔街见闻-快讯",
@@ -1847,7 +1894,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1924,9 +1971,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "美联储博斯蒂克：由于通胀过高，需要保持紧缩政策。",
+          "url": "https://flash.jin10.com/detail/20260115215730549800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "纳斯达克100指数期货转涨，现涨0.3%；标普500指数期货上涨0.1%。",
@@ -1984,6 +2042,17 @@
           "time_info": "17时31分"
         },
         {
+          "title": "美联储博斯蒂克：政府停摆扭曲了数据，直至四月或五月（才能消除）。",
+          "url": "https://flash.jin10.com/detail/20260115215719216800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "美国总统特朗普：与Delcy Rodriguez进行了一场非常不错的通话。 讨论了石油、矿产、贸易、“国家安全”。",
           "url": "https://wallstreetcn.com/livenews/3037333",
           "source": "华尔街见闻-快讯",
@@ -2023,7 +2092,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -2100,7 +2169,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -2276,7 +2345,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -2287,7 +2356,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -2342,7 +2411,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -2419,7 +2488,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -2529,7 +2598,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -2617,7 +2686,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -2716,9 +2785,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "美联储博斯蒂克：劳动力市场如今并不那么紧俏，但也不宽松。",
+          "url": "https://flash.jin10.com/detail/20260115215138707800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "央行：总体约60%的进出口贸易受汇率变动影响较小",
@@ -2798,6 +2878,17 @@
           "time_info": "11时44分"
         },
         {
+          "title": "美联储博斯蒂克：通胀压力远不止关税，比如医疗。",
+          "url": "https://flash.jin10.com/detail/20260115214948942800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "TJM Institutional Services LLC利率策略师David Robin：美国就业形势有点不明确，同时我们又有通胀问题。从数据角度看，美联储至少按兵不动到3月的概率上升了。 而随着每一次会议从日程表上划去，美联储继续维持不动的概率就变得更大。” Robin说：“无论市场是否相信美联储会按兵不动 —— 无论这个概率是5%、10%还是20% —— 这些交易都很便宜；如果你是纪律严明的风险管理者，你就会有需求。”",
           "url": "https://wallstreetcn.com/livenews/3037188",
           "source": "华尔街见闻-快讯",
@@ -2870,9 +2961,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "美联储博斯蒂克：许多企业仍在将关税计入价格。",
+          "url": "https://flash.jin10.com/detail/20260115214834684800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "越来越多期权投资者押注，美联储今年一整年都将维持利率不变",
@@ -2958,9 +3060,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "美联储博斯蒂克：预计通胀压力将持续到2026年。",
+          "url": "https://flash.jin10.com/detail/20260115214804856800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "特朗普称，委内瑞拉留在欧佩克对其更有利，但不确定这是否对美国有益。 在会晤委内瑞拉反对派领导人马查多的前一天，特朗普称赞马杜罗的继任者罗德里格斯。",
@@ -3046,9 +3159,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "美联储古尔斯比：同意美联储主席鲍威尔关于美联储遭到的调查的论点。",
+          "url": "https://flash.jin10.com/detail/20260115214652876800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "随着美联储主席人选即将确定，特朗普盛赞凯文・哈塞特与凯文・沃什为潜在人选。（路透）",
@@ -3082,6 +3206,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "美国1月费城联储制造业指数 12.6，预期 -1.4，前值 -10.2。",
+          "url": "https://wallstreetcn.com/livenews/3038037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "A股今日共65只个股涨停",
+          "url": "https://www.toutiao.com/trending/7595120722223104051/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "特朗普称台湾问题由中方决定",
@@ -3123,7 +3269,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -3194,6 +3340,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "美联储博斯蒂克：预计2026年GDP增速将超过2%。",
+          "url": "https://flash.jin10.com/detail/20260115214633286800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "外汇局：下一步将会同有关方面持续加强企业汇率避险服务",
           "url": "https://wallstreetcn.com/livenews/3037769",
           "source": "华尔街见闻-快讯",
@@ -3203,6 +3360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "美国11月出口价格指数同比 3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3038035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "特朗普又打瞌睡还被小女孩发现",
@@ -3249,6 +3417,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "美联储古尔斯比：侵犯央行独立性会导致高通胀。",
+          "url": "https://flash.jin10.com/detail/20260115214509373800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "A股半导体设备午后持续走强，矽电股份涨超10%盘中创新高，芯源微、京仪装备、中科飞测、强一股份、微导纳米跟涨。",
           "url": "https://wallstreetcn.com/livenews/3037549",
           "source": "华尔街见闻-快讯",
@@ -3258,6 +3437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "美国11月进口价格指数同比 0.1%，预期 -0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3038034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "美联储卡什卡利：有点质疑货币政策的实际紧缩程度。",
@@ -3282,6 +3472,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "美联储古尔斯比：增长是稳健的。",
+          "url": "https://flash.jin10.com/detail/20260115214338138800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "内盘期货多数收跌，钯、铂跌逾4%，烧碱、纯碱、棕榈油跌逾2%，沪铝、国际铜、橡胶、纸浆、碳酸锂、沪铜、硅铁、铁矿石、焦煤跌逾1%；沪锡涨逾8%，沪镍涨4%，鸡蛋、沪锌涨逾2%，沪银、燃油涨逾1%。",
           "url": "https://wallstreetcn.com/livenews/3037657",
           "source": "华尔街见闻-快讯",
@@ -3293,6 +3494,17 @@
           "time_info": "15时28分"
         },
         {
+          "title": "美国1月纽约联储制造业指数 7.7，预期 1，前值 -3.9。",
+          "url": "https://wallstreetcn.com/livenews/3038033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "市场消息：在美国总统特朗普即将敲定美联储主席人选之际，他对凯文·哈塞特和凯文·沃什赞不绝口。",
           "url": "https://flash.jin10.com/detail/20260115091203013800",
           "source": "金十数据",
@@ -3302,6 +3514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "美联储古尔斯比：美联储主席鲍威尔在应对多重挑战方面做得非常出色。",
+          "url": "https://flash.jin10.com/detail/20260115214320649800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "台湾证交所加权股价指数低开0.6%报30,746.98点。",
@@ -3318,7 +3541,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -3328,8 +3551,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时53分 ~ 21时42分]"
+          "appearance_count": 17,
+          "time_info": "[09时53分 ~ 22时28分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -3487,6 +3710,17 @@
           "time_info": "[20时51分 ~ 21时42分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-15）",
+          "url": "https://flash.jin10.com/detail/20260115215848815800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "贝莱德第四财季管理资产总额14.04万亿美元，同比增长22%，市场预期13.94万亿美元。 第四财季调整后每股收益（EPS）13.16美元，去年同期为11.93美元，市场预期12.28美元。 第四财季营收70.1亿美元，同比增长23%，市场预期67.8亿美元。 第四财季股票类净流入1260.5亿美元，固定收益类净流入837.7亿美元。 贝莱德美股盘前涨超1.6%。",
           "url": "https://wallstreetcn.com/livenews/3037945",
           "source": "华尔街见闻-快讯",
@@ -3531,6 +3765,17 @@
           "time_info": "20时51分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3038052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260115013113108800",
           "source": "金十数据",
@@ -3570,6 +3815,18 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "金价彻底杀疯了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 22时28分]"
+        },
+        {
           "title": "金价上涨 银行保管箱“一箱难求”",
           "url": "https://www.toutiao.com/trending/7595232648327495722/",
           "source": "今日头条",
@@ -3583,26 +3840,16 @@
           "time_info": "[12时43分 ~ 14时38分]"
         },
         {
-          "title": "金价彻底杀疯了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 21时42分]"
-        },
-        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 21时42分]"
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时28分]"
         },
         {
           "title": "金价暴涨 金店怎么还亏钱了",
@@ -3633,7 +3880,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -3684,8 +3931,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 21时42分]"
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时28分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -3773,11 +4020,12 @@
             10,
             19,
             11,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时44分 ~ 21时42分]"
+          "appearance_count": 16,
+          "time_info": "[11时44分 ~ 22时28分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
@@ -3841,8 +4089,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 21时42分]"
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 22时28分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -3899,7 +4147,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨3.15%，暂报4382.96点。 MarketVectorTM数字资产100中盘指数涨2.56%，报3980.94点。 MarketVector数字资产100指数涨4.39%，报20205.32点。 Solana目前涨2.49%，狗狗币涨3.96%，XRP涨1.32%。 比特币涨3.19%，暂报97353.99美元；以太坊涨5.26%，暂报3370.99美元。",
@@ -3924,6 +4172,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时25分]"
+        },
+        {
+          "title": "美元指数短线拉升，现涨0.29%，报99.36。现货黄金短线下挫，现报4596美元/盎司。纳斯达克100指数期货盘前涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3038041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     }
