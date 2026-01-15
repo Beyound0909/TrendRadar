@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T02:40:39.462195+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-01-16T03:27:22.267130+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 47,
+      "match_count": 70,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时27分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -26,8 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时27分]"
+        },
+        {
+          "title": "恒指期货夜盘收涨0.82%，报27154.40点，高水230.78点。",
+          "url": "https://flash.jin10.com/detail/20260116030021787800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "美联储Schmid：出现一些令人鼓舞的通胀（进展）迹象。",
@@ -36,20 +47,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
         },
         {
-          "title": "上期所原油期货2503合约夜盘收跌2.34%，报441.80元人民币/桶。 沪金夜盘收涨0.04%，沪银收涨1.40%。",
-          "url": "https://wallstreetcn.com/livenews/3038166",
+          "title": "恒生指数主连夜盘收涨0.81%，报27150点。 恒生科技指数主连夜盘收涨1.05%，报5895点。",
+          "url": "https://wallstreetcn.com/livenews/3038180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "高盛股价涨幅扩大至5%，投资者关注其股票交易收入。",
+          "url": "https://wallstreetcn.com/livenews/3038179",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时40分"
+          "time_info": "03时27分"
         },
         {
           "title": "美国白宫：特朗普的医保计划将要求保险公司公布费率和承保范围的对比信息。",
@@ -69,31 +91,42 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
-          "url": "https://wallstreetcn.com/livenews/3038164",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储施密德主张维持限制性利率 警告降息难解劳动力结构性顽疾",
+          "url": "https://flash.jin10.com/detail/20260116024812806800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时40分"
+          "time_info": "03时27分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普已经与以色列总理内塔尼亚胡通话。",
-          "url": "https://wallstreetcn.com/livenews/3038163",
+          "title": "白宫新闻秘书Leavitt：关于格陵兰的会议富有成效。 每2-3周会举行一次关于格陵兰的会议。 欧洲军队（部署）不会影响美国总统特朗普有关（企图吞并）格陵兰的目标。",
+          "url": "https://wallstreetcn.com/livenews/3038173",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时40分"
+          "time_info": "03时27分"
+        },
+        {
+          "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
+          "url": "https://wallstreetcn.com/articles/3763340",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时27分]"
         },
         {
           "title": "美国白宫：特朗普提议的成本分摊计划可能使最常见的奥巴马医改计划保费降低逾10%。",
@@ -113,20 +146,67 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普即将会见委内瑞拉“反对派”Machado。 委内瑞拉代总统Rodriguez一直都配合（美方的要求）。 特朗普期待继续与委内瑞拉合作。",
-          "url": "https://wallstreetcn.com/livenews/3038162",
-          "source": "华尔街见闻-快讯",
+          "title": "白宫新闻秘书莱维特：欧洲国家向格陵兰岛派兵不会影响美国总统特朗普关于格陵兰岛的决定。",
+          "url": "https://flash.jin10.com/detail/20260116024657437800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时40分"
+          "time_info": "03时27分"
+        },
+        {
+          "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
+          "url": "https://wallstreetcn.com/articles/3763320",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时27分]"
+        },
+        {
+          "title": "史无前例，欧盟、英国、瑞典、韩国等多国央行力挺鲍威尔，为何全球央行都要求美联储必须保持独立性？",
+          "url": "https://www.zhihu.com/question/1995054361659843455",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时27分]"
+        },
+        {
+          "title": "聂卫平曾患癌 去年突发脑梗昏迷12天",
+          "url": "https://www.toutiao.com/trending/7595386378024947246/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时27分]"
+        },
+        {
+          "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32388823",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时27分]"
         },
         {
           "title": "美国白宫：美国总统特朗普的医疗计划将要求企业公布被拒索赔的百分比，以及在索赔上支付的收入占管理费用的百分比。",
@@ -153,26 +233,52 @@
           "time_info": "[00时38分 ~ 01时35分]"
         },
         {
-          "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
-          "url": "https://wallstreetcn.com/articles/3763340",
-          "source": "华尔街见闻",
+          "title": "上期所原油期货2503合约夜盘收跌2.34%，报441.80元人民币/桶。 沪金夜盘收涨0.04%，沪银收涨1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3038166",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            2,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时40分]"
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 03时27分]"
         },
         {
-          "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
-          "url": "https://wallstreetcn.com/articles/3763320",
-          "source": "华尔街见闻",
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
+          "url": "https://wallstreetcn.com/livenews/3038164",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时40分]"
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 03时27分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普已经与以色列总理内塔尼亚胡通话。",
+          "url": "https://wallstreetcn.com/livenews/3038163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 03时27分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普即将会见委内瑞拉“反对派”Machado。 委内瑞拉代总统Rodriguez一直都配合（美方的要求）。 特朗普期待继续与委内瑞拉合作。",
+          "url": "https://wallstreetcn.com/livenews/3038162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 03时27分]"
         },
         {
           "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
@@ -181,41 +287,6 @@
           "ranks": [
             11,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时40分]"
-        },
-        {
-          "title": "史无前例，欧盟、英国、瑞典、韩国等多国央行力挺鲍威尔，为何全球央行都要求美联储必须保持独立性？",
-          "url": "https://www.zhihu.com/question/1995054361659843455",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时40分]"
-        },
-        {
-          "title": "聂卫平曾患癌 去年突发脑梗昏迷12天",
-          "url": "https://www.toutiao.com/trending/7595386378024947246/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时40分]"
-        },
-        {
-          "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32388823",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -232,6 +303,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时38分 ~ 01时35分]"
+        },
+        {
+          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：（FOMC工作人员们）对经济增长的那些预测是稳健的。 存在大量不确定性，我们的目标（实现充分就业+维持价格稳定）面临两个方向的风险。 劳动力市场正趋于稳定。 预计通胀将在未来一年改善。 美联储的职责是服务于美国民众。",
+          "url": "https://wallstreetcn.com/livenews/3038161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 03时27分]"
         },
         {
           "title": "美联储巴尔：通胀依然高企，但劳动力市场已出现企稳迹象。",
@@ -256,6 +339,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时40分]"
+        },
+        {
+          "title": "周四（1月15日），美联储隔夜逆回购协议（RRP）使用规模为20.03亿美元（交易对手6家），上个交易日报32.23亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3038160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 03时27分]"
         },
         {
           "title": "美联储巴尔：司法部调查是对美联储独立性的攻击。",
@@ -359,20 +454,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
         },
         {
-          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：（FOMC工作人员们）对经济增长的那些预测是稳健的。 存在大量不确定性，我们的目标（实现充分就业+维持价格稳定）面临两个方向的风险。 劳动力市场正趋于稳定。 预计通胀将在未来一年改善。 美联储的职责是服务于美国民众。",
-          "url": "https://wallstreetcn.com/livenews/3038161",
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
+          "url": "https://wallstreetcn.com/livenews/3038171",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时40分"
+          "time_info": "03时27分"
         },
         {
           "title": "美国白宫：美国总统特朗普的医疗保健计划承诺将提供更多药品供非处方购买。",
@@ -386,17 +481,6 @@
           "time_info": "00时38分"
         },
         {
-          "title": "周四（1月15日），美联储隔夜逆回购协议（RRP）使用规模为20.03亿美元（交易对手6家），上个交易日报32.23亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3038160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
           "title": "美国白宫：特朗普要求国会通过法律，将其“最惠国待遇”药品价格政策法典化。",
           "url": "https://flash.jin10.com/detail/20260116002412604800",
           "source": "金十数据",
@@ -408,6 +492,39 @@
           "time_info": "00时38分"
         },
         {
+          "title": "内塔尼亚胡密电特朗普 劝阻特朗普对伊动武",
+          "url": "https://flash.jin10.com/detail/20260116024433697800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普在伊朗问题上保留所有选项。",
+          "url": "https://flash.jin10.com/detail/20260116024403158800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将在几周内决定美联储主席的人选。 对于下一任美联储主席，特朗普有几个人选。",
+          "url": "https://wallstreetcn.com/livenews/3038168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
           "title": "美国密歇根州州长：特朗普政府延长与加拿大、墨西哥的北美自由贸易协议，对美国的汽车生产至关重要。",
           "url": "https://flash.jin10.com/detail/20260116002253912800",
           "source": "金十数据",
@@ -417,6 +534,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普正密切关注伊朗的局势。",
+          "url": "https://flash.jin10.com/detail/20260116024351365800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普期望信用卡公司降低成本。",
+          "url": "https://flash.jin10.com/detail/20260116023837254800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普正处于对美联储人事任命的决策阶段，他目前有几位心仪的人选来出任这一职位。特朗普将在未来几周内就美联储主席人选作出决定。",
+          "url": "https://flash.jin10.com/detail/20260116023610911800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "金十图示：2026年01月16日（周五）全球股市指数-欧洲市场（收盘）",
@@ -452,6 +602,17 @@
           "time_info": "01时35分"
         },
         {
+          "title": "美联储施密德：通胀过热，我们在通胀问题上没有自满的信心。",
+          "url": "https://flash.jin10.com/detail/20260116023200001800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
           "title": "美国总统特朗普：希望降低保险费，并要求保险公司对成本负责。",
           "url": "https://flash.jin10.com/detail/20260116000715536800",
           "source": "金十数据",
@@ -463,6 +624,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "美联储施密德：降息可能加剧通胀，对就业帮助有限。更倾向于保持货币政策适度紧缩。",
+          "url": "https://flash.jin10.com/detail/20260116023126362800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
           "title": "特朗普发布“伟大医疗计划”：聚焦药价与透明度 大选前夕豪赌医改",
           "url": "https://flash.jin10.com/detail/20260116004031147800",
           "source": "金十数据",
@@ -472,6 +644,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "美联储施密德：劳动力市场压力是结构性的，降息无法掩盖这些问题。",
+          "url": "https://flash.jin10.com/detail/20260116023119973800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "美联储施密德：货币政策目前并不十分紧缩，经济呈现增长势头。",
+          "url": "https://flash.jin10.com/detail/20260116023113880800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年1月16日 周五",
@@ -502,9 +696,64 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "美联储施密德：12月CPI与接近3%的通胀一致。",
+          "url": "https://flash.jin10.com/detail/20260116023104710800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "美联储施密德：通胀是商业联系人最关心的问题。",
+          "url": "https://flash.jin10.com/detail/20260116023059168800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "美联储施密德：税收政策和放松管制有望提振投资、支出和需求。",
+          "url": "https://flash.jin10.com/detail/20260116023053164800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "美联储理事Barr认为：美国司法部调查是对央行独立性的“攻击”",
+          "url": "https://wallstreetcn.com/livenews/3038181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普已经与以色列总理内塔尼亚胡通话。",
+          "url": "https://flash.jin10.com/detail/20260116022949055800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "德国DAX 30指数收涨0.26%，报25352.39点。 法国CAC 40指数收跌0.21%，报8313.12点。 意大利富时MIB指数收涨0.44%，报45849.77点，富时意大利综合股价银行指数收涨0.80%，报35066.05点，突破1月5日所创收盘历史最高位35022.84点、逼近1月6日所创盘中历史最高位35570.37点。 英国富时100指数收涨0.54%，报10238.94点，继续创收盘历史新高，富时250指数收涨1.41%，富时350指数收涨0.63%。 荷兰AEX指数收涨1.43%，报1011.01点，历史上首次收于1000点整数位心理关口上方。 丹麦OMX哥本哈根20指数收跌1.77%，哥本哈根25指数收跌1.03%。",
@@ -513,7 +762,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
         },
@@ -538,6 +787,91 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普及其团队已告知伊朗，若“杀戮”持续，将面临严重后果。",
+          "url": "https://flash.jin10.com/detail/20260116022638083800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时27分]"
+        },
+        {
+          "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时27分]"
+        },
+        {
+          "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2259424",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260116013113671800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260116013016089800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3038101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
         }
       ]
     },
@@ -551,11 +885,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时27分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -576,7 +911,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
         },
@@ -587,7 +922,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
         },
@@ -605,71 +940,24 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时40分]"
-        },
-        {
-          "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时40分]"
-        },
-        {
-          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260116013113671800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "金十图示：2026年01月15日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260116013016089800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3038101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
+        {
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            22,
+            21,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时27分]"
+        },
         {
           "title": "谷歌：推出 TranslateGemma——基于 Gemma 3 构建的全新开源翻译模型系列，助力人们以55种语言无障碍沟通。",
           "url": "https://flash.jin10.com/detail/20260116010451484800",
@@ -681,20 +969,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时40分]"
-        },
-        {
-          "title": "复盘苹果AI为何转投谷歌",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            22,
-            21,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时40分]"
         }
       ]
     },
@@ -710,8 +984,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时27分]"
         },
         {
           "title": "金价",
@@ -720,9 +994,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 03时27分]"
         }
       ]
     },
@@ -739,8 +1013,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时27分]"
         }
       ]
     },
