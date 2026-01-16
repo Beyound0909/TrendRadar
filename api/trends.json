@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T14:38:35.670504+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-01-16T15:27:58.016941+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 193,
+      "match_count": 202,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -52,8 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 14时38分]"
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 15时27分]"
         },
         {
           "title": "她给特朗普献了份大礼，诺奖气坏了",
@@ -63,8 +63,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 15时27分]"
+        },
+        {
+          "title": "特朗普暂缓对伊朗动武决定",
+          "url": "https://news.ifeng.com/c/8pwnQlJCjgv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时54分 ~ 14时38分]"
+          "time_info": "[11时42分 ~ 15时27分]"
         },
         {
           "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
@@ -75,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 14时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时38分 ~ 15时27分]"
         },
         {
           "title": "史无前例，欧盟、英国、瑞典、韩国等多国央行力挺鲍威尔，为何全球央行都要求美联储必须保持独立性？",
@@ -94,16 +106,42 @@
           "time_info": "[00时38分 ~ 07时24分]"
         },
         {
-          "title": "特朗普暂缓对伊朗动武决定",
-          "url": "https://news.ifeng.com/c/8pwnQlJCjgv",
-          "source": "凤凰网",
+          "title": "六大卖方解读央行降息：结构性宽松成共识，后续空间仍可期",
+          "url": "https://www.cls.cn/detail/2259702",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 15时27分]"
+        },
+        {
+          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
+          "url": "https://wallstreetcn.com/articles/3763392",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 15时27分]"
+        },
+        {
+          "title": "梦想成真!特朗普喜提二手诺奖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
+          "source": "贴吧",
           "ranks": [
             1,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 14时38分]"
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时27分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -129,30 +167,6 @@
           "time_info": "[00时38分 ~ 05时24分]"
         },
         {
-          "title": "六大卖方解读央行降息：结构性宽松成共识，后续空间仍可期",
-          "url": "https://www.cls.cn/detail/2259702",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 14时38分]"
-        },
-        {
-          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
-          "url": "https://wallstreetcn.com/articles/3763392",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 14时38分]"
-        },
-        {
           "title": "东京早高峰突发停电致多条铁路线停运 运营商股价应声下跌",
           "url": "https://flash.jin10.com/detail/20260116093325560800",
           "source": "金十数据",
@@ -175,24 +189,13 @@
           "time_info": "02时40分"
         },
         {
-          "title": "梦想成真!特朗普喜提二手诺奖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
           "title": "英媒：美联储独立性受损威胁全球金融“生命线”",
           "url": "https://flash.jin10.com/detail/20260116134955535800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -252,13 +255,24 @@
           "time_info": "11时42分"
         },
         {
+          "title": "金十图示：2026年01月16日（周五）富时中国A50指数成分股今日收盘行情一览：光伏设备走高，阳光电源收涨超3%。医疗器械股走弱。",
+          "url": "https://flash.jin10.com/detail/20260116150237715800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "日经225指数收跌0.3%，报53,936.17点。 日本东证指数收跌0.3%，报3,658.68点。 韩国首尔综指收涨0.9%，报4,840.74点。",
           "url": "https://wallstreetcn.com/livenews/3038526",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -272,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260116150108739800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "A股半导体板块午后持续走强，天岳先进20CM封板涨停，江波龙涨超10%，通富微电、德明利等跟涨。",
@@ -313,9 +338,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约跌多涨少。多晶硅、菜油涨超2%，玻璃涨超1%；跌幅方面，碳酸锂、集运欧线跌超8%，沪锡跌超6%，沪镍、丁二烯橡胶、燃料油、烧碱、SC原油跌超3%，苹果、液化石油气（LPG）、沪铜跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260116150052812800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "美国总统特朗普将授意关键的美国电网运营商执行紧急（批发电价）拍卖。",
@@ -338,6 +374,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 15时27分]"
         },
         {
           "title": "春节前结汇潮将至，人民币偏强运行？央行最新发声：汇率将继续双向浮动，保持弹性",
@@ -674,17 +722,6 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时28分]"
-        },
-        {
           "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
           "url": "https://www.cls.cn/detail/2258951",
           "source": "财联社热门",
@@ -708,6 +745,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时24分 ~ 09时54分]"
+        },
+        {
+          "title": "中央财经大学刘姝威称福耀科技大学大一学生已被企业抢光，这反映了哪些人才培养趋势？",
+          "url": "https://www.zhihu.com/question/1995129976433947775",
+          "source": "知乎",
+          "ranks": [
+            15,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 15时27分]"
         },
         {
           "title": "特朗普直播打瞌睡被小女孩发现",
@@ -853,18 +903,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 13时28分]"
-        },
-        {
-          "title": "中央财经大学刘姝威称福耀科技大学大一学生已被企业抢光，这反映了哪些人才培养趋势？",
-          "url": "https://www.zhihu.com/question/1995129976433947775",
-          "source": "知乎",
-          "ranks": [
-            15,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 14时38分]"
         },
         {
           "title": "美联储巴尔：司法部调查是对美联储独立性的攻击。",
@@ -1102,6 +1140,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "38岁女子呕吐一夜后突发脑梗瘫痪",
+          "url": "https://www.toutiao.com/trending/7594994449273585710/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普的医疗保健计划承诺将提供更多药品供非处方购买。",
           "url": "https://flash.jin10.com/detail/20260116002420950800",
           "source": "金十数据",
@@ -1130,9 +1179,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约跌0.09%，10年期主力合约涨0.01%，5年期主力合约涨0.05%，2年期主力合约涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3038574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "美国白宫：特朗普要求国会通过法律，将其“最惠国待遇”药品价格政策法典化。",
@@ -1795,6 +1855,17 @@
           "time_info": "11时42分"
         },
         {
+          "title": "上证指数收报4101.91点，跌0.26%。 深证成指收报14281.08点，跌0.18%。 创业板指收报3361.02点，跌0.20%。 沪深300收报4731.87点，跌0.41%。 科创50收报1514.07点，涨1.35%。 中证500收报8232.67点，涨0.11%。 中证1000收报8232.73点，跌0.10%。",
+          "url": "https://wallstreetcn.com/livenews/3038557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "美联储施密德：货币政策目前并不十分紧缩，经济呈现增长势头。",
           "url": "https://flash.jin10.com/detail/20260116023113880800",
           "source": "金十数据",
@@ -1883,6 +1954,17 @@
           "time_info": "11时42分"
         },
         {
+          "title": "A股半导体产业链大爆发",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%A4%A7%E7%88%86%E5%8F%91%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
           "url": "https://flash.jin10.com/detail/20260115235739581800",
           "source": "金十数据",
@@ -1944,7 +2026,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -1982,6 +2064,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "商品期货收盘，碳酸锂主力合约跌停、跌幅8.99%，集运欧线跌超8%，沪锡跌超6%，沪镍跌近4%，BR橡胶、燃料油、烧碱、原油跌超3%。多晶硅、菜籽油涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3038552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "美联储施密德：通胀是商业联系人最关心的问题。",
           "url": "https://flash.jin10.com/detail/20260116023059168800",
           "source": "金十数据",
@@ -2002,6 +2095,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "美联储施密德：税收政策和放松管制有望提振投资、支出和需求。",
@@ -2065,7 +2169,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -2164,7 +2268,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -2247,11 +2351,12 @@
           "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 14时38分]"
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 15时27分]"
         },
         {
           "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
@@ -2290,6 +2395,20 @@
           "time_info": "07时24分"
         },
         {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 15时27分]"
+        },
+        {
           "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260116050523142800",
           "source": "金十数据",
@@ -2312,19 +2431,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时25分]"
-        },
-        {
-          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
-          "url": "https://www.cls.cn/detail/2259861",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时38分]"
         },
         {
           "title": "周四（1月15日），降息赢家指数涨1.36%，报107.94点，美股早盘高开高走，北京时间23:20以来高位窄幅震荡——持稳于107.80点附近。 “特朗普关税输家”指数涨1.12%，报119.50点。 “特朗普金融指数”涨1.92%，报175.91点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.92%，报16.10点。",
@@ -2448,8 +2554,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时38分]"
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 15时27分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -2510,6 +2616,58 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价彻底杀疯了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 11时42分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时40分 ~ 06时25分]"
+        },
+        {
+          "title": "金价上涨银行保管箱一箱难求",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E9%93%B6%E8%A1%8C%E4%BF%9D%E7%AE%A1%E7%AE%B1%E4%B8%80%E7%AE%B1%E9%9A%BE%E6%B1%82%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "分析师：伊朗局势放缓及降息预期减弱令黄金价格有所回落",
+          "url": "https://flash.jin10.com/detail/20260116144201337800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -2551,47 +2709,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价彻底杀疯了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 11时42分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时40分 ~ 06时25分]"
-        },
-        {
-          "title": "金价上涨银行保管箱一箱难求",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E9%93%B6%E8%A1%8C%E4%BF%9D%E7%AE%A1%E7%AE%B1%E4%B8%80%E7%AE%B1%E9%9A%BE%E6%B1%82%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
         }
       ]
     },
