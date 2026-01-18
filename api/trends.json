@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T12:44:31.803936+08:00",
-  "total_titles_processed": 744,
+  "generated_at": "2026-01-18T13:26:38.224312+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "美联储主席人选生变，美国股债齐跌，美元走V收平，金银铜盘中跌",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 12时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 13时26分]"
         },
         {
           "title": "英媒刊文：特朗普羡慕中国",
@@ -113,6 +113,20 @@
           "time_info": "[00时27分 ~ 07时22分]"
         },
         {
+          "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32407805",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 13时26分]"
+        },
+        {
           "title": "据法新社：加拿大总理卡尼已收到美国总统特朗普邀请其加入加沙地带和平委员会的请求，其计划接受该邀请。",
           "url": "https://flash.jin10.com/detail/20260117220514244800",
           "source": "金十数据",
@@ -146,20 +160,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时22分]"
-        },
-        {
-          "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32407805",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 12时44分]"
         },
         {
           "title": "据CNN：知情人士透露，在枪支权利与控枪团体均提出反对意见后，特朗普政府已悄然放弃将美国烟酒枪炮及爆炸物管理局并入缉毒局的计划。",
@@ -213,11 +213,12 @@
             3,
             12,
             17,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时20分 ~ 12时44分]"
+          "appearance_count": 7,
+          "time_info": "[05时20分 ~ 13时26分]"
         },
         {
           "title": "完全错误！不可接受！欧洲多国强烈回应特朗普加税",
@@ -254,26 +255,46 @@
           "time_info": "00时27分"
         },
         {
-          "title": "特朗普关税美遭议员批评，民主党将阻止其征税",
-          "url": "https://flash.jin10.com/detail/20260118121713560800",
+          "title": "特朗普拟对加沙和平委员会常任席位收取逾十亿美元会费",
+          "url": "https://flash.jin10.com/detail/20260118093517443800",
           "source": "金十数据",
           "ranks": [
-            2
+            1,
+            15,
+            20,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 13时26分]"
         },
         {
-          "title": "在对欧洲征税前，特朗普发个人照“关税之王”",
-          "url": "https://flash.jin10.com/detail/20260118120008739800",
+          "title": "摩根大通证实，美国总统特朗普的说法属实，即特朗普未提供CEO戴蒙美联储主席职位。",
+          "url": "https://flash.jin10.com/detail/20260118093035859800",
           "source": "金十数据",
           "ranks": [
-            3
+            2,
+            16,
+            21,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 13时26分]"
+        },
+        {
+          "title": "荷兰国际银行：欧洲国家不应对特朗普的关税威胁做出仓促反应",
+          "url": "https://flash.jin10.com/detail/20260118085528695800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 13时26分]"
         },
         {
           "title": "特朗普谈中加签协议",
@@ -305,50 +326,87 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 12时44分]"
-        },
-        {
-          "title": "特朗普拟对加沙和平委员会常任席位收取逾十亿美元会费",
-          "url": "https://flash.jin10.com/detail/20260118093517443800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            15,
-            20
+            6,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时01分 ~ 12时44分]"
+          "time_info": "[11时52分 ~ 13时26分]"
         },
         {
-          "title": "摩根大通证实，美国总统特朗普的说法属实，即特朗普未提供CEO戴蒙美联储主席职位。",
-          "url": "https://flash.jin10.com/detail/20260118093035859800",
+          "title": "特朗普关税美遭议员批评，民主党将阻止其征税",
+          "url": "https://flash.jin10.com/detail/20260118121713560800",
           "source": "金十数据",
           "ranks": [
             2,
-            16,
-            21
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 12时44分]"
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时26分]"
         },
         {
-          "title": "荷兰国际银行：欧洲国家不应对特朗普的关税威胁做出仓促反应",
-          "url": "https://flash.jin10.com/detail/20260118085528695800",
+          "title": "在对欧洲征税前，特朗普发个人照“关税之王”",
+          "url": "https://flash.jin10.com/detail/20260118120008739800",
           "source": "金十数据",
           "ranks": [
-            5,
-            19,
-            24
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时26分]"
+        },
+        {
+          "title": "特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时01分 ~ 12时44分]"
+          "time_info": "[11时52分 ~ 13时26分]"
+        },
+        {
+          "title": "谁是新主席、起诉鲍威尔、颠覆美联储？围绕美联储的各种斗争，下周分胜负？",
+          "url": "https://wallstreetcn.com/articles/3763527",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时26分]"
+        },
+        {
+          "title": "目前仍不清楚特朗普是否会兑现格陵兰岛关税威胁",
+          "url": "https://flash.jin10.com/detail/20260118101323623800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时26分]"
+        },
+        {
+          "title": "特朗普未明确说明依据何种法律依据对欧洲八国关税",
+          "url": "https://flash.jin10.com/detail/20260118101022725800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时26分]"
         },
         {
           "title": "美国总统特朗普表示，他从未向摩根大通CEO戴蒙提供美联储主席职位。",
@@ -364,6 +422,18 @@
           "time_info": "[10时01分 ~ 12时44分]"
         },
         {
+          "title": "特朗普威胁起诉摩根大通，指控其对其进行“去银行化”",
+          "url": "https://wallstreetcn.com/livenews/3039177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时26分]"
+        },
+        {
           "title": "得罪特朗普的福特员工获众筹80万美元",
           "url": "https://www.toutiao.com/trending/7595479498318069823/",
           "source": "今日头条",
@@ -377,17 +447,6 @@
           "time_info": "[00时27分 ~ 07时22分]"
         },
         {
-          "title": "特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 12时44分]"
-        },
-        {
           "title": "哈梅内伊：特朗普是罪犯",
           "url": "https://news.ifeng.com/c/8pzabzvCx7D",
           "source": "凤凰网",
@@ -397,42 +456,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时20分]"
-        },
-        {
-          "title": "目前仍不清楚特朗普是否会兑现格陵兰岛关税威胁",
-          "url": "https://flash.jin10.com/detail/20260118101323623800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 12时44分]"
-        },
-        {
-          "title": "谁是新主席、起诉鲍威尔、颠覆美联储？围绕美联储的各种斗争，下周分胜负？",
-          "url": "https://wallstreetcn.com/articles/3763527",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 12时44分]"
-        },
-        {
-          "title": "特朗普未明确说明依据何种法律依据对欧洲八国关税",
-          "url": "https://flash.jin10.com/detail/20260118101022725800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 12时44分]"
         },
         {
           "title": "美国总统特朗普表示，接下来两周内他将起诉摩根大通银行，原因是该银行在1月6日抗议活动后“剥夺”了他的银行业务。",
@@ -445,17 +468,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 11时52分]"
-        },
-        {
-          "title": "特朗普威胁起诉摩根大通，指控其对其进行“去银行化”",
-          "url": "https://wallstreetcn.com/livenews/3039177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 12时44分]"
         },
         {
           "title": "法国总统马克龙：将对特朗普的格陵兰岛关税作出回应",
@@ -479,6 +491,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时20分]"
+        },
+        {
+          "title": "特朗普竞选团队前顾问也怕被ICE抓：我随身携带护照和身份证",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32408146",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时26分]"
+        },
+        {
+          "title": "特朗普发黑白照：我是关税之王(图)",
+          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
+          "url": "https://wallstreetcn.com/articles/3763532",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         },
         {
           "title": "特朗普称他“说服了自己”暂缓对伊朗采取军事行动",
@@ -512,17 +557,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
-        },
-        {
-          "title": "特朗普竞选团队前顾问也怕被ICE抓：我随身携带护照和身份证",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32408146",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
         },
         {
           "title": "德国汽车游说组织VDA主席表示，美国总统特朗普威胁加征的关税成本将是巨大的。",
@@ -594,8 +628,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时26分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -610,6 +644,17 @@
           "time_info": "[10时01分 ~ 11时52分]"
         },
         {
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时26分]"
+        },
+        {
           "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
           "url": "https://www.zhihu.com/question/1995898061478651512",
           "source": "知乎",
@@ -619,23 +664,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
-        },
-        {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "哈塞特“出局”，但美债为何“不涨反跌”？",
@@ -648,6 +682,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时22分]"
+        },
+        {
+          "title": "全球狂买美债 中国为何“大甩卖”",
+          "url": "https://www.toutiao.com/trending/7596537658717785642/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "中国大规模抛售美债意味着什么",
+          "url": "https://www.toutiao.com/trending/7596539083501866505/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         }
       ]
     },
