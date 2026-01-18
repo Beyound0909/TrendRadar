@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T16:31:24.839312+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2026-01-18T17:24:47.281207+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "美联储主席人选生变，美国股债齐跌，美元走V收平，金银铜盘中跌",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 16时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 17时24分]"
         },
         {
           "title": "英媒刊文：特朗普羡慕中国",
@@ -80,8 +80,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 16时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 17时24分]"
         },
         {
           "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
@@ -99,6 +99,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[05时20分 ~ 15时22分]"
+        },
+        {
+          "title": "谁是新主席、起诉鲍威尔、颠覆美联储？围绕美联储的各种斗争，下周分胜负？",
+          "url": "https://wallstreetcn.com/articles/3763527",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时52分 ~ 17时24分]"
         },
         {
           "title": "特朗普罕见公开“感谢伊朗”",
@@ -145,20 +159,6 @@
           "time_info": "[00时27分 ~ 07时22分]"
         },
         {
-          "title": "谁是新主席、起诉鲍威尔、颠覆美联储？围绕美联储的各种斗争，下周分胜负？",
-          "url": "https://wallstreetcn.com/articles/3763527",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时52分 ~ 16时31分]"
-        },
-        {
           "title": "据法新社：加拿大总理卡尼已收到美国总统特朗普邀请其加入加沙地带和平委员会的请求，其计划接受该邀请。",
           "url": "https://flash.jin10.com/detail/20260117220514244800",
           "source": "金十数据",
@@ -168,6 +168,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时52分 ~ 17时24分]"
         },
         {
           "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
@@ -238,17 +252,20 @@
           "time_info": "[00时27分 ~ 07时22分]"
         },
         {
-          "title": "特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
-          "source": "bilibili 热搜",
+          "title": "特朗普威胁起诉摩根大通，指控其对其进行“去银行化”",
+          "url": "https://wallstreetcn.com/livenews/3039177",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7,
-            23
+            13,
+            14,
+            16,
+            17,
+            23,
+            27
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时52分 ~ 16时31分]"
+          "time_info": "[11时52分 ~ 17时24分]"
         },
         {
           "title": "完全错误！不可接受！欧洲多国强烈回应特朗普加税",
@@ -260,6 +277,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普发黑白照：我是关税之王(图)",
+          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时26分 ~ 17时24分]"
+        },
+        {
+          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
+          "url": "https://wallstreetcn.com/articles/3763532",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时26分 ~ 17时24分]"
         },
         {
           "title": "特朗普因格陵兰岛向欧洲8国加税",
@@ -289,21 +331,6 @@
           "time_info": "[11时52分 ~ 15时22分]"
         },
         {
-          "title": "特朗普威胁起诉摩根大通，指控其对其进行“去银行化”",
-          "url": "https://wallstreetcn.com/livenews/3039177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            14,
-            16,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时52分 ~ 16时31分]"
-        },
-        {
           "title": "英媒：特朗普羡慕中国",
           "url": "https://www.toutiao.com/trending/7596316947638128154/",
           "source": "今日头条",
@@ -315,28 +342,6 @@
           "time_info": "00时27分"
         },
         {
-          "title": "锋龙股份：停牌核查结束，股票复牌。",
-          "url": "https://wallstreetcn.com/livenews/3039196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "特朗普发黑白照：我是关税之王(图)",
-          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 16时31分]"
-        },
-        {
           "title": "特朗普开价：永久席位10亿美元",
           "url": "https://www.douyin.com/hot/2371397",
           "source": "抖音",
@@ -346,20 +351,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
-        },
-        {
-          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
-          "url": "https://wallstreetcn.com/articles/3763532",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 16时31分]"
         },
         {
           "title": "特朗普关税美遭议员批评，民主党将阻止其征税",
@@ -475,6 +466,30 @@
           "time_info": "[03时18分 ~ 07时22分]"
         },
         {
+          "title": "美媒：特朗普为所谓“和平委员会”永久席位开价10亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32410157",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 17时24分]"
+        },
+        {
+          "title": "特朗普称将对部分国家加征关税，直至“完全收购格陵兰岛”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32408980",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 17时24分]"
+        },
+        {
           "title": "央广财评：坚持稳字当头 ，A股要的不是“疯牛”而是“长牛”",
           "url": "https://wallstreetcn.com/livenews/3039118",
           "source": "华尔街见闻-快讯",
@@ -484,6 +499,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 04时25分]"
+        },
+        {
+          "title": "锋龙股份：停牌核查结束，股票复牌。",
+          "url": "https://wallstreetcn.com/livenews/3039196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时24分]"
         },
         {
           "title": "从巴菲特指标看A股",
@@ -498,28 +525,16 @@
           "time_info": "[14时35分 ~ 15时22分]"
         },
         {
-          "title": "美媒：特朗普为所谓“和平委员会”永久席位开价10亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32410157",
-          "source": "澎湃新闻",
+          "title": "下周A股怎么走",
+          "url": "https://www.toutiao.com/trending/7595966744246861830/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 16时31分]"
-        },
-        {
-          "title": "特朗普称将对部分国家加征关税，直至“完全收购格陵兰岛”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32408980",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
+            8,
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 17时24分]"
         },
         {
           "title": "美国总统特朗普表示，他从未向摩根大通CEO戴蒙提供美联储主席职位。",
@@ -533,6 +548,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时01分 ~ 12时44分]"
+        },
+        {
+          "title": "特朗普和平委员会是什么机构",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%BA%E6%9E%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 17时24分]"
         },
         {
           "title": "得罪特朗普的福特员工获众筹80万美元",
@@ -559,15 +585,16 @@
           "time_info": "[00时27分 ~ 01时20分]"
         },
         {
-          "title": "下周A股怎么走",
-          "url": "https://www.toutiao.com/trending/7595966744246861830/",
-          "source": "今日头条",
+          "title": "雪人集团：股票连续两日收盘价跌幅偏离值累计超20% 属异常波动",
+          "url": "https://flash.jin10.com/detail/20260118153712985800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时30分 ~ 16时31分]"
+          "time_info": "[16时31分 ~ 17时24分]"
         },
         {
           "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
@@ -591,17 +618,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 11时52分]"
-        },
-        {
-          "title": "特朗普和平委员会是什么机构",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%BA%E6%9E%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "法国总统马克龙：将对特朗普的格陵兰岛关税作出回应",
@@ -638,15 +654,15 @@
           "time_info": "[12时44分 ~ 13时26分]"
         },
         {
-          "title": "雪人集团：股票连续两日收盘价跌幅偏离值累计超20% 属异常波动",
-          "url": "https://flash.jin10.com/detail/20260118153712985800",
+          "title": "约旦表示，阿卜杜拉国王收到了美国总统特朗普发出的加入加沙和平委员会的邀请。",
+          "url": "https://flash.jin10.com/detail/20260118162133517800",
           "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "17时24分"
         },
         {
           "title": "特朗普称他“说服了自己”暂缓对伊朗采取军事行动",
@@ -691,6 +707,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "特朗普发布个人黑白照：我是关税王",
+          "url": "https://www.toutiao.com/trending/7595813844887339062/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "特朗普调侃朋友服用“减肥药”无效",
@@ -752,8 +779,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 17时24分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -764,8 +791,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时44分 ~ 16时31分]"
+          "appearance_count": 7,
+          "time_info": "[12时44分 ~ 17时24分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
