@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T18:24:21.399815+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-01-18T19:19:59.361569+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 63,
+      "match_count": 68,
       "titles": [
         {
           "title": "美联储主席人选生变，美国股债齐跌，美元走V收平，金银铜盘中跌",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 18时24分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 19时19分]"
         },
         {
           "title": "英媒刊文：特朗普羡慕中国",
@@ -80,8 +80,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时52分 ~ 18时24分]"
+          "appearance_count": 10,
+          "time_info": "[11时52分 ~ 19时19分]"
         },
         {
           "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
@@ -131,6 +131,21 @@
           "time_info": "[11时52分 ~ 18时24分]"
         },
         {
+          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
+          "url": "https://wallstreetcn.com/articles/3763532",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时26分 ~ 19时19分]"
+        },
+        {
           "title": "特朗普罕见公开“感谢伊朗”",
           "url": "https://www.douyin.com/hot/2370651",
           "source": "抖音",
@@ -175,6 +190,17 @@
           "time_info": "[00时27分 ~ 07时22分]"
         },
         {
+          "title": "特朗普发黑白照：我是关税之王(图)",
+          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时26分 ~ 19时19分]"
+        },
+        {
           "title": "据法新社：加拿大总理卡尼已收到美国总统特朗普邀请其加入加沙地带和平委员会的请求，其计划接受该邀请。",
           "url": "https://flash.jin10.com/detail/20260117220514244800",
           "source": "金十数据",
@@ -184,21 +210,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时22分]"
-        },
-        {
-          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
-          "url": "https://wallstreetcn.com/articles/3763532",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时26分 ~ 18时24分]"
         },
         {
           "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
@@ -269,17 +280,6 @@
           "time_info": "[00时27分 ~ 07时22分]"
         },
         {
-          "title": "特朗普发黑白照：我是关税之王(图)",
-          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时26分 ~ 18时24分]"
-        },
-        {
           "title": "特朗普威胁起诉摩根大通，指控其对其进行“去银行化”",
           "url": "https://wallstreetcn.com/livenews/3039177",
           "source": "华尔街见闻-快讯",
@@ -334,6 +334,17 @@
           "time_info": "[11时52分 ~ 15时22分]"
         },
         {
+          "title": "消息人士：（就特朗普的关税威胁）法国总统马克龙将请求启动欧盟反胁迫机制。",
+          "url": "https://flash.jin10.com/detail/20260118185426337800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "英媒：特朗普羡慕中国",
           "url": "https://www.toutiao.com/trending/7596316947638128154/",
           "source": "今日头条",
@@ -345,6 +356,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "一位与马克龙关系密切的人士就特朗普的关税威胁发表评论：马克龙将请求启动欧盟反胁迫机制。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3039235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "特朗普开价：永久席位10亿美元",
           "url": "https://www.douyin.com/hot/2371397",
           "source": "抖音",
@@ -354,6 +376,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "锋龙股份：停牌核查结束，股票复牌。",
+          "url": "https://wallstreetcn.com/livenews/3039196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时19分]"
         },
         {
           "title": "特朗普关税美遭议员批评，民主党将阻止其征税",
@@ -504,19 +540,6 @@
           "time_info": "[00时27分 ~ 04时25分]"
         },
         {
-          "title": "锋龙股份：停牌核查结束，股票复牌。",
-          "url": "https://wallstreetcn.com/livenews/3039196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时24分]"
-        },
-        {
           "title": "从巴菲特指标看A股",
           "url": "https://www.toutiao.com/trending/7595220288296665151/",
           "source": "今日头条",
@@ -527,6 +550,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时35分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
+          "url": "https://wallstreetcn.com/articles/3763529",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 19时19分]"
+        },
+        {
+          "title": "约旦表示，阿卜杜拉国王收到了美国总统特朗普发出的加入加沙和平委员会的邀请。",
+          "url": "https://flash.jin10.com/detail/20260118162133517800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时19分]"
         },
         {
           "title": "雪人集团：股票连续两日收盘价跌幅偏离值累计超20% 属异常波动",
@@ -552,17 +599,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时30分 ~ 17时24分]"
-        },
-        {
-          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
-          "url": "https://wallstreetcn.com/articles/3763529",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 18时24分]"
         },
         {
           "title": "美国总统特朗普表示，他从未向摩根大通CEO戴蒙提供美联储主席职位。",
@@ -613,16 +649,40 @@
           "time_info": "[00时27分 ~ 01时20分]"
         },
         {
-          "title": "约旦表示，阿卜杜拉国王收到了美国总统特朗普发出的加入加沙和平委员会的邀请。",
-          "url": "https://flash.jin10.com/detail/20260118162133517800",
+          "title": "德国工程协会表示，欧盟委员会应考虑采取反胁迫工具，以应对美国总统特朗普针对格陵兰岛的关税威胁。",
+          "url": "https://flash.jin10.com/detail/20260118171938820800",
           "source": "金十数据",
           "ranks": [
-            6,
-            17
+            7,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时24分]"
+          "time_info": "[18时24分 ~ 19时19分]"
+        },
+        {
+          "title": "一名伊朗地区官员透露，伊朗抗议活动中至少有5000人死亡，其中包括约500名安全人员。部分最激烈的冲突发生在伊朗西北部的库尔德地区。",
+          "url": "https://flash.jin10.com/detail/20260118171215197800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时19分]"
+        },
+        {
+          "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时19分]"
         },
         {
           "title": "美国总统特朗普表示，接下来两周内他将起诉摩根大通银行，原因是该银行在1月6日抗议活动后“剥夺”了他的银行业务。",
@@ -671,26 +731,15 @@
           "time_info": "[12时44分 ~ 13时26分]"
         },
         {
-          "title": "德国工程协会表示，欧盟委员会应考虑采取反胁迫工具，以应对美国总统特朗普针对格陵兰岛的关税威胁。",
-          "url": "https://flash.jin10.com/detail/20260118171938820800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-18）",
+          "url": "https://flash.jin10.com/detail/20260118181223418800",
           "source": "金十数据",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "一名伊朗地区官员透露，伊朗抗议活动中至少有5000人死亡，其中包括约500名安全人员。部分最激烈的冲突发生在伊朗西北部的库尔德地区。",
-          "url": "https://flash.jin10.com/detail/20260118171215197800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "19时19分"
         },
         {
           "title": "特朗普称他“说服了自己”暂缓对伊朗采取军事行动",
@@ -704,15 +753,26 @@
           "time_info": "07时22分"
         },
         {
-          "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
-          "source": "澎湃新闻",
+          "title": "银河证券：A股市场长牛、慢牛基础进一步夯实",
+          "url": "https://flash.jin10.com/detail/20260118180625220800",
+          "source": "金十数据",
           "ranks": [
-            14
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "19时19分"
+        },
+        {
+          "title": "应声20CM涨停！A股年报行情如火如荼，16家上市公司净利最高同比预增超200%",
+          "url": "https://www.cls.cn/detail/2261401",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "特朗普开价10亿卖委员会永久席位",
@@ -819,8 +879,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时35分 ~ 18时24分]"
+          "appearance_count": 7,
+          "time_info": "[14时35分 ~ 19时19分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -831,8 +891,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时44分 ~ 18时24分]"
+          "appearance_count": 9,
+          "time_info": "[12时44分 ~ 19时19分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -910,6 +970,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时26分 ~ 14时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
+          "url": "https://wallstreetcn.com/articles/3763534",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     },
