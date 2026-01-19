@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T18:33:32.086601+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2026-01-19T19:24:40.355678+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 151,
+      "match_count": 158,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时59分 ~ 18时33分]"
+          "appearance_count": 13,
+          "time_info": "[09时59分 ~ 19时24分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -131,6 +131,20 @@
           "time_info": "[00时28分 ~ 09时59分]"
         },
         {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时56分 ~ 19时24分]"
+        },
+        {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
           "url": "https://news.ifeng.com/c/8q1bdYC7EP7",
           "source": "凤凰网",
@@ -185,19 +199,6 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时56分 ~ 18时33分]"
-        },
-        {
           "title": "格陵兰引发美欧关税战风险，纳指期货跌超1%，黄金大涨逼近4700关口，白银再创新高",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -249,17 +250,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时20分 ~ 06时22分]"
-        },
-        {
-          "title": "A股超3500股上涨",
-          "url": "https://www.toutiao.com/trending/7596541352129593350/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时33分]"
         },
         {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
@@ -395,7 +385,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -469,15 +459,16 @@
           "time_info": "16时37分"
         },
         {
-          "title": "英镑兑美元短线波动不大，此前英国首相斯塔默对特朗普的加征关税威胁亮明立场：“大错特错”",
-          "url": "https://wallstreetcn.com/livenews/3039707",
-          "source": "华尔街见闻-快讯",
+          "title": "A股超3500股上涨",
+          "url": "https://www.toutiao.com/trending/7596541352129593350/",
+          "source": "今日头条",
           "ranks": [
-            2
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时24分]"
         },
         {
           "title": "韩国KOSPI指数最高上涨0.4%，创下4,860.84点的历史新高。",
@@ -533,17 +524,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
-        },
-        {
-          "title": "高盛：特朗普破坏性政策频发 料引发新一轮资金逃离美国资产",
-          "url": "https://wallstreetcn.com/livenews/3039703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
         },
         {
           "title": "股指期货早盘开盘",
@@ -603,6 +583,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时19分 ~ 07时22分]"
+        },
+        {
+          "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
+          "url": "https://wallstreetcn.com/articles/3763551",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 19时24分]"
         },
         {
           "title": "美国财长贝森特：最高法院推翻特朗普关税的可能性不大。",
@@ -757,6 +748,18 @@
           "time_info": "[15时32分 ~ 16时37分]"
         },
         {
+          "title": "英镑兑美元短线波动不大，此前英国首相斯塔默对特朗普的加征关税威胁亮明立场：“大错特错”",
+          "url": "https://wallstreetcn.com/livenews/3039707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时24分]"
+        },
+        {
           "title": "澳大利亚S&P/ASX 200指数收盘下跌0.3%至8874.5点。",
           "url": "https://wallstreetcn.com/livenews/3039538",
           "source": "华尔街见闻-快讯",
@@ -829,6 +832,18 @@
           "time_info": "[14时43分 ~ 15时32分]"
         },
         {
+          "title": "高盛：特朗普破坏性政策频发 料引发新一轮资金逃离美国资产",
+          "url": "https://wallstreetcn.com/livenews/3039703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时24分]"
+        },
+        {
           "title": "国债期货收盘，30年期主力合约跌0.22%，10年期主力合约跌0.02%，5年期主力合约跌0.02%，2年期主力合约与昨日持平。",
           "url": "https://wallstreetcn.com/livenews/3039604",
           "source": "华尔街见闻-快讯",
@@ -853,15 +868,16 @@
           "time_info": "[05时21分 ~ 09时59分]"
         },
         {
-          "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
-          "url": "https://wallstreetcn.com/articles/3763551",
-          "source": "华尔街见闻",
+          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            18,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时56分 ~ 14时43分]"
+          "time_info": "[16时37分 ~ 19时24分]"
         },
         {
           "title": "本周重磅日程：中国GDP、“美联储最爱通胀指标”、日央行决议、冬季达沃斯",
@@ -876,6 +892,31 @@
           "time_info": "[09时59分 ~ 11时57分]"
         },
         {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时24分]"
+        },
+        {
+          "title": "【每日收评】三大指数涨跌互现，单日成交额萎缩近3200亿，电网设备股持续爆发",
+          "url": "https://www.cls.cn/detail/2262264",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时24分]"
+        },
+        {
           "title": "特朗普称加拿大需要增加国防开支。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3039264",
           "source": "华尔街见闻-快讯",
@@ -887,18 +928,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 02时32分]"
-        },
-        {
-          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 18时33分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”，我已跟他通电话",
@@ -997,18 +1026,6 @@
           "time_info": "[15时32分 ~ 16时37分]"
         },
         {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时33分]"
-        },
-        {
           "title": "日本11月设备利用指数环比 -5.3%，前值 3.3%。",
           "url": "https://wallstreetcn.com/livenews/3039519",
           "source": "华尔街见闻-快讯",
@@ -1021,15 +1038,28 @@
           "time_info": "[12时56分 ~ 13时34分]"
         },
         {
-          "title": "【每日收评】三大指数涨跌互现，单日成交额萎缩近3200亿，电网设备股持续爆发",
-          "url": "https://www.cls.cn/detail/2262264",
-          "source": "财联社热门",
+          "title": "英媒：特朗普撼动世界，世界却爱上中国",
+          "url": "https://wallstreetcn.com/livenews/3039698",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时24分]"
+        },
+        {
+          "title": "A股震荡盘整，两市成交缩量超3000亿，电网设备爆发，恒指跌1%，医药生物普跌，沪锡跌近6%",
+          "url": "https://wallstreetcn.com/articles/3763568",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时33分]"
+          "time_info": "[18时33分 ~ 19时24分]"
         },
         {
           "title": "日本11月设备利用指数月率 -5.3%，前值3.30%。",
@@ -1312,17 +1342,6 @@
           "time_info": "09时59分"
         },
         {
-          "title": "英媒：特朗普撼动世界，世界却爱上中国",
-          "url": "https://wallstreetcn.com/livenews/3039698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
           "title": "美联储1月维持利率不变的概率为95%",
           "url": "https://flash.jin10.com/detail/20260119060229075800",
           "source": "金十数据",
@@ -1356,15 +1375,15 @@
           "time_info": "14时43分"
         },
         {
-          "title": "A股震荡盘整，两市成交缩量超3000亿，电网设备爆发，恒指跌1%，医药生物普跌，沪锡跌近6%",
-          "url": "https://wallstreetcn.com/articles/3763568",
-          "source": "华尔街见闻",
+          "title": "欧盟委员会发言人：目前达沃斯尚未安排欧盟委员会主席冯德莱恩与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260119191243867800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时33分"
+          "time_info": "19时24分"
         },
         {
           "title": "消息人士：格陵兰岛只是开胃菜，特朗普的下一个目标是加拿大",
@@ -1428,7 +1447,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -1499,6 +1518,17 @@
           "time_info": "09时59分"
         },
         {
+          "title": "汇川技术：筹划发行H股股票并在香港联合交易所有限公司上市。",
+          "url": "https://wallstreetcn.com/livenews/3039711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "上证指数开盘报4090.72点，跌0.27%。 深证成指开盘报14221.93点，跌0.41%。 创业板指开盘报3340.94点，跌0.60%。 沪深300开盘报4720.19点，跌0.25%。 科创50开盘报1513.59点，跌0.03%。 中证500开盘报8199.50点，跌0.40%。 中证1000开盘报8204.63点，跌0.34%。",
           "url": "https://wallstreetcn.com/livenews/3039394",
           "source": "华尔街见闻-快讯",
@@ -1519,6 +1549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "德总理称特朗普关税威胁损害跨大西洋关系",
+          "url": "https://wallstreetcn.com/livenews/3039709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "德商银行和德意志银行股票在德国电子证券交易平台Tradegate上下跌2%。",
@@ -1563,6 +1604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-19）",
+          "url": "https://flash.jin10.com/detail/20260119185844242800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "市场分析：特朗普对欧洲的关税威胁最终将反噬自身",
@@ -1631,6 +1683,17 @@
           "time_info": "16时37分"
         },
         {
+          "title": "土耳其主要银行指数上涨2%。",
+          "url": "https://flash.jin10.com/detail/20260119184706784800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "日经225指数早盘收跌1%，报53412.88点。日本东证指数早盘收跌0.5%。",
           "url": "https://wallstreetcn.com/livenews/3039471",
           "source": "华尔街见闻-快讯",
@@ -1686,6 +1749,17 @@
           "time_info": "16时37分"
         },
         {
+          "title": "德国政府发言人：不认同美国总统特朗普的和平委员会会削弱联合国的担忧。",
+          "url": "https://flash.jin10.com/detail/20260119184647494800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "特朗普致信挪威首相：“不再有义务只考虑和平”",
           "url": "https://wallstreetcn.com/livenews/3039642",
           "source": "华尔街见闻-快讯",
@@ -1695,6 +1769,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
+        },
+        {
+          "title": "德国政府发言人：德国感谢美国总统特朗普发出的和平理事会邀请。",
+          "url": "https://flash.jin10.com/detail/20260119184323133800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "商品期货开盘，钯主力合约涨超3%，沪银涨超2%，原油、苯乙烯、LU燃油、焦炭、纯苯涨超1%。沪锡跌超7%，碳酸锂跌超3%，集运欧线、菜粕跌超2%。",
@@ -1799,8 +1884,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时33分]"
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时24分]"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
