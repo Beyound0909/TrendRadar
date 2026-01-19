@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-19T07:22:42.833027+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-01-19T09:59:37.335080+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 45,
+      "match_count": 63,
       "titles": [
-        {
-          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://www.cls.cn/detail/2261399",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
           "url": "https://news.ifeng.com/c/8q1PDnUocDO",
@@ -31,6 +20,18 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
+          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://www.cls.cn/detail/2261399",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时59分]"
+        },
+        {
           "title": "谁是新主席、起诉鲍威尔、颠覆美联储？围绕美联储的各种斗争，下周分胜负？",
           "url": "https://wallstreetcn.com/articles/3763527",
           "source": "华尔街见闻",
@@ -38,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时59分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -63,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时59分]"
         },
         {
           "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
@@ -88,8 +89,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时59分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情如火如荼，16家上市公司净利最高同比预增超200%",
@@ -97,22 +98,24 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时59分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
           "url": "https://news.ifeng.com/c/8q1bdYC7EP7",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时59分]"
         },
         {
           "title": "下周重磅日程：中国GDP、“美联储最爱通胀指标”、日央行决议、冬季达沃斯",
@@ -136,8 +139,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时59分]"
         },
         {
           "title": "万亿存款搬家进行时 A股慢牛正在成形",
@@ -290,6 +293,17 @@
           "time_info": "[00时28分 ~ 05时21分]"
         },
         {
+          "title": "欧洲8国集体回应特朗普关税威胁",
+          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "美国财长贝森特：特朗普致力于保障美联储的独立性。我们有四位出色的美联储主席候选人。认为参议院会对这四位候选人的任何一位当选感到满意。",
           "url": "https://flash.jin10.com/detail/20260118222345424800",
           "source": "金十数据",
@@ -314,13 +328,57 @@
           "time_info": "[00时28分 ~ 05时21分]"
         },
         {
+          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
+          "url": "https://www.cls.cn/detail/2261562",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "韩国KOSPI指数最高上涨0.4%，创下4,860.84点的历史新高。",
+          "url": "https://flash.jin10.com/detail/20260119093650159800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20260119093115043800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20260119093112357800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "中证报头版头条：政策“靶向”发力，巩固市场稳中向好势头",
           "url": "https://wallstreetcn.com/livenews/3039325",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -462,8 +520,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时21分 ~ 07时22分]"
+          "appearance_count": 4,
+          "time_info": "[05时21分 ~ 09时59分]"
         },
         {
           "title": "特朗普称加拿大需要增加国防开支。（NBC）",
@@ -539,15 +597,70 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
+          "title": "韩国首尔综合指数一度上涨0.4%，触及4,860.84点纪录新高。",
+          "url": "https://wallstreetcn.com/livenews/3039411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "本周重磅日程：中国GDP、“美联储最爱通胀指标”、日央行决议、冬季达沃斯",
+          "url": "https://wallstreetcn.com/articles/3763440",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "三大指数集体翻红，电网设备、贵金属、汽车整车、美容护理等方向领涨，沪深京三市上涨个股近2700只。",
+          "url": "https://wallstreetcn.com/livenews/3039409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "伊朗：将追究特朗普等人责任",
+          "url": "https://news.ifeng.com/c/8q2B9XoMclS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "美联储1月维持利率不变的概率为95%",
           "url": "https://flash.jin10.com/detail/20260119060229075800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "日本东证指数下跌1%，报3,621.77。",
+          "url": "https://flash.jin10.com/detail/20260119092731713800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "机构：A股“春季躁动”行情仍在延续，市场主线有望回归业绩基本面",
@@ -556,26 +669,115 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.09%，10年期主力合约涨0.08%，5年期主力合约涨0.03%，2年期主力合约与昨日持平。",
+          "url": "https://wallstreetcn.com/livenews/3039398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "中证转债指数高开0.02%。澳弘转债涨20%，双乐转债涨13.8%，奥锐转债涨超8%，嘉美转债涨6.7%。东时转债跌超12%，广联转债跌超5%，华医转债跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3039397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "上证指数开盘报4090.72点，跌0.27%。 深证成指开盘报14221.93点，跌0.41%。 创业板指开盘报3340.94点，跌0.60%。 沪深300开盘报4720.19点，跌0.25%。 科创50开盘报1513.59点，跌0.03%。 中证500开盘报8199.50点，跌0.40%。 中证1000开盘报8204.63点，跌0.34%。",
+          "url": "https://wallstreetcn.com/livenews/3039394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "恒指低开0.76%，报26641.60点；恒生科技指数跌0.77%。京东健康跌近3%，哔哩哔哩、阿里巴巴跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3039388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "商品期货开盘，钯主力合约涨超3%，沪银涨超2%，原油、苯乙烯、LU燃油、焦炭、纯苯涨超1%。沪锡跌超7%，碳酸锂跌超3%，集运欧线、菜粕跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3039383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "台湾证交所加权股价指数低开0.2%报31,336.77点。",
+          "url": "https://wallstreetcn.com/livenews/3039381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初跌0.27%，上一个交易日夜盘收跌0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3039380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "深交所：港股通标的证券名单调整，调入南华期货股份，1月19日起生效。",
+          "url": "https://wallstreetcn.com/livenews/3039378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
           "url": "https://wallstreetcn.com/articles/3763533",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时59分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -588,6 +790,45 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时31分 ~ 03时19分]"
+        },
+        {
+          "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
+          "url": "https://www.cls.cn/detail/2261328",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     },
@@ -604,8 +845,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时59分]"
         }
       ]
     },
