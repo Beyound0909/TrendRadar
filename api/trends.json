@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T22:32:03.111171+08:00",
-  "total_titles_processed": 1739,
+  "generated_at": "2026-01-19T23:29:56.039068+08:00",
+  "total_titles_processed": 1833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 188,
+      "match_count": 196,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时59分 ~ 22时32分]"
+          "appearance_count": 18,
+          "time_info": "[09时59分 ~ 23时29分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -141,8 +141,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时56分 ~ 22时32分]"
+          "appearance_count": 15,
+          "time_info": "[12时56分 ~ 23时29分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -212,6 +212,20 @@
           "time_info": "[11时56分 ~ 14时43分]"
         },
         {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时38分 ~ 23时29分]"
+        },
+        {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
           "url": "https://flash.jin10.com/detail/20260118224310382800",
           "source": "金十数据",
@@ -224,6 +238,20 @@
           "time_info": "[00时28分 ~ 05时21分]"
         },
         {
+          "title": "【每日收评】三大指数涨跌互现，单日成交额萎缩近3200亿，电网设备股持续爆发",
+          "url": "https://www.cls.cn/detail/2262264",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时38分 ~ 23时29分]"
+        },
+        {
           "title": "特朗普为何对欧洲8国加税",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%AF%B9%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
           "source": "bilibili 热搜",
@@ -233,20 +261,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[21时48分 ~ 22时32分]"
-        },
-        {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时38分 ~ 22时32分]"
         },
         {
           "title": "北约秘书长吕特：与美国总统特朗普讨论格陵兰的安全形势。 我们将继续致力于解决格陵兰和北冰洋问题。 期待近期在达沃斯会见特朗普。",
@@ -275,20 +289,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时20分 ~ 06时22分]"
-        },
-        {
-          "title": "【每日收评】三大指数涨跌互现，单日成交额萎缩近3200亿，电网设备股持续爆发",
-          "url": "https://www.cls.cn/detail/2262264",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时38分 ~ 22时32分]"
         },
         {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
@@ -465,6 +465,17 @@
           "time_info": "[00时28分 ~ 05时21分]"
         },
         {
+          "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
+          "url": "https://news.ifeng.com/c/8q2mrUjZSWs",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "国债期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20260119113123108800",
           "source": "金十数据",
@@ -532,15 +543,15 @@
           "time_info": "11时57分"
         },
         {
-          "title": "标普500股指期货目前跌1%，道指期货跌0.7%，纳指期货跌1.38%，小盘股指期货跌1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3039810",
-          "source": "华尔街见闻-快讯",
+          "title": "克罗地亚总统乱抖包袱：特朗普还不如占领斯瓦尔巴群岛",
+          "url": "https://news.ifeng.com/c/8q2uSgRf3ld",
+          "source": "凤凰网",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时32分"
+          "time_info": "23时29分"
         },
         {
           "title": "国债期货早盘开盘",
@@ -593,9 +604,22 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
+        },
+        {
+          "title": "网络工程师被控盗窃赌博网站资金，两地警方先后立案扣押183个比特币",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414856",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时55分 ~ 23时29分]"
         },
         {
           "title": "股指期货早盘开盘",
@@ -631,6 +655,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "美媒爆料：特朗普私下“密集谈论”加拿大",
+          "url": "https://wallstreetcn.com/livenews/3039838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "布莱尔与特朗普“和平委员会”10亿美元成员费划清界限",
           "url": "https://wallstreetcn.com/livenews/3039290",
           "source": "华尔街见闻-快讯",
@@ -655,6 +690,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时19分 ~ 07时22分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260119124140458800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 23时29分]"
         },
         {
           "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
@@ -784,19 +833,6 @@
           "time_info": "[14时43分 ~ 15时32分]"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260119124140458800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 21时48分]"
-        },
-        {
           "title": "美媒：欧洲担心若特朗普解散北约 恐将被迫自组防务联盟",
           "url": "https://flash.jin10.com/detail/20260119053728522800",
           "source": "金十数据",
@@ -893,16 +929,16 @@
           "time_info": "[21时48分 ~ 22时32分]"
         },
         {
-          "title": "网络工程师被控盗窃赌博网站资金，两地警方先后立案扣押183个比特币",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414856",
-          "source": "澎湃新闻",
+          "title": "标普500股指期货目前跌1%，道指期货跌0.7%，纳指期货跌1.38%，小盘股指期货跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3039810",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            7
+            3,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时55分 ~ 22时32分]"
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 23时29分]"
         },
         {
           "title": "伊朗：将追究特朗普等人责任",
@@ -1456,6 +1492,17 @@
           "time_info": "[15时31分 ~ 15时32分]"
         },
         {
+          "title": "普京被邀请加入特朗普“和平委员会”",
+          "url": "https://news.ifeng.com/c/8q2yFHRzsKV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "韩国KOSPI指数首次突破4900点，最新报4905.20点，涨幅1.3%。",
           "url": "https://flash.jin10.com/detail/20260119125837179800",
           "source": "金十数据",
@@ -1495,7 +1542,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -1520,6 +1567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "沪银期货主力合约继续上涨，涨幅达4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3039836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "金十期货热图",
@@ -1588,6 +1646,17 @@
           "time_info": "19时24分"
         },
         {
+          "title": "财经大V金永荣被罚没8300万",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%A2%E7%BB%8F%E5%A4%A7V%E9%87%91%E6%B0%B8%E8%8D%A3%E8%A2%AB%E7%BD%9A%E6%B2%A18300%E4%B8%87%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "消息人士：格陵兰岛只是开胃菜，特朗普的下一个目标是加拿大",
           "url": "https://flash.jin10.com/detail/20260119141748687800",
           "source": "金十数据",
@@ -1610,6 +1679,17 @@
           "time_info": "16时37分"
         },
         {
+          "title": "美国天然气期货日内暴涨18.00%，现报3.662美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260119223002239800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "意法半导体米兰上市股票下跌3%。",
           "url": "https://flash.jin10.com/detail/20260119160303014800",
           "source": "金十数据",
@@ -1627,7 +1707,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -1764,13 +1844,24 @@
           "time_info": "20时55分"
         },
         {
+          "title": "分析师：若特朗普任命过于听话的美联储主席，债市将迅速惩罚美国",
+          "url": "https://wallstreetcn.com/livenews/3039827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "荷兰经济大臣：特朗普在格陵兰岛问题上的表现不负责任。",
           "url": "https://flash.jin10.com/detail/20260119215216307800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -1836,7 +1927,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -1880,7 +1971,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -2210,6 +2301,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时48分 ~ 23时29分]"
+        },
+        {
           "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -2231,17 +2334,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时28分 ~ 05时21分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时48分 ~ 22时32分]"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
@@ -2280,7 +2372,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -2293,6 +2385,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时28分 ~ 11时57分]"
+        },
+        {
+          "title": "OpenAI计划2026年发布第一款设备。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3039842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -2358,6 +2461,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",
+          "url": "https://wallstreetcn.com/livenews/3039830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "谷歌的Gemini业务销售额预计将飙升",
+          "url": "https://flash.jin10.com/detail/20260119221021907800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     },
