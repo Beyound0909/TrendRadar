@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T13:34:47.278935+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-01-19T14:43:09.877019+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 99,
+      "match_count": 109,
       "titles": [
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -93,6 +93,30 @@
           "time_info": "[00时28分 ~ 11时57分]"
         },
         {
+          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
+          "url": "https://www.cls.cn/detail/2261562",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 14时43分]"
+        },
+        {
+          "title": "欧洲8国集体回应特朗普关税威胁",
+          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 14时43分]"
+        },
+        {
           "title": "应声20CM涨停！A股年报行情如火如荼，16家上市公司净利最高同比预增超200%",
           "url": "https://www.cls.cn/detail/2261401",
           "source": "财联社热门",
@@ -144,29 +168,6 @@
           "time_info": "[00时28分 ~ 13时34分]"
         },
         {
-          "title": "欧洲8国集体回应特朗普关税威胁",
-          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 13时34分]"
-        },
-        {
-          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
-          "url": "https://www.cls.cn/detail/2261562",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 13时34分]"
-        },
-        {
           "title": "万亿存款搬家进行时 A股慢牛正在成形",
           "url": "https://www.toutiao.com/trending/7595758502787268627/",
           "source": "今日头条",
@@ -181,6 +182,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 07时22分]"
+        },
+        {
+          "title": "格陵兰引发美欧关税战风险，纳指期货跌超1%，黄金大涨逼近4700关口，白银再创新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 14时43分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -207,19 +221,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时20分 ~ 06时22分]"
-        },
-        {
-          "title": "格陵兰引发美欧关税战风险，纳指期货跌超1%，黄金大涨逼近4700关口，白银再创新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时56分 ~ 13时34分]"
         },
         {
           "title": "哈塞特回应称，特朗普不选他担任美联储主席可能是正确的",
@@ -341,6 +342,29 @@
           "time_info": "11时57分"
         },
         {
+          "title": "A股储能概念股持续反弹，海博思创涨超10%，华自科技、艾罗能源、阿特斯、锦浪科技、阳光电源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3039578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
+          "url": "https://www.zhihu.com/question/1996211344383435054",
+          "source": "知乎",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 14时43分]"
+        },
+        {
           "title": "美国财长贝森特：特朗普致力于保障美联储的独立性。我们有四位出色的美联储主席候选人。认为参议院会对这四位候选人的任何一位当选感到满意。",
           "url": "https://flash.jin10.com/detail/20260118222345424800",
           "source": "金十数据",
@@ -376,17 +400,6 @@
           "time_info": "11时57分"
         },
         {
-          "title": "韩国3年期国债期货跌至2024年6月以来的最低水平。",
-          "url": "https://wallstreetcn.com/livenews/3039541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
           "title": "韩国KOSPI指数最高上涨0.4%，创下4,860.84点的历史新高。",
           "url": "https://flash.jin10.com/detail/20260119093650159800",
           "source": "金十数据",
@@ -407,17 +420,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
-        },
-        {
-          "title": "澳大利亚S&P/ASX 200指数收盘下跌0.3%至8874.5点。",
-          "url": "https://wallstreetcn.com/livenews/3039538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时34分"
         },
         {
           "title": "国债期货早盘开盘",
@@ -442,15 +444,15 @@
           "time_info": "11时57分"
         },
         {
-          "title": "A股商业航天概念午后持续活跃，航亚科技、欧科亿20CM涨停，航发动力、航发控制、航发科技涨停，超捷股份、航宇科技、图南股份等涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3039536",
+          "title": "日经225指数收跌0.7%，报53583.57点。 日本东证指数收跌0.1%，报3656.40点。 韩国首尔综指收涨1.3%，报4904.66点。",
+          "url": "https://wallstreetcn.com/livenews/3039573",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时34分"
+          "time_info": "14时43分"
         },
         {
           "title": "股指期货早盘开盘",
@@ -580,6 +582,31 @@
           "time_info": "[05时21分 ~ 07时22分]"
         },
         {
+          "title": "巴基斯坦卡拉奇证交所KSE 100指数涨1%报187032点。",
+          "url": "https://wallstreetcn.com/livenews/3039526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 14时43分]"
+        },
+        {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 14时43分]"
+        },
+        {
           "title": "美媒：欧洲担心若特朗普解散北约 恐将被迫自组防务联盟",
           "url": "https://flash.jin10.com/detail/20260119053728522800",
           "source": "金十数据",
@@ -604,16 +631,28 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
-          "title": "巴基斯坦卡拉奇证交所KSE 100指数涨1%报187032点。",
-          "url": "https://wallstreetcn.com/livenews/3039526",
+          "title": "韩国3年期国债期货跌至2024年6月以来的最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3039541",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            12
+            2,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时56分 ~ 13时34分]"
+          "time_info": "[13时34分 ~ 14时43分]"
+        },
+        {
+          "title": "澳大利亚S&P/ASX 200指数收盘下跌0.3%至8874.5点。",
+          "url": "https://wallstreetcn.com/livenews/3039538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 14时43分]"
         },
         {
           "title": "伊朗：将追究特朗普等人责任",
@@ -640,6 +679,18 @@
           "time_info": "[12时56分 ~ 13时34分]"
         },
         {
+          "title": "A股商业航天概念午后持续活跃，航亚科技、欧科亿20CM涨停，航发动力、航发控制、航发科技涨停，超捷股份、航宇科技、图南股份等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3039536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 14时43分]"
+        },
+        {
           "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
           "url": "https://wallstreetcn.com/articles/3763529",
           "source": "华尔街见闻",
@@ -652,16 +703,15 @@
           "time_info": "[05时21分 ~ 09时59分]"
         },
         {
-          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
-          "url": "https://www.zhihu.com/question/1996211344383435054",
-          "source": "知乎",
+          "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
+          "url": "https://wallstreetcn.com/articles/3763551",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时56分 ~ 13时34分]"
+          "time_info": "[12时56分 ~ 14时43分]"
         },
         {
           "title": "本周重磅日程：中国GDP、“美联储最爱通胀指标”、日央行决议、冬季达沃斯",
@@ -700,18 +750,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 02时32分]"
-        },
-        {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 13时34分]"
         },
         {
           "title": "日本11月设备利用指数 100，前值105.6。",
@@ -809,6 +847,18 @@
           "time_info": "[11时57分 ~ 12时56分]"
         },
         {
+          "title": "韩国首尔综合指数首次突破4900点，日内涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3039531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 14时43分]"
+        },
+        {
           "title": "A股哪类板块值得关注",
           "url": "https://www.toutiao.com/trending/7596649161538145811/",
           "source": "今日头条",
@@ -819,17 +869,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时20分]"
-        },
-        {
-          "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
-          "url": "https://wallstreetcn.com/articles/3763551",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 13时34分]"
         },
         {
           "title": "日本11月第三产业活动指数月率 -0.2%，前值0.90%。",
@@ -957,9 +996,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
+        },
+        {
+          "title": "特朗普致信挪威首相 称须完全控制格陵兰岛",
+          "url": "https://flash.jin10.com/detail/20260119142307602800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "韩国首尔综合指数一度上涨0.4%，触及4,860.84点纪录新高。",
@@ -1006,15 +1056,48 @@
           "time_info": "09时59分"
         },
         {
-          "title": "韩国首尔综合指数首次突破4900点，日内涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3039531",
-          "source": "华尔街见闻-快讯",
+          "title": "日本在野党联盟中道改革联合官员Okamoto：日本央行正密切关注消费者通胀并适当加息，希望仔细审视事态发展。",
+          "url": "https://flash.jin10.com/detail/20260119141804567800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时34分"
+          "time_info": "14时43分"
+        },
+        {
+          "title": "消息人士：格陵兰岛只是开胃菜，特朗普的下一个目标是加拿大",
+          "url": "https://flash.jin10.com/detail/20260119141748687800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "A股三大股指午后均转跌，创业板指日内跌幅达1%，深证成指跌0.19%，沪指跌0.01%。AI应用、保险、银行、半导体等方向跌幅居前，沪深京三市下跌个股近2100只。",
+          "url": "https://wallstreetcn.com/livenews/3039556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "据媒体报道，哈萨克斯坦表示，美国总统特朗普邀请哈萨克斯坦总统托卡耶夫加入“和平委员会”，托卡耶夫已同意。",
+          "url": "https://flash.jin10.com/detail/20260119141358029800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "机构：A股“春季躁动”行情仍在延续，市场主线有望回归业绩基本面",
@@ -1059,6 +1142,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "台湾证交所加权股价指数收涨0.7%报31,639.29点。",
+          "url": "https://wallstreetcn.com/livenews/3039545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "美国天然气期货日内暴涨9.00%，现报3.383美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260119140937839800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "市场分析：特朗普对欧洲的关税威胁最终将反噬自身",
@@ -1111,9 +1216,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
+        },
+        {
+          "title": "富宝资讯：碳酸锂期货盘面震荡，富宝电池级碳酸锂报143100元/吨",
+          "url": "https://flash.jin10.com/detail/20260119135403020800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "商品期货开盘，钯主力合约涨超3%，沪银涨超2%，原油、苯乙烯、LU燃油、焦炭、纯苯涨超1%。沪锡跌超7%，碳酸锂跌超3%，集运欧线、菜粕跌超2%。",
@@ -1267,6 +1383,46 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股明日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260118225633271800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时21分]"
+        },
+        {
+          "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3039552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "美股今日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260119135736792800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1280,26 +1436,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 13时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股明日休市 金银油交易提前结束",
-          "url": "https://flash.jin10.com/detail/20260118225633271800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 05时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 14时43分]"
         }
       ]
     }
