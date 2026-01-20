@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T09:55:02.900400+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2026-01-20T11:47:14.758204+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 81,
+      "match_count": 93,
       "titles": [
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 09时55分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 11时47分]"
         },
         {
           "title": "网络工程师被控盗窃赌博网站资金，两地警方先后立案扣押183个比特币",
@@ -65,8 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 09时55分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 11时47分]"
         },
         {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
@@ -106,6 +106,31 @@
           "time_info": "[00时33分 ~ 07时24分]"
         },
         {
+          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
+          "url": "https://www.cls.cn/detail/2262874",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
+          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 11时47分]"
+        },
+        {
           "title": "欧洲8国集体回应特朗普关税威胁",
           "url": "https://news.ifeng.com/c/8q27ChONuGJ",
           "source": "凤凰网",
@@ -128,38 +153,48 @@
           "time_info": "[00时33分 ~ 01时26分]"
         },
         {
-          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
-          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
-        },
-        {
-          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
-          "url": "https://www.cls.cn/detail/2262874",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 09时55分]"
-        },
-        {
           "title": "股指期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20260120093116138800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、保险、石油等板块走强，通信设备股回调",
+          "url": "https://flash.jin10.com/detail/20260120113239322800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "泰国股指SET指数日内涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3040116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260120113122504800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "A股房地产板块异动拉升，城投控股、合肥城建双双涨停，保利发展涨超5%，招商蛇口、滨江集团、华侨城A等跟涨。",
@@ -168,7 +203,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -184,15 +219,48 @@
           "time_info": "00时33分"
         },
         {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260120113111466800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "A股商业航天概念震荡调整，航天动力触及跌停，华菱线缆逼近跌停，大唐电信、三维通信、神剑股份、海格通信跌超6%。",
           "url": "https://wallstreetcn.com/livenews/3040029",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "上证指数早盘收报4101.62点，跌0.30%。 深证成指早盘收报14119.95点，跌1.22%。 创业板指早盘收报3276.64点，跌1.83%。 沪深300早盘收报4712.18点，跌0.47%。 科创50早盘收报1488.44点，跌1.22%。 中证500早盘收报8198.78点，跌1.08%。 中证1000早盘收报8159.07点，跌1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3040112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。碳酸锂涨近8%，沪银涨超3%，沪锡涨超2%，棕榈油、沪金涨超1%。跌幅方面，玻璃、氧化铝、焦煤、焦炭、液化石油气（LPG）、生猪跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260120113043017800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "经济学家：特朗普加征关税或使英国陷入衰退",
@@ -219,6 +287,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时25分]"
+        },
+        {
+          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
+          "url": "https://wallstreetcn.com/articles/3763591",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
+          "url": "https://www.zhihu.com/question/1995879633401374340",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 11时47分]"
         },
         {
           "title": "鲍威尔将出席最高法院针对美联储理事Cook的听证会",
@@ -332,6 +424,29 @@
           "time_info": "[00时33分 ~ 01时26分]"
         },
         {
+          "title": "股票异动停牌核查完毕 400亿AI概念股明起复牌||盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2262717",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 11时47分]"
+        },
+        {
+          "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
+          "url": "https://www.cls.cn/detail/2262811",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 11时47分]"
+        },
+        {
           "title": "布伦特3月原油期货收报63.94美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3039893",
           "source": "华尔街见闻-快讯",
@@ -383,26 +498,15 @@
           "time_info": "[02时36分 ~ 03时22分]"
         },
         {
-          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
-          "url": "https://wallstreetcn.com/articles/3763591",
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
           "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
-        },
-        {
-          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
-          "url": "https://www.zhihu.com/question/1995879633401374340",
-          "source": "知乎",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
+          "time_info": "[11时46分 ~ 11时47分]"
         },
         {
           "title": "叙利亚总统府：叙利亚总统沙拉与美国总统特朗普在电话中讨论了叙利亚局势的最新发展，沙拉和特朗普同意继续合作打击“伊斯兰国”。沙拉和特朗普强调，有必要在叙利亚国家框架内维护库尔德人民的权利。",
@@ -525,17 +629,6 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
-          "title": "股票异动停牌核查完毕 400亿AI概念股明起复牌||盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2262717",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
-        },
-        {
           "title": "金十图示：2026年01月20日（周二）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260120004534576800",
           "source": "金十数据",
@@ -546,17 +639,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 02时36分]"
-        },
-        {
-          "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
-          "url": "https://www.cls.cn/detail/2262811",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌2.0%，创11月18日（收跌2.2%）以来最差单日表现，报383.82点。 在十个板块中，北欧工业板块跌幅最大。 Genmab A/S跌6.5%，在一众北欧个股里表现最差。",
@@ -618,6 +700,17 @@
           "time_info": "[07时23分 ~ 07时24分]"
         },
         {
+          "title": "特朗普被爆私下密集谈论加拿大",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E7%88%86%E7%A7%81%E4%B8%8B%E5%AF%86%E9%9B%86%E8%B0%88%E8%AE%BA%E5%8A%A0%E6%8B%BF%E5%A4%A7%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
           "title": "英媒：印度央行提议金砖国家数字货币互联",
           "url": "https://wallstreetcn.com/livenews/3039947",
           "source": "华尔街见闻-快讯",
@@ -629,13 +722,24 @@
           "time_info": "07时24分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.33%，10年期主力合约涨0.07%，5年期主力合约涨0.06%，2年期主力合约涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3040108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "A股AI应用端早盘反弹，浙文互联一字涨停，天地在线2连板，流金科技、蓝色光标、巨人网络、天龙集团跟涨。",
           "url": "https://wallstreetcn.com/livenews/3040017",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -657,7 +761,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -668,9 +772,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "特朗普将于周三欧洲中部时间下午2:30在达沃斯论坛发表特别讲话。",
+          "url": "https://wallstreetcn.com/livenews/3040101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "上证指数开盘报4116.37点，涨0.06%。 深证成指开盘报14307.55点，涨0.09%。 创业板指开盘报3340.46点，涨0.09%。 沪深300开盘报4736.91点，涨0.05%。 科创50开盘报1508.37点，涨0.10%。 中证500开盘报8307.64点，涨0.24%。 中证1000开盘报8271.78点，涨0.07%。",
@@ -679,7 +794,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -701,9 +816,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "A股房地产板块盘中再度拉升，大悦城、我爱我家封涨停，此前城投控股涨停，招商蛇口、滨江集团、保利发展、中华企业集体大涨。",
+          "url": "https://wallstreetcn.com/livenews/3040098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "美联储1月维持利率不变的概率为95%",
@@ -745,7 +871,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -789,7 +915,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -811,7 +937,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -833,7 +959,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -855,7 +981,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -899,7 +1025,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -910,9 +1036,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "日经225指数早盘收盘跌1.2%报52931.11点。日本东证指数早盘收跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3040072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "分析师：若特朗普任命过于听话的美联储主席，债市将迅速惩罚美国",
@@ -951,18 +1088,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
           "url": "https://www.cls.cn/detail/2262848",
           "source": "财联社热门",
           "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 11时47分]"
+        },
+        {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
+          "time_info": "[11时46分 ~ 11时47分]"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
@@ -989,47 +1138,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时22分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 09时55分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 06时25分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
@@ -1066,12 +1176,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时25分]"
+        },
+        {
+          "title": "美元指数DXY跌破99，日内跌0.05%。",
+          "url": "https://flash.jin10.com/detail/20260120112111284800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "财晓得丨金价涨成这样，到什么位置了？",
@@ -1084,8 +1205,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时26分 ~ 09时55分]"
+          "appearance_count": 15,
+          "time_info": "[01时26分 ~ 11时47分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -1102,6 +1223,56 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 07时24分]"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）上海金早盘价为1045.19元/克，较国际金价(1043.73元/克)，高1.46元/克",
+          "url": "https://flash.jin10.com/detail/20260120110210284800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时22分]"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 11时47分]"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 06时25分]"
         }
       ]
     },
