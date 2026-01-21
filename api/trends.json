@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T13:31:54.981042+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-01-21T14:40:56.148228+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 185,
+      "match_count": 200,
       "titles": [
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 13时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 14时40分]"
         },
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 13时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 14时40分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 13时31分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时40分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
@@ -79,6 +79,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时57分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
+          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 14时40分]"
         },
         {
           "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
@@ -114,18 +126,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时39分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
-          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 13时31分]"
         },
         {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
@@ -179,6 +179,33 @@
           "time_info": "[00时39分 ~ 06时26分]"
         },
         {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2374735",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 14时40分]"
+        },
+        {
+          "title": "特朗普晒马克龙私信",
+          "url": "https://www.douyin.com/hot/2374658",
+          "source": "抖音",
+          "ranks": [
+            21,
+            24,
+            23,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 14时40分]"
+        },
+        {
           "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
           "url": "https://www.zhihu.com/question/1996539214104322510",
           "source": "知乎",
@@ -199,11 +226,38 @@
           "ranks": [
             23,
             11,
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 13时31分]"
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 14时40分]"
+        },
+        {
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时40分]"
+        },
+        {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 14时40分]"
         },
         {
           "title": "美国总统特朗普：（谈庇护城市）庇护城市将不再获得资金，他们可以起诉我们，也许他们会赢。",
@@ -228,19 +282,6 @@
           "time_info": "11时48分"
         },
         {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 13时31分]"
-        },
-        {
           "title": "美国总统特朗普：我本该获得诺贝尔和平奖。",
           "url": "https://flash.jin10.com/detail/20260121034837826800",
           "source": "金十数据",
@@ -263,6 +304,17 @@
           "time_info": "11时48分"
         },
         {
+          "title": "美国天然气期货大涨逾10%，至4.33美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260121142501421800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "WTI 2月原油期货收涨0.90美元，涨幅1.51%，报60.34美元/桶，逼近1月14日收盘位62.02美元。 NYMEX 2月天然气期货收报3.9070美元/百万英热单位。 NYMEX 2月汽油期货收报1.8238美元/加仑，NYMEX 2月取暖油期货收报2.3385美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3040655",
           "source": "华尔街见闻-快讯",
@@ -274,15 +326,15 @@
           "time_info": "04时14分"
         },
         {
-          "title": "印度Sensex指数下跌1%报81351.48点。印度Nifty指数下跌1%，报24,979.20点。",
-          "url": "https://wallstreetcn.com/livenews/3040976",
+          "title": "日经225指数收跌0.4%，报52774.64点。 日本东证指数收跌1%，报3589.70点。 韩国首尔综指收涨0.5%，报4909.93点。",
+          "url": "https://wallstreetcn.com/livenews/3041021",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "14时40分"
         },
         {
           "title": "特朗普重返白宫一周年，过半美国民众：表现失败",
@@ -368,9 +420,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "再创新高！沪金期货站上1100元整数关口",
+          "url": "https://flash.jin10.com/detail/20260121142404037800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "周三亚太盘初，美国三大股指期货涨超0.1%，小盘股指期货涨0.2%。",
@@ -395,27 +458,15 @@
           "time_info": "09时57分"
         },
         {
-          "title": "摩根资产管理中国：2026年A股机会将大于风险 关注消费电子等四大方向",
-          "url": "https://wallstreetcn.com/livenews/3040974",
+          "title": "美国天然气期货涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3041019",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 13时31分]"
+          "time_info": "14时40分"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉领导人相处融洽。",
@@ -479,21 +530,23 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
         {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2374735",
-          "source": "抖音",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260121000852080800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            24,
+            2,
+            29,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 14时40分]"
         },
         {
           "title": "达利欧：特朗普或引爆“资本战争” 海外资金正重估美元资产",
@@ -507,32 +560,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时47分 ~ 13时31分]"
-        },
-        {
-          "title": "特朗普晒马克龙私信",
-          "url": "https://www.douyin.com/hot/2374658",
-          "source": "抖音",
-          "ranks": [
-            21,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 13时31分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260121000852080800",
-          "source": "金十数据",
-          "ranks": [
-            24,
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 13时31分]"
         },
         {
           "title": "特朗普借他人之口自比巴菲特",
@@ -595,6 +622,18 @@
           "time_info": "[01时33分 ~ 02时41分]"
         },
         {
+          "title": "印度Sensex指数下跌1%报81351.48点。印度Nifty指数下跌1%，报24,979.20点。",
+          "url": "https://wallstreetcn.com/livenews/3040976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时40分]"
+        },
+        {
           "title": "美联储1月维持利率不变的概率为95%",
           "url": "https://flash.jin10.com/detail/20260121060639683800",
           "source": "金十数据",
@@ -655,6 +694,18 @@
           "time_info": "[01时33分 ~ 02时41分]"
         },
         {
+          "title": "摩根资产管理中国：2026年A股机会将大于风险 关注消费电子等四大方向",
+          "url": "https://wallstreetcn.com/livenews/3040974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时40分]"
+        },
+        {
           "title": "欧洲央行行长拉加德：（与美国总统特朗普紧密相关的）不确定性卷土重来。 特朗普的威胁是我们曾经观看过的电影。 （欧美之间的）信任正被破坏。",
           "url": "https://wallstreetcn.com/livenews/3040685",
           "source": "华尔街见闻-快讯",
@@ -679,6 +730,30 @@
           "time_info": "[06时26分 ~ 07时26分]"
         },
         {
+          "title": "特朗普发插旗图有何目的",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%8F%92%E6%97%97%E5%9B%BE%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 14时40分]"
+        },
+        {
+          "title": "极致贪婪时刻！美银基金经理调查：全球经济“不着陆”首次成共识，股票对冲比例降至八年最低",
+          "url": "https://wallstreetcn.com/articles/3763691",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 14时40分]"
+        },
+        {
           "title": "A股行情",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -692,29 +767,6 @@
           "time_info": "[00时39分 ~ 07时26分]"
         },
         {
-          "title": "特朗普发插旗图有何目的",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%8F%92%E6%97%97%E5%9B%BE%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 13时31分]"
-        },
-        {
-          "title": "极致贪婪时刻！美银基金经理调查：全球经济“不着陆”首次成共识，股票对冲比例降至八年最低",
-          "url": "https://wallstreetcn.com/articles/3763691",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 13时31分]"
-        },
-        {
           "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
           "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
           "source": "澎湃新闻",
@@ -722,8 +774,20 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 14时40分]"
+        },
+        {
+          "title": "暗示动武？特朗普：若关税工具受限 可采用其他手段夺取格陵兰岛！",
+          "url": "https://www.cls.cn/detail/2264363",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时47分 ~ 13时31分]"
+          "time_info": "[11时47分 ~ 14时40分]"
         },
         {
           "title": "特朗普和马克龙吵翻",
@@ -881,17 +945,6 @@
           "time_info": "[05时24分 ~ 06时26分]"
         },
         {
-          "title": "暗示动武？特朗普：若关税工具受限 可采用其他手段夺取格陵兰岛！",
-          "url": "https://www.cls.cn/detail/2264363",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
-        },
-        {
           "title": "俄罗斯12月卢布有效汇率环比上2.1%。",
           "url": "https://wallstreetcn.com/livenews/3040621",
           "source": "华尔街见闻-快讯",
@@ -973,6 +1026,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "以色列总理办公室：总理内塔尼亚胡已接受邀请，将加入特朗普的和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260121141939966800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "特朗普证实2027年国防预算增至1.5万亿美元的计划",
           "url": "https://flash.jin10.com/detail/20260121064647036800",
           "source": "金十数据",
@@ -1012,7 +1076,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1100,7 +1164,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1136,6 +1200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "一场A股大V的“清朗行动”！雪球、蚂蚁、抖音、腾讯都在行动",
+          "url": "https://www.cls.cn/detail/2264754",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "金十图示：2026年01月21日（周三）全球股市指数-欧洲市场（收盘）",
@@ -1199,9 +1274,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "空军一号因电路故障返航 导致特朗普的达沃斯之行延迟",
+          "url": "https://wallstreetcn.com/livenews/3041004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "立陶宛总统：希望在达沃斯听到美国总统特朗普就缓和格陵兰岛问题传来的令人鼓舞的消息。",
@@ -1556,6 +1642,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "美国天然气期货日内暴涨9.00%，现报4.259美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260121140507362800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "恒指低开0.34%，报26397.04点；恒生科技指数跌0.70%。哔哩哔哩跌2.9%，商汤跌2.1%，小鹏汽车、快手、网易等跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3040787",
           "source": "华尔街见闻-快讯",
@@ -1578,6 +1675,17 @@
           "time_info": "11时48分"
         },
         {
+          "title": "A股CPO概念股持续走高，致尚科技20CM涨停，联特科技、罗博特科、科翔股份、思瑞浦均涨超10%，兴森科技、通富微电等此前涨停，快克智能、本川智能、南亚新材等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3040991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "美国总统特朗普：我不知道最高法院会在关税问题上做出什么裁决。",
           "url": "https://flash.jin10.com/detail/20260121030957820800",
           "source": "金十数据",
@@ -1598,6 +1706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "欧盟官员：欧盟不应在对特朗普采取报复措施方面有所保留",
+          "url": "https://flash.jin10.com/detail/20260121140459089800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "美国财长暗示特朗普对国防企业的潜在限制未来可能放宽",
@@ -1710,13 +1829,24 @@
           "time_info": "05时24分"
         },
         {
+          "title": "台湾证交所加权股价指数收跌1.6%报31,246.37点。",
+          "url": "https://wallstreetcn.com/livenews/3040986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
           "url": "https://www.zhihu.com/question/1996540321803301777",
           "source": "知乎",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1738,9 +1868,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "日本最大工会组织敦促日本政府稳定汇率",
+          "url": "https://flash.jin10.com/detail/20260121140021679800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "泰国股指SET指数日内涨1%。",
@@ -1864,6 +2005,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "中国30年期国债期货主力合约日内涨幅达0.60%，现报112.08元。",
+          "url": "https://wallstreetcn.com/livenews/3040981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "市场消息：特朗普将参加下午1点（北京时间凌晨2点）的白宫新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260121011502558800",
           "source": "金十数据",
@@ -1903,7 +2055,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -2040,6 +2192,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "据国际文传电讯社：阿塞拜疆同意加入美国总统特朗普的和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260121134843317800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "希腊雅典证交所综合指数收跌1.76%，报2216.59点，全天持续走低，脱离2010年1月份以来最高位。",
           "url": "https://wallstreetcn.com/livenews/3040565",
           "source": "华尔街见闻-快讯",
@@ -2095,6 +2258,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "美国天然气期货日内大涨6.00%，现报4.142美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260121134437158800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "富时中国A50指数期货盘初跌0.22%，上一个交易日夜盘收跌0.27%。",
           "url": "https://wallstreetcn.com/livenews/3040770",
           "source": "华尔街见闻-快讯",
@@ -2112,17 +2286,6 @@
       "match_count": 17,
       "titles": [
         {
-          "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
-          "url": "https://wallstreetcn.com/articles/3763668",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时26分]"
-        },
-        {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
           "url": "https://wallstreetcn.com/articles/3763668",
           "source": "华尔街见闻",
@@ -2130,8 +2293,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 13时31分]"
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 14时40分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -2143,8 +2306,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 14时40分]"
+        },
+        {
+          "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
+          "url": "https://wallstreetcn.com/articles/3763668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时25分 ~ 13时31分]"
+          "time_info": "[00时39分 ~ 06时26分]"
         },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -2161,6 +2335,18 @@
           "time_info": "[00时39分 ~ 11时48分]"
         },
         {
+          "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
+          "url": "https://www.cls.cn/detail/2264320",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时40分]"
+        },
+        {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -2170,18 +2356,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时39分 ~ 05时24分]"
-        },
-        {
-          "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
-          "url": "https://www.cls.cn/detail/2264320",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 13时31分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
@@ -2201,11 +2375,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 14时40分]"
         },
         {
           "title": "纽约期银涨6.7%，美股盘前刷新历史高位，逼近96美元",
@@ -2370,7 +2545,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -2433,7 +2608,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "格陵兰岛争端为啥会推高金价",
@@ -2468,8 +2643,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 13时31分]"
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 14时40分]"
         },
         {
           "title": "如何看待深圳水贝市场开始炒 999.9 铜条？为什么金价一涨，其他贵金属都跟着受追捧？",
@@ -2477,11 +2652,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 13时31分]"
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 14时40分]"
         },
         {
           "title": "机构称金价上半年或冲击5000美元",
@@ -2515,6 +2691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "金店店员对金价飙涨已麻木",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BA%97%E5%BA%97%E5%91%98%E5%AF%B9%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E5%B7%B2%E9%BA%BB%E6%9C%A8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         }
       ]
     },
@@ -2522,6 +2709,21 @@
       "keyword_group": "美债",
       "match_count": 6,
       "titles": [
+        {
+          "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
+          "url": "https://wallstreetcn.com/articles/3763734",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时26分 ~ 14时40分]"
+        },
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
           "url": "https://wallstreetcn.com/articles/3763688",
@@ -2531,11 +2733,12 @@
             9,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 13时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 14时40分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -2549,20 +2752,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时39分 ~ 13时31分]"
-        },
-        {
-          "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
-          "url": "https://wallstreetcn.com/articles/3763734",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时26分 ~ 13时31分]"
         },
         {
           "title": "市场分析：投资者正在抛售美元、美债 转而买入黄金",
@@ -2649,11 +2838,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 13时31分]"
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 14时40分]"
         }
       ]
     },
