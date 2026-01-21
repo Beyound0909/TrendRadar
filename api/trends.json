@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T15:32:08.833493+08:00",
-  "total_titles_processed": 1386,
+  "generated_at": "2026-01-21T16:36:14.404413+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 222,
+      "match_count": 230,
       "titles": [
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时39分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普和马克龙，直接开干了",
+          "url": "https://news.ifeng.com/c/8q5SVoWM0NJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时57分 ~ 16时36分]"
         },
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -44,16 +56,17 @@
           "time_info": "[00时39分 ~ 15时32分]"
         },
         {
-          "title": "特朗普和马克龙，直接开干了",
-          "url": "https://news.ifeng.com/c/8q5SVoWM0NJ",
+          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
+          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            2,
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时57分 ~ 15时32分]"
+          "appearance_count": 10,
+          "time_info": "[11时47分 ~ 16时36分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -69,18 +82,6 @@
           "time_info": "[00时39分 ~ 07时26分]"
         },
         {
-          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
-          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时47分 ~ 15时32分]"
-        },
-        {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
           "url": "https://news.ifeng.com/c/8q5TLuwIzXC",
           "source": "凤凰网",
@@ -91,6 +92,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时57分 ~ 13时31分]"
+        },
+        {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时47分 ~ 16时36分]"
         },
         {
           "title": "A股",
@@ -116,6 +130,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时57分 ~ 13时31分]"
+        },
+        {
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            15,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时57分 ~ 16时36分]"
         },
         {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
@@ -153,20 +182,6 @@
           "time_info": "[09时57分 ~ 12时48分]"
         },
         {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时57分 ~ 15时32分]"
-        },
-        {
           "title": "马克龙在达沃斯喊话特朗普",
           "url": "https://www.douyin.com/hot/2374693",
           "source": "抖音",
@@ -182,19 +197,6 @@
           "time_info": "[11时47分 ~ 15时32分]"
         },
         {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时47分 ~ 15时32分]"
-        },
-        {
           "title": "【每日收评】市场热点高低切轮动，化工股逆势爆发，商业航天概念再遭重创",
           "url": "https://www.cls.cn/detail/2263606",
           "source": "财联社热门",
@@ -204,6 +206,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时39分 ~ 06时26分]"
+        },
+        {
+          "title": "一场A股大V的“清朗行动”！雪球、蚂蚁、抖音、腾讯都在行动",
+          "url": "https://www.cls.cn/detail/2264754",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时40分 ~ 16时36分]"
         },
         {
           "title": "特朗普公开马克龙给他的私信",
@@ -233,6 +248,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时39分 ~ 06时26分]"
+        },
+        {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时47分 ~ 16时36分]"
         },
         {
           "title": "特朗普晒马克龙私信",
@@ -285,16 +313,15 @@
           "time_info": "11时48分"
         },
         {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
+          "title": "极致贪婪时刻！美银基金经理调查：全球经济“不着陆”首次成共识，股票对冲比例降至八年最低",
+          "url": "https://wallstreetcn.com/articles/3763691",
+          "source": "华尔街见闻",
           "ranks": [
-            20,
-            19
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时47分 ~ 15时32分]"
+          "time_info": "[07时25分 ~ 16时36分]"
         },
         {
           "title": "美国总统特朗普：我本该获得诺贝尔和平奖。",
@@ -413,7 +440,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -468,7 +495,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -570,18 +597,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
-        },
-        {
-          "title": "一场A股大V的“清朗行动”！雪球、蚂蚁、抖音、腾讯都在行动",
-          "url": "https://www.cls.cn/detail/2264754",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 15时32分]"
         },
         {
           "title": "期货热点追踪",
@@ -805,17 +820,6 @@
           "time_info": "[12时47分 ~ 14时40分]"
         },
         {
-          "title": "极致贪婪时刻！美银基金经理调查：全球经济“不着陆”首次成共识，股票对冲比例降至八年最低",
-          "url": "https://wallstreetcn.com/articles/3763691",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 14时40分]"
-        },
-        {
           "title": "A股行情",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -827,6 +831,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时39分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 16时36分]"
         },
         {
           "title": "特朗普和马克龙吵翻",
@@ -886,6 +901,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时48分 ~ 12时48分]"
+        },
+        {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
         },
         {
           "title": "欧洲STOXX 600指数初步收跌0.72%，连续第二个交易日大幅下挫，报602.70点。 欧元区STOXX 50指数初步收跌0.52%，报5895.16点。 富时泛欧绩优300指数初步收跌0.70%，报2403.59点。",
@@ -1093,7 +1119,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1129,6 +1155,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "西门子能源董事长：如果美国最高法院推翻特朗普的部分关税，我很可能会鼓励管理层申请退税。",
+          "url": "https://flash.jin10.com/detail/20260121161610375800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "A股商业航天概念局部异动，巨力索具直线涨停，太力科技、电科芯片、航天电子、苏试试验、海兰信等涨超5%。",
@@ -1170,7 +1207,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1192,7 +1229,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1258,7 +1295,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1302,7 +1339,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1511,9 +1548,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "西门子能源董事长：公司首席执行官将于今天晚些时候出席美国总统特朗普与高管的会议。",
+          "url": "https://flash.jin10.com/detail/20260121161147233800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "纳斯达克综合指数日内跌幅达2.0%，报23045.29点。",
@@ -1544,7 +1592,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1588,9 +1636,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260121161135876800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "上证指数开盘报4103.53点，跌0.25%。 深证成指开盘报14102.21点，跌0.38%。 创业板指开盘报3270.13点，跌0.24%。 沪深300开盘报4714.55点，跌0.09%。 科创50开盘报1482.66点，跌0.02%。 中证500开盘报8196.56点，跌0.62%。 中证1000开盘报8138.68点，跌0.54%。",
@@ -1648,6 +1707,17 @@
           "time_info": "12时48分"
         },
         {
+          "title": "欧洲斯托克600指数矿业板块盘初上涨1%。",
+          "url": "https://flash.jin10.com/detail/20260121161114647800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "纳斯达克100指数跌幅扩大至1.8%，刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3040639",
           "source": "华尔街见闻-快讯",
@@ -1676,9 +1746,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "恒生指数收盘涨0.37%，黄金股涨幅居前",
+          "url": "https://wallstreetcn.com/livenews/3041108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "美国总统特朗普：如果一个国家不接受人们返回家园，那它就有问题。",
@@ -1830,7 +1911,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1874,9 +1955,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "金十整理：新任美联储主席人选最早下周公布？降息共识下，四大候选人其他观点分歧仍存",
+          "url": "https://flash.jin10.com/detail/20260121160839432800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "美国财长暗示特朗普对国防企业的潜在限制未来可能放宽",
@@ -1896,7 +1988,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1940,7 +2032,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -2006,7 +2098,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -2039,20 +2131,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "15时32分"
         },
         {
           "title": "美国总统特朗普：“收回”巴拿马运河在考虑范围内。",
@@ -2149,7 +2230,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -2193,9 +2274,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "欧洲斯托克50指数开盘跌0.1%，德国DAX指数跌0.1%，英国富时100指数跌0.1%，法国CAC 40指数涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3041098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "美国总统特朗普：我认为在格陵兰问题上将出现对各方都有利的进展。",
@@ -2347,7 +2439,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -2468,7 +2560,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -2531,7 +2623,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -2541,8 +2633,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时25分 ~ 15时32分]"
+          "appearance_count": 13,
+          "time_info": "[07时25分 ~ 16时36分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -2613,11 +2705,12 @@
             11,
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时47分 ~ 15时32分]"
+          "appearance_count": 8,
+          "time_info": "[12时47分 ~ 16时36分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
@@ -2703,6 +2796,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "拼多多美股夜盘一度涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3041116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "美股收盘：三大股指大跌 英伟达跌超4%",
           "url": "https://flash.jin10.com/detail/20260121050048735800",
           "source": "金十数据",
@@ -2734,6 +2838,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "拼多多美股夜盘涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3041102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     },
@@ -2913,11 +3028,12 @@
           "url": "https://www.zhihu.com/question/1997239169450260384",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 16时36分]"
         },
         {
           "title": "机构称金价上半年或冲击5000美元",
@@ -2948,7 +3064,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -2981,6 +3097,23 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
+          "url": "https://wallstreetcn.com/articles/3763688",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 16时36分]"
+        },
+        {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
           "url": "https://wallstreetcn.com/articles/3763734",
           "source": "华尔街见闻",
@@ -2992,24 +3125,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时26分 ~ 15时32分]"
-        },
-        {
-          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
-          "url": "https://wallstreetcn.com/articles/3763688",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时39分 ~ 15时32分]"
+          "appearance_count": 14,
+          "time_info": "[06时26分 ~ 16时36分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -3114,8 +3231,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时47分 ~ 15时32分]"
+          "appearance_count": 10,
+          "time_info": "[11时47分 ~ 16时36分]"
         }
       ]
     },
