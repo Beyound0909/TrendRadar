@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T20:55:49.336908+08:00",
-  "total_titles_processed": 1905,
+  "generated_at": "2026-01-21T21:50:13.777853+08:00",
+  "total_titles_processed": 1999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 272,
+      "match_count": 292,
       "titles": [
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -82,6 +82,21 @@
           "time_info": "[00时39分 ~ 07时26分]"
         },
         {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时35分 ~ 21时50分]"
+        },
+        {
           "title": "一场A股大V的“清朗行动”！雪球、蚂蚁、抖音、腾讯都在行动",
           "url": "https://www.cls.cn/detail/2264754",
           "source": "财联社热门",
@@ -96,6 +111,18 @@
           "time_info": "[14时40分 ~ 19时27分]"
         },
         {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时35分 ~ 21时50分]"
+        },
+        {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
           "url": "https://news.ifeng.com/c/8q5TLuwIzXC",
           "source": "凤凰网",
@@ -108,21 +135,6 @@
           "time_info": "[09时57分 ~ 13时31分]"
         },
         {
-          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
-          "url": "https://www.cls.cn/detail/2264936",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 20时55分]"
-        },
-        {
           "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
           "url": "https://wallstreetcn.com/articles/3763739",
           "source": "华尔街见闻",
@@ -132,8 +144,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时47分 ~ 20时55分]"
+          "appearance_count": 17,
+          "time_info": "[11时47分 ~ 21时50分]"
         },
         {
           "title": "A股",
@@ -227,18 +239,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时57分 ~ 12时48分]"
-        },
-        {
-          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
-          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 20时55分]"
         },
         {
           "title": "马克龙在达沃斯喊话特朗普",
@@ -394,6 +394,17 @@
           "time_info": "17时36分"
         },
         {
+          "title": "特朗普：在达沃斯向朋友“以及少数敌人”发表讲话。 美国通胀已被战胜。 核心通胀率为1.5%，第四季度增长率预计为5.4%。 美国经济增长有望达到国际货币基金组织预测速度的两倍。 相信我的政策能够带来更高的经济增长。 旨在提高民众生活水平。 欧洲没有朝着正确的方向发展。 批评欧洲对绿色能源及移民问题的重视程度。 欧洲的一些地方已经变得面目全非，不再像以前那样了。",
+          "url": "https://wallstreetcn.com/livenews/3041316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "美国总统特朗普：我本该获得诺贝尔和平奖。",
           "url": "https://flash.jin10.com/detail/20260121034837826800",
           "source": "金十数据",
@@ -447,6 +458,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "不同于特朗普的直言不讳 摩根大通CEO戴蒙称批评欧洲时他会“更委婉”",
+          "url": "https://wallstreetcn.com/livenews/3041315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "特朗普刚喊完中俄威胁，转头就否了",
+          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时33分 ~ 21时50分]"
         },
         {
           "title": "特朗普重返白宫一周年，过半美国民众：表现失败",
@@ -526,6 +559,17 @@
           "time_info": "15时32分"
         },
         {
+          "title": "加拿大12月工业品价格指数环比 -0.6%，预期 0.3%，前值 0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3041314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "美国总统特朗普：我们占领了墨西哥湾，现在它成了美国湾。我们拥有92%的海岸线。这事儿一直让我耿耿于怀……我本来想把它叫做“特朗普湾”。我开玩笑的。不过这名字听起来确实不错。",
           "url": "https://flash.jin10.com/detail/20260121033913590800",
           "source": "金十数据",
@@ -581,6 +625,17 @@
           "time_info": "15时32分"
         },
         {
+          "title": "加拿大12月原材料价格指数年率 6.4%，前值6.4%。",
+          "url": "https://flash.jin10.com/detail/20260121213011648800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "周三亚太盘初，美国三大股指期货涨超0.1%，小盘股指期货涨0.2%。",
           "url": "https://wallstreetcn.com/livenews/3040718",
           "source": "华尔街见闻-快讯",
@@ -625,15 +680,15 @@
           "time_info": "19时27分"
         },
         {
-          "title": "特朗普在达沃斯与欧洲领导人有大约5场双边会谈。 特朗普的达沃斯演讲将涉及委内瑞拉和格陵兰。",
-          "url": "https://wallstreetcn.com/livenews/3041291",
+          "title": "加拿大12月原材料价格指数环比 0.5%，预期 -0.6%，前值 0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3041313",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时55分"
+          "time_info": "21时50分"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉领导人相处融洽。",
@@ -678,6 +733,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "加拿大12月原材料价格指数月率 0.5%，预期-0.6%，前值0.30%。",
+          "url": "https://flash.jin10.com/detail/20260121213011621800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "美国总统特朗普：美国下一年不会有贸易赤字/贸易逆差。",
@@ -898,6 +964,18 @@
           "time_info": "[13时31分 ~ 14时40分]"
         },
         {
+          "title": "特朗普在达沃斯与欧洲领导人有大约5场双边会谈。 特朗普的达沃斯演讲将涉及委内瑞拉和格陵兰。",
+          "url": "https://wallstreetcn.com/livenews/3041291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时50分]"
+        },
+        {
           "title": "欧洲央行行长拉加德：（与美国总统特朗普紧密相关的）不确定性卷土重来。 特朗普的威胁是我们曾经观看过的电影。 （欧美之间的）信任正被破坏。",
           "url": "https://wallstreetcn.com/livenews/3040685",
           "source": "华尔街见闻-快讯",
@@ -946,17 +1024,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时39分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普刚喊完中俄威胁，转头就否了",
-          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时33分 ~ 20时55分]"
         },
         {
           "title": "以色列罕见与特朗普公开叫板",
@@ -1028,6 +1095,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时48分 ~ 12时48分]"
+        },
+        {
+          "title": "美国官员：特朗普在达沃斯期间不会宣布美联储主席人选。 特朗普尚未决定美联储主席人选。",
+          "url": "https://wallstreetcn.com/livenews/3041289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时50分]"
         },
         {
           "title": "欧洲STOXX 600指数初步收跌0.72%，连续第二个交易日大幅下挫，报602.70点。 欧元区STOXX 50指数初步收跌0.52%，报5895.16点。 富时泛欧绩优300指数初步收跌0.70%，报2403.59点。",
@@ -1102,6 +1181,17 @@
           "time_info": "[17时36分 ~ 18时33分]"
         },
         {
+          "title": "欧盟首次回应特朗普关税威胁：欧洲议会冻结美欧贸易协议批准程序",
+          "url": "https://wallstreetcn.com/articles/3763744",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 21时50分]"
+        },
+        {
           "title": "特朗普：不排除以武力夺取格陵兰岛可能性",
           "url": "https://wallstreetcn.com/livenews/3040625",
           "source": "华尔街见闻-快讯",
@@ -1138,6 +1228,30 @@
           "time_info": "[05时24分 ~ 06时26分]"
         },
         {
+          "title": "英国首相斯塔默：英国不会屈服于围绕格陵兰未来所发出的关税威胁。 特朗普周一关于查戈斯群岛的言论与之前不同。 特朗普希望我改变自己的立场，但我不会这么做。 撕毁与美国的关系是愚蠢的。",
+          "url": "https://wallstreetcn.com/livenews/3041284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时50分]"
+        },
+        {
+          "title": "特朗普对美联储的影响力究竟多大 美国最高法院库克听证会将是试金石",
+          "url": "https://wallstreetcn.com/livenews/3041283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时50分]"
+        },
+        {
           "title": "【午报】三大指数集体反弹，半导体产业链全线爆发，贵金属延续强势",
           "url": "https://www.cls.cn/detail/2264674",
           "source": "财联社热门",
@@ -1147,6 +1261,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时35分 ~ 17时36分]"
+        },
+        {
+          "title": "美国1月16日当周MBA抵押贷款申请活动指数周环比 14.1%，前值 28.5%。",
+          "url": "https://wallstreetcn.com/livenews/3041282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时50分]"
         },
         {
           "title": "俄罗斯12月卢布有效汇率环比上2.1%。",
@@ -1252,6 +1378,17 @@
           "time_info": "14时40分"
         },
         {
+          "title": "加拿大12月工业品物价指数年率 4.9%，预期5.8%，前值6.1%。",
+          "url": "https://flash.jin10.com/detail/20260121213009324800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "国债期货收盘，30年期主力合约涨0.75%，10年期主力合约涨0.03%，5年期主力合约涨0.01%，2年期主力合约跌0.01%。",
           "url": "https://wallstreetcn.com/livenews/3041062",
           "source": "华尔街见闻-快讯",
@@ -1263,24 +1400,13 @@
           "time_info": "15时32分"
         },
         {
-          "title": "美国官员：特朗普在达沃斯期间不会宣布美联储主席人选。 特朗普尚未决定美联储主席人选。",
-          "url": "https://wallstreetcn.com/livenews/3041289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
           "title": "尾盘异动 A股三大信号“闪现”",
           "url": "https://www.toutiao.com/trending/7597341153704591398/",
           "source": "今日头条",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1346,9 +1472,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
+        },
+        {
+          "title": "加拿大12月工业品物价指数月率 -0.6%，预期0.3%，前值0.90%。",
+          "url": "https://flash.jin10.com/detail/20260121213009299800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "A股商业航天概念局部异动，巨力索具直线涨停，太力科技、电科芯片、航天电子、苏试试验、海兰信等涨超5%。",
@@ -1368,7 +1505,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1379,7 +1516,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1415,6 +1552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "西班牙IBEX35指数日内跌幅达1.00%。",
+          "url": "https://flash.jin10.com/detail/20260121212639070800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "A股贵金属板块开盘领涨，湖南白银逼近涨停，晓程科技、山东黄金涨超5%，赤峰黄金、山金国际、西部黄金、招金黄金等跟涨。",
@@ -1555,7 +1703,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1566,7 +1714,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1659,6 +1807,17 @@
           "time_info": "18时33分"
         },
         {
+          "title": "特朗普抵达达沃斯。",
+          "url": "https://wallstreetcn.com/livenews/3041305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "罕见期货公司收购券商，布的什么局？聚焦五个疑问点",
           "url": "https://www.cls.cn/detail/2264755",
           "source": "财联社热门",
@@ -1709,7 +1868,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1747,15 +1906,15 @@
           "time_info": "09时57分"
         },
         {
-          "title": "英国首相斯塔默：英国不会屈服于围绕格陵兰未来所发出的关税威胁。 特朗普周一关于查戈斯群岛的言论与之前不同。 特朗普希望我改变自己的立场，但我不会这么做。 撕毁与美国的关系是愚蠢的。",
-          "url": "https://wallstreetcn.com/livenews/3041284",
+          "title": "美国购房申请指数攀升至2023年以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/3041304",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时55分"
+          "time_info": "21时50分"
         },
         {
           "title": "特朗普：没有任何人为北约做的贡献能超过我",
@@ -1841,7 +2000,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1879,15 +2038,15 @@
           "time_info": "15时32分"
         },
         {
-          "title": "特朗普对美联储的影响力究竟多大 美国最高法院库克听证会将是试金石",
-          "url": "https://wallstreetcn.com/livenews/3041283",
+          "title": "波罗的海干散货指数涨4.28%，至1803点，为连续第四个交易日上涨。",
+          "url": "https://wallstreetcn.com/livenews/3041303",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时55分"
+          "time_info": "21时50分"
         },
         {
           "title": "特朗普：我们国家如今面临的所有犯罪问题，都是“昏睡乔（美国前总统拜登）”和围在白宫椭圆形办公室决策桌旁的激进左翼暴徒一手造成的——当然，还包括对自动签字笔（Auto Pen）的非法使用！！！他们都该进监狱！",
@@ -1978,15 +2137,15 @@
           "time_info": "11时48分"
         },
         {
-          "title": "美国1月16日当周MBA抵押贷款申请活动指数周环比 14.1%，前值 28.5%。",
-          "url": "https://wallstreetcn.com/livenews/3041282",
+          "title": "夜盘期货开盘，沪锡涨逾3%，沪镍、沪金、燃油、低硫燃油、焦煤涨逾1%；烧碱、玻璃、白糖等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3041302",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时55分"
+          "time_info": "21时50分"
         },
         {
           "title": "美国总统特朗普：美国贸易逆差下降77%。",
@@ -2149,7 +2308,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -2196,6 +2355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
+        },
+        {
+          "title": "美国总统特朗普将于十分钟后在世界经济论坛年会就“我们如何在竞争加剧的世界中开展合作？”发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260121212000002800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "天华新能：筹划发行H股股票并在香港联合交易所有限公司上市。",
@@ -2380,7 +2550,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -2583,6 +2753,17 @@
           "time_info": "14时40分"
         },
         {
+          "title": "美国贸易代表格里尔：如果最高法院裁定反对美国总统特朗普的关税，将带来巨大问题。",
+          "url": "https://flash.jin10.com/detail/20260121211126379800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "泰国股指SET指数日内涨1%。",
           "url": "https://wallstreetcn.com/livenews/3040897",
           "source": "华尔街见闻-快讯",
@@ -2633,7 +2814,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -2726,6 +2907,17 @@
           "time_info": "16时36分"
         },
         {
+          "title": "摩根大通CEO戴蒙：若按特朗普想法设定信用卡利率上限 将带来经济灾难",
+          "url": "https://wallstreetcn.com/livenews/3041288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "美国总统特朗普：我认为在格陵兰问题上将出现对各方都有利的进展。",
           "url": "https://flash.jin10.com/detail/20260121043036957800",
           "source": "金十数据",
@@ -2735,6 +2927,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260121210526059800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "欧盟首次回应特朗普：欧洲议会冻结美欧贸易协议批准程序",
@@ -2776,7 +2979,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -2908,7 +3111,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -2930,7 +3133,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -2944,6 +3147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约涨多跌少，沪锡涨超3%，不锈钢（SS）、合成橡胶、沪镍涨近2%，沪金、燃油、焦煤涨超1%。跌幅方面，烧碱、玻璃跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260121210004206800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "美国总统特朗普谈“和平委员会”是否会取代联合国，声称：有可能。 我认为，你必须让联合国继续。",
@@ -2974,7 +3188,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -3010,6 +3224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "波罗的海干散货指数涨4.28%，至1803点。",
+          "url": "https://flash.jin10.com/detail/20260121205936646800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "希腊雅典证交所综合指数收跌1.76%，报2216.59点，全天持续走低，脱离2010年1月份以来最高位。",
@@ -3113,8 +3338,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时25分 ~ 20时55分]"
+          "appearance_count": 20,
+          "time_info": "[07时25分 ~ 21时50分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -3193,15 +3418,18 @@
           "time_info": "[12时47分 ~ 16时36分]"
         },
         {
-          "title": "嘉信理财四季度净收入63.4亿美元，预估63.7亿美元。 四季度经调整后每股收益1.39美元，预估1.39美元。 第四财季净新增资产总额1582亿美元，预期1440.4亿美元。 嘉信理财美股盘前跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3041290",
-          "source": "华尔街见闻-快讯",
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            9,
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时33分 ~ 21时50分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
@@ -3216,17 +3444,16 @@
           "time_info": "[06时26分 ~ 07时26分]"
         },
         {
-          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
+          "title": "嘉信理财四季度净收入63.4亿美元，预估63.7亿美元。 四季度经调整后每股收益1.39美元，预估1.39美元。 第四财季净新增资产总额1582亿美元，预期1440.4亿美元。 嘉信理财美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3041290",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            6
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时33分 ~ 20时55分]"
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时50分]"
         },
         {
           "title": "纽约期银涨6.7%，美股盘前刷新历史高位，逼近96美元",
@@ -3287,6 +3514,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时26分]"
+        },
+        {
+          "title": "奈飞美股盘前跌幅扩大至7.1%。",
+          "url": "https://wallstreetcn.com/livenews/3041281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时50分]"
         },
         {
           "title": "拼多多美股盘前涨超7%。",
@@ -3356,17 +3595,6 @@
           "time_info": "02时41分"
         },
         {
-          "title": "奈飞美股盘前跌幅扩大至7.1%。",
-          "url": "https://wallstreetcn.com/livenews/3041281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
           "title": "美股存储板块盘前普涨，闪迪(SNDK.O)涨超3%，西部数据(WDC.O)、美光科技(MU.O)涨超2%。",
           "url": "https://flash.jin10.com/detail/20260121171634449800",
           "source": "金十数据",
@@ -3395,7 +3623,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         }
@@ -3403,7 +3631,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
@@ -3472,6 +3700,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "OpenAI CFO：星际之门（Stargate）园区建设进度已过半。",
+          "url": "https://wallstreetcn.com/livenews/3041298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
@@ -3558,6 +3797,20 @@
           "time_info": "[00时39分 ~ 09时57分]"
         },
         {
+          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
+          "url": "https://www.zhihu.com/question/1997239169450260384",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时31分 ~ 21时50分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -3569,20 +3822,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时39分 ~ 09时57分]"
-        },
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时31分 ~ 20时55分]"
         },
         {
           "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
@@ -3678,7 +3917,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
@@ -3694,8 +3933,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时39分 ~ 20时55分]"
+          "appearance_count": 28,
+          "time_info": "[00时39分 ~ 21时50分]"
         },
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
@@ -3749,6 +3988,17 @@
           "time_info": "11时48分"
         },
         {
+          "title": "摩根大通美债客户多头占比升至一个月新高",
+          "url": "https://wallstreetcn.com/livenews/3041299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "30年期美债收益率涨超7.9个基点",
           "url": "https://wallstreetcn.com/livenews/3040666",
           "source": "华尔街见闻-快讯",
@@ -3777,7 +4027,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         }
@@ -3837,11 +4087,12 @@
             9,
             8,
             14,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时47分 ~ 20时55分]"
+          "appearance_count": 17,
+          "time_info": "[11时47分 ~ 21时50分]"
         }
       ]
     },
