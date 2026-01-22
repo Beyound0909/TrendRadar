@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T22:33:56.759977+08:00",
-  "total_titles_processed": 2019,
+  "generated_at": "2026-01-22T23:34:30.229200+08:00",
+  "total_titles_processed": 2113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 332,
+      "match_count": 357,
       "titles": [
         {
           "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时57分 ~ 16时36分]"
+        },
+        {
+          "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
+          "url": "https://news.ifeng.com/c/8q7kEg1He8Y",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时36分 ~ 23时34分]"
         },
         {
           "title": "特朗普演绎“TACO星期三”！美国市场“雷阵雨转晴” 华尔街如何看？",
@@ -100,19 +111,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时57分 ~ 22时33分]"
-        },
-        {
-          "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
-          "url": "https://news.ifeng.com/c/8q7kEg1He8Y",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时36分 ~ 22时33分]"
+          "appearance_count": 18,
+          "time_info": "[09时57分 ~ 23时34分]"
         },
         {
           "title": "特朗普取消对欧洲8国加征关税：已与北约就格陵兰达成“框架性协议”",
@@ -163,8 +163,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时31分 ~ 22时33分]"
+          "appearance_count": 14,
+          "time_info": "[13时31分 ~ 23时34分]"
         },
         {
           "title": "特朗普讽刺欧洲，瑞典首相站出来了",
@@ -176,6 +176,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时39分 ~ 19时25分]"
+        },
+        {
+          "title": "“十五五”新开局，如何实施好适度宽松的货币政策？潘功胜发声",
+          "url": "https://www.cls.cn/detail/2266623",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时31分 ~ 23时34分]"
         },
         {
           "title": "特朗普刚喊完中俄威胁，转头就否了",
@@ -199,21 +212,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时29分 ~ 22时33分]"
-        },
-        {
-          "title": "“十五五”新开局，如何实施好适度宽松的货币政策？潘功胜发声",
-          "url": "https://www.cls.cn/detail/2266623",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时33分]"
+          "appearance_count": 19,
+          "time_info": "[07时29分 ~ 23时34分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -227,8 +227,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时57分 ~ 22时33分]"
+          "appearance_count": 18,
+          "time_info": "[09时57分 ~ 23时34分]"
         },
         {
           "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
@@ -300,6 +300,19 @@
           "time_info": "[11时53分 ~ 19时25分]"
         },
         {
+          "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
+          "url": "https://news.ifeng.com/c/8q7huMODUfi",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时36分 ~ 23时34分]"
+        },
+        {
           "title": "中方回应特朗普称联合国或被取代",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%81%94%E5%90%88%E5%9B%BD%E6%88%96%E8%A2%AB%E5%8F%96%E4%BB%A3%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -314,17 +327,15 @@
           "time_info": "[00时54分 ~ 07时29分]"
         },
         {
-          "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
-          "url": "https://news.ifeng.com/c/8q7huMODUfi",
+          "title": "特朗普达沃斯演讲，被群嘲了",
+          "url": "https://news.ifeng.com/c/8q7oOaAst69",
           "source": "凤凰网",
           "ranks": [
-            6,
-            7,
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[17时36分 ~ 22时33分]"
+          "time_info": "[18时31分 ~ 23时34分]"
         },
         {
           "title": "特朗普对贸易战“踩刹车” 马斯克据悉希望在7月前让SpaceX上市 | 环球市场",
@@ -341,15 +352,20 @@
           "time_info": "[09时57分 ~ 15时31分]"
         },
         {
-          "title": "特朗普达沃斯演讲，被群嘲了",
-          "url": "https://news.ifeng.com/c/8q7oOaAst69",
-          "source": "凤凰网",
+          "title": "中方回应特朗普达沃斯涉华言论",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA",
+          "source": "百度热搜",
           "ranks": [
-            6
+            26,
+            24,
+            25,
+            22,
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时33分]"
+          "appearance_count": 8,
+          "time_info": "[18时31分 ~ 23时34分]"
         },
         {
           "title": "“阻击”特朗普，国会横插一脚：中国用三流芯片都能击败我们",
@@ -364,21 +380,6 @@
           "time_info": "[14时39分 ~ 19时25分]"
         },
         {
-          "title": "中方回应特朗普达沃斯涉华言论",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24,
-            25,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时33分]"
-        },
-        {
           "title": "美国众议院民主党领袖们鼓励议员们签署一份请愿，从而在（众议院）全体表决中通过禁止国会山成员和白宫（官员）交易股票的方案。",
           "url": "https://wallstreetcn.com/livenews/3041474",
           "source": "华尔街见闻-快讯",
@@ -389,6 +390,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时50分 ~ 03时31分]"
+        },
+        {
+          "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
+          "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时55分 ~ 23时34分]"
         },
         {
           "title": "乌克兰总统泽连斯基即将于达沃斯会晤美国总统特朗普，乌克兰国际债券最高上涨2.5美分。",
@@ -413,6 +425,17 @@
           "time_info": "18时31分"
         },
         {
+          "title": "美国11月PCE数据保持稳定 美联储下周料维持利率不变",
+          "url": "https://flash.jin10.com/detail/20260122231238773800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约跌0.14%，10年期主力合约跌0.00%，5年期主力合约涨0.01%，2年期主力合约跌0.02%。",
           "url": "https://wallstreetcn.com/livenews/3041647",
           "source": "华尔街见闻-快讯",
@@ -422,6 +445,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "马上评｜“蹭热点”的姿势也有高下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440072",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时55分 ~ 23时34分]"
+        },
+        {
+          "title": "A股“易中天”大涨",
+          "url": "https://www.toutiao.com/trending/7598039639648026630/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            20,
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时55分 ~ 23时34分]"
         },
         {
           "title": "股指期货早盘开盘",
@@ -463,9 +514,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "美国天然气期货日内暴涨15.00%，现报5.607美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260122231058584800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "美国总统特朗普声称的格陵兰“协议”涉及“小块土地”。（纽约时报）",
@@ -490,13 +552,24 @@
           "time_info": "13时31分"
         },
         {
+          "title": "纳斯达克金龙中国指数涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3042169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "特朗普在达沃斯都说了什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BE%BE%E6%B2%83%E6%96%AF%E9%83%BD%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -556,6 +629,17 @@
           "time_info": "19时25分"
         },
         {
+          "title": "金十图示：2026年01月22日（周四）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260122230711649800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "MSCI亚太指数上涨1%至239.85点。",
           "url": "https://wallstreetcn.com/livenews/3041644",
           "source": "华尔街见闻-快讯",
@@ -595,20 +679,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
-        },
-        {
-          "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
-          "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时55分 ~ 22时33分]"
         },
         {
           "title": "日经225指数涨幅扩大至1.55%。",
@@ -705,7 +778,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -719,32 +792,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
-        },
-        {
-          "title": "A股“易中天”大涨",
-          "url": "https://www.toutiao.com/trending/7598039639648026630/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时55分 ~ 22时33分]"
-        },
-        {
-          "title": "马上评｜“蹭热点”的姿势也有高下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440072",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时55分 ~ 22时33分]"
         },
         {
           "title": "美国总统特朗普：丹麦外交大臣并没有告诉我“丹方拒绝谈判”。",
@@ -1059,6 +1106,18 @@
           "time_info": "[02时50分 ~ 03时31分]"
         },
         {
+          "title": "特朗普180度转折，欧洲懵了",
+          "url": "https://wallstreetcn.com/articles/3763911",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 23时34分]"
+        },
+        {
           "title": "美国总统特朗普：将观察能否让埃及与埃塞俄比亚达成尼罗河大坝协议。",
           "url": "https://wallstreetcn.com/livenews/3041425",
           "source": "华尔街见闻-快讯",
@@ -1238,17 +1297,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时54分 ~ 01时57分]"
-        },
-        {
-          "title": "特朗普180度转折，欧洲懵了",
-          "url": "https://wallstreetcn.com/articles/3763911",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时50分 ~ 22时33分]"
         },
         {
           "title": "中方回应特朗普达沃斯言论",
@@ -2101,6 +2149,17 @@
           "time_info": "17时36分"
         },
         {
+          "title": "美国11月PCE物价指数年率 2.8%，预期2.7%。",
+          "url": "https://flash.jin10.com/detail/20260122230105395800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "标普500指数收涨78.76点，涨幅1.16%，报6875.62点。 道琼斯工业平均指数收涨588.64点，涨幅1.21%，报49077.23点。 纳斯达克综合指数（纳指）收涨270.502点，涨幅1.18%，报23224.825点。 纳斯达克100指数收涨339.015点，涨幅1.36%，报25326.581点。 纳斯达克生物科技指数收涨2.43%，报5925.59点。 费城半导体指数收涨3.18%，报8042.07点。 费城证交所KBW银行指数收涨1.77%，报167.86点。",
           "url": "https://wallstreetcn.com/livenews/3041517",
           "source": "华尔街见闻-快讯",
@@ -2121,6 +2180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "欧元区1月消费者信心指数初值 -12.4，预期 -13，前值 -13.1。",
+          "url": "https://wallstreetcn.com/livenews/3042164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "俄罗斯总统普京：计划于周四与美国总统特使威特科夫和特朗普女婿库什纳进行接触。",
@@ -2187,6 +2257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
+        },
+        {
+          "title": "美国11月核心PCE物价指数同比 2.79%，预期 2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3042163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "美国总统特朗普在达沃斯会见了波兰总统纳夫罗基。",
@@ -2266,6 +2347,17 @@
           "time_info": "20时56分"
         },
         {
+          "title": "美国11月核心PCE物价指数月率 0.2%，预期0.20%。",
+          "url": "https://flash.jin10.com/detail/20260122230102107800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "泽连斯基据悉将前往达沃斯与特朗普会面。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3041854",
           "source": "华尔街见闻-快讯",
@@ -2294,9 +2386,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
+          "url": "https://news.ifeng.com/c/8q88cGpXCla",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：美联储对特朗普的批评与独立性不符。",
@@ -2371,9 +2474,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "美国11月核心PCE物价指数年率 2.8%，预期2.8%。",
+          "url": "https://flash.jin10.com/detail/20260122230052696800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.1%，报384.91点。 在十个板块中，北欧工业板块涨幅最大。 Genmab A/S收涨4.5%，在一众北欧个股里领跑。",
@@ -2407,6 +2521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "美国11月PCE物价指数同比 2.8%，预期 2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3042161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：美联储成员似乎对所有事情都想发表意见。",
@@ -2459,9 +2584,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "美国11月PCE物价指数月率 0.2%，预期0.2%。",
+          "url": "https://flash.jin10.com/detail/20260122230045272800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "特朗普与乌克兰总统泽连斯基的会晤开始。 泽连斯基办公室证实了双边会晤的消息。",
@@ -2525,9 +2661,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨多跌少。合成橡胶封涨停，涨幅6.99%，20号胶、苯乙烯（EB）、PTA、橡胶涨近3%，瓶片、纯苯、短纤、乙二醇（EG）涨超2%；跌幅方面，低硫燃料油（LU）跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260122230030438800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "特朗普：联合国拥有巨大的潜力。",
@@ -2607,6 +2754,17 @@
           "time_info": "15时31分"
         },
         {
+          "title": "美国11月核心PCE物价指数环比 0.2%，预期 0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3042158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "现货黄金涨幅重新扩大至1%，收复特朗普发帖以来的过半跌幅。",
           "url": "https://flash.jin10.com/detail/20260122043225141800",
           "source": "金十数据",
@@ -2662,6 +2820,17 @@
           "time_info": "21时51分"
         },
         {
+          "title": "欧元区1月消费者信心指数初值 -12.4，预期-12.9，前值-13.1。",
+          "url": "https://flash.jin10.com/detail/20260122230016659800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
           "url": "https://wallstreetcn.com/livenews/3041413",
           "source": "华尔街见闻-快讯",
@@ -2704,6 +2873,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "美国11月PCE物价指数环比 0.2%，预期 0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3042157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "市场消息：美国最高法院似乎很可能拒绝特朗普立即罢免美联储理事库克的请求。",
@@ -2871,6 +3051,17 @@
           "time_info": "21时51分"
         },
         {
+          "title": "乌克兰总统泽连斯基：已就安全保障和经济方案与美国总统特朗普进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260122225920017800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "白宫经济顾问哈塞特：美国经济增速可能会有两个季度超过5%。 总统特朗普正在搅局一个必须被打乱的（国际）秩序。 预计下一年对（财政/贸易）赤字的削减幅度将更大。",
           "url": "https://wallstreetcn.com/livenews/3041430",
           "source": "华尔街见闻-快讯",
@@ -2935,6 +3126,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "金十图示：2026年01月22日（周四）华尔街恐惧与贪婪指数（美盘初）",
+          "url": "https://flash.jin10.com/detail/20260122225611607800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "特朗普：心中选定的美联储主席可能只剩一位，希望能像格林斯潘",
@@ -3003,6 +3205,17 @@
           "time_info": "15时31分"
         },
         {
+          "title": "美国11月PCE数据公布前 美联储1月按兵不动的概率为95%",
+          "url": "https://flash.jin10.com/detail/20260122225529128800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "富时中国A50指数期货盘初涨0.31%，上一个交易日夜盘收涨0.29%。",
           "url": "https://wallstreetcn.com/livenews/3041625",
           "source": "华尔街见闻-快讯",
@@ -3020,9 +3233,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "提醒：北京时间23:00将发布，美国11月PCE物价指数，个人收入、个人消费支出(PCE)。",
+          "url": "https://wallstreetcn.com/livenews/3042153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "金十图示：2026年01月22日（周四）全球股市指数-欧洲市场（收盘）",
@@ -3144,6 +3368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
+        },
+        {
+          "title": "美国11月个人支出月率、核心PCE物价指数月率及年率、欧元区1月消费者信心指数初值将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260122225000000800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "英国央行副行长伍兹：监管机构正在考虑一种自动指数化工具，以确定一家银行是否具有系统重要性。",
@@ -3509,6 +3744,17 @@
           "time_info": "14时39分"
         },
         {
+          "title": "中概指数盘初涨超1.6%，理想涨约6%，阿里涨约5%，KWEB涨约1.1%",
+          "url": "https://wallstreetcn.com/livenews/3042145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "特朗普称普京办实事且影响力巨大",
           "url": "https://www.toutiao.com/trending/7597650528488112147/",
           "source": "今日头条",
@@ -3630,6 +3876,17 @@
           "time_info": "14时39分"
         },
         {
+          "title": "明阳智能：拟购买中山德华芯片技术有限公司100%股权并募集配套资金 公司股票将于1月23日复牌",
+          "url": "https://wallstreetcn.com/livenews/3042142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "埃及领导人：非常高兴能加入美国总统特朗普的和平委员会。",
           "url": "https://flash.jin10.com/detail/20260122003811426800",
           "source": "金十数据",
@@ -3694,6 +3951,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "标普500指数高开38.82点，涨幅0.56%，报6914.44点； 道琼斯工业平均指数高开124.58点，涨幅0.25%，报49201.81点； 纳斯达克综合指数高开215.89点，涨幅0.93%，报23440.71点。",
+          "url": "https://wallstreetcn.com/livenews/3042141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "特朗普笼罩下的达沃斯",
@@ -3806,6 +4074,17 @@
           "time_info": "21时51分"
         },
         {
+          "title": "巴西基准股指Bovespa指数涨势不止，连续突破三道关口，站上175,000点。",
+          "url": "https://flash.jin10.com/detail/20260122223503698800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "日经225指数早盘收涨1.9%，报53760.85点。日本东证指数早盘收涨0.9%。",
           "url": "https://wallstreetcn.com/livenews/3041691",
           "source": "华尔街见闻-快讯",
@@ -3820,7 +4099,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -3868,8 +4147,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时57分 ~ 22时33分]"
+          "appearance_count": 18,
+          "time_info": "[09时57分 ~ 23时34分]"
         },
         {
           "title": "美股集体高开 百度涨5%",
@@ -4059,7 +4338,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -4119,6 +4398,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "行业ETF美股盘初普遍走高，网络股指数ETF涨1.8%，全球航空业ETF、半导体ETF、全球科技股指数ETF、科技行业ETF至少涨1.12%。",
+          "url": "https://wallstreetcn.com/livenews/3042144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "金十图示：2026年01月21日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260122014724780800",
           "source": "金十数据",
@@ -4128,6 +4418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260122223721441800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         }
       ]
     },
@@ -4281,8 +4582,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时57分 ~ 22时33分]"
+          "appearance_count": 18,
+          "time_info": "[09时57分 ~ 23时34分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
