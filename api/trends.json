@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T13:31:35.626812+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-01-23T14:39:14.491462+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 164,
+      "match_count": 176,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -52,8 +52,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 13时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 14时39分]"
+        },
+        {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 14时39分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -75,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 13时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 14时39分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -90,6 +102,20 @@
           "time_info": "[00时39分 ~ 09时54分]"
         },
         {
+          "title": "A股三大股指午后集体上涨，商业航天再掀涨停潮，港股震荡回升，泡泡玛特大涨6%，黄金、白银反弹",
+          "url": "https://wallstreetcn.com/articles/3763888",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时27分 ~ 14时39分]"
+        },
+        {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
           "url": "https://news.ifeng.com/c/8q88cGpXCla",
           "source": "凤凰网",
@@ -98,8 +124,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 13时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 14时39分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -158,29 +184,15 @@
           "time_info": "[00时39分 ~ 07时24分]"
         },
         {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
           "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 13时31分]"
-        },
-        {
-          "title": "A股三大股指午后集体上涨，商业航天再掀涨停潮，港股震荡回升，泡泡玛特大涨6%，黄金、白银反弹",
-          "url": "https://wallstreetcn.com/articles/3763888",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时27分 ~ 13时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 14时39分]"
         },
         {
           "title": "特朗普执政一年把美国推向何方",
@@ -212,15 +224,16 @@
           "time_info": "[02时37分 ~ 07时24分]"
         },
         {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
           "source": "凤凰网",
           "ranks": [
-            4
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 13时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 14时39分]"
         },
         {
           "title": "特朗普为啥时隔一天态度变了",
@@ -234,17 +247,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时31分 ~ 07时24分]"
-        },
-        {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 13时31分]"
         },
         {
           "title": "期货热点追踪",
@@ -269,6 +271,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时31分]"
+        },
+        {
+          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
+          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "金十图示：2026年01月22日（周四）全球股市指数-美洲市场（收盘）",
@@ -299,7 +312,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -337,6 +350,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "日经225指数收涨0.3%，报53846.87点。日本东证指数收涨0.4%，报3629.70点。",
+          "url": "https://wallstreetcn.com/livenews/3042631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "股指期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20260123093105788800",
           "source": "金十数据",
@@ -359,28 +383,6 @@
           "time_info": "11时45分"
         },
         {
-          "title": "北证50指数午后涨超4%，连城数控、欧普泰30cm涨停，酉立智能、流金科技、艾能聚、星图测控等涨超15%。",
-          "url": "https://wallstreetcn.com/livenews/3042581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年1月23日 周五",
-          "url": "https://flash.jin10.com/detail/20260123065000000800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
           "title": "特朗普痛批加州州长纽森失职，称其不配竞选总统",
           "url": "https://flash.jin10.com/detail/20260123092953807800",
           "source": "金十数据",
@@ -398,7 +400,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -412,17 +414,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
-        },
-        {
-          "title": "A股光伏概念股午后走强，晶科能源、隆基绿能触及涨停，欧普泰30CM涨停，酉立智能、天合光能、高测股份纷纷拉升。",
-          "url": "https://wallstreetcn.com/livenews/3042579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
         },
         {
           "title": "日本央行维持利率不变，密切关注近期加息的影响",
@@ -619,6 +610,18 @@
           "time_info": "[06时27分 ~ 07时24分]"
         },
         {
+          "title": "北证50指数午后涨超4%，连城数控、欧普泰30cm涨停，酉立智能、流金科技、艾能聚、星图测控等涨超15%。",
+          "url": "https://wallstreetcn.com/livenews/3042581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时39分]"
+        },
+        {
           "title": "市场押注贝莱德高管里德尔为美联储主席热门人选",
           "url": "https://flash.jin10.com/detail/20260123025522302800",
           "source": "金十数据",
@@ -629,6 +632,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 04时32分]"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年1月23日 周五",
+          "url": "https://flash.jin10.com/detail/20260123065000000800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 14时39分]"
+        },
+        {
+          "title": "A股光伏概念股午后走强，晶科能源、隆基绿能触及涨停，欧普泰30CM涨停，酉立智能、天合光能、高测股份纷纷拉升。",
+          "url": "https://wallstreetcn.com/livenews/3042579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时39分]"
         },
         {
           "title": "特朗普：启程返回华盛顿 达沃斯之行非常精彩",
@@ -655,6 +682,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时54分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
+          "url": "https://www.cls.cn/detail/2267102",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时45分 ~ 14时39分]"
         },
         {
           "title": "特朗普起诉摩根大通因政治原因关闭其账户 索赔50亿美元",
@@ -789,15 +827,15 @@
           "time_info": "[11时45分 ~ 12时45分]"
         },
         {
-          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
-          "url": "https://www.cls.cn/detail/2267102",
-          "source": "财联社热门",
+          "title": "美联储最青睐通胀指标符合预期，美11月PCE物价指数同比2.8%，消费支出稳健",
+          "url": "https://wallstreetcn.com/articles/3763958",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时45分 ~ 13时31分]"
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "周四（1月22日），美联储隔夜逆回购协议（RRP）使用规模为20.58亿美元（交易对手14家），上个交易日报33.44亿美元。",
@@ -980,6 +1018,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "富时中国A50指数期货短线走低，一度跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3042621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "美国总统特朗普：美国将申办2035年世界博览会。",
           "url": "https://flash.jin10.com/detail/20260123034227435800",
           "source": "金十数据",
@@ -1000,6 +1049,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "美国天然气期货下跌5%，至4.81美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260123140914011800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "中证转债指数高开0.44%。睿创转债涨近20%，利扬转债涨8.7%，宙邦转债涨7%，大参转债、塞力转债涨超4%。首华转债跌1.2%，华正转债跌近1%。",
@@ -1035,6 +1095,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "日本国债收益率曲线趋平 市场对日本央行的加息预期升温",
+          "url": "https://wallstreetcn.com/livenews/3042619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "据国际文传电讯社：美国特朗普女婿库什纳、美国总统特使威特科夫抵达莫斯科。",
           "url": "https://flash.jin10.com/detail/20260123033743999800",
           "source": "金十数据",
@@ -1066,6 +1137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "菲律宾股市指数下跌1%，至6333.92 点。",
+          "url": "https://wallstreetcn.com/livenews/3042618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "恒指高开0.87%，报26861.36点；恒生科技指数高开0.96%。阿里巴巴涨3.9%，京东集团、阿里健康涨超2%。",
@@ -1206,9 +1288,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "沪银期货突破25000元/千克关口，续创历史新高",
+          "url": "https://flash.jin10.com/detail/20260123134237492800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "希腊雅典证交所综合指数收涨2.16%，报2276.28点，重新逼近2010年1月11日收盘位2315.31点和2009年11月11日顶部2685.71点。",
@@ -1253,6 +1346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "A股无人驾驶概念股震荡走高，四维图新触及涨停，经纬恒润、ST赛为涨超15%，浙江世宝、汉鑫科技纷纷拉升。",
+          "url": "https://wallstreetcn.com/livenews/3042604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "克里姆林宫：俄罗斯总统普京与美国总统特使威特科夫和特朗普女婿库什纳展开会谈。",
@@ -1308,6 +1412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "沪银期货主力合约盘中一度涨近9%，突破25000元/千克，续创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3042599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "金十图示：2026年01月23日（周五）富时中国A50指数成分股午盘收盘行情一览：银行、保险、半导体板块普跌",
@@ -1437,7 +1552,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1484,6 +1599,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "台湾证交所加权股价指数收涨0.7%报31,961.51点。",
+          "url": "https://wallstreetcn.com/livenews/3042594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉石油将被瓜分。",
@@ -1572,6 +1698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "A股有色金属板块持续上扬，盛达资源午后涨停，豫光金铅、白银有色此前封板，兴业银锡、驰宏锌锗、国城矿业跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3042589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "乌克兰总统泽连斯基：经济协议几乎已准备就绪，并已与美国总统特朗普讨论了自由贸易区事宜。",
@@ -1897,8 +2034,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 13时31分]"
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 14时39分]"
         },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
@@ -2316,7 +2453,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -2389,6 +2526,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 14时39分]"
+        },
+        {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
           "url": "https://flash.jin10.com/detail/20260123120453959800",
           "source": "金十数据",
@@ -2399,19 +2550,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时45分 ~ 13时31分]"
-        },
-        {
-          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 13时31分]"
         }
       ]
     },
