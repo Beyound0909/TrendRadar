@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T14:35:58.372814+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-01-24T15:22:54.993622+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 89,
+      "match_count": 90,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -78,6 +78,28 @@
           "time_info": "[00时34分 ~ 07时24分]"
         },
         {
+          "title": "没想到特朗普这样侮辱人，英国气炸了",
+          "url": "https://news.ifeng.com/c/8qAYkEI9nB9",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 15时22分]"
+        },
+        {
+          "title": "斯塔默要求特朗普道歉，白宫回应",
+          "url": "https://news.ifeng.com/c/8qAZ4sSmnvP",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 15时22分]"
+        },
+        {
           "title": "中方回应特朗普称将于4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
           "source": "bilibili 热搜",
@@ -93,6 +115,17 @@
           "time_info": "[00时34分 ~ 09时51分]"
         },
         {
+          "title": "特朗普变卦",
+          "url": "https://news.ifeng.com/c/8qAWXtrAprk",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 15时22分]"
+        },
+        {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
           "url": "https://news.ifeng.com/c/8q9ns1tf1Fj",
           "source": "凤凰网",
@@ -104,15 +137,20 @@
           "time_info": "[00时34分 ~ 09时51分]"
         },
         {
-          "title": "没想到特朗普这样侮辱人，英国气炸了",
-          "url": "https://news.ifeng.com/c/8qAYkEI9nB9",
-          "source": "凤凰网",
+          "title": "日元涨破158！日央行行长植田和男：若经济如预期将继续加息，将在特殊情况下灵活开展债券操作",
+          "url": "https://wallstreetcn.com/articles/3764013",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            6,
+            7,
+            5,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 14时35分]"
+          "appearance_count": 9,
+          "time_info": "[07时24分 ~ 15时22分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -157,43 +195,6 @@
           "time_info": "[00时34分 ~ 07时24分]"
         },
         {
-          "title": "斯塔默要求特朗普道歉，白宫回应",
-          "url": "https://news.ifeng.com/c/8qAZ4sSmnvP",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 14时35分]"
-        },
-        {
-          "title": "特朗普变卦",
-          "url": "https://news.ifeng.com/c/8qAWXtrAprk",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 14时35分]"
-        },
-        {
-          "title": "日元涨破158！日央行行长植田和男：若经济如预期将继续加息，将在特殊情况下灵活开展债券操作",
-          "url": "https://wallstreetcn.com/articles/3764013",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            7,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时24分 ~ 14时35分]"
-        },
-        {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
           "url": "https://www.cls.cn/detail/2268544",
           "source": "财联社热门",
@@ -203,8 +204,22 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 15时22分]"
+        },
+        {
+          "title": "白宫晒特朗普格陵兰牵企鹅照翻车",
+          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%AE%AB%E6%99%92%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E7%89%B5%E4%BC%81%E9%B9%85%E7%85%A7%E7%BF%BB%E8%BD%A6&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            1,
+            2,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时38分 ~ 14时35分]"
+          "time_info": "[12时37分 ~ 15时22分]"
         },
         {
           "title": "余韩操纵股票被证监会罚没超10亿元",
@@ -222,17 +237,18 @@
           "time_info": "[02时37分 ~ 07时24分]"
         },
         {
-          "title": "白宫晒特朗普格陵兰牵企鹅照翻车",
-          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%AE%AB%E6%99%92%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E7%89%B5%E4%BC%81%E9%B9%85%E7%85%A7%E7%BF%BB%E8%BD%A6&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            1,
-            2
+            18,
+            19,
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 15时22分]"
         },
         {
           "title": "恒指期货夜盘收涨0.20%，报26772点，高水22点。",
@@ -247,20 +263,6 @@
           "time_info": "[03时27分 ~ 07时24分]"
         },
         {
-          "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时50分 ~ 14时35分]"
-        },
-        {
           "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
           "url": "https://wallstreetcn.com/articles/3764066",
           "source": "华尔街见闻",
@@ -269,8 +271,33 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 15时22分]"
+        },
+        {
+          "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
+          "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 15时22分]"
+        },
+        {
+          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
+          "url": "https://flash.jin10.com/detail/20260124113127622800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            4,
+            9,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时37分 ~ 14时35分]"
+          "time_info": "[12时38分 ~ 15时22分]"
         },
         {
           "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
@@ -286,19 +313,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时51分 ~ 14时35分]"
-        },
-        {
-          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
-          "url": "https://flash.jin10.com/detail/20260124113127622800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时38分 ~ 14时35分]"
         },
         {
           "title": "本周，标普累跌0.4%，道指累跌0.5%，纳指累跌0.1%，纳指科技指数大致持平，科技股七巨头指数涨0.3%，半导体指数涨0.2%，银行指数跌2.1%，生物科技指数涨3.1%。 周五当天，标普500指数初步大致收平，金融板块跌1.3%，工业板块跌0.8%，能源板块涨0.4%，科技板块涨0.5%，原材料板块涨0.8%。 纳斯达克100指数初步收涨0.3%，成分股中，Fortinet涨5%，微软、奈飞涨超3%，西部数据跌2.8%，迈威尔科技跌3.5%，英特尔跌16.9%。 高盛初步收跌3.7%，卡特彼勒跌3.3%，迪士尼、摩根大通等跌超1%，领跌道指成分股，英伟达涨1.5%，可口可乐涨1.5%，亚马逊涨2.1%，微软涨3.4%。",
@@ -350,17 +364,6 @@
           "time_info": "05时25分"
         },
         {
-          "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
-          "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 14时35分]"
-        },
-        {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
           "url": "https://flash.jin10.com/detail/20260124023137303800",
           "source": "金十数据",
@@ -407,6 +410,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时27分 ~ 07时24分]"
+        },
+        {
+          "title": "英国首相要求特朗普为相关言论道歉",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E8%A6%81%E6%B1%82%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E7%9B%B8%E5%85%B3%E8%A8%80%E8%AE%BA%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 15时22分]"
         },
         {
           "title": "数字资产小盘指数最近“七天”跌7.8%",
@@ -616,19 +633,6 @@
           "time_info": "[12时37分 ~ 14时35分]"
         },
         {
-          "title": "英国首相要求特朗普为相关言论道歉",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E8%A6%81%E6%B1%82%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E7%9B%B8%E5%85%B3%E8%A8%80%E8%AE%BA%E9%81%93%E6%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 14时35分]"
-        },
-        {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，连续第四个交易日上扬，报391.93点，创3月3日以来收盘新高。 在十个板块中，北欧信息技术板块涨幅最大。 爱立信（Telefonaktiebolaget LM Ericsson）涨10.5%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3043064",
           "source": "华尔街见闻-快讯",
@@ -691,6 +695,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时38分 ~ 13时24分]"
+        },
+        {
+          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
+          "url": "https://wallstreetcn.com/articles/3764068",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时22分]"
         },
         {
           "title": "周五（1月23日），美联储隔夜逆回购协议（RRP）使用规模为9.27亿美元（交易对手5家），上个交易日报20.58亿美元。",
@@ -849,6 +864,17 @@
           "time_info": "[02时37分 ~ 03时27分]"
         },
         {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时22分]"
+        },
+        {
           "title": "特朗普卡尼“口水仗”升级",
           "url": "https://www.toutiao.com/trending/7597980626083610630/",
           "source": "今日头条",
@@ -870,17 +896,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时38分 ~ 12时38分]"
-        },
-        {
-          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
-          "url": "https://wallstreetcn.com/articles/3764068",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         },
         {
           "title": "周五（1月23日）纽约尾盘，标普500股指期货最终跌0.17%，道指期货跌0.76%，纳斯达克100股指期货涨0.08%。 罗素2000股指期货跌2.20%。",
@@ -938,6 +953,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
+          "url": "https://www.cls.cn/detail/2268566",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
           "url": "https://wallstreetcn.com/livenews/3043110",
           "source": "华尔街见闻-快讯",
@@ -969,17 +995,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         },
         {
           "title": "周五（1月23日），彭博电动汽车价格回报指数涨0.86%，报3716.46点，本周累计上涨3.07%，整体持续走高。",
@@ -1095,8 +1110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时24分 ~ 14时35分]"
+          "appearance_count": 9,
+          "time_info": "[07时24分 ~ 15时22分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -1108,8 +1123,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时24分 ~ 14时35分]"
+          "appearance_count": 9,
+          "time_info": "[07时24分 ~ 15时22分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
