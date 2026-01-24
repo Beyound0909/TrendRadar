@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T21:33:13.248921+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2026-01-24T22:22:37.595583+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 101,
+      "match_count": 106,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -77,6 +77,20 @@
           "time_info": "[11时38分 ~ 17时24分]"
         },
         {
+          "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
+          "url": "https://www.cls.cn/detail/2268544",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[11时38分 ~ 22时22分]"
+        },
+        {
           "title": "特朗普变卦",
           "url": "https://news.ifeng.com/c/8qAWXtrAprk",
           "source": "凤凰网",
@@ -88,19 +102,6 @@
           "time_info": "[11时38分 ~ 17时24分]"
         },
         {
-          "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
-          "url": "https://www.cls.cn/detail/2268544",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时38分 ~ 21时33分]"
-        },
-        {
           "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
           "url": "https://wallstreetcn.com/articles/3764066",
           "source": "华尔街见闻",
@@ -110,8 +111,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时37分 ~ 21时33分]"
+          "appearance_count": 14,
+          "time_info": "[12时37分 ~ 22时22分]"
         },
         {
           "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
@@ -122,8 +123,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时35分 ~ 21时33分]"
+          "appearance_count": 11,
+          "time_info": "[14时35分 ~ 22时22分]"
         },
         {
           "title": "一图看懂 | A股掀起“商业航天热”，开年产业重要信息全梳理",
@@ -209,8 +210,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时35分 ~ 21时33分]"
+          "appearance_count": 11,
+          "time_info": "[14时35分 ~ 22时22分]"
         },
         {
           "title": "日元涨破158！日央行行长植田和男：若经济如预期将继续加息，将在特殊情况下灵活开展债券操作",
@@ -314,6 +315,19 @@
           "time_info": "[09时50分 ~ 15时22分]"
         },
         {
+          "title": "多股应声涨停！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2268628",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 22时22分]"
+        },
+        {
           "title": "恒指期货夜盘收涨0.20%，报26772点，高水22点。",
           "url": "https://flash.jin10.com/detail/20260124030343033800",
           "source": "金十数据",
@@ -324,19 +338,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时27分 ~ 07时24分]"
-        },
-        {
-          "title": "多股应声涨停！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2268628",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 21时33分]"
         },
         {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
@@ -377,6 +378,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "深度解析特朗普365天赢学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            28,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 22时22分]"
         },
         {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
@@ -420,17 +435,37 @@
           "time_info": "[17时24分 ~ 21时33分]"
         },
         {
-          "title": "深度解析特朗普365天赢学",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
-          "source": "bilibili 热搜",
+          "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
+          "url": "https://flash.jin10.com/detail/20260124214240253800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            28,
-            13
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 21时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
+          "url": "https://wallstreetcn.com/livenews/3043293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
+          "url": "https://flash.jin10.com/detail/20260124214134476800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
@@ -793,6 +828,17 @@
           "time_info": "[00时34分 ~ 02时37分]"
         },
         {
+          "title": "应声20CM涨停！A股年报行情纵深推进，14家上市公司净利最高同比预增超400%",
+          "url": "https://www.cls.cn/detail/2268650",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 22时22分]"
+        },
+        {
           "title": "操纵股票“坐庄模式”走到尽头",
           "url": "https://www.toutiao.com/trending/7598518743368876095/",
           "source": "今日头条",
@@ -816,6 +862,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时38分 ~ 13时24分]"
+        },
+        {
+          "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456708",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 22时22分]"
         },
         {
           "title": "周五（1月23日），美联储隔夜逆回购协议（RRP）使用规模为9.27亿美元（交易对手5家），上个交易日报20.58亿美元。",
@@ -950,17 +1007,6 @@
           "time_info": "[01时28分 ~ 02时37分]"
         },
         {
-          "title": "应声20CM涨停！A股年报行情纵深推进，14家上市公司净利最高同比预增超400%",
-          "url": "https://www.cls.cn/detail/2268650",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 21时33分]"
-        },
-        {
           "title": "美联储：美国上周银行存款18.623万亿美元，之前一周18.611万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3043138",
           "source": "华尔街见闻-快讯",
@@ -1009,17 +1055,6 @@
           "time_info": "[02时37分 ~ 03时27分]"
         },
         {
-          "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456708",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 21时33分]"
-        },
-        {
           "title": "特朗普卡尼“口水仗”升级",
           "url": "https://www.toutiao.com/trending/7597980626083610630/",
           "source": "今日头条",
@@ -1052,6 +1087,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格兹表现极为出色。他与罗德里格兹关系非常好。”Discombobulator”（心智困惑器）武器在马杜罗抓捕行动中被使用。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3043290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
@@ -1096,6 +1142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
+          "url": "https://flash.jin10.com/detail/20260124211543155800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
@@ -1255,8 +1312,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时24分 ~ 21时33分]"
+          "appearance_count": 18,
+          "time_info": "[07时24分 ~ 22时22分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -1270,8 +1327,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时24分 ~ 21时33分]"
+          "appearance_count": 18,
+          "time_info": "[07时24分 ~ 22时22分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -1525,19 +1582,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 21时33分]"
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 22时22分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
           "url": "https://www.toutiao.com/trending/7598709483937730099/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 21时33分]"
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 22时22分]"
         },
         {
           "title": "金价暴涨胖东来金店挤爆了",
