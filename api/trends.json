@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T10:05:06.366929+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-01-25T12:15:46.901873+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
@@ -21,18 +21,6 @@
           "time_info": "[00时28分 ~ 10时05分]"
         },
         {
-          "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
-          "url": "https://www.cls.cn/detail/2268544",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 10时05分]"
-        },
-        {
           "title": "多股应声涨停！本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2268628",
           "source": "财联社热门",
@@ -41,8 +29,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 10时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 12时15分]"
+        },
+        {
+          "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
+          "url": "https://www.cls.cn/detail/2268544",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 12时15分]"
         },
         {
           "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
@@ -63,11 +64,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 10时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 12时15分]"
         },
         {
           "title": "特朗普承认使用“秘密”武器",
@@ -78,8 +80,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 10时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 12时15分]"
         },
         {
           "title": "美国财政部：特朗普将出席特朗普账户峰会",
@@ -132,6 +134,17 @@
           "time_info": "[00时28分 ~ 10时05分]"
         },
         {
+          "title": "特朗普威胁对加拿大征收100%关税，加总理回应",
+          "url": "https://news.ifeng.com/c/8qBty1JuFMx",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 12时15分]"
+        },
+        {
           "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
           "url": "https://wallstreetcn.com/livenews/3043293",
           "source": "华尔街见闻-快讯",
@@ -169,39 +182,40 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "特朗普威胁对加拿大征收100%关税，加总理回应",
-          "url": "https://news.ifeng.com/c/8qBty1JuFMx",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
-        },
-        {
           "title": "冬季风暴来袭，特朗普称已批准美国多州进入紧急状态",
           "url": "https://wallstreetcn.com/livenews/3043311",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             2,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时23分 ~ 10时05分]"
+          "appearance_count": 4,
+          "time_info": "[06时23分 ~ 12时15分]"
         },
         {
-          "title": "特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3043338",
+          "title": "美国州检察官起诉特朗普政府 指控其阻碍枪击案调查",
+          "url": "https://flash.jin10.com/detail/20260125113356104800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
+          "url": "https://wallstreetcn.com/livenews/3043350",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "12时15分"
         },
         {
           "title": "特朗普起诉美国最大银行摩根大通，索赔至少 50 亿美元，具体是怎么回事？他能胜诉吗？",
@@ -216,26 +230,40 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3043338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 12时15分]"
+        },
+        {
           "title": "日本首相高市早苗誓言就汇率波动采取行动 应对投机性市场行为",
           "url": "https://flash.jin10.com/detail/20260125085035422800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 12时15分]"
         },
         {
           "title": "特朗普施压后，英国突然叫停",
           "url": "https://news.ifeng.com/c/8qBdM8lHY0b",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 12时15分]"
         },
         {
           "title": "盘点2025年度网络热点谣言",
@@ -245,8 +273,32 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 12时15分]"
+        },
+        {
+          "title": "挪威首相批评特朗普北约言论“有失尊重”",
+          "url": "https://flash.jin10.com/detail/20260125084239117800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
+          "time_info": "[10时05分 ~ 12时15分]"
+        },
+        {
+          "title": "特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
+          "url": "https://flash.jin10.com/detail/20260125081127653800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 12时15分]"
         },
         {
           "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
@@ -282,28 +334,6 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
-          "title": "挪威首相批评特朗普北约言论“有失尊重”",
-          "url": "https://flash.jin10.com/detail/20260125084239117800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
-          "url": "https://flash.jin10.com/detail/20260125081127653800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
           "title": "胜率升至首位！美联储新主席人选“公布在即”，里德尔“异军突起”",
           "url": "https://wallstreetcn.com/articles/3764063",
           "source": "华尔街见闻",
@@ -315,13 +345,46 @@
           "time_info": "07时22分"
         },
         {
+          "title": "相关谈判“进展顺利”，特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
+          "url": "https://wallstreetcn.com/articles/3764087",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "意大利总理称特朗普有关北约的言论是“不可接受”的",
+          "url": "https://flash.jin10.com/detail/20260125094240876800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "特朗普称已获取7艘扣押油轮石油",
+          "url": "https://wallstreetcn.com/livenews/3043341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
           "title": "美国联邦移民执法中再次发生枪杀事件，特朗普指责明尼苏达州州长“煽动叛乱”",
           "url": "https://wallstreetcn.com/livenews/3043320",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -332,7 +395,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -343,7 +406,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         }
@@ -383,11 +446,40 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 10时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 12时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3043305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时22分]"
+        },
+        {
+          "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
+          "url": "https://www.zhihu.com/question/1996908423174910237",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         }
       ]
     },
@@ -418,23 +510,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3043305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 05时22分]"
         }
       ]
     }
