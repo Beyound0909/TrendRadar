@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T03:26:30.121219+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-01-27T04:31:17.095070+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "【每日收评】三大指数集体收跌，两市成交额连续2日突破3万亿，商业航天再陷整理",
@@ -26,30 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时26分]"
-        },
-        {
-          "title": "恒指期货夜盘收涨0.5%，报26883点，高水117点。",
-          "url": "https://flash.jin10.com/detail/20260127030036912800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.50%，报26883点。 恒生科技指数主连夜盘收涨0.30%，报5741点。",
-          "url": "https://wallstreetcn.com/livenews/3044160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -59,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -70,19 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时26分]"
-        },
-        {
-          "title": "特朗普将于周二前往爱荷华州就美国经济发表演讲",
-          "url": "https://flash.jin10.com/detail/20260127025407678800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
@@ -92,8 +59,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时31分]"
+        },
+        {
+          "title": "美国官员：美国总统特朗普完全赞同以色列总理内塔尼亚胡的声明，即在哈马斯实现非军事化和解除武装之前，加沙的重建不会开始。",
+          "url": "https://flash.jin10.com/detail/20260127041616450800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国原油期货收跌超0.7%，纽约天然气收涨28.9%",
+          "url": "https://wallstreetcn.com/livenews/3044172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，上周日在明尼苏达州发生（联邦移民执法官员枪杀一名男子）的事件是一场悲剧。",
@@ -113,11 +102,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时31分]"
+        },
+        {
+          "title": "美国总统特朗普：哈马斯帮助找到最后一具以色列人质的遗体，他们现在必须解除武装。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3044149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时31分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的14.89亿美元。",
@@ -132,6 +135,18 @@
           "time_info": "[02时40分 ~ 03时26分]"
         },
         {
+          "title": "恒指期货夜盘收涨0.5%，报26883点，高水117点。",
+          "url": "https://flash.jin10.com/detail/20260127030036912800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 04时31分]"
+        },
+        {
           "title": "德国DAX 30指数初步收涨0.23%，报24957.94点。 法国股指初步收跌0.14%，意大利股指初步收涨0.30%、银行指数涨0.83%，英国股指初步收涨0.15%。 丹麦股指收涨0.14%，哥本哈根25指数涨0.67%。",
           "url": "https://wallstreetcn.com/livenews/3044116",
           "source": "华尔街见闻-快讯",
@@ -144,16 +159,16 @@
           "time_info": "[00时38分 ~ 01时33分]"
         },
         {
-          "title": "美国总统特朗普：哈马斯帮助找到最后一具以色列人质的遗体，他们现在必须解除武装。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3044149",
+          "title": "恒生指数主连夜盘收涨0.50%，报26883点。 恒生科技指数主连夜盘收涨0.30%，报5741点。",
+          "url": "https://wallstreetcn.com/livenews/3044160",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            9
+            3,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时26分]"
+          "time_info": "[03时26分 ~ 04时31分]"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.25%，报609.86点，成分股彪马涨17%，波兰铜业集团公司涨超8%表现第二。 欧元区STOXX 50指数初步收涨0.21%，报5960.91点。 富时泛欧绩优300指数初步收涨0.27%，报2429.88点。",
@@ -168,6 +183,31 @@
           "time_info": "[00时38分 ~ 01时33分]"
         },
         {
+          "title": "特朗普将于周二前往爱荷华州就美国经济发表演讲",
+          "url": "https://flash.jin10.com/detail/20260127025407678800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 04时31分]"
+        },
+        {
+          "title": "NYMEX天然气期货涨超33%，突破7美元/百万英热单位，创2022年12月以来盘中最高水平，因气温骤降导致油井冻结，产量降至两年来最低水平。 周一（1月26日）欧市尾盘，ICE英国天然气期货跌0.83%，TTF基准荷兰天然气期货涨1.40%，ICE欧盟碳排放交易许可（期货价格）跌1.44%。",
+          "url": "https://wallstreetcn.com/livenews/3044140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时31分]"
+        },
+        {
           "title": "金十图示：2026年01月26日（周一）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260127010319347800",
           "source": "金十数据",
@@ -178,6 +218,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时33分 ~ 02时40分]"
+        },
+        {
+          "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
+          "url": "https://flash.jin10.com/detail/20260127024854559800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 04时31分]"
         },
         {
           "title": "标普500日内涨幅达0.5%，报6953.46点，成分股苹果公司涨幅扩大至3%。 纳斯达克综合指数日内涨幅达0.5%，报23640.5点。",
@@ -216,6 +268,18 @@
           "time_info": "[01时33分 ~ 02时40分]"
         },
         {
+          "title": "美国白宫：总统特朗普并未承诺允许进行地方调查。",
+          "url": "https://flash.jin10.com/detail/20260127024457827800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 04时31分]"
+        },
+        {
           "title": "巴西：总统卢拉与美国总统特朗普通电话。 卢拉告知特朗普，所谓的“和平委员会”应当仅限于处置加沙问题。",
           "url": "https://wallstreetcn.com/livenews/3044121",
           "source": "华尔街见闻-快讯",
@@ -228,16 +292,51 @@
           "time_info": "[01时33分 ~ 02时40分]"
         },
         {
-          "title": "NYMEX天然气期货涨超33%，突破7美元/百万英热单位，创2022年12月以来盘中最高水平，因气温骤降导致油井冻结，产量降至两年来最低水平。 周一（1月26日）欧市尾盘，ICE英国天然气期货跌0.83%，TTF基准荷兰天然气期货涨1.40%，ICE欧盟碳排放交易许可（期货价格）跌1.44%。",
-          "url": "https://wallstreetcn.com/livenews/3044140",
-          "source": "华尔街见闻-快讯",
+          "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
+          "url": "https://www.cls.cn/detail/2270329",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时26分]"
+          "time_info": "[04时30分 ~ 04时31分]"
+        },
+        {
+          "title": "美国白宫：总统特朗普将于周二前往艾奥瓦州就经济发表演讲。",
+          "url": "https://flash.jin10.com/detail/20260127023746619800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 04时31分]"
+        },
+        {
+          "title": "美国白宫：总统特朗普希望明尼阿波利斯枪击事件的调查继续进行。",
+          "url": "https://flash.jin10.com/detail/20260127023132184800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 04时31分]"
+        },
+        {
+          "title": "美国白宫：总统特朗普在周一与沃尔兹（明尼苏达州州长）的通话中概述了恢复秩序的路径；如果实施这些措施，将不再需要海关和边境巡逻队。总统特朗普呼吁国会通过立法，废除“庇护城市”政策。",
+          "url": "https://flash.jin10.com/detail/20260127022628782800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 04时31分]"
         },
         {
           "title": "卢拉与特朗普通电话，讨论两国关系和委内瑞拉局势",
@@ -252,6 +351,17 @@
           "time_info": "[02时40分 ~ 03时26分]"
         },
         {
+          "title": "特朗普：与明州州长“想法相近” 将处理执法枪击事件",
+          "url": "https://flash.jin10.com/detail/20260127032830485800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2026年1月27日 周二",
           "url": "https://flash.jin10.com/detail/20260127000000000800",
           "source": "金十数据",
@@ -261,17 +371,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
-        },
-        {
-          "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
-          "url": "https://flash.jin10.com/detail/20260127024854559800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时26分"
         },
         {
           "title": "现货、期货白银双双突破117美元",
@@ -285,17 +384,6 @@
           "time_info": "02时40分"
         },
         {
-          "title": "美国白宫：总统特朗普并未承诺允许进行地方调查。",
-          "url": "https://flash.jin10.com/detail/20260127024457827800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
           "title": "美国总统特朗普：明尼苏达州长Tim Walz打电话给我。 这次通话很顺利。 Walz希望（联邦政府的移民执法部门与当地）合作。 我们俩将在不久的将来再次对话。",
           "url": "https://wallstreetcn.com/livenews/3044120",
           "source": "华尔街见闻-快讯",
@@ -307,17 +395,6 @@
           "time_info": "01时33分"
         },
         {
-          "title": "美国白宫：总统特朗普将于周二前往艾奥瓦州就经济发表演讲。",
-          "url": "https://flash.jin10.com/detail/20260127023746619800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
           "title": "美国天然气期货突破7美元/百万英热",
           "url": "https://flash.jin10.com/detail/20260127013347479800",
           "source": "金十数据",
@@ -327,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "白宫：特朗普“不希望任何美国人丧生”",
+          "url": "https://wallstreetcn.com/livenews/3044152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "巴西政府声明：巴西总统卢拉与美国总统特朗普就委内瑞拉问题进行了讨论，强调维护地区和平与稳定的重要性，总统卢拉同意不久访问华盛顿，总统卢拉向美国总统特朗普提议，将和平方案委员会的职权范围仅限于加沙问题。",
@@ -351,17 +439,6 @@
           "time_info": "01时33分"
         },
         {
-          "title": "美国白宫：总统特朗普希望明尼阿波利斯枪击事件的调查继续进行。",
-          "url": "https://flash.jin10.com/detail/20260127023132184800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
           "title": "美国总统特朗普：明尼苏达州州长蒂姆·沃尔兹致电我，请求在明尼苏达州问题上携手合作。这是一次非常棒的通话，而且我们实际上似乎心有灵犀。",
           "url": "https://flash.jin10.com/detail/20260127003839029800",
           "source": "金十数据",
@@ -371,17 +448,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
-        },
-        {
-          "title": "美国白宫：总统特朗普在周一与沃尔兹（明尼苏达州州长）的通话中概述了恢复秩序的路径；如果实施这些措施，将不再需要海关和边境巡逻队。总统特朗普呼吁国会通过立法，废除“庇护城市”政策。",
-          "url": "https://flash.jin10.com/detail/20260127022628782800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时26分"
         },
         {
           "title": "希腊雅典证交所综合指数收涨0.64%，报2279.70点，重新逼近2010年1月11日收盘位2315.31点和2009年11月11日顶部2685.71点。 2026年迄今，希腊股市已经累计上涨7.50%。",
@@ -474,6 +540,46 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时31分]"
+        },
+        {
+          "title": "金价飙升原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时31分]"
+        },
+        {
+          "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
+          "url": "https://flash.jin10.com/detail/20260127032144088800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -485,8 +591,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
@@ -496,8 +602,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
@@ -544,34 +650,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时26分]"
-        },
-        {
-          "title": "金价飙升原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -585,6 +663,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "沙特阿美发行40亿美元债券，为2026年首次销售债券。 据知情人士透露，这笔债券供应获得超过220亿美元认购，（久期最长的）30年期公司债收益率较可比美债高出1.3个百分点，较最初讨论的低大约25个基点。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3044170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
