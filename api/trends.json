@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T16:37:13.386551+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-01-26T17:38:11.380963+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 93,
+      "match_count": 104,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 16时37分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 17时38分]"
         },
         {
           "title": "多股应声涨停！本周披露并购重组进展的A股名单一览",
@@ -77,8 +78,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 16时37分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 17时38分]"
+        },
+        {
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时17分 ~ 17时38分]"
         },
         {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
@@ -92,19 +106,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时29分 ~ 12时17分]"
-        },
-        {
-          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
-          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时17分 ~ 16时37分]"
         },
         {
           "title": "10亿美元一席！特朗普任“主席”",
@@ -233,6 +234,17 @@
           "time_info": "[00时29分 ~ 06时23分]"
         },
         {
+          "title": "特朗普就加中贸易协定发出威胁，中方回应",
+          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 17时38分]"
+        },
+        {
           "title": "下周美联储决议前瞻：“暂停”是确定，不确定的是“鹰派还是鸽派暂停”",
           "url": "https://wallstreetcn.com/articles/3764097",
           "source": "华尔街见闻",
@@ -259,13 +271,24 @@
           "time_info": "[00时29分 ~ 06时23分]"
         },
         {
+          "title": "为什么现在科技热点是 GPU，不是 CPU 了？",
+          "url": "https://www.zhihu.com/question/651936550",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 17时38分]"
+        },
+        {
           "title": "金十图示：2026年01月26日（周一）全球股市指数-欧洲市场（盘初）",
           "url": "https://flash.jin10.com/detail/20260126161130460800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -383,6 +406,17 @@
           "time_info": "15时31分"
         },
         {
+          "title": "机构：日债与汇率波动加剧 日本央行面临政策困境",
+          "url": "https://flash.jin10.com/detail/20260126172126210800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "日本东证指数下跌2%至3557.05点。",
           "url": "https://wallstreetcn.com/livenews/3043564",
           "source": "华尔街见闻-快讯",
@@ -403,6 +437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "【智谱港股飙升13%，冲刺A股IPO】1月26日港股智谱股价再度走强，截至收盘报217港元/股，股价飙升13%。继H股上市后，智谱还将继续在A股“吸金”。近日，中国证监会官网更新了智谱公司的IPO辅导进展信息。根据公告，其辅导机构中金公司已递交了智谱的第三期IPO辅导工作进展情况报告，落款日期为2026年1月15日。这意味着，“大模型第一股”智谱在2026年1月8日完成港股上市后，仍在继续推进其A股上市计划。（21财经）",
+          "url": "https://wallstreetcn.com/livenews/3043872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "金十图示：2026年01月26日（周一）富时中国A50指数成分股今日收盘行情一览：洛阳钼业大涨超8%，石油、煤炭等板块表现较强",
@@ -449,6 +494,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 03时19分]"
+        },
+        {
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://wallstreetcn.com/articles/3764105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时31分 ~ 17时38分]"
         },
         {
           "title": "特朗普称现在阻止白宫宴会厅建设“为时已晚”",
@@ -537,17 +594,6 @@
           "time_info": "[05时22分 ~ 07时23分]"
         },
         {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://wallstreetcn.com/articles/3764105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 16时37分]"
-        },
-        {
           "title": "特朗普达沃斯演讲有何深意",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%BC%94%E8%AE%B2%E6%9C%89%E4%BD%95%E6%B7%B1%E6%84%8F",
           "source": "bilibili 热搜",
@@ -604,6 +650,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时23分]"
+        },
+        {
+          "title": "【每日收评】三大指数集体收跌，两市成交额连续2日突破3万亿，商业航天再陷整理",
+          "url": "https://www.cls.cn/detail/2269793",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 17时38分]"
         },
         {
           "title": "国债期货早盘开盘",
@@ -722,7 +780,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -744,7 +802,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -766,7 +824,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -826,6 +884,17 @@
           "time_info": "12时17分"
         },
         {
+          "title": "日本央行账目未明确显示日本周五是否干预了日元汇率。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3043856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "早盘收盘，国内期货主力合约大面积飘红，沪银涨超14%，铂涨超9%，钯涨超7%，集运欧线涨超5%，沪锡涨近5%，合成橡胶、燃油涨超4%，液化石油气（LPG）、沪金涨近4%，沪镍涨超3%。跌幅方面，碳酸锂跌超2%，纸浆跌1%，生猪、苹果跌近1%。",
           "url": "https://flash.jin10.com/detail/20260126113119340800",
           "source": "金十数据",
@@ -843,7 +912,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -903,6 +972,17 @@
           "time_info": "15时31分"
         },
         {
+          "title": "日本央行账目没有明确迹象显示上周五日元汇率变动由政府干预所致。",
+          "url": "https://flash.jin10.com/detail/20260126170244731800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "上证指数收报4132.61点，跌0.09%。 深证成指收报14316.64点，跌0.85%。 创业板指收报3319.15点，跌0.91%。 沪深300收报4706.96点，涨0.10%。 科创50收报1532.80点，跌1.35%。 中证500收报8506.69点，跌0.97%。 中证1000收报8365.43点，跌1.24%。",
           "url": "https://wallstreetcn.com/livenews/3043751",
           "source": "华尔街见闻-快讯",
@@ -958,6 +1038,28 @@
           "time_info": "10时04分"
         },
         {
+          "title": "德国1月IFO商业预期指数 89.5，预期 90.3，前值 89.7。",
+          "url": "https://wallstreetcn.com/livenews/3043851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "德国1月IFO商业现况指数 85.7，预期 86，前值 85.6。",
+          "url": "https://wallstreetcn.com/livenews/3043850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "上证指数开盘报4144.78点，涨0.21%。 深证成指开盘报14492.42点，涨0.37%。 创业板指开盘报3365.61点，涨0.48%。 沪深300开盘报4715.38点，涨0.27%。 科创50开盘报1556.57点，涨0.18%。 中证500开盘报8624.89点，涨0.40%。 中证1000开盘报8513.22点，涨0.50%。",
           "url": "https://wallstreetcn.com/livenews/3043533",
           "source": "华尔街见闻-快讯",
@@ -967,6 +1069,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "德国1月IFO商业景气指数 87.6，预期 88.2，前值 87.6。",
+          "url": "https://wallstreetcn.com/livenews/3043849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "恒指高开0.35%，报26844.04点；恒生科技指数涨0.05%。泡泡玛特涨超4%，紫金矿业涨近3%，腾讯音乐涨近2%；百度跌近2%，小鹏汽车跌1.8%。",
@@ -1057,6 +1170,17 @@
           "time_info": "13时35分"
         },
         {
+          "title": "南非兰特兑美元汇率自2022年以来首次升破16",
+          "url": "https://wallstreetcn.com/livenews/3043840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "A股大金融板块集体走强，财通证券冲击涨停，兴业证券、新华保险、中国太保、宁波银行涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3043612",
           "source": "华尔街见闻-快讯",
@@ -1102,11 +1226,26 @@
           "ranks": [
             6,
             13,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时17分 ~ 16时37分]"
+          "appearance_count": 9,
+          "time_info": "[12时17分 ~ 17时38分]"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时17分 ~ 17时38分]"
         },
         {
           "title": "杨德龙：国际金价下一目标价1万美元",
@@ -1121,20 +1260,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时17分 ~ 15时31分]"
-        },
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时17分 ~ 16时37分]"
         },
         {
           "title": "挺进5000美元！金价出现泡沫了吗？丨Hi，今天怎么看？",
@@ -1228,7 +1353,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -1240,6 +1365,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时17分 ~ 14时41分]"
+        },
+        {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 17时38分]"
         },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
@@ -1265,6 +1401,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "贝克休斯美股盘前涨超3%，此前公司报告第四季度调整后利润高于预期。",
+          "url": "https://flash.jin10.com/detail/20260126172109775800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
+          "url": "https://wallstreetcn.com/livenews/3043857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3043852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         }
       ]
     },
@@ -1278,11 +1447,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时41分 ~ 16时37分]"
+          "appearance_count": 6,
+          "time_info": "[14时41分 ~ 17时38分]"
         },
         {
           "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
