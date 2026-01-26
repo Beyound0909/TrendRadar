@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T13:35:07.376587+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-01-26T14:41:23.133153+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 69,
+      "match_count": 78,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 13时35分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 14时41分]"
         },
         {
           "title": "多股应声涨停！本周披露并购重组进展的A股名单一览",
@@ -77,8 +77,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 13时35分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 14时41分]"
         },
         {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
@@ -167,6 +167,18 @@
           "time_info": "[10时04分 ~ 13时35分]"
         },
         {
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 14时41分]"
+        },
+        {
           "title": "美国财长贝森特：特朗普很看重北约。",
           "url": "https://flash.jin10.com/detail/20260125225503860800",
           "source": "金十数据",
@@ -199,18 +211,6 @@
           "url": "https://www.cls.cn/detail/2268929",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 13时35分]"
-        },
-        {
-          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
-          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
-          "source": "凤凰网",
-          "ranks": [
-            5,
             4
           ],
           "is_new": false,
@@ -272,6 +272,21 @@
           "time_info": "[00时29分 ~ 07时23分]"
         },
         {
+          "title": "今日重点关注的财经数据与事件：2026年1月26日 周一",
+          "url": "https://flash.jin10.com/detail/20260126000000001800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16,
+            21,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时27分 ~ 14时41分]"
+        },
+        {
           "title": "金十整理：下周重要事件与数据预告——美联储决议重磅来袭，苹果、微软、特斯拉财报相继发布",
           "url": "https://flash.jin10.com/detail/20260125214440737800",
           "source": "金十数据",
@@ -309,6 +324,28 @@
           "time_info": "[00时29分 ~ 05时22分]"
         },
         {
+          "title": "WTI原油期货日内涨超1.00%，现报61.69美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260126142855194800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "日经225指数收跌1.8%，报52885.25点。 日本东证指数收跌2.1%，报3552.49点。 韩国首尔综指收跌0.8%，报4949.59点。",
+          "url": "https://wallstreetcn.com/livenews/3043728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "日本东证指数下跌2%至3557.05点。",
           "url": "https://wallstreetcn.com/livenews/3043564",
           "source": "华尔街见闻-快讯",
@@ -331,18 +368,15 @@
           "time_info": "10时04分"
         },
         {
-          "title": "今日重点关注的财经数据与事件：2026年1月26日 周一",
-          "url": "https://flash.jin10.com/detail/20260126000000001800",
-          "source": "金十数据",
+          "title": "越南VN指数下跌1%，至1851.84 点。",
+          "url": "https://wallstreetcn.com/livenews/3043725",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            16,
-            21,
             5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时27分 ~ 07时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "六大机构A股最新研判来了",
@@ -408,6 +442,18 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
+          "title": "下周美联储决议前瞻：“暂停”是确定，不确定的是“鹰派还是鸽派暂停”",
+          "url": "https://wallstreetcn.com/articles/3764097",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 14时41分]"
+        },
+        {
           "title": "俄总统新闻秘书：欧洲政坛“弱势一代”无法抵挡特朗普的强势",
           "url": "https://flash.jin10.com/detail/20260125194457069800",
           "source": "金十数据",
@@ -432,18 +478,6 @@
           "time_info": "[05时22分 ~ 07时23分]"
         },
         {
-          "title": "下周美联储决议前瞻：“暂停”是确定，不确定的是“鹰派还是鸽派暂停”",
-          "url": "https://wallstreetcn.com/articles/3764097",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 13时35分]"
-        },
-        {
           "title": "特朗普达沃斯演讲有何深意",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%BC%94%E8%AE%B2%E6%9C%89%E4%BD%95%E6%B7%B1%E6%84%8F",
           "source": "bilibili 热搜",
@@ -455,6 +489,18 @@
           "time_info": "[13时34分 ~ 13时35分]"
         },
         {
+          "title": "A股商业航天板块午后持续走低，海格通信、航天动力、润贝航科、沃格光电、江顺科技等股跌停。",
+          "url": "https://wallstreetcn.com/livenews/3043688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 14时41分]"
+        },
+        {
           "title": "特朗普的唐罗主义是什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E5%94%90%E7%BD%97%E4%B8%BB%E4%B9%89%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -464,6 +510,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时34分 ~ 13时35分]"
+        },
+        {
+          "title": "A股生物医药板块持续走强，迈克生物、凯普生物、科华生物午后涨停，之江生物、达安基因此前封板，万孚生物、百普赛斯、东方生物、硕世生物涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3043687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 14时41分]"
         },
         {
           "title": "大众CEO：若特朗普不削减关税，奥迪美国工厂计划可能搁置",
@@ -489,17 +547,6 @@
           "time_info": "10时04分"
         },
         {
-          "title": "A股商业航天板块午后持续走低，海格通信、航天动力、润贝航科、沃格光电、江顺科技等股跌停。",
-          "url": "https://wallstreetcn.com/livenews/3043688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
-        },
-        {
           "title": "美国总统特朗普敦促国会终止庇护城市政策，并呼吁明尼苏达州州长沃尔兹在执法方面予以合作。",
           "url": "https://flash.jin10.com/detail/20260126064839967800",
           "source": "金十数据",
@@ -520,17 +567,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
-        },
-        {
-          "title": "A股生物医药板块持续走强，迈克生物、凯普生物、科华生物午后涨停，之江生物、达安基因此前封板，万孚生物、百普赛斯、东方生物、硕世生物涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3043687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
         },
         {
           "title": "美日干预叠加政府关门预期，美元走低日元急升，黄金突破5000美元，纳指期货跌1%，美天然气期货涨16%",
@@ -577,6 +613,17 @@
           "time_info": "10时04分"
         },
         {
+          "title": "李家超：将在港推出离岸国债期货、拓展“沪深港通”下的利率衍生品业务",
+          "url": "https://wallstreetcn.com/livenews/3043720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "上证指数早盘收报4141.01点，涨0.12%。 深证成指早盘收报14332.86点，跌0.74%。 创业板指早盘收报3320.81点，跌0.86%。 沪深300早盘收报4715.12点，涨0.27%。 科创50早盘收报1538.21点，跌1.00%。 中证500早盘收报8522.32点，跌0.79%。 中证1000早盘收报8365.64点，跌1.24%。",
           "url": "https://wallstreetcn.com/livenews/3043644",
           "source": "华尔街见闻-快讯",
@@ -586,6 +633,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "A股又突然跳水了",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%88%E7%AA%81%E7%84%B6%E8%B7%B3%E6%B0%B4%E4%BA%86%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "国债期货早盘收盘",
@@ -605,7 +663,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         },
@@ -687,6 +745,17 @@
           "time_info": "10时04分"
         },
         {
+          "title": "A股机器人概念股震荡走低，浙江荣泰午后跌停，力星股份、昊志机电、奕帆传动跌超10%，国机精工、步科股份等跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3043711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "美国天然气期货涨幅扩大至18%，至6.28美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20260126091133788800",
           "source": "金十数据",
@@ -742,6 +811,39 @@
           "time_info": "10时04分"
         },
         {
+          "title": "台湾证交所加权股价指数收涨0.3%报32,064.52点。",
+          "url": "https://wallstreetcn.com/livenews/3043697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "特朗普就移民执法人员枪杀美公民发声",
+          "url": "https://www.toutiao.com/trending/7599204696355504171/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "前白宫新闻秘书喊话特朗普",
+          "url": "https://www.toutiao.com/trending/7599500906279288851/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "泰国期货交易所宣布暂停美元/日元期货以及白银在线期货交易。",
           "url": "https://wallstreetcn.com/livenews/3043617",
           "source": "华尔街见闻-快讯",
@@ -781,7 +883,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         },
@@ -825,6 +927,19 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "杨德龙：国际金价下一目标价1万美元",
+          "url": "https://www.toutiao.com/trending/7599480136756366899/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 14时41分]"
+        },
+        {
           "title": "挺进5000美元！金价出现泡沫了吗？丨Hi，今天怎么看？",
           "url": "https://flash.jin10.com/detail/20260126094037137800",
           "source": "金十数据",
@@ -847,16 +962,29 @@
           "time_info": "12时17分"
         },
         {
-          "title": "杨德龙：国际金价下一目标价1万美元",
-          "url": "https://www.toutiao.com/trending/7599480136756366899/",
-          "source": "今日头条",
+          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
+          "url": "https://www.zhihu.com/question/1999025860699710314",
+          "source": "知乎",
           "ranks": [
-            18,
-            4
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 13时35分]"
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 14时41分]"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 14时41分]"
         },
         {
           "title": "国际金价突破5000美元关口",
@@ -868,29 +996,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时04分 ~ 13时35分]"
-        },
-        {
-          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
-          "url": "https://www.zhihu.com/question/1999025860699710314",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 13时35分]"
-        },
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 13时35分]"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1%。百度、小鹏汽车、快手跌超3%。 老铺黄金股价一度上涨14%，受黄金价格上涨等提振。",
@@ -928,6 +1033,34 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 13时35分]"
+        },
+        {
+          "title": "知情人士透露 deepseek 即将发布 V4 新模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -939,8 +1072,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 13时35分]"
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 14时41分]"
         },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
@@ -955,23 +1088,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 06时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
-          "url": "https://www.zhihu.com/question/1993355026530317494",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 13时35分]"
         }
       ]
     },
