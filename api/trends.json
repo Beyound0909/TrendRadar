@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T05:27:42.327836+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-01-27T06:27:10.605133+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 61,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时27分]"
         },
         {
           "title": "【每日收评】三大指数集体收跌，两市成交额连续2日突破3万亿，商业航天再陷整理",
@@ -26,8 +26,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时27分]"
+        },
+        {
+          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
+          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时27分]"
+        },
+        {
+          "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32465454",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时27分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -41,81 +63,48 @@
           "time_info": "[00时38分 ~ 05时27分]"
         },
         {
-          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
-          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时27分]"
-        },
-        {
-          "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32465454",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时27分]"
-        },
-        {
-          "title": "富时罗素拟简化海外公司加入伦敦蓝筹股指数的流程",
-          "url": "https://wallstreetcn.com/livenews/3044196",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：边境事务主管汤姆·霍曼将于周二与明尼阿波利斯市长会面，以继续讨论有关事宜。",
+          "url": "https://flash.jin10.com/detail/20260127061943374800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "06时27分"
         },
         {
-          "title": "特朗普提议维持医疗保险向保险公司支付的费率不变",
-          "url": "https://flash.jin10.com/detail/20260127051213344800",
+          "title": "美国总统特朗普：与明尼阿波利斯市长雅各布·弗雷进行了非常良好的电话交谈。",
+          "url": "https://flash.jin10.com/detail/20260127061856226800",
           "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "06时27分"
         },
         {
-          "title": "阿根廷MERVAL指数收涨1.15%，报312.9万点。",
-          "url": "https://wallstreetcn.com/livenews/3044194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "周一（1月26日），彭博电动汽车价格回报指数跌0.36%，报3695.94点。",
-          "url": "https://wallstreetcn.com/livenews/3044193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "富时罗素拟简化海外公司加入伦敦蓝筹股指数的流程",
-          "url": "https://flash.jin10.com/detail/20260127050702822800",
+          "title": "美国总统特朗普：委内瑞拉正在快速释放政治犯，而且这个速度将在不久的将来加快。我要感谢委内瑞拉领导层同意采取这一强有力的举措。",
+          "url": "https://flash.jin10.com/detail/20260127061014779800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
+          "url": "https://www.cls.cn/detail/2270329",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时30分 ~ 06时27分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，上周日在明尼苏达州发生（联邦移民执法官员枪杀一名男子）的事件是一场悲剧。",
@@ -181,6 +170,18 @@
           "time_info": "[04时31分 ~ 05时27分]"
         },
         {
+          "title": "富时罗素拟简化海外公司加入伦敦蓝筹股指数的流程",
+          "url": "https://wallstreetcn.com/livenews/3044196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的14.89亿美元。",
           "url": "https://flash.jin10.com/detail/20260127021804913800",
           "source": "金十数据",
@@ -217,6 +218,18 @@
           "time_info": "[03时26分 ~ 04时31分]"
         },
         {
+          "title": "特朗普提议维持医疗保险向保险公司支付的费率不变",
+          "url": "https://flash.jin10.com/detail/20260127051213344800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
+        },
+        {
           "title": "德国DAX 30指数初步收涨0.23%，报24957.94点。 法国股指初步收跌0.14%，意大利股指初步收涨0.30%、银行指数涨0.83%，英国股指初步收涨0.15%。 丹麦股指收涨0.14%，哥本哈根25指数涨0.67%。",
           "url": "https://wallstreetcn.com/livenews/3044116",
           "source": "华尔街见闻-快讯",
@@ -227,6 +240,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时33分]"
+        },
+        {
+          "title": "阿根廷MERVAL指数收涨1.15%，报312.9万点。",
+          "url": "https://wallstreetcn.com/livenews/3044194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.25%，报609.86点，成分股彪马涨17%，波兰铜业集团公司涨超8%表现第二。 欧元区STOXX 50指数初步收涨0.21%，报5960.91点。 富时泛欧绩优300指数初步收涨0.27%，报2429.88点。",
@@ -241,6 +266,18 @@
           "time_info": "[00时38分 ~ 01时33分]"
         },
         {
+          "title": "周一（1月26日），彭博电动汽车价格回报指数跌0.36%，报3695.94点。",
+          "url": "https://wallstreetcn.com/livenews/3044193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
+        },
+        {
           "title": "特朗普将于周二前往爱荷华州就美国经济发表演讲",
           "url": "https://flash.jin10.com/detail/20260127025407678800",
           "source": "金十数据",
@@ -251,6 +288,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 04时31分]"
+        },
+        {
+          "title": "富时罗素拟简化海外公司加入伦敦蓝筹股指数的流程",
+          "url": "https://flash.jin10.com/detail/20260127050702822800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
         },
         {
           "title": "NYMEX天然气期货涨超33%，突破7美元/百万英热单位，创2022年12月以来盘中最高水平，因气温骤降导致油井冻结，产量降至两年来最低水平。 周一（1月26日）欧市尾盘，ICE英国天然气期货跌0.83%，TTF基准荷兰天然气期货涨1.40%，ICE欧盟碳排放交易许可（期货价格）跌1.44%。",
@@ -266,15 +315,27 @@
           "time_info": "[02时40分 ~ 04时31分]"
         },
         {
-          "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
-          "url": "https://www.cls.cn/detail/2270329",
-          "source": "财联社热门",
+          "title": "金十图示：2026年01月26日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260127050542615800",
+          "source": "金十数据",
           "ranks": [
-            13
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时30分 ~ 05时27分]"
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 06时27分]"
         },
         {
           "title": "金十图示：2026年01月26日（周一）全球股市指数-欧洲市场（收盘）",
@@ -299,6 +360,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普政府提议维持联邦医疗保险优势计划（Medicare Advantage）费率不变。",
+          "url": "https://flash.jin10.com/detail/20260127050517298800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
         },
         {
           "title": "标普500日内涨幅达0.5%，报6953.46点，成分股苹果公司涨幅扩大至3%。 纳斯达克综合指数日内涨幅达0.5%，报23640.5点。",
@@ -373,6 +446,18 @@
           "time_info": "[03时26分 ~ 04时31分]"
         },
         {
+          "title": "芝加哥小麦期货跌超1.3%，豆粕跌约2%，纽约可可反弹超2.9%",
+          "url": "https://wallstreetcn.com/livenews/3044177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
+        },
+        {
           "title": "美国白宫：总统特朗普希望明尼阿波利斯枪击事件的调查继续进行。",
           "url": "https://flash.jin10.com/detail/20260127023132184800",
           "source": "金十数据",
@@ -409,15 +494,15 @@
           "time_info": "[02时40分 ~ 03时26分]"
         },
         {
-          "title": "金十图示：2026年01月26日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260127050542615800",
+          "title": "美联储本周维持利率不变的概率为97.2%",
+          "url": "https://flash.jin10.com/detail/20260127060556505800",
           "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "06时27分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，小马智行初步收跌5.9%，再鼎医药跌3.7%，新东方跌3.4%，百度跌3.4%，小鹏跌2.3%，文远知行跌1.9%，携程涨1.7%，亚朵涨2.1%，世纪互联涨2.7%，金山云涨8.2%，万国数据涨8.5%。",
@@ -426,7 +511,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -442,15 +527,37 @@
           "time_info": "04时31分"
         },
         {
+          "title": "特朗普：将韩国对等关税从15%提高至25%",
+          "url": "https://flash.jin10.com/detail/20260127060420841800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
           "title": "标普500指数初步收涨0.5%，电信板块涨1.3%，科技板块涨0.9%，可选消费板块跌0.6%。 纳斯达克100指数初步收涨0.4%，成分股中，Atlassian涨超5%，贝克休斯涨4.4%，希捷科技涨3.8%，CrowdStrike涨3.4%，思科涨3.1%，苹果涨2.9%，核电股CEG、Strategy则收跌超1%，美光科技跌2.4%，特斯拉跌3%，AMD跌3.4%，英特尔跌5.6%。 思科初步收涨3.2%，和苹果领跑道指成分股，亚马逊则跌0.3%，英伟达跌0.6%，波音跌1.4%，3M跌1.7%。",
           "url": "https://wallstreetcn.com/livenews/3044187",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "周一（1月26日），降息赢家指数跌0.25%，报104.45点。 “特朗普关税输家”指数跌1.04%，报115.08点。 “特朗普金融指数”涨0.47%，报172.37点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.20%，报15.35点。",
+          "url": "https://wallstreetcn.com/livenews/3044205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年1月27日 周二",
@@ -464,15 +571,26 @@
           "time_info": "00时38分"
         },
         {
-          "title": "特朗普政府提议维持联邦医疗保险优势计划（Medicare Advantage）费率不变。",
-          "url": "https://flash.jin10.com/detail/20260127050517298800",
+          "title": "美国总统特朗普：我在此宣布，将韩国的汽车、木材、药品以及所有其他对等关税的税率从15%提高到25%。",
+          "url": "https://flash.jin10.com/detail/20260127055847932800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美国总统特朗普：韩国立法机构没有履行其与美国达成的协议。",
+          "url": "https://flash.jin10.com/detail/20260127055756231800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "现货、期货白银双双突破117美元",
@@ -492,9 +610,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "民调显示特朗普移民政策支持率创其本届任期内新低",
+          "url": "https://flash.jin10.com/detail/20260127055110903800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "美国总统特朗普：明尼苏达州长Tim Walz打电话给我。 这次通话很顺利。 Walz希望（联邦政府的移民执法部门与当地）合作。 我们俩将在不久的将来再次对话。",
@@ -514,7 +643,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -541,17 +670,6 @@
           "time_info": "04时31分"
         },
         {
-          "title": "芝加哥小麦期货跌超1.3%，豆粕跌约2%，纽约可可反弹超2.9%",
-          "url": "https://wallstreetcn.com/livenews/3044177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
           "title": "巴西政府声明：巴西总统卢拉与美国总统特朗普就委内瑞拉问题进行了讨论，强调维护地区和平与稳定的重要性，总统卢拉同意不久访问华盛顿，总统卢拉向美国总统特朗普提议，将和平方案委员会的职权范围仅限于加沙问题。",
           "url": "https://flash.jin10.com/detail/20260127004525703800",
           "source": "金十数据",
@@ -569,9 +687,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "民调显示特朗普移民政策支持率创其本届任期内新低",
+          "url": "https://wallstreetcn.com/livenews/3044213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "巴西政府声明：巴西总统卢拉于周一与美国总统特朗普通话。",
@@ -596,6 +725,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "金十图示：2026年01月26日（周一）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260127052119268800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
           "title": "希腊雅典证交所综合指数收涨0.64%，报2279.70点，重新逼近2010年1月11日收盘位2315.31点和2009年11月11日顶部2685.71点。 2026年迄今，希腊股市已经累计上涨7.50%。",
           "url": "https://wallstreetcn.com/livenews/3044095",
           "source": "华尔街见闻-快讯",
@@ -618,13 +758,24 @@
           "time_info": "00时38分"
         },
         {
+          "title": "纳斯达克金龙中国指数收跌0.63%，报7828.96点。 热门中概股里，小马智行初步收跌5.9%，再鼎医药跌3.7%，新东方跌3.4%，百度跌3.4%，小鹏跌2.3%，文远知行跌1.9%，携程涨1.7%，亚朵涨2.1%，世纪互联涨2.7%，金山云涨8.2%，万国数据涨8.5%。 ETF中，中国科技指数ETF（CQQQ）收跌1.07%，中概互联网指数ETF（KWEB）收跌0.22%。 XtrackersHarvest中证50（ASHS）收跌0.70%，德银嘉实沪深300指数ETF（ASHR）收涨0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3044189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
           "title": "特朗普政府表示正在重组联邦航空管理局的架构，将把安全活动集中到一个办公室。",
           "url": "https://flash.jin10.com/detail/20260127042724482800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -640,13 +791,24 @@
           "time_info": "00时38分"
         },
         {
+          "title": "标普500指数收涨34.62点，涨幅0.50%，报6950.23点。 道琼斯工业平均指数收涨313.69点，涨幅0.64%，报49412.40点。 纳斯达克综合指数（纳指）收涨100.12点，涨幅0.43%，报23601.356点。 纳斯达克100指数收涨107.744点，涨幅0.42%，报25713.21点。",
+          "url": "https://wallstreetcn.com/livenews/3044187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
           "title": "特朗普认为伊朗希望达成协议",
           "url": "https://flash.jin10.com/detail/20260127042710644800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -709,7 +871,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -730,19 +892,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时27分]"
         },
         {
-          "title": "网络股指数ETF收涨超1.5%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3044195",
-          "source": "华尔街见闻-快讯",
+          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 06时27分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
@@ -758,26 +920,73 @@
           "time_info": "[01时33分 ~ 03时26分]"
         },
         {
+          "title": "网络股指数ETF收涨超1.5%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3044195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
+        },
+        {
           "title": "金十图示：2026年01月26日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260127050540534800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
         },
         {
           "title": "金十图示：2026年01月26日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260127050519889800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
+        },
+        {
+          "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普称将韩国对等关税从15%提高至25%。",
+          "url": "https://flash.jin10.com/detail/20260127060902912800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "06时27分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.42%，报436.27点，高开之后持续高位震荡，北京时间01:44开始持续回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.01%，报3069.65点，美股开盘之前维持微幅上涨状态——持续交投于3050点一线，后续走势与费城金银指数一致。 （美股）原材料指数收跌1.29%，报261.86点，整体高开低走。 （美股）金属与矿业指数收跌1.87%，报247.73点，走势与原材料指数类似。",
+          "url": "https://wallstreetcn.com/livenews/3044207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "联合健康美股盘后跳水超9%，CVS跌超10%，投资者关注与医疗保健费率相关的报道。",
+          "url": "https://wallstreetcn.com/livenews/3044203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "美股收盘：三大股指收涨 苹果涨近3%",
@@ -786,9 +995,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜苹果收涨将近3%，Meta涨2%，特斯拉跌约3.1%",
+          "url": "https://wallstreetcn.com/livenews/3044197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         }
       ]
     },
@@ -801,11 +1021,12 @@
           "url": "https://flash.jin10.com/detail/20260127050513890800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
         },
         {
           "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
@@ -825,7 +1046,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -836,7 +1057,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         }
@@ -854,8 +1075,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时27分]"
         },
         {
           "title": "金价飙升原因找到了",
@@ -866,8 +1087,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时27分]"
         },
         {
           "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
@@ -932,11 +1153,12 @@
           "url": "https://wallstreetcn.com/livenews/3044182",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
         }
       ]
     },
