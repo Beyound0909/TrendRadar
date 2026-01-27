@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T22:34:43.319839+08:00",
-  "total_titles_processed": 2019,
+  "generated_at": "2026-01-27T23:34:02.730059+08:00",
+  "total_titles_processed": 2119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 198,
+      "match_count": 221,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -66,19 +66,6 @@
           "time_info": "[00时38分 ~ 07时26分]"
         },
         {
-          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时25分 ~ 22时34分]"
-        },
-        {
           "title": "韩国人还在睡梦中，特朗普突然下手了",
           "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
           "source": "凤凰网",
@@ -90,6 +77,32 @@
           "time_info": "[10时01分 ~ 15时31分]"
         },
         {
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[07时25分 ~ 23时34分]"
+        },
+        {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时36分 ~ 23时34分]"
+        },
+        {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
           "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
           "source": "凤凰网",
@@ -99,6 +112,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时38分 ~ 07时26分]"
+        },
+        {
+          "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
+          "url": "https://www.cls.cn/detail/2271239",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时36分 ~ 23时34分]"
         },
         {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
@@ -123,8 +150,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时36分 ~ 22时34分]"
+          "appearance_count": 12,
+          "time_info": "[16时36分 ~ 23时34分]"
         },
         {
           "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
@@ -140,18 +167,6 @@
           "time_info": "[14时39分 ~ 20时56分]"
         },
         {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时36分 ~ 22时34分]"
-        },
-        {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
           "url": "https://wallstreetcn.com/articles/3764157",
           "source": "华尔街见闻",
@@ -161,20 +176,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时38分 ~ 05时27分]"
-        },
-        {
-          "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
-          "url": "https://www.cls.cn/detail/2271239",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时36分 ~ 22时34分]"
         },
         {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
@@ -217,9 +218,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "Prosus于1月19-23日当周按均价51.0528欧元回购股票182万。",
+          "url": "https://wallstreetcn.com/livenews/3044861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
@@ -284,9 +296,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "美联储：为期两天的FOMC货币政策会议开幕。",
+          "url": "https://wallstreetcn.com/livenews/3044858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "多家汇率追踪网站显示，伊朗里亚尔兑美元汇率跌至创纪录低点，为150万里亚尔兑1美元。",
@@ -955,6 +978,17 @@
           "time_info": "[21时51分 ~ 22时34分]"
         },
         {
+          "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
+          "url": "https://www.cls.cn/detail/2271670",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时33分 ~ 23时34分]"
+        },
+        {
           "title": "美国天然气期货飙升逾25%，续创三年新高。",
           "url": "https://flash.jin10.com/detail/20260127010019362800",
           "source": "金十数据",
@@ -1114,9 +1148,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "金十图示：2026年01月27日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260127230139480800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "美国11月FHFA房价指数环比 0.6%，预期 0.3%，前值 0.4%。",
@@ -1125,9 +1170,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "美国1月里士满联储制造业指数 -6，预期 -5，前值 -7。",
+          "url": "https://wallstreetcn.com/livenews/3044856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "美国1月谘商会消费者信心指数录得84.5，为2014年5月以来新低。",
+          "url": "https://flash.jin10.com/detail/20260127230139072800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，小马智行初步收跌5.9%，再鼎医药跌3.7%，新东方跌3.4%，百度跌3.4%，小鹏跌2.3%，文远知行跌1.9%，携程涨1.7%，亚朵涨2.1%，世纪互联涨2.7%，金山云涨8.2%，万国数据涨8.5%。",
@@ -1169,7 +1236,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1213,9 +1280,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "美国1月谘商会消费者预期指数 65.1，前值 70.7。",
+          "url": "https://wallstreetcn.com/livenews/3044854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "股指期货早盘开盘",
@@ -1240,6 +1318,17 @@
           "time_info": "19时26分"
         },
         {
+          "title": "美国1月谘商会消费者预期指数 65.1，前值70.7。",
+          "url": "https://flash.jin10.com/detail/20260127230106794800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "行业景气度回暖叠加政策利好，逾50家生物医药A股公司2025年业绩预盈",
           "url": "https://wallstreetcn.com/livenews/3044226",
           "source": "华尔街见闻-快讯",
@@ -1262,6 +1351,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "美国1月谘商会消费者现况指数 113.7，前值 116.8。",
+          "url": "https://wallstreetcn.com/livenews/3044853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "韩国贸易特使：韩国政府仍在努力弄清美国总统特朗普的信息和措施的背景。",
           "url": "https://flash.jin10.com/detail/20260127130628798800",
           "source": "金十数据",
@@ -1271,6 +1371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "美国1月里奇蒙德联储服务业收入指数 -3，前值-6。",
+          "url": "https://flash.jin10.com/detail/20260127230057643800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "中证转债指数低开0.02%。鼎龙转债涨超4%，龙大转债涨近3%，煜邦转债、鼎捷转债、神通转债等涨超2%；运机转债跌超4%，浙矿转债跌近4%。",
@@ -1290,9 +1401,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "美国1月谘商会消费者信心指数 84.5，预期 90.6，前值 89.1。",
+          "url": "https://wallstreetcn.com/livenews/3044852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "现货、期货白银双双突破117美元",
@@ -1323,9 +1445,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "美国1月谘商会消费者现况指数 113.7，前值116.8。",
+          "url": "https://flash.jin10.com/detail/20260127230055069800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "上证指数开盘报4125.22点，跌0.18%。 深证成指开盘报14283.78点，跌0.23%。 创业板指开盘报3316.02点，跌0.09%。 沪深300开盘报4705.17点，跌0.04%。 科创50开盘报1530.07点，跌0.18%。 中证500开盘报8464.65点，跌0.49%。 中证1000开盘报8325.43点，跌0.48%。",
@@ -1367,9 +1500,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨跌不一，沥青涨超1%，棕榈油、豆油、聚丙烯、丙烯小幅上涨。跌幅方面，BR橡胶跌超2%，焦炭、焦煤、短纤液化气跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260127230040182800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "美国总统特朗普：明尼苏达州长Tim Walz打电话给我。 这次通话很顺利。 Walz希望（联邦政府的移民执法部门与当地）合作。 我们俩将在不久的将来再次对话。",
@@ -1422,7 +1566,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1466,9 +1610,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "美国1月里奇蒙德联储制造业装船指数 -5，前值-11。",
+          "url": "https://flash.jin10.com/detail/20260127230036431800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "特朗普称提高对韩国多种商品关税税率至25%",
@@ -1510,9 +1665,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "美国1月里奇蒙德联储制造业指数 -6，前值-7。",
+          "url": "https://flash.jin10.com/detail/20260127230036409800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "上证指数收报4139.90点，涨0.18%。 深证成指收报14329.91点，涨0.09%。 创业板指收报3342.60点，涨0.71%。 沪深300收报4705.69点，跌0.03%。 科创50收报1555.98点，涨1.51%。 中证500收报8548.93点，涨0.50%。 中证1000收报8382.15点，涨0.20%。",
@@ -1565,9 +1731,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "美国1月谘商会消费者信心指数 84.5，预期90.9，前值89.1。",
+          "url": "https://flash.jin10.com/detail/20260127230002426800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "白宫：特朗普“不希望任何美国人丧生”",
@@ -1642,7 +1819,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1675,7 +1852,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1730,7 +1907,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1796,7 +1973,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1851,7 +2028,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1865,6 +2042,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "中概指数涨超1%，金山云涨约12%，阿里涨约3%",
+          "url": "https://wallstreetcn.com/livenews/3044840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "波罗的海干散货指数涨12.30%，至1999点。",
@@ -1983,9 +2171,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "金十图示：2026年01月27日（周二）华尔街恐惧与贪婪指数（美盘初）",
+          "url": "https://flash.jin10.com/detail/20260127225417156800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "台湾证交所加权股价指数开盘变动不大，报32,095.08点。",
@@ -2032,6 +2231,17 @@
           "time_info": "18时31分"
         },
         {
+          "title": "日本财务大臣：如有必要，将与美国协调对汇率波动采取适当行动",
+          "url": "https://wallstreetcn.com/livenews/3044837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "金十图示：2026年01月27日（周二）富时中国A50指数成分股今日收盘行情一览：午后盘面整体走弱，煤炭、酿酒板块跌幅居前",
           "url": "https://flash.jin10.com/detail/20260127150356246800",
           "source": "金十数据",
@@ -2054,6 +2264,17 @@
           "time_info": "17时36分"
         },
         {
+          "title": "纳斯达克金龙中国指数盘初涨超0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3044832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "股指期货午盘收盘",
           "url": "https://flash.jin10.com/detail/20260127150140374800",
           "source": "金十数据",
@@ -2063,6 +2284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "市场消息：特朗普政府因委内瑞拉海岸附近一起船只袭击事件造成两人死亡而遭起诉。",
+          "url": "https://flash.jin10.com/detail/20260127225034479800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "商品期货开盘，铂主力合约跌超8%，碳酸锂跌超5%，钯跌超4%，沪锡跌超3%，沪镍跌超2%。沪银涨超3%。",
@@ -2148,9 +2380,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "美国1月谘商会消费者信心指数、里奇蒙德联储制造业指数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260127225000000800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "美国总统特朗普考虑对州燃油税设置上限。（纽约邮报）",
@@ -2208,6 +2451,17 @@
           "time_info": "18时31分"
         },
         {
+          "title": "通用汽车涨4%，通用汽车公布业绩，预计2026年调整后EPS为11-13美元，分析师预期11.79美元；公司批准60亿美元新版股票回购授权。",
+          "url": "https://wallstreetcn.com/livenews/3044835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "美国1月达拉斯联储制造业就业指数 8.2，前值-1.1。",
           "url": "https://flash.jin10.com/detail/20260126233149973800",
           "source": "金十数据",
@@ -2225,7 +2479,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -2277,7 +2531,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -2288,8 +2542,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[06时25分 ~ 22时34分]"
+          "appearance_count": 22,
+          "time_info": "[06时25分 ~ 23时34分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -2355,7 +2609,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -2366,7 +2620,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -2625,12 +2879,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
+        },
+        {
+          "title": "行业ETF美股盘初多数上涨，半导体ETF涨1.23%，全球科技股指数ETF涨1.2%，科技行业ETF涨1.07%，网络股指数ETF涨0.8%，银行业ETF涨0.38%，医疗业ETF跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -2749,13 +3014,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "高盛：仍认为5400美元/盎司的年底金价预期存在显著上行风险。",
+          "url": "https://flash.jin10.com/detail/20260127225618874800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "加拿大皇家银行：黄金仍有“上涨空间”；认为金价有潜力达到7100美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260127225231645800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美国两年期国债收益率走低，最新数据显示，美国1月谘商会消费者信心指数降低至84.5，创2014年5月以来新低。 美元指数跌0.70%，报96.37点，为2025年9月以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3044859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
         {
           "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
           "url": "https://wallstreetcn.com/livenews/3044792",
@@ -2780,6 +3078,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时56分 ~ 21时51分]"
+        },
+        {
+          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时33分 ~ 23时34分]"
         },
         {
           "title": "美元指数DXY失守97，日内跌幅0.48%。",
@@ -2858,6 +3167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "美元指数DXY持续走低 非美货币普涨",
+          "url": "https://flash.jin10.com/detail/20260127224408359800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         }
       ]
     },
@@ -2896,7 +3216,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -2961,19 +3281,34 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时36分 ~ 22时34分]"
+          "appearance_count": 12,
+          "time_info": "[16时36分 ~ 23时34分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时56分 ~ 22时34分]"
+          "appearance_count": 6,
+          "time_info": "[20时56分 ~ 23时34分]"
+        },
+        {
+          "title": "如何评价 DeepSeek-OCR-2 模型？",
+          "url": "https://www.zhihu.com/question/1999468225642119587",
+          "source": "知乎",
+          "ranks": [
+            13,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时56分 ~ 23时34分]"
         },
         {
           "title": "DeepSeek开源OCR 2模型",
@@ -2987,19 +3322,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[15时31分 ~ 20时56分]"
-        },
-        {
-          "title": "如何评价 DeepSeek-OCR-2 模型？",
-          "url": "https://www.zhihu.com/question/1999468225642119587",
-          "source": "知乎",
-          "ranks": [
-            13,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时56分 ~ 22时34分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
@@ -3072,7 +3394,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         }
