@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T20:56:24.576944+08:00",
-  "total_titles_processed": 1862,
+  "generated_at": "2026-01-27T21:51:58.345543+08:00",
+  "total_titles_processed": 1956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 171,
+      "match_count": 177,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -74,8 +74,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时25分 ~ 20时56分]"
+          "appearance_count": 16,
+          "time_info": "[07时25分 ~ 21时51分]"
         },
         {
           "title": "韩国人还在睡梦中，特朗普突然下手了",
@@ -137,6 +137,19 @@
           "time_info": "[00时38分 ~ 05时27分]"
         },
         {
+          "title": "上期所出手：收紧白银期货、锡期货交易限额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32467553",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 21时51分]"
+        },
+        {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
           "url": "https://www.cls.cn/detail/2270513",
           "source": "财联社热门",
@@ -149,17 +162,30 @@
           "time_info": "[10时01分 ~ 14时39分]"
         },
         {
-          "title": "上期所出手：收紧白银期货、锡期货交易限额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32467553",
-          "source": "澎湃新闻",
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            16,
-            20
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 20时56分]"
+          "appearance_count": 6,
+          "time_info": "[17时36分 ~ 21时51分]"
+        },
+        {
+          "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
+          "url": "https://www.cls.cn/detail/2271239",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时36分 ~ 21时51分]"
         },
         {
           "title": "MSCI将就希腊从新兴市场地位一步提升至发达市场地位的潜在重新分类展开咨询，目标是在8月份的指数评估中实施。",
@@ -207,6 +233,28 @@
           "time_info": "07时26分"
         },
         {
+          "title": "加拿大总理卡尼：与特朗普总统进行了良好的对话。",
+          "url": "https://wallstreetcn.com/livenews/3044806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "加拿大总理卡尼：与特朗普总统进行了良好的对话。",
+          "url": "https://flash.jin10.com/detail/20260127212721886800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
           "title": "在美上市韩国ETF盘后暴跌超2%，特朗普宣布将针对韩国部分商品（含汽车）的关税从15%提高至25%。",
           "url": "https://wallstreetcn.com/livenews/3044232",
           "source": "华尔街见闻-快讯",
@@ -229,18 +277,6 @@
           "time_info": "10时01分"
         },
         {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时36分 ~ 20时56分]"
-        },
-        {
           "title": "多家汇率追踪网站显示，伊朗里亚尔兑美元汇率跌至创纪录低点，为150万里亚尔兑1美元。",
           "url": "https://flash.jin10.com/detail/20260127191421234800",
           "source": "金十数据",
@@ -252,17 +288,16 @@
           "time_info": "19时26分"
         },
         {
-          "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
-          "url": "https://www.cls.cn/detail/2271239",
-          "source": "财联社热门",
+          "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
+          "url": "https://wallstreetcn.com/articles/3764225",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            11,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时36分 ~ 20时56分]"
+          "time_info": "[18时31分 ~ 21时51分]"
         },
         {
           "title": "特朗普：提高对韩国多种商品关税税率至25%",
@@ -629,18 +664,6 @@
           "time_info": "[11时54分 ~ 12时50分]"
         },
         {
-          "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
-          "url": "https://wallstreetcn.com/articles/3764225",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 20时56分]"
-        },
-        {
           "title": "韩国人还在睡梦中特朗普突然下手",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -847,6 +870,18 @@
           "time_info": "[06时27分 ~ 07时26分]"
         },
         {
+          "title": "金十图示：2026年01月27日（周二）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260127151026702800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 21时51分]"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，连续第五个交易日走高，报392.95点，创2025年2月26日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 建筑与采矿机械供应商Epiroc AB（安百拓集团）涨7.5%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3044122",
           "source": "华尔街见闻-快讯",
@@ -941,6 +976,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时50分 ~ 13时31分]"
+        },
+        {
+          "title": "A股三大指数集体上涨",
+          "url": "https://www.toutiao.com/trending/7599567524702978111/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时51分]"
         },
         {
           "title": "美国白宫：总统特朗普希望明尼阿波利斯枪击事件的调查继续进行。",
@@ -1078,6 +1125,17 @@
           "time_info": "05时27分"
         },
         {
+          "title": "波罗的海干散货指数涨12.30%",
+          "url": "https://wallstreetcn.com/livenews/3044800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
           "title": "股指期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20260127093104368800",
           "source": "金十数据",
@@ -1133,17 +1191,6 @@
           "time_info": "13时31分"
         },
         {
-          "title": "金十图示：2026年01月27日（周二）投机情绪指数",
-          "url": "https://flash.jin10.com/detail/20260127151026702800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
           "title": "中证转债指数低开0.02%。鼎龙转债涨超4%，龙大转债涨近3%，煜邦转债、鼎捷转债、神通转债等涨超2%；运机转债跌超4%，浙矿转债跌近4%。",
           "url": "https://wallstreetcn.com/livenews/3044315",
           "source": "华尔街见闻-快讯",
@@ -1153,6 +1200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "夜盘期货开盘，沪锡涨逾2%，棕榈油涨逾1%，沪银、氧化铝、沪镍等上涨；焦炭、焦煤、国际铜跌逾1%；沪铜、液化石油气、玻璃等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3044798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "现货、期货白银双双突破117美元",
@@ -1441,17 +1499,6 @@
           "time_info": "06时27分"
         },
         {
-          "title": "A股三大指数集体上涨",
-          "url": "https://www.toutiao.com/trending/7599567524702978111/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
           "title": "巴西政府声明：巴西总统卢拉于周一与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20260127004336827800",
           "source": "金十数据",
@@ -1617,6 +1664,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "波罗的海干散货指数涨12.30%，至1999点。",
+          "url": "https://flash.jin10.com/detail/20260127210106527800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
           "title": "美国1月达拉斯联储商业活动指数 -1.2，预期 -8.6，前值 -10.9。",
           "url": "https://wallstreetcn.com/livenews/3044094",
           "source": "华尔街见闻-快讯",
@@ -1703,6 +1761,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约涨跌不一，沪锡涨超2%，棕榈油涨超1%，豆油、沪银、氧化铝小幅上涨。跌幅方面，BR橡胶、焦炭、焦煤、国际铜跌超1%，沪铜、瓶片小幅下跌。",
+          "url": "https://flash.jin10.com/detail/20260127210004381800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "台湾证交所加权股价指数开盘变动不大，报32,095.08点。",
@@ -1972,7 +2041,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -1983,8 +2052,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时25分 ~ 20时56分]"
+          "appearance_count": 18,
+          "time_info": "[06时25分 ~ 21时51分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -2044,24 +2113,13 @@
           "time_info": "17时36分"
         },
         {
-          "title": "波音(BA.N)美股盘前抹去涨幅，现跌1.5%。",
-          "url": "https://flash.jin10.com/detail/20260127204911496800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
           "title": "康宁美股盘前涨超7%，此前CNBC报道称，Meta准备向康宁公司支付高达60亿美元用于购买光纤电缆。",
           "url": "https://wallstreetcn.com/livenews/3044789",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -2089,6 +2147,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时27分]"
+        },
+        {
+          "title": "波音(BA.N)美股盘前抹去涨幅，现跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20260127204911496800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时51分]"
         },
         {
           "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普称将韩国对等关税从15%提高至25%。",
@@ -2127,6 +2197,18 @@
           "time_info": "[05时27分 ~ 06时27分]"
         },
         {
+          "title": "波音四季度营收239.5亿美元，预估225.8亿美元。 四季度核心每股收益9.92美元。 四季度调整后自由现金流3.75亿美元，预估2.719亿美元。 波音美股盘前涨1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时51分]"
+        },
+        {
           "title": "金十图示：2026年01月26日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260127050519889800",
           "source": "金十数据",
@@ -2151,15 +2233,28 @@
           "time_info": "[06时27分 ~ 07时26分]"
         },
         {
-          "title": "波音四季度营收239.5亿美元，预估225.8亿美元。 四季度核心每股收益9.92美元。 四季度调整后自由现金流3.75亿美元，预估2.719亿美元。 波音美股盘前涨1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3044785",
+          "title": "美国航空第四季度调整后客运营收126.6亿美元，预期127.6亿美元。 第四季度调整后每股收益16美分，预估34美分。 美国航空预计2026年调整后每股收益1.7-2.7美元，市场预估2.01美元。 美国航空预计2026年资本支出约为40亿至45亿美元，市场预估41.7亿美元。 美国航空预计2027年资本支出约为45亿美元。 美国航空美股盘前跌3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3044771",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            15,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时51分]"
+        },
+        {
+          "title": "雷神技术四季度调整后销售额242.4亿美元， 预估226.3亿美元。 四季度调整后每股收益1.55美元，预估1.47美元。 雷神技术预计2026年调整后销售额920亿美元-930亿美元，市场预估924.3亿美元。 雷神技术预计2026年调整后每股收益6.6-6.8美元，市场预估6.7美元。 雷神技术美股盘前涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3044769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时51分]"
         },
         {
           "title": "康宁(GLW.N)美股盘前涨6.5%，此前有报道称，Meta公司达成协议，将向该公司支付高达60亿美元，用于在人工智能数据中心中采购光纤电缆。",
@@ -2168,7 +2263,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -2212,7 +2307,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -2239,26 +2334,15 @@
           "time_info": "07时26分"
         },
         {
-          "title": "美国航空第四季度调整后客运营收126.6亿美元，预期127.6亿美元。 第四季度调整后每股收益16美分，预估34美分。 美国航空预计2026年调整后每股收益1.7-2.7美元，市场预估2.01美元。 美国航空预计2026年资本支出约为40亿至45亿美元，市场预估41.7亿美元。 美国航空预计2027年资本支出约为45亿美元。 美国航空美股盘前跌3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3044771",
+          "title": "康宁美股盘前涨8.5%，报道：Meta准备向康宁公司支付高达60亿美元用于购买光纤电缆",
+          "url": "https://wallstreetcn.com/livenews/3044789",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "雷神技术四季度调整后销售额242.4亿美元， 预估226.3亿美元。 四季度调整后每股收益1.55美元，预估1.47美元。 雷神技术预计2026年调整后销售额920亿美元-930亿美元，市场预估924.3亿美元。 雷神技术预计2026年调整后每股收益6.6-6.8美元，市场预估6.7美元。 雷神技术美股盘前涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3044769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
+          "time_info": "21时51分"
         },
         {
           "title": "美股期货走高，纳斯达克100指数期货涨0.5%，标普500指数期货涨0.2%。",
@@ -2278,7 +2362,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         }
@@ -2410,29 +2494,31 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
           "url": "https://flash.jin10.com/detail/20260127205258899800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时51分]"
         },
         {
           "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
           "url": "https://wallstreetcn.com/livenews/3044792",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时51分]"
         },
         {
           "title": "美元指数DXY失守97，日内跌幅0.48%。",
@@ -2467,6 +2553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "美元指数DXY日内跌超0.50%，现报96.55。",
+          "url": "https://flash.jin10.com/detail/20260127210239510800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "美元指数跌约0.6%，一度创逾四个月新低",
@@ -2592,8 +2689,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 20时56分]"
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 21时51分]"
         },
         {
           "title": "DeepSeek开源OCR 2模型",
@@ -2615,20 +2712,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时51分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
           "url": "https://www.zhihu.com/question/1999468225642119587",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时51分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
