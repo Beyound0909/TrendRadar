@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T05:21:20.594298+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-01-28T06:26:06.732596+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 70,
+      "match_count": 78,
       "titles": [
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -15,8 +15,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时26分]"
+        },
+        {
+          "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
+          "url": "https://www.cls.cn/detail/2271670",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时26分]"
         },
         {
           "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
@@ -32,16 +44,15 @@
           "time_info": "[00时33分 ~ 05时21分]"
         },
         {
-          "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
-          "url": "https://www.cls.cn/detail/2271670",
-          "source": "财联社热门",
+          "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
+          "url": "https://wallstreetcn.com/articles/3764225",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时26分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年1月28日 周三",
@@ -61,9 +72,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "美联储本周维持利率不变的概率为97.2%",
+          "url": "https://flash.jin10.com/detail/20260128060237343800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         },
         {
           "title": "美国总统特朗普：听说伊拉克可能会做出非常糟糕的选择，重新任命努里·马利基为总理。如果他当选，美利坚合众国将不再援助伊拉克。",
@@ -75,17 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
-        },
-        {
-          "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
-          "url": "https://wallstreetcn.com/articles/3764225",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 05时21分]"
         },
         {
           "title": "周二（1月27日），美联储隔夜逆回购协议（RRP）使用规模为12.53亿美元（交易对手5家），上个交易日报14.89亿美元。",
@@ -248,6 +259,18 @@
           "time_info": "[04时27分 ~ 05时21分]"
         },
         {
+          "title": "周二（1月27日），彭博电动汽车价格回报指数跌0.18%，报3691.62点。 该指数全天处于下跌状态，亚太早盘显著走低、北京时间10:03刷新日低至3645.56点，随后逐步收复失地，整体呈现出长尾V形走势。",
+          "url": "https://wallstreetcn.com/livenews/3044986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时26分]"
+        },
+        {
           "title": "美国天然气期货在盘中早些时候下跌逾15%后转为上涨2%，有望创下自2022年12月以来的最高收盘价。",
           "url": "https://flash.jin10.com/detail/20260128025250321800",
           "source": "金十数据",
@@ -308,24 +331,13 @@
           "time_info": "[03时29分 ~ 04时27分]"
         },
         {
-          "title": "周二（1月27日），彭博电动汽车价格回报指数跌0.18%，报3691.62点。 该指数全天处于下跌状态，亚太早盘显著走低、北京时间10:03刷新日低至3645.56点，随后逐步收复失地，整体呈现出长尾V形走势。",
-          "url": "https://wallstreetcn.com/livenews/3044986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，虎牙初步收涨19.9%，金山云收涨8.4%，世纪互联涨4.1%，百胜中国涨3.2%，腾讯、百度涨超1%，阿里涨0.7%。 ETF中，CQQQ涨1.2%，KWEB涨0.3%。",
           "url": "https://wallstreetcn.com/livenews/3044983",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -347,7 +359,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -369,7 +381,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -391,7 +403,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -413,7 +425,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -424,7 +436,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -457,7 +469,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -479,7 +491,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -493,6 +505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "美国总统特朗普：如果最高法院否决关税政策，将找到其他方式来处理贸易问题。",
+          "url": "https://wallstreetcn.com/livenews/3045001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         },
         {
           "title": "美国天然气期货延续跌势，价格下跌15%，因产量正缓慢回升，且风暴最严重阶段已转向东北地区，美国中部地区的天然气需求正在下降。",
@@ -512,7 +535,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -534,7 +557,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -545,7 +568,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -600,7 +623,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -633,7 +656,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -666,7 +689,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -770,6 +793,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "美国总统特朗普：（当被问及提高对韩关税时）我们将与韩国一道找到解决方案。",
+          "url": "https://flash.jin10.com/detail/20260128053943397800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
           "title": "美国1月谘商会消费者信心指数 84.5，预期 90.6，前值 89.1。",
           "url": "https://wallstreetcn.com/livenews/3044852",
           "source": "华尔街见闻-快讯",
@@ -798,9 +832,215 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普：联邦政府在明州的移民执法行动将适当降级",
+          "url": "https://flash.jin10.com/detail/20260128053911515800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美国总统特朗普：我们与叙利亚共同解决了一个巨大的问题。",
+          "url": "https://flash.jin10.com/detail/20260128053828076800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美国总统特朗普：我们必须利用关税来维护世界和平。如果最高法院废除关税，那将会给各方带来更多不便。",
+          "url": "https://flash.jin10.com/detail/20260128053802752800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.48%，报7866.61点。 热门中概股里，虎牙初步收涨19.9%，金山云收涨8.4%，世纪互联涨4.1%，百胜中国涨3.2%，腾讯、百度涨超1%，阿里涨0.7%。 ETF中，CQQQ涨1.2%，KWEB涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3044983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美国总统特朗普：农民将是关税的最大受益者。",
+          "url": "https://flash.jin10.com/detail/20260128053757706800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时26分]"
+        },
+        {
+          "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260128050534482800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美股部分中概股走势强劲",
+          "url": "https://flash.jin10.com/detail/20260127235351426800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "金十图示：2026年01月27日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260128050530858800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美股费城半导体指数涨2.5%。",
+          "url": "https://flash.jin10.com/detail/20260127235011567800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 美光科技涨超5%",
+          "url": "https://flash.jin10.com/detail/20260128050333486800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3044985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时26分]"
+        },
+        {
+          "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3044921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时29分]"
+        },
+        {
+          "title": "德州仪器（TXN）美股盘后涨幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3045008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨1.00%，报440.62点，早盘显著下挫，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.98%，报3099.58点，美股时段呈现出V形反转。 （美股）原材料指数收涨0.39%，（美股）金属与矿业指数收涨2.24%。",
+          "url": "https://wallstreetcn.com/livenews/3045005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
+          "url": "https://wallstreetcn.com/livenews/3045000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜亚马逊涨超2.6%，该公司拟将生鲜超市及无人便利店改造为全食超市门店",
+          "url": "https://wallstreetcn.com/livenews/3044996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美股半导体指数涨2.4%，创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3044981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         }
       ]
     },
@@ -826,7 +1066,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -848,7 +1088,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -859,7 +1099,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -881,7 +1121,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -892,7 +1132,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -903,102 +1143,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时21分]"
-        },
-        {
-          "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260128050534482800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美股部分中概股走势强劲",
-          "url": "https://flash.jin10.com/detail/20260127235351426800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "金十图示：2026年01月27日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260128050530858800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美股费城半导体指数涨2.5%。",
-          "url": "https://flash.jin10.com/detail/20260127235011567800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 美光科技涨超5%",
-          "url": "https://flash.jin10.com/detail/20260128050333486800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3044921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时29分]"
-        },
-        {
-          "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3044985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
@@ -1062,7 +1207,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
@@ -1132,8 +1277,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时26分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -1144,8 +1289,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时26分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -1156,14 +1301,14 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时26分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -1174,8 +1319,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时26分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -1187,8 +1332,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时42分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[02时42分 ~ 06时26分]"
+        },
+        {
+          "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
+          "url": "https://wallstreetcn.com/livenews/3045007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         }
       ]
     },
@@ -1203,7 +1359,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
