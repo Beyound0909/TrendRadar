@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T13:31:33.431552+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-01-27T14:39:47.956321+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 128,
+      "match_count": 141,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -62,8 +62,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时31分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 14时39分]"
         },
         {
           "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
@@ -73,8 +73,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时31分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 14时39分]"
         },
         {
           "title": "韩国人还在睡梦中，特朗普突然下手了",
@@ -84,8 +84,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时31分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 14时39分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -107,8 +107,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 13时31分]"
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 14时39分]"
         },
         {
           "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
@@ -119,8 +119,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时31分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 14时39分]"
         },
         {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
@@ -131,8 +131,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时31分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 14时39分]"
         },
         {
           "title": "MSCI将就希腊从新兴市场地位一步提升至发达市场地位的潜在重新分类展开咨询，目标是在8月份的指数评估中实施。",
@@ -155,17 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
-        },
-        {
-          "title": "国债期货持续走弱，30年期主力合约盘中跌0.20%，10年期主力合约跌0.03%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3044470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
         },
         {
           "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
@@ -191,6 +180,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "日经225指数收涨0.8%，报53333.54点。 日本东证指数收涨0.3%，报3563.59点。 韩国首尔综指收涨2.7%，报5084.85点。",
+          "url": "https://wallstreetcn.com/livenews/3044507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "在美上市韩国ETF盘后暴跌超2%，特朗普宣布将针对韩国部分商品（含汽车）的关税从15%提高至25%。",
           "url": "https://wallstreetcn.com/livenews/3044232",
           "source": "华尔街见闻-快讯",
@@ -213,15 +213,28 @@
           "time_info": "10时01分"
         },
         {
-          "title": "A股大飞机板块持续拉升，航发控制、航发科技涨停，图南股份涨超10%，航亚科技、航发动力、国机精工、飞沃科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3044467",
+          "title": "北京楼市新政满月：热点学区房成交放量",
+          "url": "https://wallstreetcn.com/livenews/3044504",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "14时39分"
+        },
+        {
+          "title": "特朗普：提高对韩国多种商品关税税率至25%",
+          "url": "https://www.cls.cn/detail/2270499",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 14时39分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，上周日在明尼苏达州发生（联邦移民执法官员枪杀一名男子）的事件是一场悲剧。",
@@ -321,6 +334,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时27分]"
+        },
+        {
+          "title": "国债期货持续走弱，30年期主力合约盘中跌0.20%，10年期主力合约跌0.03%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3044470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时39分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的14.89亿美元。",
@@ -479,6 +504,18 @@
           "time_info": "[11时54分 ~ 12时50分]"
         },
         {
+          "title": "A股大飞机板块持续拉升，航发控制、航发科技涨停，图南股份涨超10%，航亚科技、航发动力、国机精工、飞沃科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3044467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时39分]"
+        },
+        {
           "title": "特朗普将于周二前往爱荷华州就美国经济发表演讲",
           "url": "https://flash.jin10.com/detail/20260127025407678800",
           "source": "金十数据",
@@ -527,17 +564,17 @@
           "time_info": "[11时54分 ~ 12时50分]"
         },
         {
-          "title": "特朗普：提高对韩国多种商品关税税率至25%",
-          "url": "https://www.cls.cn/detail/2270499",
-          "source": "财联社热门",
+          "title": "今日重点关注的财经数据与事件：2026年1月27日 周二",
+          "url": "https://flash.jin10.com/detail/20260127000000000800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            11,
-            9
+            9,
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 14时39分]"
         },
         {
           "title": "NYMEX天然气期货涨超33%，突破7美元/百万英热单位，创2022年12月以来盘中最高水平，因气温骤降导致油井冻结，产量降至两年来最低水平。 周一（1月26日）欧市尾盘，ICE英国天然气期货跌0.83%，TTF基准荷兰天然气期货涨1.40%，ICE欧盟碳排放交易许可（期货价格）跌1.44%。",
@@ -634,18 +671,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时54分 ~ 12时50分]"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年1月27日 周二",
-          "url": "https://flash.jin10.com/detail/20260127000000000800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 07时26分]"
         },
         {
           "title": "金十图示：2026年01月26日（周一）全球股市指数-欧洲市场（收盘）",
@@ -881,7 +906,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -958,7 +983,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1013,7 +1038,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1073,6 +1098,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "越南VN指数跌1%，报1825.18点。",
+          "url": "https://wallstreetcn.com/livenews/3044492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "美国天然气期货突破7美元/百万英热",
           "url": "https://flash.jin10.com/detail/20260127013347479800",
           "source": "金十数据",
@@ -1095,6 +1131,17 @@
           "time_info": "12时50分"
         },
         {
+          "title": "中证500股指期货（IC）主力合约站上8600点，日内涨1.27%。",
+          "url": "https://flash.jin10.com/detail/20260127140136670800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "白宫：特朗普“不希望任何美国人丧生”",
           "url": "https://wallstreetcn.com/livenews/3044152",
           "source": "华尔街见闻-快讯",
@@ -1115,6 +1162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "A股算力概念股震荡回升，宏景科技20cm涨停，云赛智联触及涨停，协创数据、世纪恒通、奥飞数据、润建股份、并行科技、青云科技冲高。",
+          "url": "https://wallstreetcn.com/livenews/3044489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "巴西政府声明：巴西总统卢拉与美国总统特朗普就委内瑞拉问题进行了讨论，强调维护地区和平与稳定的重要性，总统卢拉同意不久访问华盛顿，总统卢拉向美国总统特朗普提议，将和平方案委员会的职权范围仅限于加沙问题。",
@@ -1161,6 +1219,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "A股半导体产业链拉升，华天科技反包涨停，华虹公司涨超6%，此前东芯股份、康强电子涨停，明微电子、盛科通信、普冉股份、国民技术、兴福电子等多股涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3044484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "美国总统特朗普：明尼苏达州州长蒂姆·沃尔兹致电我，请求在明尼苏达州问题上携手合作。这是一次非常棒的通话，而且我们实际上似乎心有灵犀。",
           "url": "https://flash.jin10.com/detail/20260127003839029800",
           "source": "金十数据",
@@ -1194,6 +1263,28 @@
           "time_info": "07时26分"
         },
         {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "中证500股指期货（IC）主力合约日内涨幅达1.00%，现报8579.6点。",
+          "url": "https://flash.jin10.com/detail/20260127135126326800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "新加坡海峡时报指数上涨1%至4,909.67点。",
           "url": "https://wallstreetcn.com/livenews/3044302",
           "source": "华尔街见闻-快讯",
@@ -1216,6 +1307,17 @@
           "time_info": "11时54分"
         },
         {
+          "title": "韩国人还在睡梦中特朗普突然下手",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "金十图示：2026年01月26日（周一）华尔街恐惧与贪婪指数（美盘后）",
           "url": "https://flash.jin10.com/detail/20260127052119268800",
           "source": "金十数据",
@@ -1225,6 +1327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "安联投资：美联储本周料按兵不动，鲍威尔表态或比利率决议更引关注",
+          "url": "https://flash.jin10.com/detail/20260127135121691800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "希腊雅典证交所综合指数收涨0.64%，报2279.70点，重新逼近2010年1月11日收盘位2315.31点和2009年11月11日顶部2685.71点。 2026年迄今，希腊股市已经累计上涨7.50%。",
@@ -1258,6 +1371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "A股三大指数午后集体翻红，创业板指涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3044477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "特朗普政府表示正在重组联邦航空管理局的架构，将把安全活动集中到一个办公室。",
@@ -1326,6 +1450,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "台湾证交所加权股价指数收涨0.8%报32,317.92点。",
+          "url": "https://wallstreetcn.com/livenews/3044473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "商品期货开盘，铂主力合约跌超8%，碳酸锂跌超5%，钯跌超4%，沪锡跌超3%，沪镍跌超2%。沪银涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3044296",
           "source": "华尔街见闻-快讯",
@@ -1346,6 +1481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "科创50指数涨幅扩大至1%，现报1548.66点。",
+          "url": "https://wallstreetcn.com/livenews/3044471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "美国天然气期货日内跌幅达3.00%，现报3.781美元/百万英热。",
@@ -1486,6 +1632,17 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时25分 ~ 14时39分]"
+        },
+        {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
           "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
@@ -1495,17 +1652,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时38分 ~ 05时27分]"
-        },
-        {
-          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时25分 ~ 13时31分]"
         },
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
@@ -1528,8 +1674,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 13时31分]"
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 14时39分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
@@ -1690,6 +1836,19 @@
           "time_info": "[00时38分 ~ 07时26分]"
         },
         {
+          "title": "金价银价巨震",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%B7%A8%E9%9C%87%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 14时39分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -1697,18 +1856,6 @@
             12,
             21,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时31分]"
-        },
-        {
-          "title": "金价银价巨震",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%B7%A8%E9%9C%87%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            22
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -1748,6 +1895,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "报道称，OpenAI副总裁奈特即将离职。",
+          "url": "https://wallstreetcn.com/livenews/3044468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时39分]"
+        },
+        {
+          "title": "全世界用户都在被 ChatGPT「稳稳接住」，为什么它执着于这样讲话？怎么平衡这种人文关怀和用户体验？",
+          "url": "https://www.zhihu.com/question/1997009213193413444",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时39分]"
+        },
+        {
+          "title": "微软(MSFT.O)：推出MAIA 200芯片，这是一款基于台积电3纳米工艺打造的AI推理加速器。MAIA 200 将服务于多种人工智能模型，包括来自OpenAI的最新 GPT-5.2 模型。",
+          "url": "https://flash.jin10.com/detail/20260127000150023800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "OpenAI首席信息安全官宣布将离职",
+          "url": "https://flash.jin10.com/detail/20260127140630592800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     },
@@ -1844,45 +2042,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "报道称，OpenAI副总裁奈特即将离职。",
-          "url": "https://wallstreetcn.com/livenews/3044468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "微软(MSFT.O)：推出MAIA 200芯片，这是一款基于台积电3纳米工艺打造的AI推理加速器。MAIA 200 将服务于多种人工智能模型，包括来自OpenAI的最新 GPT-5.2 模型。",
-          "url": "https://flash.jin10.com/detail/20260127000150023800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "全世界用户都在被 ChatGPT「稳稳接住」，为什么它执着于这样讲话？怎么平衡这种人文关怀和用户体验？",
-          "url": "https://www.zhihu.com/question/1997009213193413444",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -1920,6 +2079,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
+          "url": "https://wallstreetcn.com/livenews/3044481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     }
