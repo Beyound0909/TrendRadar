@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T16:36:55.991334+08:00",
-  "total_titles_processed": 1492,
+  "generated_at": "2026-01-28T17:37:45.445022+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 178,
+      "match_count": 192,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时56分 ~ 16时36分]"
+          "appearance_count": 11,
+          "time_info": "[09时56分 ~ 17时37分]"
         },
         {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时56分 ~ 16时36分]"
+          "appearance_count": 11,
+          "time_info": "[09时56分 ~ 17时37分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -81,6 +81,20 @@
           "time_info": "[00时33分 ~ 16时36分]"
         },
         {
+          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
+          "url": "https://www.cls.cn/detail/2271977",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时48分 ~ 17时37分]"
+        },
+        {
           "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
           "url": "https://www.cls.cn/detail/2271239",
           "source": "财联社热门",
@@ -92,20 +106,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 05时21分]"
-        },
-        {
-          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
-          "url": "https://www.cls.cn/detail/2271977",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时48分 ~ 16时36分]"
         },
         {
           "title": "特朗普，两天内动手？",
@@ -129,8 +129,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 17时37分]"
+        },
+        {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 17时37分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）全球股市指数-美洲市场（收盘）",
@@ -175,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "2025年12月全国期货公司营业收入49.18亿元，净利润6.84亿元",
+          "url": "https://flash.jin10.com/detail/20260128170823717800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "美国10年期国债期货下跌3个点，美国30年期国债期货下跌18个点。",
@@ -232,6 +256,17 @@
           "time_info": "15时29分"
         },
         {
+          "title": "海南矿业：拟购买洛阳丰瑞氟业有限公司控制权并募集配套资金 股票停牌",
+          "url": "https://wallstreetcn.com/livenews/3045489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "日经225指数收涨0.05%，报53358.71点。日本东证指数收跌0.8%，报3535.49点。",
           "url": "https://wallstreetcn.com/livenews/3045326",
           "source": "华尔街见闻-快讯",
@@ -263,19 +298,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
-        },
-        {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 16时36分]"
         },
         {
           "title": "周二（1月27日），美联储隔夜逆回购协议（RRP）使用规模为12.53亿美元（交易对手5家），上个交易日报14.89亿美元。",
@@ -751,7 +773,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -850,9 +872,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "意大利1月Istat制造业信心指数 89.2，预期89，前值88.4。",
+          "url": "https://flash.jin10.com/detail/20260128170126119800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，虎牙初步收涨19.9%，金山云收涨8.4%，世纪互联涨4.1%，百胜中国涨3.2%，腾讯、百度涨超1%，阿里涨0.7%。 ETF中，CQQQ涨1.2%，KWEB涨0.3%。",
@@ -883,7 +916,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -897,6 +930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "意大利1月Istat消费者信心指数 96.8，预期97，前值96.6。",
+          "url": "https://flash.jin10.com/detail/20260128170114874800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "希腊雅典证交所综合指数收涨1.49%，报2313.62点，继续逼近2010年1月11日收盘位2315.31点和2009年11月11日顶部2685.71点。",
@@ -930,6 +974,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "特朗普乐见贬值，美元跌至四年低位，亚洲货币走强，现货黄金站上5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "国债期货早盘开盘",
@@ -982,7 +1037,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -996,6 +1051,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "瑞士1月ZEW经济现况指数 0，前值16.6。",
+          "url": "https://flash.jin10.com/detail/20260128170030042800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "周二（1月27日，美联储决议声明发布前夕），降息赢家指数涨0.04%，报104.50点，整体走出W形反转行情。 “特朗普关税输家”指数跌0.75%，报114.22点，盘初显著下挫，随后低位震荡。 “特朗普金融指数”跌0.37%，散户抱团概念股指数/迷因股（meme stock）指数跌0.05%。",
@@ -1081,9 +1147,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "瑞士1月ZEW投资者信心指数 -4.7，前值6.2。",
+          "url": "https://flash.jin10.com/detail/20260128170002133800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "美国总统特朗普被问及监管问题，称：将针对卡车采取某些行动。",
@@ -1106,6 +1183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "上期所：调整白银、黄金、镍等期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3045473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "期货热点追踪",
@@ -1136,7 +1224,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -1262,6 +1350,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "2025年12月全国期货公司代理交易额90.73万亿元",
+          "url": "https://wallstreetcn.com/livenews/3045470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：纽约市价值 172 亿美元的隧道项目因特朗普政府在去年十月暂停拨款而面临风险。",
           "url": "https://flash.jin10.com/detail/20260127232506292800",
           "source": "金十数据",
@@ -1334,7 +1433,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -1444,9 +1543,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "惠誉评级：越南不断扩大的贸易顺差可能引发特朗普政府的更严格审查，增加了美国采取额外贸易措施的风险。",
+          "url": "https://flash.jin10.com/detail/20260128165630688800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "美联储：为期两天的FOMC货币政策会议开幕。",
@@ -1576,7 +1686,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -1735,6 +1845,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "意大利1月Istat消费者信心指数 96.8，预期 96.9，前值 96.6。",
+          "url": "https://wallstreetcn.com/livenews/3045459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "波音(BA.N)首席执行官：特朗普政府理解商业航空航天产业对美国经济的重要性。",
           "url": "https://flash.jin10.com/detail/20260128002342619800",
           "source": "金十数据",
@@ -1766,6 +1887,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "意大利1月Istat商业信心指数 89.2，预期 89，前值 88.4。",
+          "url": "https://wallstreetcn.com/livenews/3045458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "美国总统特朗普：乌克兰和俄罗斯之间正在发生非常好的事情。",
@@ -1807,7 +1939,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -1832,6 +1964,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "瑞士1月投资者信心指数 -4.7，前值 6.2。",
+          "url": "https://wallstreetcn.com/livenews/3045456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "芝商所（CME）在金属期货及期权交易方面创下新纪录。",
@@ -2019,12 +2162,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：欧元汇率没有目标。 美元下跌是美国不可预测性的体现。 欧洲央行密切关注欧元走势及其对通货膨胀的影响。 欧元是将影响政策的一个重要因素。",
+          "url": "https://wallstreetcn.com/livenews/3045441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -2082,6 +2236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "美股盘前，阿斯麦(ASML.O)涨超5%，Q4净销售额和全年营收均创新高。德州仪器(TXN.O)涨超7%，季度展望超预期。",
+          "url": "https://flash.jin10.com/detail/20260128170403752800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "美股费城半导体指数涨2.5%。",
@@ -2197,6 +2362,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "美股盘前：阿斯麦涨约5%，希捷科技涨约10%",
+          "url": "https://wallstreetcn.com/livenews/3045460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "美股半导体指数涨2.4%，创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3044981",
           "source": "华尔街见闻-快讯",
@@ -2211,7 +2387,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -2347,12 +2523,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "美元指数DXY日内涨幅扩大至0.50%，现报96.24。美元兑瑞郎USD/CHF日内涨幅扩大至1.00%，现报0.7691。",
+          "url": "https://flash.jin10.com/detail/20260128165244937800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
@@ -2375,8 +2562,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时33分 ~ 16时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时33分 ~ 17时37分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -2389,8 +2576,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[02时42分 ~ 16时36分]"
+          "appearance_count": 20,
+          "time_info": "[02时42分 ~ 17时37分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -2402,8 +2589,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时47分 ~ 16时36分]"
+          "appearance_count": 7,
+          "time_info": "[12时47分 ~ 17时37分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -2427,8 +2614,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 17时37分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
@@ -2479,8 +2677,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时56分 ~ 16时36分]"
+          "appearance_count": 11,
+          "time_info": "[09时56分 ~ 17时37分]"
         },
         {
           "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
@@ -2491,8 +2689,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时48分 ~ 17时37分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
@@ -2565,11 +2763,12 @@
             10,
             3,
             2,
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时48分 ~ 16时36分]"
+          "appearance_count": 9,
+          "time_info": "[11时48分 ~ 17时37分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
