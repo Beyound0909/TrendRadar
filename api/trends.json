@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T00:41:39.971945+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-29T01:35:00.726480+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 28,
+      "match_count": 46,
       "titles": [
         {
           "title": "就在今晚！美联储2026年首份利率决议即将出炉",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时35分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -26,19 +26,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时35分]"
         },
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
           "url": "https://wallstreetcn.com/articles/3764338",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时35分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -48,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时35分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -59,8 +60,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时35分]"
+        },
+        {
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时35分]"
+        },
+        {
+          "title": "今夜美联储决议，暂停降息已成共识，但鲍威尔拿的是鸽派剧本？",
+          "url": "https://wallstreetcn.com/articles/3764356",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时35分]"
         },
         {
           "title": "德国DAX 30指数初步收跌0.23%，报24836.90点。 法国股指初步收跌0.82%，意大利股指初步收跌0.52%、银行指数跌1.31%，英国股指初步收跌0.41%。",
@@ -74,26 +97,15 @@
           "time_info": "00时41分"
         },
         {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
+          "title": "报道：特朗普司法部针对鲍威尔的调查仍在继续，美联储尚未履行传票要求",
+          "url": "https://wallstreetcn.com/livenews/3045725",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "美国总统特朗普：让泽尔丁负责洛杉矶山火重建许可。",
-          "url": "https://flash.jin10.com/detail/20260129002712537800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "01时35分"
         },
         {
           "title": "欧洲STOXX 600指数初步收跌0.65%，报609.11点。 欧元区STOXX 50指数初步收跌0.81%，报5946.14点。 富时泛欧绩优300指数初步收跌0.73%，报2425.13点。",
@@ -107,81 +119,202 @@
           "time_info": "00时41分"
         },
         {
-          "title": "今夜美联储决议，暂停降息已成共识，但鲍威尔拿的是鸽派剧本？",
-          "url": "https://wallstreetcn.com/articles/3764356",
-          "source": "华尔街见闻",
+          "title": "美媒：美联储尚未遵从法院传票要求 鲍威尔调查仍在继续",
+          "url": "https://flash.jin10.com/detail/20260129012230832800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "01时35分"
+        },
+        {
+          "title": "美国总统特朗普：让泽尔丁负责洛杉矶山火重建许可。",
+          "url": "https://flash.jin10.com/detail/20260129002712537800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时35分]"
         },
         {
           "title": "标普500指数盘中转跌，较高位逾7000点回落至6978点。",
           "url": "https://flash.jin10.com/detail/20260129002458395800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时35分]"
         },
         {
           "title": "美国总统特朗普赞赏财长贝森特，称自己不想失去他。",
           "url": "https://wallstreetcn.com/livenews/3045707",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "美国总统特朗普在特朗普账户活动上发表讲话时称赞戴尔电脑，此前戴尔夫妇为“特朗普账户”豪捐62.5亿美元 。",
-          "url": "https://flash.jin10.com/detail/20260129002349346800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时35分]"
         },
         {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
           "url": "https://www.cls.cn/detail/2273193",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时35分]"
+        },
+        {
+          "title": "【每日收评】三大指数震荡分化涨跌不一，全市场超3600股飘绿，黄金、油气等周期股持续爆发",
+          "url": "https://www.cls.cn/detail/2272713",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时35分]"
+        },
+        {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时35分]"
+        },
+        {
+          "title": "美国总统特朗普在特朗普账户活动上发表讲话时称赞戴尔电脑，此前戴尔夫妇为“特朗普账户”豪捐62.5亿美元 。",
+          "url": "https://flash.jin10.com/detail/20260129002349346800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时35分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上讲话：（在获得捐款后）赞赏戴尔科技。",
           "url": "https://wallstreetcn.com/livenews/3045705",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时35分]"
         },
         {
           "title": "希捷科技涨幅扩大至21%，创最近四年来最佳盘中表现。 西部数据涨幅重新扩大至10.56%，SanDisk涨幅重新扩大至8.4%，美光涨5.1%。 标普500指数转跌，三大股指目前整体上大致持平。",
           "url": "https://wallstreetcn.com/livenews/3045704",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            21
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时35分]"
+        },
+        {
+          "title": "资管机构：预计美元今年将下探最近十一年低位，跌势可能至少会持续至特朗普任期届满",
+          "url": "https://wallstreetcn.com/livenews/3045703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时35分]"
+        },
+        {
+          "title": "非洲股市收盘播报｜周三（1月28日），南非富时/JSE非洲领先40可交易指数收涨1.49%，时隔一个交易日再创收盘历史新高，逼近11.75万点。",
+          "url": "https://wallstreetcn.com/livenews/3045694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时35分]"
+        },
+        {
+          "title": "加拿大央行行长Tiff Macklem：美联储（独立性面临的）威胁对加拿大构成风险，给加拿大带来不确定性。 如果美联储丧失独立性，我们所有人都会受到影响。 与美国进行开放、基于规则的贸易时代“已经结束”。",
+          "url": "https://wallstreetcn.com/livenews/3045693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时35分]"
+        },
+        {
+          "title": "据CNBC援引消息人士报道，美联储尚未按照传票的要求行事，而针对鲍威尔的调查仍在继续。",
+          "url": "https://flash.jin10.com/detail/20260129011753937800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "01时35分"
+        },
+        {
+          "title": "苹果CEO库克：明尼阿波利斯事件令我心碎，已与特朗普沟通",
+          "url": "https://wallstreetcn.com/livenews/3045721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "美国总统特朗普在“特朗普账户”活动上感谢比尔·阿克曼。",
+          "url": "https://wallstreetcn.com/livenews/3045720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "美国总统特朗普在“特朗普账户”活动上赞赏英伟达的捐款。",
+          "url": "https://wallstreetcn.com/livenews/3045719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
         },
         {
           "title": "加拿大央行高级副行长罗杰斯：强劲的美联储使市场和通胀保持稳定，这有助于降低利率波动。",
@@ -195,26 +328,26 @@
           "time_info": "00时41分"
         },
         {
-          "title": "资管机构：预计美元今年将下探最近十一年低位，跌势可能至少会持续至特朗普任期届满",
-          "url": "https://wallstreetcn.com/livenews/3045703",
+          "title": "特朗普再次暗示不会提名哈塞特执掌美联储",
+          "url": "https://flash.jin10.com/detail/20260129010926070800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "美国总统特朗普在“特朗普账户”活动上感谢Gerstner、优步（Uber）、以及英特尔。",
+          "url": "https://wallstreetcn.com/livenews/3045718",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "【每日收评】三大指数震荡分化涨跌不一，全市场超3600股飘绿，黄金、油气等周期股持续爆发",
-          "url": "https://www.cls.cn/detail/2272713",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "01时35分"
         },
         {
           "title": "美国国务卿鲁比奥：作为总司令，美国总统特朗普从未排除任何选项，但目前在委内瑞拉，唯一的军事存在形式将是驻在大使馆的海军卫队。",
@@ -228,37 +361,114 @@
           "time_info": "00时41分"
         },
         {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
+          "url": "https://flash.jin10.com/detail/20260129005903581800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "美国总统特朗普在“特朗普账户”活动上感谢桥水达利欧。",
+          "url": "https://wallstreetcn.com/livenews/3045717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "机构：加央行立场略偏鸽 料2026年后考虑加息",
+          "url": "https://flash.jin10.com/detail/20260129005703084800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "美国总统特朗普：Visa(V.N)推出（特朗普）账户现金返还奖励平台。呼吁企业提供账户匹配服务。",
+          "url": "https://flash.jin10.com/detail/20260129004929218800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "01时35分"
         },
         {
-          "title": "非洲股市收盘播报｜周三（1月28日），南非富时/JSE非洲领先40可交易指数收涨1.49%，时隔一个交易日再创收盘历史新高，逼近11.75万点。",
-          "url": "https://wallstreetcn.com/livenews/3045694",
+          "title": "明晟公司MSCI北欧国家指数跌1.1%，报390.71点。 在十个板块中，北欧医疗保健板块跌幅最大。 Genmab A/S跌5.0%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3045715",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260129004528567800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
+          "url": "https://flash.jin10.com/detail/20260129004308229800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "美国总统特朗普称赞优步和英特尔为“特朗普账户”捐款。",
+          "url": "https://flash.jin10.com/detail/20260129004214872800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "01时35分"
         },
         {
-          "title": "加拿大央行行长Tiff Macklem：美联储（独立性面临的）威胁对加拿大构成风险，给加拿大带来不确定性。 如果美联储丧失独立性，我们所有人都会受到影响。 与美国进行开放、基于规则的贸易时代“已经结束”。",
-          "url": "https://wallstreetcn.com/livenews/3045693",
+          "title": "美国总统特朗普感谢达利欧在康涅狄格州为“特朗普账户”进行投资。",
+          "url": "https://flash.jin10.com/detail/20260129004148471800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "欧洲STOXX 600指数收跌0.66%，报609.08点。 欧元区STOXX 50指数收跌1.02%，报5933.20点。 富时泛欧绩优300指数收跌0.85%，报2422.38点。",
+          "url": "https://wallstreetcn.com/livenews/3045708",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "01时35分"
         },
         {
           "title": "Rieder曾向特朗普对手和民主党高层捐款，恐给竞逐美联储主席添波折",
@@ -329,19 +539,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时35分]"
         },
         {
           "title": "金价屡创历史新高意味着什么",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%B1%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时35分]"
         },
         {
           "title": "金价波动如何影响实体金店",
@@ -351,8 +562,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时35分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -362,8 +573,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时35分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -373,14 +584,14 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时35分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -390,19 +601,42 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时35分]"
+        },
+        {
+          "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260129013122619800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "01时35分"
+        },
+        {
+          "title": "金十图示：2026年01月28日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260129013023144800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
           "url": "https://www.cls.cn/detail/2273158",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时35分]"
         },
         {
           "title": "美股涨幅收窄，道指转跌，标普500指数持平，纳斯达克指数涨0.2%。",
@@ -414,6 +648,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "通胀预期升温 美债收益率曲线连续第二日走陡",
+          "url": "https://flash.jin10.com/detail/20260129004130534800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
         }
       ]
     }
