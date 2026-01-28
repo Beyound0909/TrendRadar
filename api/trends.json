@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-28T13:33:01.527824+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-01-28T14:40:26.855184+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 140,
+      "match_count": 150,
       "titles": [
+        {
+          "title": "特朗普：将很快宣布新的美联储主席人选",
+          "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 14时40分]"
+        },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
           "url": "https://news.ifeng.com/c/8qGeeqb7QRE",
@@ -14,17 +25,6 @@
           "ranks": [
             1,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 13时33分]"
-        },
-        {
-          "title": "特朗普：将很快宣布新的美联储主席人选",
-          "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
-          "source": "凤凰网",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -55,6 +55,20 @@
           "time_info": "[00时33分 ~ 07时26分]"
         },
         {
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 14时40分]"
+        },
+        {
           "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
           "url": "https://wallstreetcn.com/articles/3764225",
           "source": "华尔街见闻",
@@ -62,21 +76,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时26分]"
-        },
-        {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 13时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 14时40分]"
         },
         {
           "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
@@ -132,9 +133,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
+        },
+        {
+          "title": "“美元微笑理论”提出者称特朗普言论或意味着美元新一轮跌势的开始",
+          "url": "https://wallstreetcn.com/livenews/3045330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
+          "url": "https://www.cls.cn/detail/2271977",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 14时40分]"
         },
         {
           "title": "美国10年期国债期货下跌3个点，美国30年期国债期货下跌18个点。",
@@ -181,6 +205,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "日经225指数收涨0.05%，报53358.71点。日本东证指数收跌0.8%，报3535.49点。",
+          "url": "https://wallstreetcn.com/livenews/3045326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "A股半导体芯片股继续走强，气派科技、中微半导、国民技术涨超10%，富满微、明微电子、捷捷微电、纳芯微、圣邦股份等多股涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3045114",
           "source": "华尔街见闻-快讯",
@@ -190,29 +225,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
-        },
-        {
-          "title": "MSCI亚太指数上涨1%至247.02点。",
-          "url": "https://wallstreetcn.com/livenews/3045288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
-          "url": "https://www.cls.cn/detail/2271977",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 13时33分]"
         },
         {
           "title": "周二（1月27日），美联储隔夜逆回购协议（RRP）使用规模为12.53亿美元（交易对手5家），上个交易日报14.89亿美元。",
@@ -447,6 +459,30 @@
           "time_info": "[11时49分 ~ 12时47分]"
         },
         {
+          "title": "MSCI亚太指数上涨1%至247.02点。",
+          "url": "https://wallstreetcn.com/livenews/3045288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 14时40分]"
+        },
+        {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 14时40分]"
+        },
+        {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
           "url": "https://flash.jin10.com/detail/20260128021631396800",
           "source": "金十数据",
@@ -519,6 +555,18 @@
           "time_info": "[11时49分 ~ 12时47分]"
         },
         {
+          "title": "A股液冷服务器概念震荡拉升，远东股份涨停，欧陆通、鼎通科技、奕东电子涨超10%，鸿富瀚、飞龙股份、英维克等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3045283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 14时40分]"
+        },
+        {
           "title": "恒生科技指数盘中涨幅扩大至2%。阿里健康、商汤涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3045225",
           "source": "华尔街见闻-快讯",
@@ -553,17 +601,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时29分 ~ 04时27分]"
-        },
-        {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 13时33分]"
         },
         {
           "title": "多家头部量化机构回应：“量化股票交易规则或变化”为不实消息",
@@ -712,15 +749,15 @@
           "time_info": "09时57分"
         },
         {
-          "title": "A股液冷服务器概念震荡拉升，远东股份涨停，欧陆通、鼎通科技、奕东电子涨超10%，鸿富瀚、飞龙股份、英维克等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3045283",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普回应美公民被ICE枪杀",
+          "url": "https://www.douyin.com/hot/2381946",
+          "source": "抖音",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "14时40分"
         },
         {
           "title": "澳新银行分析师改变观点，预计澳洲联储下周将加息25个基点。",
@@ -800,6 +837,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "美国天然气期货日内跌幅达3.00%，现报3.705美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260128140958001800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
           "url": "https://wallstreetcn.com/livenews/3044866",
           "source": "华尔街见闻-快讯",
@@ -853,6 +901,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "就在今晚！美联储2026年首份利率决议即将出炉",
+          "url": "https://www.cls.cn/detail/2272439",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "金十图示：2026年01月27日（周二）全球股市指数-欧洲市场（收盘）",
@@ -974,6 +1033,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "阿斯麦第四季度净销售额97.2 亿欧元，预期95.7亿欧元。 阿斯麦第四季度订单量131.6亿欧元，预估68.5亿欧元。 阿斯麦预计2026年净销售额为340亿至390亿欧元，市场预估351.5亿欧元。 阿斯麦预计2026年毛利率在51%至53%，市场预估52.9%。 阿斯麦预计第一季度净销售额为82亿至89亿欧元，市场预期81.3亿欧元。 阿斯麦预计第一季度毛利率在51%至53%之间，市场预估52.5%。 阿斯麦宣布将在2028年底前回购至多120亿欧元股票。 阿斯麦将优化技术与信息技术部门的运作流程。 阿斯麦CEO称，2026年将是阿斯麦公司的又一个增长之年。",
+          "url": "https://wallstreetcn.com/livenews/3045312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "特朗普谈美元：我可以像玩悠悠球一样让它涨跌。",
@@ -1207,6 +1277,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "台湾证交所加权股价指数收涨1.5%报32,803.82点。",
+          "url": "https://wallstreetcn.com/livenews/3045298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "越南VN指数下跌1%。",
           "url": "https://flash.jin10.com/detail/20260128115213190800",
           "source": "金十数据",
@@ -1427,6 +1508,17 @@
           "time_info": "11时49分"
         },
         {
+          "title": "阿斯麦(ASML.O)宣布将在2028年底前回购总额高达120亿欧元的股票。",
+          "url": "https://flash.jin10.com/detail/20260128140319755800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "美国1月谘商会消费者现况指数 113.7，前值 116.8。",
           "url": "https://wallstreetcn.com/livenews/3044853",
           "source": "华尔街见闻-快讯",
@@ -1537,6 +1629,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "金十整理：机构前瞻美联储利率决议（二）——暂停降息板上钉钉，就业与增长撑住底盘",
+          "url": "https://flash.jin10.com/detail/20260128135137092800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "恒生科技指数日内涨超1%，华虹半导体涨近4%，阿里健康涨超3%，快手涨近3%。",
           "url": "https://wallstreetcn.com/livenews/3045193",
           "source": "华尔街见闻-快讯",
@@ -1590,12 +1693,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "大和证券：日本财政扩张与日元疲软或促使央行再度加息",
+          "url": "https://flash.jin10.com/detail/20260128135041876800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -1614,11 +1728,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时25分 ~ 13时33分]"
+          "appearance_count": 10,
+          "time_info": "[07时25分 ~ 14时40分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -1676,6 +1791,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "美股期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.47%，道指期货涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3045325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
           "url": "https://wallstreetcn.com/livenews/3044985",
           "source": "华尔街见闻-快讯",
@@ -1721,6 +1847,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "阿斯麦美股夜盘拉升，一度涨10%，公司四季度财报好于预期。阿斯麦CEO称，2026年将是阿斯麦公司的又一个增长之年。",
+          "url": "https://wallstreetcn.com/livenews/3045316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
@@ -1779,11 +1916,12 @@
           "ranks": [
             10,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 13时33分]"
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 14时40分]"
         },
         {
           "title": "韩国股市市值达到3.25万亿美元，超过德国。韩国KOSPI指数一度上涨1.7%，触及5,171.85点的历史新高。",
@@ -1899,7 +2037,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
@@ -1909,8 +2047,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 13时33分]"
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 14时40分]"
         },
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -1922,8 +2060,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 13时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 14时40分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -1936,8 +2074,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时42分 ~ 13时33分]"
+          "appearance_count": 17,
+          "time_info": "[02时42分 ~ 14时40分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -1948,8 +2086,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 14时40分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1957,11 +2095,23 @@
           "source": "微博",
           "ranks": [
             8,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 13时33分]"
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 14时40分]"
+        },
+        {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://www.toutiao.com/trending/7600256243789627398/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
@@ -2008,11 +2158,12 @@
           "url": "https://wallstreetcn.com/articles/3764292",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 13时33分]"
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 14时40分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
@@ -2083,11 +2234,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 13时33分]"
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 14时40分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -2186,11 +2338,12 @@
             4,
             7,
             9,
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 12时47分]"
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 14时40分]"
         }
       ]
     },
