@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T06:31:51.359435+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-01-30T07:29:48.736227+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 99,
+      "match_count": 109,
       "titles": [
         {
           "title": "美联储决议无新意，希捷飙升引领存储板块大涨，黄金涨破5400，纽银涨10%，油价四个月新高",
@@ -27,11 +27,12 @@
             7,
             4,
             10,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 07时29分]"
         },
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -42,19 +43,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时31分]"
-        },
-        {
-          "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
-          "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 07时29分]"
         },
         {
           "title": "美联储暂停降息对黄金有何影响",
@@ -67,8 +57,19 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 07时29分]"
+        },
+        {
+          "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
+          "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时48分 ~ 06时31分]"
+          "time_info": "[00时48分 ~ 05时31分]"
         },
         {
           "title": "芝商所将COMEX铜期货保证金上调20%，至1.2万美元。",
@@ -93,6 +94,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "美媒：特朗普与民主党就资金问题达成协议，以避免政府停摆",
+          "url": "https://flash.jin10.com/detail/20260130071806657800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）主席Michael Selig在讲稿中表示：CFTC将针对预测市场起草新版监管制度。 CFTC将撤销2024年提出的政治事件预测合约和体育赛事预测合约的监管方案建议。",
           "url": "https://wallstreetcn.com/livenews/3046659",
           "source": "华尔街见闻-快讯",
@@ -113,6 +125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "美国总统特朗普：我正与国会紧密合作，以确保我们能够及时为政府提供充足资金，毫不拖延。",
+          "url": "https://flash.jin10.com/detail/20260130071202348800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "非洲股市收盘播报｜周三（8月6日），南非富时/JSE非洲领先40可交易指数收涨0.17%，再次创收盘历史新高，逼近11.8万点，盘初飙升至11.9万点上方创盘中历史新高，随后回吐涨幅。",
@@ -376,6 +399,17 @@
           "time_info": "[02时52分 ~ 04时34分]"
         },
         {
+          "title": "特朗普：普京同意停火一周",
+          "url": "https://news.ifeng.com/c/8qJyCJGSi1K",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
           "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
           "url": "https://flash.jin10.com/detail/20260130020053884800",
           "source": "金十数据",
@@ -484,6 +518,30 @@
           "time_info": "[02时52分 ~ 03时32分]"
         },
         {
+          "title": "周四（1月29日））纽约尾盘，标普500股指期货最终跌0.20%，道指期货跌0.07%，纳斯达克100股指期货跌0.60%。 罗素2000股指期货跌0.18%。",
+          "url": "https://wallstreetcn.com/livenews/3046714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
+          "url": "https://wallstreetcn.com/articles/3764456",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
           "title": "特朗普：普京同意停火一周",
           "url": "https://flash.jin10.com/detail/20260130011030336800",
           "source": "金十数据",
@@ -568,6 +626,18 @@
           "time_info": "[02时52分 ~ 03时32分]"
         },
         {
+          "title": "今日重点关注的财经数据与事件：2026年1月30日 周五",
+          "url": "https://flash.jin10.com/detail/20260130000000001800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 07时29分]"
+        },
+        {
           "title": "美国总统特朗普：不想让房价下跌，将推高现存房主的住宅价值。",
           "url": "https://flash.jin10.com/detail/20260130013218508800",
           "source": "金十数据",
@@ -616,17 +686,6 @@
           "time_info": "[02时52分 ~ 03时32分]"
         },
         {
-          "title": "特朗普：普京同意停火一周",
-          "url": "https://news.ifeng.com/c/8qJyCJGSi1K",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，蔚来初步收涨3.8%，百胜中国涨1%，腾讯、新东方、理想、小米、美团至多涨超0.9%，阿里跌0.7%，网易跌1.3%，文远知行跌4.5%，小马智行跌7.9%。 ETF中，ASHR涨0.9%，KWEB涨0.5%，CQQQ跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3046683",
           "source": "华尔街见闻-快讯",
@@ -644,7 +703,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -671,17 +730,6 @@
           "time_info": "04时34分"
         },
         {
-          "title": "周四（1月29日））纽约尾盘，标普500股指期货最终跌0.20%，道指期货跌0.07%，纳斯达克100股指期货跌0.60%。 罗素2000股指期货跌0.18%。",
-          "url": "https://wallstreetcn.com/livenews/3046714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
           "title": "金十图示：2026年01月29日（周四）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260130050649746800",
           "source": "金十数据",
@@ -699,31 +747,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
-          "url": "https://wallstreetcn.com/articles/3764456",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年1月30日 周五",
-          "url": "https://flash.jin10.com/detail/20260130000000001800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "06时31分"
+        },
+        {
+          "title": "在特朗普宣布与古巴相关的贸易威胁后，现货黄金突破5430美元/盎司，日内涨1.17%。",
+          "url": "https://flash.jin10.com/detail/20260130070435032800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "特朗普宣布国家紧急状态 并对向古巴输油的国家加征关税",
+          "url": "https://flash.jin10.com/detail/20260130070318805800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "美国财政部发布报告 未将任何经济体列入汇率操纵名单",
@@ -732,7 +780,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -759,13 +807,24 @@
           "time_info": "01时40分"
         },
         {
+          "title": "美国总统特朗普宣称：特使Witkoff有“好消息”。",
+          "url": "https://wallstreetcn.com/livenews/3046729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
           "title": "金十图示：2026年01月29日（周四）华尔街恐惧与贪婪指数（美盘后）",
           "url": "https://flash.jin10.com/detail/20260130060050377800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -787,7 +846,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -886,7 +945,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -911,6 +970,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "特朗普在椭圆形办公室活动结束时拒绝回答记者提问，这是他日内第二次这样做。",
+          "url": "https://flash.jin10.com/detail/20260130065813354800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "分析：特朗普不希望政府停摆重演",
@@ -944,6 +1014,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "美国总统特朗普：俄乌局势取得很大进展，俄罗斯一周内不会进行开火。",
+          "url": "https://flash.jin10.com/detail/20260130065258833800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.7%，连续第二个交易日走低，报388.16点。 在十个板块中，北欧医疗保健板块跌幅最大。 诺基亚跌9.4%，在一众北欧个股里表现最差。",
@@ -1040,7 +1121,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -1100,6 +1181,28 @@
           "time_info": "01时40分"
         },
         {
+          "title": "爱芯元智半导体股份有限公司申请香港IPO。 寻求发行股票1.049亿股，每股发行价28.20港元。 预计股票将从2月10日开始交易。",
+          "url": "https://wallstreetcn.com/livenews/3046715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "美国总统特朗普签署行政命令打击毒瘾和药物滥用，称之为“伟大的美国复苏计划”。",
+          "url": "https://flash.jin10.com/detail/20260130063308194800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
           "title": "特朗普最新回应美军机南海坠毁，“有可能是燃油出了问题”",
           "url": "https://wallstreetcn.com/livenews/3046596",
           "source": "华尔街见闻-快讯",
@@ -1109,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "美国总统特朗普：美国特使威特科夫带来了一些相当不错的消息。",
+          "url": "https://flash.jin10.com/detail/20260130063254804800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至1.1%，成分股Atlassian跌11.5%，微软跌11%，Workday跌9.5%，财捷跌7%，Strategy跌超5%。 Diamond Energy目前涨3.8%表现第四，康卡斯特、霍尼韦尔涨超4%，Meta涨7.8%。",
@@ -1158,7 +1272,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -1177,11 +1291,34 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 07时29分]"
+        },
+        {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "苹果股价美股盘后出现两波冲高回落行情，目前涨超0.9%。 业绩报告披露后，CEO库克和CFO正参与分析师电话会议。",
+          "url": "https://wallstreetcn.com/livenews/3046740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "加密货币市场在美股开盘前后加速下跌",
@@ -1252,13 +1389,35 @@
           "time_info": "05时31分"
         },
         {
+          "title": "Sandisk（闪迪）美股盘后涨幅重新扩大至将近15%。",
+          "url": "https://wallstreetcn.com/livenews/3046731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
+          "url": "https://www.cls.cn/detail/2274922",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
           "title": "航空业ETF收涨超2.6%，领跑美股行业ETF，标普科技板块跌超1.8%",
           "url": "https://wallstreetcn.com/livenews/3046710",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -1313,7 +1472,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         }
@@ -1321,7 +1480,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -1332,8 +1491,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 07时29分]"
         },
         {
           "title": "金价",
@@ -1346,8 +1505,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 07时29分]"
         },
         {
           "title": "金价上涨打金店2天亏5万",
@@ -1357,11 +1516,12 @@
             7,
             24,
             26,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 07时29分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -1371,8 +1531,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 07时29分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -1383,8 +1543,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 07时29分]"
         },
         {
           "title": "金价暴涨第一批受害者出现",
@@ -1395,8 +1555,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 07时29分]"
         },
         {
           "title": "一口气看懂金价涨跌的底层逻辑",
@@ -1406,11 +1566,23 @@
             21,
             19,
             10,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时31分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 07时29分]"
+        },
+        {
+          "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
+          "url": "https://www.zhihu.com/question/2000353838817882383",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -1430,7 +1602,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         }
@@ -1438,7 +1610,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
@@ -1450,8 +1622,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 07时29分]"
         },
         {
           "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
@@ -1464,6 +1636,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时31分]"
+        },
+        {
+          "title": "消息人士称，OpenAI已聘请新高管，以帮助为IPO做准备，OpenAI计划在第四季度进行IPO，以在上市竞争中击败Anthropic。",
+          "url": "https://flash.jin10.com/detail/20260130070522656800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "亚马逊洽谈对OpenAI投资至多500亿美元，后者寻求在新一轮融资中募集高达1000亿美元——估值高达8300亿美元。 亚马逊Jassy牵头公司与OpenAI的CEO Altman磋商。（华尔街日报）",
@@ -1502,7 +1685,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌DeepMind登Nature封面",
@@ -1515,8 +1698,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 07时29分]"
+        },
+        {
+          "title": "苹果CEO：将思考与谷歌公司（关于大模型Gemini）的合作。 苹果将继续独立地“开发一些自己的东西”。",
+          "url": "https://wallstreetcn.com/livenews/3046736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：谷歌技术将改进Siri，今年晚些时候将推出更新。",
@@ -1525,7 +1719,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         }
@@ -1542,7 +1736,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
