@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T16:43:38.277171+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-01-29T17:46:32.558142+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 234,
+      "match_count": 241,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时41分 ~ 07时29分]"
+        },
+        {
+          "title": "美联储决议无新意，希捷飙升引领存储板块大涨，黄金涨破5400，纽银涨10%，油价四个月新高",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时28分 ~ 17时46分]"
         },
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -56,15 +67,18 @@
           "time_info": "[00时41分 ~ 16时43分]"
         },
         {
-          "title": "美联储决议无新意，希捷飙升引领存储板块大涨，黄金涨破5400，纽银涨10%，油价四个月新高",
-          "url": "https://wallstreetcn.com/articles/3764338",
-          "source": "华尔街见闻",
+          "title": "美联储宣布维持基准利率不变",
+          "url": "https://www.douyin.com/hot/2382589",
+          "source": "抖音",
           "ranks": [
+            5,
+            7,
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时28分 ~ 16时43分]"
+          "appearance_count": 10,
+          "time_info": "[07时28分 ~ 17时46分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -108,20 +122,6 @@
           "time_info": "[00时41分 ~ 05时32分]"
         },
         {
-          "title": "美联储宣布维持基准利率不变",
-          "url": "https://www.douyin.com/hot/2382589",
-          "source": "抖音",
-          "ranks": [
-            5,
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时28分 ~ 16时43分]"
-        },
-        {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
           "url": "https://wallstreetcn.com/articles/3764299",
           "source": "华尔街见闻",
@@ -155,8 +155,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时11分 ~ 16时43分]"
+          "appearance_count": 8,
+          "time_info": "[10时11分 ~ 17时46分]"
         },
         {
           "title": "【每日收评】三大指数震荡分化涨跌不一，全市场超3600股飘绿，黄金、油气等周期股持续爆发",
@@ -218,8 +218,34 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时43分]"
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 17时46分]"
+        },
+        {
+          "title": "美联储如期暂停降息，暗示不急行动，但联储主席人选沃勒支持再降25基点",
+          "url": "https://wallstreetcn.com/articles/3764401",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时28分 ~ 17时46分]"
+        },
+        {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时28分 ~ 17时46分]"
         },
         {
           "title": "鲍威尔：美联储当前没有加息考量 建议新主席“远离政治”",
@@ -295,6 +321,17 @@
           "time_info": "15时42分"
         },
         {
+          "title": "富时罗素：有关指数处理的决定将根据我们的治理框架予以审议，并在适当时候予以公布。",
+          "url": "https://flash.jin10.com/detail/20260129173504234800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "美联储按兵不动，决议声明称，理事沃勒、米兰倾向于降息25个基点。 失业率已经在一定程度上表现出企稳迹象。",
           "url": "https://wallstreetcn.com/livenews/3045760",
           "source": "华尔街见闻-快讯",
@@ -326,31 +363,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
-        },
-        {
-          "title": "美联储如期暂停降息，暗示不急行动，但联储主席人选沃勒支持再降25基点",
-          "url": "https://wallstreetcn.com/articles/3764401",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时28分 ~ 16时43分]"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时28分 ~ 16时43分]"
         },
         {
           "title": "美联储换帅对全球经济有何影响",
@@ -529,6 +541,17 @@
           "time_info": "12时29分"
         },
         {
+          "title": "布伦特原油期货涨至每桶70美元，为去年9月以来首次。",
+          "url": "https://flash.jin10.com/detail/20260129173246810800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收跌0.65%，报609.11点。 欧元区STOXX 50指数初步收跌0.81%，报5946.14点。 富时泛欧绩优300指数初步收跌0.73%，报2425.13点。",
           "url": "https://wallstreetcn.com/livenews/3045708",
           "source": "华尔街见闻-快讯",
@@ -645,7 +668,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -659,6 +682,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "谁会是下任美联储主席",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            9,
+            25,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 17时46分]"
         },
         {
           "title": "量化股票交易规则或变化？不实",
@@ -754,6 +792,19 @@
           "time_info": "[14时52分 ~ 15时42分]"
         },
         {
+          "title": "美联储主席对黄金表态透露哪些信息",
+          "url": "https://www.toutiao.com/trending/7600621628191411731/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 17时46分]"
+        },
+        {
           "title": "美国总统特朗普赞赏财长贝森特，称自己不想失去他。",
           "url": "https://wallstreetcn.com/livenews/3045707",
           "source": "华尔街见闻-快讯",
@@ -789,6 +840,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时32分]"
+        },
+        {
+          "title": "利率已被焊死？“新债王”冈拉克：鲍威尔主席任内美联储将不会再降息",
+          "url": "https://www.cls.cn/detail/2273672",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 17时46分]"
         },
         {
           "title": "美国总统特朗普：让泽尔丁负责洛杉矶山火重建许可。",
@@ -839,18 +904,6 @@
           "time_info": "[14时52分 ~ 15时42分]"
         },
         {
-          "title": "美联储主席对黄金表态透露哪些信息",
-          "url": "https://www.toutiao.com/trending/7600621628191411731/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时43分]"
-        },
-        {
           "title": "标普500指数盘中转跌，较高位逾7000点回落至6978点。",
           "url": "https://flash.jin10.com/detail/20260129002458395800",
           "source": "金十数据",
@@ -875,20 +928,6 @@
           "time_info": "[05时32分 ~ 06时30分]"
         },
         {
-          "title": "谁会是下任美联储主席",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            9,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时47分 ~ 16时43分]"
-        },
-        {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
           "url": "https://www.cls.cn/detail/2273332",
           "source": "财联社热门",
@@ -899,19 +938,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时11分 ~ 12时29分]"
-        },
-        {
-          "title": "利率已被焊死？“新债王”冈拉克：鲍威尔主席任内美联储将不会再降息",
-          "url": "https://www.cls.cn/detail/2273672",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 16时43分]"
         },
         {
           "title": "美国总统特朗普在特朗普账户活动上发表讲话时称赞戴尔电脑，此前戴尔夫妇为“特朗普账户”豪捐62.5亿美元 。",
@@ -1008,6 +1034,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时41分]"
+        },
+        {
+          "title": "A股三大股指涨跌互现",
+          "url": "https://www.toutiao.com/trending/7600659485685907497/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时46分]"
         },
         {
           "title": "资管机构：预计美元今年将下探最近十一年低位，跌势可能至少会持续至特朗普任期届满",
@@ -1224,9 +1262,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
+        },
+        {
+          "title": "挪威主权财富基金CEO：应该担心全球分裂、主权债务水平，并意识到基金的大量价值与人工智能股票息息相关。",
+          "url": "https://flash.jin10.com/detail/20260129173112375800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的11.03亿美元。",
@@ -1315,6 +1364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "特朗普升级对伊施压，白银冲上120后回落，金、铜、油全线狂飙，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "加拿大央行高级副行长罗杰斯：强劲的美联储使市场和通胀保持稳定，这有助于降低利率波动。",
@@ -1653,7 +1713,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -1722,6 +1782,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "美联储理事米兰、沃勒支持降息25个基点",
@@ -1818,9 +1889,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
+        },
+        {
+          "title": "富宝资讯：碳酸锂期货盘面跌后回涨，富宝碳酸锂社会总库存10.48万吨，环增0.2%",
+          "url": "https://flash.jin10.com/detail/20260129171336683800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "阿波罗首席经济学家Torsten Slok：预计美联储（今天）将说他们保持观望状态。 我们将看到（美国经济）在今年加速增长。 预计增速将高于现阶段的（市场/分析师预期的）共识。 如果到年底通胀率高达4%，需要严肃对待。（彭博电视）",
@@ -1895,7 +1977,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -1939,18 +2021,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
-        },
-        {
-          "title": "A股三大股指涨跌互现",
-          "url": "https://www.toutiao.com/trending/7600659485685907497/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -2346,7 +2417,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -2478,7 +2549,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -2514,6 +2585,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "特朗普暗示可以操控美元汇率",
+          "url": "https://www.toutiao.com/trending/7600301655842291754/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "美联储主席鲍威尔：（经济）受益于人工智能支出。",
@@ -2662,7 +2744,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -2816,6 +2898,17 @@
           "time_info": "02时41分"
         },
         {
+          "title": "IBM(IBM.N)美股盘前涨7.9%，四季度业绩超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129171935659800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260129050547411800",
           "source": "金十数据",
@@ -2836,6 +2929,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "IBM(IBM.N)美股盘前上涨7.9%，其第四季度业绩超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129171701650800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后现涨3%。",
@@ -2869,6 +2973,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "美股盘前：Meta涨约7%，微软跌约6%，特斯拉涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3046315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "好未来第三季度净营收7.702亿美元，预估7.846亿美元。 第三季度调整后每ADS收益 0.25美元，预估0.07美元。 好未来美股盘前涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3046314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         }
       ]
     },
@@ -2939,8 +3065,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时41分 ~ 16时43分]"
+          "appearance_count": 20,
+          "time_info": "[00时41分 ~ 17时46分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -2975,11 +3101,12 @@
             11,
             10,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时28分 ~ 16时43分]"
+          "appearance_count": 7,
+          "time_info": "[12时28分 ~ 17时46分]"
         },
         {
           "title": "渣打：金价任何回调都是买入机会",
@@ -3063,7 +3190,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "人类基因密码被谷歌AI破解",
@@ -3100,6 +3227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         }
       ]
     },
@@ -3139,6 +3277,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "西部黄金：公司关注到目前黄金市场热度较高，黄金产品的市场价格累计涨幅较大，敬请广大投资者理性投资、审慎决策，注意投资风险。",
+          "url": "https://wallstreetcn.com/livenews/3046359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "北方铜业：公司近期经营情况及内外部经营环境未发生重大变化。公司的主要产品阴极铜、黄金、白银等产品的市场价格大幅上涨，系本次股价异动的主要原因。",
+          "url": "https://wallstreetcn.com/livenews/3046337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "黄金主题LOF：提示投资者关注二级市场交易价格溢价风险",
+          "url": "https://wallstreetcn.com/livenews/3046327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         }
       ]
     },
