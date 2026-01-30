@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T22:02:15.028251+08:00",
-  "total_titles_processed": 2006,
+  "generated_at": "2026-01-30T23:40:59.451394+08:00",
+  "total_titles_processed": 2130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 256,
+      "match_count": 277,
       "titles": [
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时42分 ~ 22时02分]"
+          "appearance_count": 17,
+          "time_info": "[12时42分 ~ 23时40分]"
         },
         {
           "title": "美联储决议无新意，希捷飙升引领存储板块大涨，黄金涨破5400，纽银涨10%，油价四个月新高",
@@ -85,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时53分 ~ 22时02分]"
+          "appearance_count": 15,
+          "time_info": "[14时53分 ~ 23时40分]"
         },
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -113,11 +113,12 @@
             13,
             14,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时53分 ~ 22时02分]"
+          "appearance_count": 15,
+          "time_info": "[14时53分 ~ 23时40分]"
         },
         {
           "title": "美联储暂停降息对黄金有何影响",
@@ -146,6 +147,17 @@
           "time_info": "[10时11分 ~ 17时45分]"
         },
         {
+          "title": "高盛 CEO 认为，二三十岁的打工人应多投股票而非黄金，如何看待这一言论？",
+          "url": "https://www.zhihu.com/question/2000501017222090916",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时37分 ~ 23时40分]"
+        },
+        {
           "title": "特朗普：将开放委内瑞拉领空",
           "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
           "source": "凤凰网",
@@ -155,6 +167,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时42分 ~ 17时45分]"
+        },
+        {
+          "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
+          "url": "https://www.cls.cn/detail/2276051",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时01分 ~ 23时40分]"
+        },
+        {
+          "title": "特朗普提名沃什担任美联储主席",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E6%B2%83%E4%BB%80%E6%8B%85%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时01分 ~ 23时40分]"
         },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -191,15 +228,40 @@
           "time_info": "[10时11分 ~ 16时43分]"
         },
         {
-          "title": "高盛 CEO 认为，二三十岁的打工人应多投股票而非黄金，如何看待这一言论？",
-          "url": "https://www.zhihu.com/question/2000501017222090916",
-          "source": "知乎",
+          "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498277",
+          "source": "澎湃新闻",
           "ranks": [
+            18,
+            16,
+            15,
             14
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[18时37分 ~ 22时02分]"
+          "time_info": "[19时31分 ~ 23时40分]"
+        },
+        {
+          "title": "特朗普提名凯文·沃什担任美联储主席",
+          "url": "https://news.ifeng.com/c/8qLGm417qYM",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时01分 ~ 23时40分]"
+        },
+        {
+          "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
+          "url": "https://wallstreetcn.com/articles/3764603",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时39分 ~ 23时40分]"
         },
         {
           "title": "沃什为何被提名美联储主席",
@@ -213,32 +275,9 @@
           "time_info": "[21时01分 ~ 21时02分]"
         },
         {
-          "title": "特朗普提名沃什担任美联储主席",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E6%B2%83%E4%BB%80%E6%8B%85%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时01分 ~ 22时02分]"
-        },
-        {
           "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一",
           "url": "https://wallstreetcn.com/articles/3764603",
           "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
-          "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
-          "url": "https://www.cls.cn/detail/2276051",
-          "source": "财联社热门",
           "ranks": [
             5
           ],
@@ -286,7 +325,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -300,6 +339,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "特朗普起诉美政府部门",
+          "url": "https://www.douyin.com/hot/2383706",
+          "source": "抖音",
+          "ranks": [
+            8,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时44分 ~ 23时40分]"
+        },
+        {
+          "title": "特朗普：提名凯文·沃什出任美联储主席",
+          "url": "https://www.cls.cn/detail/2276010",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时01分 ~ 23时40分]"
         },
         {
           "title": "1月30日投资避雷针：奥特迅、国中水务等公司发布年报预告 称股票交易可能被实施ST",
@@ -421,7 +485,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -435,6 +499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周五（1月30日），南非富时/JSE非洲领先40可交易指数收跌4.52%，刷新日低、逼近11.2万点，开盘跳水、随后持续走低，在特朗普宣布凯文·沃什为美联储主席提名人之际脱离历史最高位，本周累计下跌1.86%。",
+          "url": "https://wallstreetcn.com/livenews/3047474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国财政部：现在更广泛地监测那些平滑汇率波动的国家，是否是为了抵御贬值压力而采取的措施。",
@@ -465,7 +540,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -510,7 +585,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -547,30 +622,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[19时31分 ~ 22时02分]"
-        },
-        {
-          "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498277",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时31分 ~ 22时02分]"
-        },
-        {
-          "title": "特朗普提名凯文·沃什担任美联储主席",
-          "url": "https://news.ifeng.com/c/8qLGm417qYM",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时01分 ~ 22时02分]"
         },
         {
           "title": "美国总统特朗普：与礼来制药老板对话。",
@@ -782,18 +833,6 @@
           "time_info": "[17时44分 ~ 18时38分]"
         },
         {
-          "title": "特朗普起诉美政府部门",
-          "url": "https://www.douyin.com/hot/2383706",
-          "source": "抖音",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 18时38分]"
-        },
-        {
           "title": "美国总统特朗普：关税本可能会更高，我们已经非常客气了。",
           "url": "https://flash.jin10.com/detail/20260130011559284800",
           "source": "金十数据",
@@ -854,16 +893,16 @@
           "time_info": "[06时31分 ~ 12时42分]"
         },
         {
-          "title": "特朗普：提名凯文·沃什出任美联储主席",
-          "url": "https://www.cls.cn/detail/2276010",
-          "source": "财联社热门",
+          "title": "被提名美联储主席的沃什是谁",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E6%8F%90%E5%90%8D%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E7%9A%84%E6%B2%83%E4%BB%80%E6%98%AF%E8%B0%81",
+          "source": "bilibili 热搜",
           "ranks": [
-            11,
-            9
+            20,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[21时01分 ~ 22时02分]"
+          "time_info": "[22时01分 ~ 23时40分]"
         },
         {
           "title": "特朗普回应开会睡觉",
@@ -967,6 +1006,17 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
+          "title": "谁是沃什？其岳父第一个建议特朗普买下格陵兰岛",
+          "url": "https://news.ifeng.com/c/8qLLfsjtQ3f",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时39分 ~ 23时40分]"
+        },
+        {
           "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
           "url": "https://flash.jin10.com/detail/20260130020053884800",
           "source": "金十数据",
@@ -1036,6 +1086,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
+          "url": "https://www.zhihu.com/question/2000660435238613290",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时39分 ~ 23时40分]"
         },
         {
           "title": "美国总统特朗普：我们将开始打击陆路入境的毒品，你们很快就会看到。",
@@ -1299,15 +1360,26 @@
           "time_info": "[02时52分 ~ 03时32分]"
         },
         {
-          "title": "被提名美联储主席的沃什是谁",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E6%8F%90%E5%90%8D%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E7%9A%84%E6%B2%83%E4%BB%80%E6%98%AF%E8%B0%81",
-          "source": "bilibili 热搜",
+          "title": "孕36周女子吃火锅后突发呕血便血",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9536%E5%91%A8%E5%A5%B3%E5%AD%90%E5%90%83%E7%81%AB%E9%94%85%E5%90%8E%E7%AA%81%E5%8F%91%E5%91%95%E8%A1%80%E4%BE%BF%E8%A1%80%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "time_info": "[23时39分 ~ 23时40分]"
+        },
+        {
+          "title": "俄方：普京收到了特朗普的请求",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E6%94%B6%E5%88%B0%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E8%AF%B7%E6%B1%82",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时39分 ~ 23时40分]"
         },
         {
           "title": "美联储主席人选定了？沃什何人？丨Hi，今天怎么看？",
@@ -1338,9 +1410,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "路透调查：俄罗斯卢布兑美元汇率在12个月内预计为88.3（上次调查为96.7）。",
+          "url": "https://flash.jin10.com/detail/20260130230125938800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，蔚来初步收涨3.8%，百胜中国涨1%，腾讯、新东方、理想、小米、美团至多涨超0.9%，阿里跌0.7%，网易跌1.3%，文远知行跌4.5%，小马智行跌7.9%。 ETF中，ASHR涨0.9%，KWEB涨0.5%，CQQQ跌1.5%。",
@@ -1393,9 +1476,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约跌多涨少，BR橡胶跌超2%，橡胶、20号胶跌超1%，苯乙烯、PTA、瓶片、白糖、对二甲苯小幅下跌。涨幅方面，烧碱、PVC涨超2%，焦煤、纯碱涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260130230118650800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "标普500指数初步收跌0.1%，科技板块跌2%，可选消费板块跌0.6%，能源板块涨1.1%，电信板块涨3%。 纳斯达克100指数初步收跌0.5%，成分股中，Atlassian、微软、Strategy初步收跌约10%，表现最差，新思科技跌6%，铿腾电子跌5.7%，阿斯麦ADR涨2%，Meta涨10.8%。 Salesforce初步收跌6.3%，波音跌3%，和微软领跌道指成分股，摩根大通则涨1.6%，霍尼韦尔涨4.9%，IBM涨约5%。",
@@ -1418,6 +1512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "白宫顾问哈塞特：供给侧繁荣将让美联储有空间降息。",
+          "url": "https://wallstreetcn.com/livenews/3047470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "分析：弱美元可能成为特朗普和下一任美联储主席的麻烦",
@@ -1448,7 +1553,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1558,7 +1663,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1580,9 +1685,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "金十图示：2026年01月30日（周五）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260130230020661800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "A股算力硬件股午后持续走高，杰普特、致尚科技20cm涨停，天孚通信大涨14%创历史新高，新易盛、罗博特科、德科立涨幅居前。",
@@ -1594,6 +1710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "哈塞特对“落选美联储主席”不感到失望，抨击美联储1月按兵不动",
+          "url": "https://wallstreetcn.com/livenews/3047467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "特朗普宣布国家紧急状态 并对向古巴输油的国家加征关税",
@@ -1635,9 +1762,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "加拿大工业部长Joly：我们不会（针对特朗普政府）将飞机认证政治化。",
+          "url": "https://wallstreetcn.com/livenews/3047464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国财政部发布报告 未将任何经济体列入汇率操纵名单",
@@ -1701,7 +1839,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1756,9 +1894,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "金十图示：2026年01月30日（周五）华尔街恐惧与贪婪指数（美盘初）",
+          "url": "https://flash.jin10.com/detail/20260130225057232800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -1844,7 +1993,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1904,6 +2053,17 @@
           "time_info": "19时31分"
         },
         {
+          "title": "中概指数跌超1%，金山云跌超6%",
+          "url": "https://wallstreetcn.com/livenews/3047460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "美国总统特朗普：美国目前的钢铁产量超过日本。",
           "url": "https://flash.jin10.com/detail/20260130005635808800",
           "source": "金十数据",
@@ -1954,7 +2114,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1990,6 +2150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "内盘期货夜市多数收跌，合成橡胶跌2%，铁矿石跌超0.3%，焦煤涨约1.6%，烧碱涨超2.8%",
+          "url": "https://wallstreetcn.com/livenews/3047459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国总统特朗普：福特和通用汽车的表现比以往任何时候都好。",
@@ -2042,7 +2213,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -2130,7 +2301,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -2240,7 +2411,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -2311,6 +2482,17 @@
           "time_info": "18时38分"
         },
         {
+          "title": "ABRDN实物白银股票ETF下跌14.2%，Global X白银矿业ETF下跌7.5%，iShares白银信托下跌14%。",
+          "url": "https://flash.jin10.com/detail/20260130223703316800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "美国总统特朗普：石油公司将为美国和委内瑞拉带来财富。 今天将开放委内瑞拉所有商业空域。",
           "url": "https://wallstreetcn.com/livenews/3046606",
           "source": "华尔街见闻-快讯",
@@ -2350,7 +2532,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -2416,7 +2598,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -2515,7 +2697,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -2680,9 +2862,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "美国费城金银指数暴跌5.9%。 白银ETF目前跌13.9%，金矿股ETF跌6.6%，黄金矿工因素指数ETF跌6.4%。 金银矿业概念股中，ASM跌9.9%，安格鲁阿山帝黄金ADR跌8.4%，Blue Gold跌8.2%，AG跌8%，泛美白银、科尔黛伦矿业跌7.3%，巴里克矿业跌7.1%，",
+          "url": "https://wallstreetcn.com/livenews/3047449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "德国DAX指数跌2%，至24,325.51。",
@@ -2784,6 +2977,17 @@
           "time_info": "16时43分"
         },
         {
+          "title": "庞巴迪多伦多股价暴跌19.70%，至少创4月4日以来最差盘中表现，至147.56（加元），逼近11月14日底部142.40。 1月29日盘后，该公司声明称，关注到美国总统特朗普的帖子，正与加拿大政府保持联系。希望此事能尽快解决，以避免对航空交通和广大乘客造成重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3047446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "美国总统特朗普签署行政命令打击毒瘾和药物滥用，称之为“伟大的美国复苏计划”。",
           "url": "https://flash.jin10.com/detail/20260130063308194800",
           "source": "金十数据",
@@ -2861,6 +3065,17 @@
           "time_info": "10时11分"
         },
         {
+          "title": "纳斯达克金龙中国指数盘初跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3047444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "纳斯达克100指数跌幅扩大至1.1%，成分股Atlassian跌11.5%，微软跌11%，Workday跌9.5%，财捷跌7%，Strategy跌超5%。 Diamond Energy目前涨3.8%表现第四，康卡斯特、霍尼韦尔涨超4%，Meta涨7.8%。",
           "url": "https://wallstreetcn.com/livenews/3046563",
           "source": "华尔街见闻-快讯",
@@ -2911,9 +3126,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "沃什意外胜出美联储主席角逐 市场波动性料将攀升",
+          "url": "https://flash.jin10.com/detail/20260130222219451800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国政府停摆风险迫近，特朗普与民主党人接近达成协议",
@@ -2925,6 +3151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "标普500指数低开21.74点，跌幅0.31%，报6947.27点； 道琼斯工业平均指数低开79.94点，跌幅0.16%，报48991.62点； 纳斯达克综合指数低开106.16点，跌幅0.45%，报23578.96点。",
+          "url": "https://wallstreetcn.com/livenews/3047441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         }
       ]
     },
@@ -3282,7 +3519,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -3293,8 +3530,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时11分 ~ 22时02分]"
+          "appearance_count": 18,
+          "time_info": "[10时11分 ~ 23时40分]"
         },
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -3332,6 +3569,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时29分 ~ 14时54分]"
+        },
+        {
+          "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时39分 ~ 23时40分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -3501,6 +3749,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "金十图示：2026年01月30日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260130223951466800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "美股盘前：闪迪涨约21%，黄金股大跌",
           "url": "https://wallstreetcn.com/livenews/3047198",
           "source": "华尔街见闻-快讯",
@@ -3543,6 +3802,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "半导体ETF跌0.96%，在美股盘初领跌行业ETF，网络股指数ETF、银行业ETF、科技行业ETF、全球科技股指数ETF等至多跌0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3047445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "美股三大股指低开 金矿股大跌",
+          "url": "https://flash.jin10.com/detail/20260130223022517800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         }
       ]
     },
@@ -3633,6 +3914,67 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美元指数短线走高 日元跌超1%",
+          "url": "https://flash.jin10.com/detail/20260130230506872800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "美元指数29日下跌",
+          "url": "https://flash.jin10.com/detail/20260130061735359800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "美国12月PP数据公布后，美元指数短线小幅拉升",
+          "url": "https://wallstreetcn.com/livenews/3047414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "周四（1月29日））纽约尾盘，ICE美元指数跌0.21%，报96.245点，日内交投区间为96.656-96.016点，大部分时间低位震荡，北京时间23:00曾开启一波短暂的冲高回落行情。 彭博美元指数跌0.12%，报1178.02点，日内交投区间为1182.97-1175.40点。",
+          "url": "https://wallstreetcn.com/livenews/3046676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美元指数短线持续走高，日内涨幅达0.6%，现报96.7。",
+          "url": "https://wallstreetcn.com/livenews/3047254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
@@ -3676,59 +4018,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美元指数29日下跌",
-          "url": "https://flash.jin10.com/detail/20260130061735359800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美国12月PP数据公布后，美元指数短线小幅拉升",
-          "url": "https://wallstreetcn.com/livenews/3047414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "周四（1月29日））纽约尾盘，ICE美元指数跌0.21%，报96.245点，日内交投区间为96.656-96.016点，大部分时间低位震荡，北京时间23:00曾开启一波短暂的冲高回落行情。 彭博美元指数跌0.12%，报1178.02点，日内交投区间为1182.97-1175.40点。",
-          "url": "https://wallstreetcn.com/livenews/3046676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "美元指数短线持续走高，日内涨幅达0.6%，现报96.7。",
-          "url": "https://wallstreetcn.com/livenews/3047254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
         }
       ]
     },
