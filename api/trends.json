@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T07:26:01.546102+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-02-01T10:36:27.986262+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时36分]"
         },
         {
           "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
@@ -32,6 +32,20 @@
           "time_info": "[00时32分 ~ 07时26分]"
         },
         {
+          "title": "“降息+缩表+改革”！沃什的“美联储三板斧”真不真，很快见分晓",
+          "url": "https://wallstreetcn.com/articles/3764644",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时36分]"
+        },
+        {
           "title": "2026年A股上市公司第一批退市名单",
           "url": "https://www.toutiao.com/trending/7600954784553730075/",
           "source": "今日头条",
@@ -41,19 +55,6 @@
             9,
             20,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时26分]"
-        },
-        {
-          "title": "“降息+缩表+改革”！沃什的“美联储三板斧”真不真，很快见分晓",
-          "url": "https://wallstreetcn.com/articles/3764644",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
           ],
           "is_new": false,
           "appearance_count": 12,
@@ -80,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时36分]"
         },
         {
           "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
@@ -91,8 +92,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时36分]"
         },
         {
           "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
@@ -102,8 +103,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时36分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[02时36分 ~ 10时36分]"
         },
         {
           "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
@@ -136,11 +137,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
+            2,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 07时26分]"
+          "appearance_count": 4,
+          "time_info": "[05时25分 ~ 10时36分]"
         },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -152,17 +154,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 01时26分]"
-        },
-        {
-          "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
-          "url": "https://wallstreetcn.com/livenews/3047726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
         },
         {
           "title": "高中生熬夜用小太阳取暖突发脑梗",
@@ -178,6 +169,31 @@
           "time_info": "[03时23分 ~ 07时26分]"
         },
         {
+          "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
+          "url": "https://wallstreetcn.com/livenews/3047726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 10时36分]"
+        },
+        {
+          "title": "比特币跌破8万美元关口，创去年4月以来最低",
+          "url": "https://wallstreetcn.com/livenews/3047718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时25分 ~ 10时36分]"
+        },
+        {
           "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
           "url": "https://wallstreetcn.com/articles/3764621",
           "source": "华尔街见闻",
@@ -190,22 +206,65 @@
           "time_info": "[00时32分 ~ 01时26分]"
         },
         {
-          "title": "比特币跌破8万美元关口，创去年4月以来最低",
-          "url": "https://wallstreetcn.com/livenews/3047718",
+          "title": "沃什的三大挑战：美联储、通胀和特朗普",
+          "url": "https://wallstreetcn.com/articles/3764667",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
+          "url": "https://www.cls.cn/detail/2276655",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "特朗普称美伊正谈判",
+          "url": "https://wallstreetcn.com/livenews/3047731",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            10
+            14
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 07时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "特朗普称正与伊朗进行对话",
+          "url": "https://flash.jin10.com/detail/20260201082730474800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "比特币跌破79000美元关口",
+          "url": "https://www.toutiao.com/trending/7600984820440727602/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "金价大跌男子斥资20多万买入200克",
@@ -213,11 +272,12 @@
           "source": "微博",
           "ranks": [
             5,
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时36分]"
         },
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -228,8 +288,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时36分]"
         },
         {
           "title": "金价波动",
@@ -304,6 +364,17 @@
           "time_info": "[01时25分 ~ 04时29分]"
         },
         {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
           "title": "国际金价银价继续大幅下跌",
           "url": "https://m.thepaper.cn/newsDetail_forward_32503143",
           "source": "澎湃新闻",
@@ -314,6 +385,61 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 01时26分]"
+        },
+        {
+          "title": "金价大跌 男子斥资20多万买入200克",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E7%94%B7%E5%AD%90%E6%96%A5%E8%B5%8420%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%85%A5200%E5%85%8B",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "金价暴跌 有柜姐发帖退单一律扣500",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E6%9F%9C%E5%A7%90%E5%8F%91%E5%B8%96%E9%80%80%E5%8D%95%E4%B8%80%E5%BE%8B%E6%89%A3500",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "金价爆跌有柜姐放话退货扣500无效",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%88%86%E8%B7%8C%E6%9C%89%E6%9F%9C%E5%A7%90%E6%94%BE%E8%AF%9D%E9%80%80%E8%B4%A7%E6%89%A3500%E6%97%A0%E6%95%88%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "金价巨震 有人昨天赚5万今天倒亏4万",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%B7%A8%E9%9C%87+%E6%9C%89%E4%BA%BA%E6%98%A8%E5%A4%A9%E8%B5%9A5%E4%B8%87%E4%BB%8A%E5%A4%A9%E5%80%92%E4%BA%8F4%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "深圳水贝金价暴跌市民扎堆买金",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%B8%82%E6%B0%91%E6%89%8E%E5%A0%86%E4%B9%B0%E9%87%91%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         }
       ]
     },
@@ -321,6 +447,18 @@
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
+        {
+          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
+          "url": "https://wallstreetcn.com/articles/3764643",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时29分 ~ 10时36分]"
+        },
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
           "url": "https://flash.jin10.com/detail/20260131204002785800",
@@ -367,17 +505,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时26分]"
-        },
-        {
-          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
-          "url": "https://wallstreetcn.com/articles/3764643",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时29分 ~ 07时26分]"
         }
       ]
     },
@@ -393,11 +520,12 @@
             4,
             6,
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时36分]"
         }
       ]
     },
