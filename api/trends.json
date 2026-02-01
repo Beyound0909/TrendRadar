@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T16:36:31.436403+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2026-02-01T17:34:28.429858+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 58,
+      "match_count": 62,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 16时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 17时34分]"
         },
         {
           "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
@@ -82,8 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 16时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 17时34分]"
         },
         {
           "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
@@ -147,6 +147,20 @@
           "time_info": "[05时25分 ~ 13时03分]"
         },
         {
+          "title": "沃什的三大挑战：美联储、通胀和特朗普",
+          "url": "https://wallstreetcn.com/articles/3764667",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 17时34分]"
+        },
+        {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
           "url": "https://www.cls.cn/detail/2276051",
           "source": "财联社热门",
@@ -171,18 +185,18 @@
           "time_info": "[03时23分 ~ 07时26分]"
         },
         {
-          "title": "沃什的三大挑战：美联储、通胀和特朗普",
-          "url": "https://wallstreetcn.com/articles/3764667",
-          "source": "华尔街见闻",
+          "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
+          "url": "https://www.cls.cn/detail/2276655",
+          "source": "财联社热门",
           "ranks": [
             9,
-            5,
+            8,
             7,
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时36分 ~ 16时36分]"
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 17时34分]"
         },
         {
           "title": "印度NIFTY金属指数跌幅收窄至2.5%。",
@@ -220,17 +234,28 @@
           "time_info": "13时03分"
         },
         {
-          "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
-          "url": "https://www.cls.cn/detail/2276655",
-          "source": "财联社热门",
+          "title": "印度NIFTY指数下跌1.2%。",
+          "url": "https://flash.jin10.com/detail/20260201164336910800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8,
-            7
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "特朗普：美委将“分享”石油收益",
+          "url": "https://wallstreetcn.com/livenews/3047762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时36分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[14时53分 ~ 17时34分]"
         },
         {
           "title": "特朗普上任一周年做了什么",
@@ -244,16 +269,41 @@
           "time_info": "15时39分"
         },
         {
-          "title": "特朗普：美委将“分享”石油收益",
-          "url": "https://wallstreetcn.com/livenews/3047762",
-          "source": "华尔街见闻-快讯",
+          "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
+          "url": "https://wallstreetcn.com/articles/3764674",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            15
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 16时36分]"
+          "appearance_count": 5,
+          "time_info": "[13时03分 ~ 17时34分]"
+        },
+        {
+          "title": "特朗普称就格陵兰岛的谈判即将达成一致",
+          "url": "https://wallstreetcn.com/livenews/3047752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时03分 ~ 17时34分]"
+        },
+        {
+          "title": "美国政府多个部门再次陷入“停摆”，特朗普喊话：动动你们的脑子",
+          "url": "https://news.ifeng.com/c/8qNur2Nbdfc",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时03分 ~ 17时34分]"
         },
         {
           "title": "印度NIFTY信息技术指数上涨1%。",
@@ -274,36 +324,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时36分]"
-        },
-        {
-          "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
-          "url": "https://wallstreetcn.com/articles/3764674",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 16时36分]"
-        },
-        {
-          "title": "特朗普称就格陵兰岛的谈判即将达成一致",
-          "url": "https://wallstreetcn.com/livenews/3047752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 16时36分]"
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 17时34分]"
         },
         {
           "title": "特朗普称伊朗正“严肃”与美国对话",
@@ -319,15 +345,17 @@
           "time_info": "[13时03分 ~ 16时36分]"
         },
         {
-          "title": "美国政府多个部门再次陷入“停摆”，特朗普喊话：动动你们的脑子",
-          "url": "https://news.ifeng.com/c/8qNur2Nbdfc",
-          "source": "凤凰网",
+          "title": "拟整合6000亿元金矿的黄金股月内股价涨超70% 1月披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2276583",
+          "source": "财联社热门",
           "ranks": [
-            9
+            11,
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时03分 ~ 16时36分]"
+          "time_info": "[14时53分 ~ 17时34分]"
         },
         {
           "title": "比特币跌破8万美元关口，创去年4月以来最低",
@@ -394,16 +422,27 @@
           "time_info": "[00时32分 ~ 01时26分]"
         },
         {
-          "title": "拟整合6000亿元金矿的黄金股月内股价涨超70% 1月披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2276583",
-          "source": "财联社热门",
+          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            10
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时53分 ~ 16时36分]"
+          "time_info": "[15时39分 ~ 17时34分]"
+        },
+        {
+          "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509153",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时34分]"
         },
         {
           "title": "印度NIFTY国防指数延续跌势，跌幅扩大至6%。",
@@ -430,6 +469,30 @@
           "time_info": "[15时39分 ~ 16时36分]"
         },
         {
+          "title": "印度NIFTY指数部分回吐跌幅，最新下跌0.7%；NIFTY IT指数延续涨势，上涨2.1%。",
+          "url": "https://flash.jin10.com/detail/20260201155306625800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时34分]"
+        },
+        {
+          "title": "嘉美包装：停牌核查完成，逐越鸿智承诺在取得上市公司控制权后的36个月内，不会对上市公司进行资产注入，股票复牌。",
+          "url": "https://wallstreetcn.com/livenews/3047779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时34分]"
+        },
+        {
           "title": "特朗普称就格陵兰岛的谈判即将达成一致",
           "url": "https://m.thepaper.cn/newsDetail_forward_32509775",
           "source": "澎湃新闻",
@@ -440,6 +503,54 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时03分 ~ 14时53分]"
+        },
+        {
+          "title": "印度NIFTY IT指数上涨1%。",
+          "url": "https://flash.jin10.com/detail/20260201153751820800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时34分]"
+        },
+        {
+          "title": "锋龙股份：停牌核查完成，优必选承诺在本次收购完成后36个月内，不存在向上市公司注入其所持有资产的计划，股票复牌。",
+          "url": "https://wallstreetcn.com/livenews/3047777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时34分]"
+        },
+        {
+          "title": "印度提高股票衍生品交易税 印度股市应声下跌",
+          "url": "https://flash.jin10.com/detail/20260201152609786800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时34分]"
+        },
+        {
+          "title": "特朗普：正与伊朗进行对话",
+          "url": "https://www.cls.cn/detail/2276668",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时34分]"
         },
         {
           "title": "印度预算案：将上调期货证券交易税至0.05%。",
@@ -454,70 +565,37 @@
           "time_info": "[15时39分 ~ 16时36分]"
         },
         {
-          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
-          "source": "百度热搜",
+          "title": "沙特阿拉伯股票指数下跌2.1%。",
+          "url": "https://flash.jin10.com/detail/20260201163344484800",
+          "source": "金十数据",
           "ranks": [
-            30
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
-          "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509153",
+          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "17时34分"
         },
         {
-          "title": "印度NIFTY指数部分回吐跌幅，最新下跌0.7%；NIFTY IT指数延续涨势，上涨2.1%。",
-          "url": "https://flash.jin10.com/detail/20260201155306625800",
-          "source": "金十数据",
+          "title": "“门徒”一统财政部和美联储，是时候学习“德鲁肯米勒经济学”了",
+          "url": "https://wallstreetcn.com/articles/3764679",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "嘉美包装：停牌核查完成，逐越鸿智承诺在取得上市公司控制权后的36个月内，不会对上市公司进行资产注入，股票复牌。",
-          "url": "https://wallstreetcn.com/livenews/3047779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "印度NIFTY IT指数上涨1%。",
-          "url": "https://flash.jin10.com/detail/20260201153751820800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "锋龙股份：停牌核查完成，优必选承诺在本次收购完成后36个月内，不存在向上市公司注入其所持有资产的计划，股票复牌。",
-          "url": "https://wallstreetcn.com/livenews/3047777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "17时34分"
         },
         {
           "title": "特朗普：伊朗正“严肃”地与美国进行对话",
@@ -531,17 +609,6 @@
           "time_info": "13时03分"
         },
         {
-          "title": "印度提高股票衍生品交易税 印度股市应声下跌",
-          "url": "https://flash.jin10.com/detail/20260201152609786800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
           "title": "特朗普称沃什有望获民主党人支持 并预期其将推动降息",
           "url": "https://flash.jin10.com/detail/20260201105105064800",
           "source": "金十数据",
@@ -551,17 +618,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
-        },
-        {
-          "title": "特朗普：正与伊朗进行对话",
-          "url": "https://www.cls.cn/detail/2276668",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
         },
         {
           "title": "特朗普：认为格陵兰岛协议已基本达成",
@@ -785,6 +841,20 @@
           "time_info": "[02时36分 ~ 07时26分]"
         },
         {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            22,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 17时34分]"
+        },
+        {
           "title": "金价巨震前后商业银行集体审慎",
           "url": "https://www.toutiao.com/trending/7601209104585211940/",
           "source": "今日头条",
@@ -797,19 +867,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时25分 ~ 04时29分]"
-        },
-        {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时36分 ~ 16时36分]"
         },
         {
           "title": "金价遭遇过山车",
