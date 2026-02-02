@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T17:54:52.370733+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2026-02-02T18:49:17.956469+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 118,
+      "match_count": 127,
       "titles": [
         {
           "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
@@ -195,6 +195,29 @@
           "time_info": "[00时34分 ~ 07时28分]"
         },
         {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 18时49分]"
+        },
+        {
+          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 18时49分]"
+        },
+        {
           "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
           "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
           "source": "凤凰网",
@@ -205,29 +228,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时01分 ~ 15时52分]"
-        },
-        {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时52分 ~ 17时54分]"
-        },
-        {
-          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
-          "url": "https://wallstreetcn.com/articles/3764699",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 17时54分]"
         },
         {
           "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
@@ -398,6 +398,18 @@
           "time_info": "[13时01分 ~ 15时52分]"
         },
         {
+          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
+          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 18时49分]"
+        },
+        {
           "title": "美元兑日元周一亚市盘初走高，此前日本首相高市早苗周末就日元汇率发表评论。",
           "url": "https://wallstreetcn.com/livenews/3047843",
           "source": "华尔街见闻-快讯",
@@ -473,18 +485,6 @@
           "time_info": "[05时27分 ~ 07时28分]"
         },
         {
-          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
-          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 17时54分]"
-        },
-        {
           "title": "广东：支持广州期货交易所推进碳排放权期货市场建设",
           "url": "https://wallstreetcn.com/livenews/3048064",
           "source": "华尔街见闻-快讯",
@@ -495,6 +495,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 14时09分]"
+        },
+        {
+          "title": "【午报】三大指数均跌超1%，电网设备逆势走强，贵金属、半导体集体调整",
+          "url": "https://www.cls.cn/detail/2277340",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 18时49分]"
+        },
+        {
+          "title": "A股收评：三大指数跌超2%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E8%B7%8C%E8%B6%852%25",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 18时49分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
@@ -531,29 +555,6 @@
           "time_info": "[10时26分 ~ 13时01分]"
         },
         {
-          "title": "【午报】三大指数均跌超1%，电网设备逆势走强，贵金属、半导体集体调整",
-          "url": "https://www.cls.cn/detail/2277340",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时52分 ~ 17时54分]"
-        },
-        {
-          "title": "A股收评：三大指数跌超2%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E8%B7%8C%E8%B6%852%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时52分 ~ 17时54分]"
-        },
-        {
           "title": "A股三大股指跌超2% 有色金属板块大跌",
           "url": "https://www.toutiao.com/trending/7602160332387126826/",
           "source": "今日头条",
@@ -588,6 +589,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时28分]"
+        },
+        {
+          "title": "【每日收评】三大指数均跌超2%，全市场超4600股飘绿，贵金属、半导体等热门赛道集体重挫",
+          "url": "https://www.cls.cn/detail/2277810",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时49分]"
         },
         {
           "title": "特朗普：原本可解决拖欠联合国会费的问题",
@@ -668,6 +681,28 @@
           "time_info": "10时27分"
         },
         {
+          "title": "商品暴跌震动市场！全球股市遭遇“黑色星期一”，纳指期货跌超1%，黄金股盘前大跌，印尼跌停",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "金银崩盘、韩指熔断，和美联储主席提名人有关？",
+          "url": "https://news.ifeng.com/c/8qQ5ADB6pGS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "欧洲斯托克50指数期货和DAX期货下跌0.6%，富时指数期货下跌0.2%。",
           "url": "https://flash.jin10.com/detail/20260202094357952800",
           "source": "金十数据",
@@ -688,17 +723,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
-        },
-        {
-          "title": "【每日收评】三大指数均跌超2%，全市场超4600股飘绿，贵金属、半导体等热门赛道集体重挫",
-          "url": "https://www.cls.cn/detail/2277810",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         },
         {
           "title": "日经225指数日内跌幅达1.00%。",
@@ -756,6 +780,17 @@
           "time_info": "16时48分"
         },
         {
+          "title": "印度拟对股票衍生品加税 Jane Street等高频交易公司利润面临挤压",
+          "url": "https://wallstreetcn.com/livenews/3048296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "特朗普：正与伊朗进行对话",
           "url": "https://www.cls.cn/detail/2276668",
           "source": "财联社热门",
@@ -811,6 +846,17 @@
           "time_info": "16时48分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
+          "url": "https://flash.jin10.com/detail/20260202181717877800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "A股白酒股再度走强，水井坊冲击涨停，金徽酒、五粮液、山西汾酒、贵州茅台、舍得酒业、酒鬼酒均涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3047962",
           "source": "华尔街见闻-快讯",
@@ -850,7 +896,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -910,6 +956,17 @@
           "time_info": "15时52分"
         },
         {
+          "title": "金十图示：2026年02月02日（周一）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260202180650351800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "恒生科技指数跌幅扩大至2.2%，小鹏汽车跌超9%，蔚来跌超6%，零跑汽车、比亚迪股份跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3047952",
           "source": "华尔街见闻-快讯",
@@ -965,6 +1022,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "洲际交易所（ICE）伦敦可可期货下跌近5%",
+          "url": "https://flash.jin10.com/detail/20260202180507429800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "中证转债指数低开0.22%。耐普转02涨20%，金05转债涨6.8%，华辰转债涨4.7%，盟升转债、双良转债、奥维转债涨超3%；宏图转债跌超12%，金25转债跌超5%，甬矽转债、浙矿转债、Z美转债、振华转债跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3047945",
           "source": "华尔街见闻-快讯",
@@ -998,13 +1066,24 @@
           "time_info": "16时48分"
         },
         {
+          "title": "欧洲斯托克600指数抹去此前跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3048284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "新爱泼斯坦档案特朗普被提超千次",
           "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%A3%E6%A1%88%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%8F%90%E8%B6%85%E5%8D%83%E6%AC%A1%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1084,6 +1163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
+        },
+        {
+          "title": "欧洲斯托克600指数抹去此前跌幅。",
+          "url": "https://flash.jin10.com/detail/20260202175312131800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "A股贵金属板块开盘大跌，晓程科技、招金黄金、四川黄金、湖南黄金、中金黄金、赤峰黄金、西部黄金、山东黄金等十余股竞价跌停。",
@@ -1183,6 +1273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "克里姆林宫：对于此前就俄罗斯应特朗普请求短暂暂停打击乌克兰能源基础设施一事所作表态，已无更多补充。",
+          "url": "https://flash.jin10.com/detail/20260202175246532800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "恒指低开1.06%，恒生科技指数跌1.29%",
@@ -1364,7 +1465,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -1426,8 +1527,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 17时54分]"
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 18时49分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -1454,17 +1555,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "金价继续跳水：部分银行实物金条库存悄然松动，投资情绪降温",
-          "url": "https://wallstreetcn.com/livenews/3048273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         },
         {
           "title": "金价",
@@ -1505,15 +1595,28 @@
           "time_info": "[15时52分 ~ 16时48分]"
         },
         {
+          "title": "金价继续跳水：部分银行实物金条库存悄然松动，投资情绪降温",
+          "url": "https://wallstreetcn.com/livenews/3048273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时49分]"
+        },
+        {
           "title": "黄金暴跌为何瑞银却上调金价目标",
           "url": "https://www.toutiao.com/trending/7602143255571992083/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时52分 ~ 17时54分]"
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 18时49分]"
         },
         {
           "title": "金价暴跌，刚买的金饰能退吗？",
@@ -1526,6 +1629,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时52分 ~ 16时48分]"
+        },
+        {
+          "title": "金价史诗级暴跌是机会还是陷阱",
+          "url": "https://www.toutiao.com/trending/7602177874514988598/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时49分]"
         },
         {
           "title": "金价震荡 多家银行发布风险提示",
@@ -1561,24 +1676,24 @@
           "time_info": "16时48分"
         },
         {
+          "title": "金价闪崩可以抄底了吗",
+          "url": "https://www.toutiao.com/trending/7602181563039632905/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "金价下跌逾4%，美股黄金矿业公司股价盘前下跌，哈莫尼黄金下跌5.3%，SPDR黄金ETF下跌4.1%，巴里克矿业下跌4.8%。金罗斯黄金下跌5.9%。",
           "url": "https://flash.jin10.com/detail/20260202171934204800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "金价史诗级暴跌是机会还是陷阱",
-          "url": "https://www.toutiao.com/trending/7602177874514988598/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         }
@@ -1586,7 +1701,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
@@ -1629,9 +1744,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "贵金属普遍遭抛售，美股锂矿商盘前下跌。",
+          "url": "https://flash.jin10.com/detail/20260202180049726800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         }
       ]
     },
@@ -1688,7 +1814,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         }
@@ -1709,8 +1835,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 17时54分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 18时49分]"
         }
       ]
     },
