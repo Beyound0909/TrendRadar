@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T21:05:28.012747+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2026-02-02T22:43:47.689440+08:00",
+  "total_titles_processed": 1655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 137,
+      "match_count": 149,
       "titles": [
         {
           "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
@@ -102,6 +102,17 @@
           "time_info": "[00时33分 ~ 13时01分]"
         },
         {
+          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时48分 ~ 22时43分]"
+        },
+        {
           "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
           "url": "https://wallstreetcn.com/articles/3764674",
           "source": "华尔街见闻",
@@ -157,17 +168,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 07时28分]"
-        },
-        {
-          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
-          "url": "https://wallstreetcn.com/articles/3764699",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时48分 ~ 21时05分]"
         },
         {
           "title": "龙头五连板 本周披露并购重组进展的A股名单一览",
@@ -227,8 +227,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时48分 ~ 21时05分]"
+          "appearance_count": 6,
+          "time_info": "[16时48分 ~ 22时43分]"
         },
         {
           "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
@@ -253,6 +253,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时26分 ~ 14时09分]"
+        },
+        {
+          "title": "券商：A股迎低吸窗口",
+          "url": "https://www.toutiao.com/trending/7601767766462726163/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜、沪铝期货主力合约跌停",
@@ -370,6 +381,17 @@
           "time_info": "[07时28分 ~ 10时27分]"
         },
         {
+          "title": "商品暴跌震动市场！纳指期货跌超1%，甲骨文盘前上涨4%，现货金银“V”型反转，布油跌5%",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "纳指期货跌幅扩大至1%，标普500指数期货跌0.6%。",
           "url": "https://flash.jin10.com/detail/20260202071039404800",
           "source": "金十数据",
@@ -398,7 +420,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -420,7 +442,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -468,7 +490,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -493,6 +515,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "【每日收评】三大指数均跌超2%，全市场超4600股飘绿，贵金属、半导体等热门赛道集体重挫",
+          "url": "https://www.cls.cn/detail/2277810",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时54分 ~ 22时43分]"
         },
         {
           "title": "A股三大股指跌超2% 有色金属板块大跌",
@@ -559,18 +595,15 @@
           "time_info": "[05时27分 ~ 07时28分]"
         },
         {
-          "title": "【每日收评】三大指数均跌超2%，全市场超4600股飘绿，贵金属、半导体等热门赛道集体重挫",
-          "url": "https://www.cls.cn/detail/2277810",
-          "source": "财联社热门",
+          "title": "金银崩盘、韩指熔断，和美联储主席提名人有关？",
+          "url": "https://news.ifeng.com/c/8qQ5ADB6pGS",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            7,
             8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时54分 ~ 21时05分]"
+          "time_info": "[18时49分 ~ 22时43分]"
         },
         {
           "title": "广东：支持广州期货交易所推进碳排放权期货市场建设",
@@ -629,17 +662,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时26分 ~ 13时01分]"
-        },
-        {
-          "title": "金银崩盘、韩指熔断，和美联储主席提名人有关？",
-          "url": "https://news.ifeng.com/c/8qQ5ADB6pGS",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 21时05分]"
         },
         {
           "title": "机构：沃什回归加剧美联储缩表争议 调控压力或转向财政部",
@@ -791,6 +813,17 @@
           "time_info": "10时27分"
         },
         {
+          "title": "欧洲STOXX 600指数涨0.7%，创盘中历史新高。 欧股十一罗汉中，雀巢目前涨超3.2%，阿斯利康涨2.3%，葛兰素史克涨2%，德国思爱普Sap、赛诺菲、诺华至少涨1.8%，诺和诺德则跌0.5%，阿斯麦控股跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3048406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "欧洲斯托克50指数期货和DAX期货下跌0.6%，富时指数期货下跌0.2%。",
           "url": "https://flash.jin10.com/detail/20260202094357952800",
           "source": "金十数据",
@@ -800,6 +833,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "英国富时100指数上涨0.8%，创下新纪录高位。",
+          "url": "https://flash.jin10.com/detail/20260202215458055800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "沪镍、沪铜、国际铜、铝合金、沪铝期货主力合约触及跌停。",
@@ -813,13 +857,24 @@
           "time_info": "14时09分"
         },
         {
+          "title": "国内大宗商品期货市场罕见掀起跌停潮",
+          "url": "https://www.toutiao.com/trending/7602256134023417353/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "欧洲斯托克600指数涨幅扩大至0.5%，创盘中新高。",
           "url": "https://wallstreetcn.com/livenews/3048361",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -844,6 +899,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "道明证券：经济增长前景改善、通胀压力上升 澳洲联储料将加息25个基点",
+          "url": "https://flash.jin10.com/detail/20260202214727979800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -877,6 +943,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
+        },
+        {
+          "title": "国投白银LOF：决定参考白银期货国际主要市场的价格变动幅度，对基金资产进行合理重估",
+          "url": "https://wallstreetcn.com/livenews/3048400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "特朗普：正与伊朗进行对话",
@@ -940,7 +1017,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -1028,7 +1105,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -1105,7 +1182,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -1149,7 +1226,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -1237,9 +1314,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "美国天然气期货日内大跌18%，现报3.570美元/百万英热。",
+          "url": "https://wallstreetcn.com/livenews/3048390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "A股油气股大面积低开，通源石油、中曼石油、准油股份、石化油服、贝肯能源竞价跌停，科力股份、潜能恒信跌超10%。",
@@ -1429,6 +1517,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "私募解读A股2月“开门黑”",
+          "url": "https://www.toutiao.com/trending/7602251297139461678/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "印度NIFTY 50指数转为上涨，最新上涨0.15%。",
           "url": "https://flash.jin10.com/detail/20260202115300249800",
           "source": "金十数据",
@@ -1451,6 +1550,28 @@
           "time_info": "10时27分"
         },
         {
+          "title": "沪银期货主力合约触及跌停，跌幅20%。",
+          "url": "https://wallstreetcn.com/livenews/3048381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "哥伦比亚比索兑美元涨1.2%，在哥伦比亚大幅加息后领跑新兴市场货币。",
+          "url": "https://flash.jin10.com/detail/20260202212332359800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "内盘钯期货主力合约跌停，跌幅16%。沪金跌超12%。",
           "url": "https://wallstreetcn.com/livenews/3047930",
           "source": "华尔街见闻-快讯",
@@ -1471,6 +1592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "夜盘期货开盘，沪银跌逾14%，原油、沪锡、燃油跌逾4%，低硫燃油、沪镍、沪铝跌逾2%。",
+          "url": "https://wallstreetcn.com/livenews/3048377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "A股",
@@ -1586,7 +1718,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -1819,13 +1951,24 @@
           "time_info": "17时54分"
         },
         {
+          "title": "杭州大爷在金价低位屯了1公斤",
+          "url": "https://www.toutiao.com/trending/7601449182562254857/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "金价大跌金店回收挤爆了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%87%91%E5%BA%97%E5%9B%9E%E6%94%B6%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         }
@@ -1833,7 +1976,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
@@ -1870,6 +2013,28 @@
           "time_info": "07时28分"
         },
         {
+          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2278222",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3048399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "美股盘前，明星科技股普跌，英伟达跌近2%，AMD跌超2.4%；存储芯片股多数走低，西部数据跌超3%；甲骨文盘前跌5%，公司今年将融资500亿美元；黄金股大跌，哈莫尼黄金跌超5%。美股能源股，西方石油跌超3%，康菲石油跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3048249",
           "source": "华尔街见闻-快讯",
@@ -1898,54 +2063,15 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "市场消息：土耳其提高部分黄金、白银基金的最低价格限制。",
-          "url": "https://flash.jin10.com/detail/20260202154640063800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
-          "url": "https://www.cls.cn/detail/2278016",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "21时05分"
-        },
-        {
-          "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
-          "url": "https://wallstreetcn.com/livenews/3048241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
@@ -1971,12 +2097,96 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 06时28分]"
+        },
+        {
+          "title": "迪士尼首席执行官：仍在“梳理OpenAI交易的所有技术细节”。",
+          "url": "https://flash.jin10.com/detail/20260202221537167800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "迪士尼首席执行官：迪士尼希望与OpenAI的交易能推动其在Disney+上提供短视频的能力。",
+          "url": "https://flash.jin10.com/detail/20260202220631439800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "Snowflake盘前上涨2.6%，此前该公司与OpenAI达成2亿美元的合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260202220614192800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "Snowflake与OpenAI达成2亿美元、持续多年的合作伙伴关系。 双方将共同开发企业级AI解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3048404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
+          "url": "https://www.cls.cn/detail/2278016",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时43分]"
+        },
+        {
+          "title": "市场消息：土耳其提高部分黄金、白银基金的最低价格限制。",
+          "url": "https://flash.jin10.com/detail/20260202154640063800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
+          "url": "https://wallstreetcn.com/livenews/3048241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美债市场紧盯季度发债安排 警惕美财政部祭出压低收益率的意外动作",
@@ -1985,7 +2195,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -1999,6 +2209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "避险需求推升美债 沃什任命引发降息与缩表猜测",
+          "url": "https://flash.jin10.com/detail/20260202215501935800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         }
       ]
     },
