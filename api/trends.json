@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T13:01:35.587004+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-02-02T14:09:58.955071+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 76,
+      "match_count": 87,
       "titles": [
         {
           "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
@@ -199,11 +199,39 @@
           "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 14时09分]"
+        },
+        {
+          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
+          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 14时09分]"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年2月2日 周一",
+          "url": "https://flash.jin10.com/detail/20260202000000001800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            17,
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时31分 ~ 14时09分]"
         },
         {
           "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
@@ -217,6 +245,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 05时27分]"
+        },
+        {
+          "title": "中证500股指期货（IC）主力合约回落至8000点下方，日内跌4.57%。",
+          "url": "https://flash.jin10.com/detail/20260202135347382800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -253,17 +292,6 @@
           "time_info": "07时28分"
         },
         {
-          "title": "广东：支持广州期货交易所推进碳排放权期货市场建设",
-          "url": "https://wallstreetcn.com/livenews/3048064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
           "title": "特朗普再次表态：将与古巴达成协议",
           "url": "https://flash.jin10.com/detail/20260202040727434800",
           "source": "金十数据",
@@ -278,17 +306,6 @@
           "time_info": "[04时31分 ~ 07时28分]"
         },
         {
-          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
-          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
           "title": "美元兑日元周一亚市盘初走高，此前日本首相高市早苗周末就日元汇率发表评论。",
           "url": "https://wallstreetcn.com/livenews/3047843",
           "source": "华尔街见闻-快讯",
@@ -298,20 +315,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年2月2日 周一",
-          "url": "https://flash.jin10.com/detail/20260202000000001800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 07时28分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
@@ -351,6 +354,18 @@
           "time_info": "[05时27分 ~ 07时28分]"
         },
         {
+          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
+          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 14时09分]"
+        },
+        {
           "title": "特朗普称希望与伊朗“能够达成协议”",
           "url": "https://flash.jin10.com/detail/20260202040920171800",
           "source": "金十数据",
@@ -362,6 +377,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时27分 ~ 07时28分]"
+        },
+        {
+          "title": "广东：支持广州期货交易所推进碳排放权期货市场建设",
+          "url": "https://wallstreetcn.com/livenews/3048064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 14时09分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
@@ -396,6 +423,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时26分 ~ 13时01分]"
+        },
+        {
+          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
+          "url": "https://www.cls.cn/detail/2277005",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 14时09分]"
         },
         {
           "title": "机构：沃什回归加剧美联储缩表争议 调控压力或转向财政部",
@@ -467,28 +506,6 @@
           "time_info": "[00时33分 ~ 00时34分]"
         },
         {
-          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
-          "url": "https://www.cls.cn/detail/2277005",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
-          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
           "title": "1月份股票型基金分红额同比增长超160%",
           "url": "https://wallstreetcn.com/livenews/3047970",
           "source": "华尔街见闻-快讯",
@@ -511,13 +528,35 @@
           "time_info": "10时27分"
         },
         {
+          "title": "沪镍、沪铜、国际铜、铝合金、沪铝期货主力合约触及跌停。",
+          "url": "https://wallstreetcn.com/livenews/3048101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2387054",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "日经225指数日内跌幅达1.00%。",
           "url": "https://flash.jin10.com/detail/20260202120535347800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -531,6 +570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收低1.4%报31,624.03点。",
+          "url": "https://wallstreetcn.com/livenews/3048090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "特朗普：正与伊朗进行对话",
@@ -555,13 +605,24 @@
           "time_info": "07时28分"
         },
         {
+          "title": "科创50指数跌幅扩大至3%，现报1463.68点。",
+          "url": "https://wallstreetcn.com/livenews/3048089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "特朗普回应被爱泼斯坦案文件提及",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -577,13 +638,35 @@
           "time_info": "10时27分"
         },
         {
+          "title": "恒生科技指数午后跌超4%",
+          "url": "https://wallstreetcn.com/livenews/3048088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "美国总统特朗普：格莱美奖是最糟糕的，几乎无法入目。",
+          "url": "https://flash.jin10.com/detail/20260202134832302800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "韩国首尔综合指数日内大跌5%。",
           "url": "https://wallstreetcn.com/livenews/3048047",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -605,7 +688,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -638,7 +721,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -660,7 +743,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -674,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX 200指数下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3048077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "国债期货开盘，30年期主力合约涨0.26%，10年期主力合约涨0.06%，5年期主力合约涨0.01%，2年期主力合约涨0.01%。",
@@ -693,7 +787,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -720,6 +814,17 @@
           "time_info": "10时27分"
         },
         {
+          "title": "A股机器人概念午后拉升，模塑科技涨停，天奇股份涨超8%，五洲新春、昊志机电、世运电路、万向钱潮、方正电机跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3048074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "上证指数开盘报4079.71点，跌0.93%。 深证成指开盘报14128.87点，跌0.54%。 创业板指开盘报3368.14点，涨0.65%。 沪深300开盘报4674.28点，跌0.68%。 科创50开盘报1492.81点，跌1.10%。 中证500开盘报8279.72点，跌1.08%。 中证1000开盘报8166.74点，跌1.07%。",
           "url": "https://wallstreetcn.com/livenews/3047938",
           "source": "华尔街见闻-快讯",
@@ -737,9 +842,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%A1%8C%E6%83%85%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "韩国KOSPI指数跌幅扩大至5%。",
@@ -748,9 +864,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "A股人形机器人板块午后异动拉升，五洲新春直线拉升涨超5%，国机精工、昊志机电、华伍股份、新兴装备等个股跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3048072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "印度SENSEX指数最新上涨0.3%。",
@@ -759,7 +886,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -781,7 +908,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -792,7 +919,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -825,7 +952,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -836,7 +963,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -858,7 +985,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -869,7 +996,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -880,7 +1007,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         }
@@ -899,8 +1026,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 13时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 14时09分]"
+        },
+        {
+          "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
+          "url": "https://www.cls.cn/detail/2276967",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 14时09分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -917,15 +1055,16 @@
           "time_info": "[01时27分 ~ 07时28分]"
         },
         {
-          "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
-          "url": "https://www.cls.cn/detail/2276967",
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
           "source": "财联社热门",
           "ranks": [
-            1
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 13时01分]"
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 14时09分]"
         },
         {
           "title": "金价暴跌后回收变现火爆",
@@ -939,15 +1078,16 @@
           "time_info": "07时28分"
         },
         {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
+          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
+          "url": "https://www.zhihu.com/question/1999853811821463456",
+          "source": "知乎",
           "ranks": [
-            5
+            20,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 14时09分]"
         },
         {
           "title": "金价",
@@ -955,11 +1095,24 @@
           "source": "微博",
           "ranks": [
             23,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 14时09分]"
+        },
+        {
+          "title": "金价暴跌后黄金市场挤满顾客",
+          "url": "https://www.douyin.com/hot/2386891",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 14时09分]"
         },
         {
           "title": "金价震荡 多家银行发布风险提示",
@@ -982,28 +1135,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时26分 ~ 10时27分]"
-        },
-        {
-          "title": "金价暴跌后黄金市场挤满顾客",
-          "url": "https://www.douyin.com/hot/2386891",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
-          "url": "https://www.zhihu.com/question/1999853811821463456",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
         }
       ]
     },
@@ -1057,11 +1188,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 13时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 14时09分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -1088,11 +1220,12 @@
           "ranks": [
             6,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 13时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 14时09分]"
         }
       ]
     },
