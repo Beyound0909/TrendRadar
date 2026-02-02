@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T15:52:43.360524+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-02-02T16:48:50.772989+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 102,
+      "match_count": 115,
       "titles": [
         {
           "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
@@ -219,7 +219,29 @@
           "time_info": "[10时26分 ~ 14时09分]"
         },
         {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时48分]"
+        },
+        {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜、沪铝期货主力合约跌停",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
           "url": "https://wallstreetcn.com/articles/3764699",
           "source": "华尔街见闻",
           "ranks": [
@@ -227,7 +249,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时52分"
+          "time_info": "16时48分"
+        },
+        {
+          "title": "特朗普口风转软缓解供需忧虑 欧能股随国际油价重挫全线走低",
+          "url": "https://flash.jin10.com/detail/20260202161737942800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年2月2日 周一",
@@ -269,6 +302,19 @@
           "time_info": "14时09分"
         },
         {
+          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
+          "url": "https://www.cls.cn/detail/2277005",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 16时48分]"
+        },
+        {
           "title": "特朗普再次表态：将与古巴达成协议",
           "url": "https://news.ifeng.com/c/8qMd74BpD5R",
           "source": "凤凰网",
@@ -298,7 +344,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -320,7 +366,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -351,17 +397,6 @@
           "time_info": "[13时01分 ~ 15时52分]"
         },
         {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
           "title": "美元兑日元周一亚市盘初走高，此前日本首相高市早苗周末就日元汇率发表评论。",
           "url": "https://wallstreetcn.com/livenews/3047843",
           "source": "华尔街见闻-快讯",
@@ -385,29 +420,17 @@
           "time_info": "[00时34分 ~ 04时31分]"
         },
         {
-          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
-          "url": "https://www.cls.cn/detail/2277005",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时52分]"
-        },
-        {
           "title": "A股",
           "url": "https://www.douyin.com/hot/2387054",
           "source": "抖音",
           "ranks": [
             10,
-            1
+            1,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 15时52分]"
+          "appearance_count": 3,
+          "time_info": "[14时09分 ~ 16时48分]"
         },
         {
           "title": "美联储3月维持利率不变的概率为84.7%",
@@ -541,6 +564,17 @@
           "time_info": "[10时26分 ~ 10时27分]"
         },
         {
+          "title": "【午报】三大指数均跌超1%，电网设备逆势走强，贵金属、半导体集体调整",
+          "url": "https://www.cls.cn/detail/2277340",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时48分]"
+        },
+        {
           "title": "特朗普再次表态：将与古巴达成协议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32512449",
           "source": "澎湃新闻",
@@ -550,6 +584,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时26分 ~ 10时27分]"
+        },
+        {
+          "title": "A股收评：三大指数跌超2%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E8%B7%8C%E8%B6%852%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时48分]"
+        },
+        {
+          "title": "A股三大股指跌超2% 有色金属板块大跌",
+          "url": "https://www.toutiao.com/trending/7602160332387126826/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时48分]"
         },
         {
           "title": "民警骆伟突发疾病离世 年仅42岁",
@@ -563,6 +620,28 @@
           "time_info": "[00时33分 ~ 00时34分]"
         },
         {
+          "title": "金十图示：2026年02月02日（周一）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260202161136659800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "欧洲基础资源指数下跌3.3%，创近10个月来最大单日跌幅。",
+          "url": "https://flash.jin10.com/detail/20260202160956190800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "1月份股票型基金分红额同比增长超160%",
           "url": "https://wallstreetcn.com/livenews/3047970",
           "source": "华尔街见闻-快讯",
@@ -572,6 +651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
+          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "欧洲斯托克50指数期货和DAX期货下跌0.6%，富时指数期货下跌0.2%。",
@@ -613,7 +703,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -640,6 +730,17 @@
           "time_info": "14时09分"
         },
         {
+          "title": "港股收盘：恒生指数收跌2.23%，恒生科技指数收跌3.36%；黄金股领跌，芯片、新能源车等板块跌幅居前，比亚迪股份跌超6%，华虹半导体跌超11%。",
+          "url": "https://wallstreetcn.com/livenews/3048205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "特朗普：正与伊朗进行对话",
           "url": "https://www.cls.cn/detail/2276668",
           "source": "财联社热门",
@@ -649,17 +750,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "【午报】三大指数均跌超1%，电网设备逆势走强，贵金属、半导体集体调整",
-          "url": "https://www.cls.cn/detail/2277340",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
         },
         {
           "title": "特朗普称希望与伊朗“能够达成协议”",
@@ -695,6 +785,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "金十期货热图",
+          "url": "https://flash.jin10.com/detail/20260202160213822800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "A股白酒股再度走强，水井坊冲击涨停，金徽酒、五粮液、山西汾酒、贵州茅台、舍得酒业、酒鬼酒均涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3047962",
           "source": "华尔街见闻-快讯",
@@ -715,17 +816,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
-        },
-        {
-          "title": "A股收评：三大指数跌超2%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E8%B7%8C%E8%B6%852%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
         },
         {
           "title": "美国总统特朗普：格莱美奖是最糟糕的，几乎无法入目。",
@@ -789,7 +879,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -814,6 +904,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "欧股开盘集体下挫，欧洲斯托克50指数下跌0.88%，德国DAX指数下跌0.57%，英国富时100指数下跌0.72%。由于原油价格暴跌，欧股能源股走低，BP股价下跌2.6%，壳牌下跌2.2%。欧股芯片板块走低，阿斯麦、ASM国际均跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3048199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "韩元/美元汇率下跌逾1%。",
@@ -860,6 +961,17 @@
           "time_info": "14时09分"
         },
         {
+          "title": "越南VN指数收盘下跌1.2%，至1806.50点。",
+          "url": "https://wallstreetcn.com/livenews/3048198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约涨0.26%，10年期主力合约涨0.06%，5年期主力合约涨0.01%，2年期主力合约涨0.01%。",
           "url": "https://wallstreetcn.com/livenews/3047944",
           "source": "华尔街见闻-快讯",
@@ -888,7 +1000,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -904,15 +1016,15 @@
           "time_info": "10时27分"
         },
         {
-          "title": "A股三大股指跌超2% 有色金属板块大跌",
-          "url": "https://www.toutiao.com/trending/7602160332387126826/",
-          "source": "今日头条",
+          "title": "土耳其银行指数延续跌势，跌幅扩大至4%。",
+          "url": "https://wallstreetcn.com/livenews/3048194",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时52分"
+          "time_info": "16时48分"
         },
         {
           "title": "市场消息：南非股市指数下跌6.1%，为2020年3月以来的最大跌幅。",
@@ -921,9 +1033,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "土耳其银行指数延续跌势，跌幅扩大至4%。",
+          "url": "https://flash.jin10.com/detail/20260202155443756800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "A股贵金属板块开盘大跌，晓程科技、招金黄金、四川黄金、湖南黄金、中金黄金、赤峰黄金、西部黄金、山东黄金等十余股竞价跌停。",
@@ -990,6 +1113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "土耳其基准股指伊斯坦布尔100指数延续跌势，跌幅达3%。",
+          "url": "https://flash.jin10.com/detail/20260202155426071800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "A股人形机器人板块午后异动拉升，五洲新春直线拉升涨超5%，国机精工、昊志机电、华伍股份、新兴装备等个股跟涨。",
@@ -1086,9 +1220,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "金十期货图示",
+          "url": "https://flash.jin10.com/detail/20260202154955482800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "2月2日午间收评：三大指数均跌超1%，资源、芯片股集体调整",
@@ -1108,7 +1253,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -1141,7 +1286,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -1174,7 +1319,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         }
@@ -1182,7 +1327,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -1193,8 +1338,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 15时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 16时48分]"
         },
         {
           "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
@@ -1230,19 +1375,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时52分]"
-        },
-        {
-          "title": "这次金价暴跌真的只是因为沃什吗",
-          "url": "https://www.toutiao.com/trending/7602102244296625670/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 16时48分]"
         },
         {
           "title": "金价暴跌后回收变现火爆",
@@ -1256,15 +1390,32 @@
           "time_info": "07时28分"
         },
         {
-          "title": "德意志银行在金价暴跌后仍然看涨 维持6000美元目标价",
-          "url": "https://wallstreetcn.com/livenews/3048186",
-          "source": "华尔街见闻-快讯",
+          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
+          "url": "https://www.zhihu.com/question/1999853811821463456",
+          "source": "知乎",
           "ranks": [
+            20,
+            4,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 16时48分]"
+        },
+        {
+          "title": "金价暴跌后黄金市场挤满顾客",
+          "url": "https://www.douyin.com/hot/2386891",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9,
+            10,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 16时48分]"
         },
         {
           "title": "金价",
@@ -1281,30 +1432,51 @@
           "time_info": "[10时26分 ~ 15时52分]"
         },
         {
-          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
-          "url": "https://www.zhihu.com/question/1999853811821463456",
-          "source": "知乎",
+          "title": "这次金价暴跌真的只是因为沃什吗",
+          "url": "https://www.toutiao.com/trending/7602102244296625670/",
+          "source": "今日头条",
           "ranks": [
-            20,
             4,
-            7
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时52分]"
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时48分]"
         },
         {
-          "title": "金价暴跌后黄金市场挤满顾客",
-          "url": "https://www.douyin.com/hot/2386891",
-          "source": "抖音",
+          "title": "德意志银行在金价暴跌后仍然看涨 维持6000美元目标价",
+          "url": "https://wallstreetcn.com/livenews/3048186",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            9,
-            10
+            5,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时52分]"
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时48分]"
+        },
+        {
+          "title": "金价暴跌，刚买的金饰能退吗？",
+          "url": "https://news.ifeng.com/c/8qPhA47Tw2J",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时48分]"
+        },
+        {
+          "title": "黄金暴跌为何瑞银却上调金价目标",
+          "url": "https://www.toutiao.com/trending/7602143255571992083/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时48分]"
         },
         {
           "title": "金价震荡 多家银行发布风险提示",
@@ -1329,26 +1501,15 @@
           "time_info": "[10时26分 ~ 10时27分]"
         },
         {
-          "title": "金价暴跌，刚买的金饰能退吗？",
-          "url": "https://news.ifeng.com/c/8qPhA47Tw2J",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "黄金暴跌为何瑞银却上调金价目标",
-          "url": "https://www.toutiao.com/trending/7602143255571992083/",
+          "title": "李大霄直播解读金价震荡",
+          "url": "https://www.toutiao.com/trending/7601506327084600886/",
           "source": "今日头条",
           "ranks": [
-            15
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时52分"
+          "time_info": "16时48分"
         }
       ]
     },
@@ -1406,8 +1567,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 15时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 16时48分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -1438,8 +1599,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 15时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 16时48分]"
         }
       ]
     },
@@ -1454,7 +1615,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         }
