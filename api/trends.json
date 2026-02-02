@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-03T02:49:14.794835+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-02-03T07:31:46.742578+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 68,
+      "match_count": 87,
       "titles": [
+        {
+          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 07时31分]"
+        },
         {
           "title": "券商：A股迎低吸窗口",
           "url": "https://www.toutiao.com/trending/7601767766462726163/",
@@ -19,15 +30,26 @@
           "time_info": "[00时44分 ~ 02时49分]"
         },
         {
-          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
-          "url": "https://wallstreetcn.com/articles/3764699",
+          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
+          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 07时31分]"
+        },
+        {
+          "title": "金银崩盘、韩指熔断，和美联储主席提名人有关？",
+          "url": "https://news.ifeng.com/c/8qQ5ADB6pGS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "美联储博斯蒂克：稳定的劳动力市场为我们提供了等待的空间。",
@@ -36,7 +58,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -47,9 +69,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "周二亚太盘初，标普股指期货涨约0.2%，纳指期货涨超0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3048591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美联储博斯蒂克：此时朝任何方向行动都是不明智的。",
@@ -58,7 +91,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -69,20 +102,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
-        },
-        {
-          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
-          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "美国天然气期货日内暴跌24.00%，现报3.309美元/百万英热。",
@@ -102,9 +124,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "报道：特朗普称墨西哥将停止向古巴供应石油",
+          "url": "https://wallstreetcn.com/livenews/3048587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
+          "url": "https://news.ifeng.com/c/8qQSV7gn6mY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美联储博斯蒂克：如果降息，通胀极不可能降至2%。",
@@ -113,20 +157,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
-        },
-        {
-          "title": "金银崩盘、韩指熔断，和美联储主席提名人有关？",
-          "url": "https://news.ifeng.com/c/8qQ5ADB6pGS",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "特朗普：与印度达成贸易协议 将把对印度的关税降至18%",
@@ -146,7 +179,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -157,7 +190,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -222,6 +255,18 @@
           "time_info": "[00时44分 ~ 01时41分]"
         },
         {
+          "title": "今日重点关注的财经数据与事件：2026年2月3日 周二",
+          "url": "https://flash.jin10.com/detail/20260203000000001800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 07时31分]"
+        },
+        {
           "title": "非洲股市收盘播报｜周一（2月2日），南非富时/JSE非洲领先40可交易指数收跌1.16%，报11.1万点，跳空低开之后、迅速在北京时间15:08跌至10.5万点下方刷新日低，随后逐步收复失地。",
           "url": "https://wallstreetcn.com/livenews/3048449",
           "source": "华尔街见闻-快讯",
@@ -252,7 +297,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -263,7 +308,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -274,7 +319,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -285,7 +330,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -296,7 +341,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -318,7 +363,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -329,7 +374,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -351,7 +396,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -373,7 +418,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -389,15 +434,15 @@
           "time_info": "00时44分"
         },
         {
-          "title": "今日重点关注的财经数据与事件：2026年2月3日 周二",
-          "url": "https://flash.jin10.com/detail/20260203000000001800",
-          "source": "金十数据",
+          "title": "特朗普就伊朗问题表态：将观察事态如何发展",
+          "url": "https://wallstreetcn.com/livenews/3048575",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时44分"
+          "time_info": "07时31分"
         },
         {
           "title": "美国总统特朗普：我们谈了很多事情，包括贸易，以及结束俄罗斯和乌克兰的冲突。",
@@ -450,7 +495,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -483,7 +528,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -510,13 +555,35 @@
           "time_info": "01时41分"
         },
         {
+          "title": "据纽约时报：特朗普放弃向哈佛大学追讨2亿美元款项的要求。",
+          "url": "https://flash.jin10.com/detail/20260203061528553800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "先导智能（Wuxi Lead Intelligent Equiment）申请香港IPO。 寻求发行9630万股股票，发行价指导区间顶端为45.80港元。 预计股票将于2月9日定价，将从2月11日开始交易。",
+          "url": "https://wallstreetcn.com/livenews/3048567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "美国天然气期货延续跌势，价格下跌25%，至两周低点，因市场预测在经历了一周的北极寒流后天气将转暖。",
           "url": "https://flash.jin10.com/detail/20260203015840651800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -532,15 +599,37 @@
           "time_info": "00时44分"
         },
         {
+          "title": "美国总统特朗普撤销向哈佛大学索要2亿美元的要求。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3048566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "美联储博斯蒂克：他任务艰巨。",
           "url": "https://flash.jin10.com/detail/20260203015812758800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "美联储3月维持利率不变的概率为91.1%",
+          "url": "https://flash.jin10.com/detail/20260203060444771800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "经济学家：若美联储采用定期公开市场操作TOMOs，可进一步缩减资产负债表",
@@ -552,6 +641,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "周一（2月2日）纽约尾盘，标普500股指期货最终涨0.57%，道指期货涨1.00%，纳斯达克100股指期货涨0.83%。 罗素2000股指期货涨0.81%。",
+          "url": "https://wallstreetcn.com/livenews/3048565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "据外媒报道，美国总统特朗普在中期选举前建立4.83亿美元的战争基金，竞选资金申报显示共和党人筹集的资金多于民主党人。",
@@ -571,7 +671,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -604,9 +704,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "美国总统特朗普：古巴是个失败国家，他们从委内瑞拉那里拿不到任何钱。",
+          "url": "https://flash.jin10.com/detail/20260203060005316800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美联储博斯蒂克：美联储主席职位是一项非常重大的工作。",
@@ -615,9 +726,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "美国总统特朗普：墨西哥将停止向古巴输送石油。",
+          "url": "https://flash.jin10.com/detail/20260203055930407800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美国总统特朗普：（针对国土安全部涉嫌暴力执法问题）参议院多数党领袖约翰·图恩（John Thune）和约翰逊接近达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3048562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美联储博斯蒂克：年中时将与经济达到平衡状态。",
@@ -626,9 +759,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "美国总统特朗普：如果我们无法就伊朗问题达成协议，可能会发生糟糕的事情。",
+          "url": "https://flash.jin10.com/detail/20260203055928890800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "费城半导体指数上涨2.2%。",
@@ -648,9 +792,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "美国总统特朗普：我认为我们离解决政府停摆问题已经很近了。",
+          "url": "https://flash.jin10.com/detail/20260203055901734800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "内盘期货夜市多数收跌，燃油跌4%，焦煤涨约0.5%，焦炭涨超0.6%",
@@ -664,15 +819,37 @@
           "time_info": "00时44分"
         },
         {
+          "title": "周一（2月2日）纽约尾盘，现货白银跌6.73%，报79.4438美元/盎司。 COMEX白银期货涨1.56%，报79.760美元/盎司。 COMEX铜期货跌1.49%，报5.8345美元/磅，北京时间14:40曾跌至5.5640美元。 现货铂金跌2.93%，现货钯金涨0.74%。",
+          "url": "https://wallstreetcn.com/livenews/3048559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "美联储博斯蒂克：通胀居高不下，令人担忧。",
           "url": "https://flash.jin10.com/detail/20260203015406178800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "美国总统特朗普：我们与欧洲关系很好。",
+          "url": "https://flash.jin10.com/detail/20260203055859870800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美国1月ISM制造业指数 52.6，预期 48.5，前值 47.9。",
@@ -703,9 +880,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "美国总统特朗普：我和杰弗里·爱泼斯坦没有任何关系。",
+          "url": "https://flash.jin10.com/detail/20260203055858925800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美国1月ISM制造业就业指数 48.1，预期 46，前值 44.9。",
@@ -717,6 +905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "美国总统特朗普：与俄罗斯总统普京通电话。",
+          "url": "https://wallstreetcn.com/livenews/3048557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "私募解读A股2月“开门黑”",
@@ -747,9 +946,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "美国总统特朗普：检察官皮罗不会放弃对美联储主席鲍威尔的调查。（鲍威尔）要么是严重失职，要么是某种盗窃或回扣。我不知道具体是什么，但皮罗非常出色，她会查清楚的。",
+          "url": "https://flash.jin10.com/detail/20260203055855998800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美国1月ISM制造业新订单指数 57.1，前值 47.7。",
@@ -766,7 +976,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI：Codex应用今日在MacOS上线。",
@@ -775,9 +985,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
+          "url": "https://wallstreetcn.com/livenews/3048580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "OpenAI：通过使用Codex，人们可以轻松实现多任务处理，比如并行处理多个代理，并通过工作树隔离代理之间的变更；建立并运用技能，如将工具和规范整合为可重复使用的功能模块；设置自动化流程，如将重复性工作委托给Codex，并通过后台的定时工作流来完成。",
@@ -786,9 +1007,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "OpenAI在美国法庭指责马斯克旗下xAI涉嫌销毁证据。",
+          "url": "https://wallstreetcn.com/livenews/3048579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "OpenAI：Codex应用今日在MacOS上线。",
@@ -797,15 +1029,37 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：英伟达制造全球最好的人工智能（AI）芯片。 希望在很长的时期内成为“超级大客户”（Gigantic customer）。",
+          "url": "https://wallstreetcn.com/livenews/3048577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们很乐意与英伟达(NVDA.O)合作，他们生产的AI芯片是全球最出色的。我们希望能长期成为他们的大客户。",
+          "url": "https://flash.jin10.com/detail/20260203063954637800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
@@ -824,22 +1078,68 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2278222",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 07时31分]"
+        },
+        {
+          "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "AES（美国弗吉尼亚州电力巨头）美股盘后涨9%。",
+          "url": "https://wallstreetcn.com/livenews/3048588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
+          "url": "https://www.cls.cn/detail/2278378",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "（美股）费城金银指数收跌0.40%，报380.81点。 （全球时段）纽约证交所ARCA金矿开采商指数跌1.62%，报2699.52点，美股盘初曾尖锐地冲高回落。 （美股）原材料指数收涨0.58%，（美股）金属与矿业指数收涨1.44%。",
+          "url": "https://wallstreetcn.com/livenews/3048560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -874,7 +1174,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -882,11 +1182,23 @@
           "source": "抖音",
           "ranks": [
             22,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 02时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时40分 ~ 07时31分]"
+        },
+        {
+          "title": "周一（2月2日）纽约尾盘，现货黄金跌4.54%，报4671.58美元/盎司，全天处于下跌状态，北京时间14:38跌至4402.95美元。日线图上，金价连续三个交易日下跌，逼近12月31日底部4319.37美元，一度跌穿50日均线、逼近100日均线（这两个技术指标目前分别报4483.43美元和4228.16美元）。 COMEX黄金期货跌0.90%，报4702.60美元/盎司，14:38也曾跌至4423.20美元。",
+          "url": "https://wallstreetcn.com/livenews/3048558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -902,8 +1214,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 07时31分]"
         }
       ]
     },
