@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T10:27:10.344612+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-02-02T13:01:35.587004+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 55,
+      "match_count": 76,
       "titles": [
         {
           "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
@@ -32,6 +32,22 @@
           "time_info": "[00时33分 ~ 06时28分]"
         },
         {
+          "title": "海外市场持续动荡，A股如何应对？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2276870",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时01分]"
+        },
+        {
           "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
           "url": "https://www.cls.cn/detail/2276655",
           "source": "财联社热门",
@@ -43,21 +59,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 07时28分]"
-        },
-        {
-          "title": "海外市场持续动荡，A股如何应对？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2276870",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 10时27分]"
         },
         {
           "title": "爱泼斯坦案多名受害者指控特朗普",
@@ -93,11 +94,12 @@
           "ranks": [
             5,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 10时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时01分]"
         },
         {
           "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
@@ -200,8 +202,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 13时01分]"
         },
         {
           "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
@@ -251,6 +253,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "广东：支持广州期货交易所推进碳排放权期货市场建设",
+          "url": "https://wallstreetcn.com/livenews/3048064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "特朗普再次表态：将与古巴达成协议",
           "url": "https://flash.jin10.com/detail/20260202040727434800",
           "source": "金十数据",
@@ -263,6 +276,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
+          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "美元兑日元周一亚市盘初走高，此前日本首相高市早苗周末就日元汇率发表评论。",
@@ -366,11 +390,12 @@
           "url": "https://news.ifeng.com/c/8qPOoB0E678",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 13时01分]"
         },
         {
           "title": "机构：沃什回归加剧美联储缩表争议 调控压力或转向财政部",
@@ -442,13 +467,35 @@
           "time_info": "[00时33分 ~ 00时34分]"
         },
         {
+          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
+          "url": "https://www.cls.cn/detail/2277005",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
+          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "1月份股票型基金分红额同比增长超160%",
           "url": "https://wallstreetcn.com/livenews/3047970",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -459,9 +506,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "日经225指数日内跌幅达1.00%。",
+          "url": "https://flash.jin10.com/detail/20260202120535347800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -497,15 +555,37 @@
           "time_info": "07时28分"
         },
         {
+          "title": "特朗普回应被爱泼斯坦案文件提及",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "A股白酒股再度走强，水井坊冲击涨停，金徽酒、五粮液、山西汾酒、贵州茅台、舍得酒业、酒鬼酒均涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3047962",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "韩国首尔综合指数日内大跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3048047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "股指期货早盘开盘",
@@ -514,9 +594,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "日经225指数下跌0.8%，报52,881.20。",
+          "url": "https://flash.jin10.com/detail/20260202120039123800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "国债期货早盘开盘",
@@ -525,7 +616,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -536,9 +627,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "越南股指VN指数日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3048045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "韩元/美元汇率下跌逾1%。",
@@ -547,9 +649,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "金十期货·贵金属专题",
+          "url": "https://flash.jin10.com/detail/20260202115948357800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "中证转债指数低开0.22%。耐普转02涨20%，金05转债涨6.8%，华辰转债涨4.7%，盟升转债、双良转债、奥维转债涨超3%；宏图转债跌超12%，金25转债跌超5%，甬矽转债、浙矿转债、Z美转债、振华转债跌超3%。",
@@ -558,7 +671,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -569,9 +682,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "MSCI亚太指数下跌2%至239.94点。",
+          "url": "https://wallstreetcn.com/livenews/3048041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "A股油气股大面积低开，通源石油、中曼石油、准油股份、石化油服、贝肯能源竞价跌停，科力股份、潜能恒信跌超10%。",
@@ -580,7 +704,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -591,7 +715,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -602,9 +726,42 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "标普500指数期货日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3048038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "韩国KOSPI指数跌幅扩大至5%。",
+          "url": "https://flash.jin10.com/detail/20260202115343487800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "印度SENSEX指数最新上涨0.3%。",
+          "url": "https://flash.jin10.com/detail/20260202115312017800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "恒指低开1.06%，恒生科技指数跌1.29%",
@@ -613,9 +770,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "日本东证指数、日经225指数回吐此前涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3048036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "印度NIFTY 50指数转为上涨，最新上涨0.15%。",
+          "url": "https://flash.jin10.com/detail/20260202115300249800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "“增强版”指数基金马力全开“圈粉”",
@@ -624,7 +803,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -635,9 +814,31 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "上证指数早盘收报4063.54点，跌1.32%。 深证成指早盘收报14006.25点，跌1.41%。 创业板指早盘收报3306.94点，跌1.18%。 沪深300早盘收报4656.16点，跌1.07%。 科创50早盘收报1476.00点，跌2.21%。 中证500早盘收报8179.80点，跌2.28%。 中证1000早盘收报8105.79点，跌1.81%。",
+          "url": "https://wallstreetcn.com/livenews/3048032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "2月2日午间收评：三大指数均跌超1%，资源、芯片股集体调整",
+          "url": "https://wallstreetcn.com/livenews/3048031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "国际油价走低，布油、WTI原油期货日内均跌超3%。",
@@ -646,15 +847,48 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "交易员称，印度央行在离岸市场抛售美元，以支撑卢比汇率。",
+          "url": "https://wallstreetcn.com/livenews/3048029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "韩国KOSPI指数延续跌势，最新下跌4.8%至4973.50点。",
+          "url": "https://flash.jin10.com/detail/20260202114932773800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.10%，10年期主力合约跌0.07%，5年期主力合约跌0.03%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3048028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -665,8 +899,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 10时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时01分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -690,8 +924,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 13时01分]"
         },
         {
           "title": "金价暴跌后回收变现火爆",
@@ -705,15 +939,27 @@
           "time_info": "07时28分"
         },
         {
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 13时01分]"
         },
         {
           "title": "金价震荡 多家银行发布风险提示",
@@ -736,6 +982,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时26分 ~ 10时27分]"
+        },
+        {
+          "title": "金价暴跌后黄金市场挤满顾客",
+          "url": "https://www.douyin.com/hot/2386891",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
+          "url": "https://www.zhihu.com/question/1999853811821463456",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     },
@@ -759,11 +1027,12 @@
           "url": "https://wallstreetcn.com/articles/3764699",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 13时01分]"
         },
         {
           "title": "美股股指期货周一低开，其中纳指期货跌0.8%。",
@@ -787,11 +1056,12 @@
           "url": "https://wallstreetcn.com/articles/3764694",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 13时01分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -817,11 +1087,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 10时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时01分]"
         }
       ]
     },
