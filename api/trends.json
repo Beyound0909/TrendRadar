@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T01:55:46.857075+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-02-04T03:00:30.702225+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 24,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "2026年首月A股新开492万户，高于2025所有月份，如何看这个数据？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
@@ -37,8 +37,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
+        },
+        {
+          "title": "A股成交额创年内新低！四大板块降温明显，融资余额同步回落，大额增减持股扫描",
+          "url": "https://www.cls.cn/detail/2279219",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "城堡投资创始人格里芬：美国总统特朗普提名的美联储主席人选是“非常稳妥的选择”。",
@@ -52,26 +63,15 @@
           "time_info": "00时57分"
         },
         {
-          "title": "A股成交额创年内新低！四大板块降温明显，融资余额同步回落，大额增减持股扫描",
-          "url": "https://www.cls.cn/detail/2279219",
-          "source": "财联社热门",
+          "title": "特朗普与哥伦比亚总统佩特罗会晤，讨论打击毒品走私",
+          "url": "https://wallstreetcn.com/livenews/3049283",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时55分]"
-        },
-        {
-          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
-          "url": "https://wallstreetcn.com/articles/3764775",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -79,6 +79,17 @@
           "source": "凤凰网",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
+        },
+        {
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -103,9 +114,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "白宫新闻秘书：特朗普在伊朗问题上有很多选项。",
+          "url": "https://flash.jin10.com/detail/20260204022425976800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "美国白宫：已与特朗普就俄罗斯袭击乌克兰一事进行沟通，特朗普的反应并不意外。",
+          "url": "https://flash.jin10.com/detail/20260204022404753800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "纳斯达克中国金龙指数跌幅扩大至2%，文远知行(WRD.O)、哔哩哔哩(BILI.O)跌超5%，阿里巴巴(BABA.N)、爱奇艺(IQ.O)跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260204021929360800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "比特币创特朗普第二次当选为美国总统以来的新低，目前跌超5%，逼近7.4万美元。",
+          "url": "https://wallstreetcn.com/livenews/3049277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
         },
         {
           "title": "金十图示：2026年02月04日（周三）全球股市指数-欧洲市场（收盘）",
@@ -114,9 +169,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了18个对手方的17.85亿美元。",
+          "url": "https://flash.jin10.com/detail/20260204021812237800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.36%，暂报2985.53点，期内主要以下跌行情为主。 MarketVectorTM数字资产100中盘指数跌2.20%，报3024.71点。 MarketVector数字资产100指数跌2.95%，报15392.16点。",
@@ -125,9 +191,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至2%，标普跌1.22%，道指跌0.82%，纳指跌1.94%，半导体指数跌3.18%。 纳斯达克金龙中国指数跌超2%，万得中概科技龙头指数跌3.55%。热门中概股大全新能源跌逾8%，哔哩哔哩、文远知行跌逾5%，金山云、阿里巴巴、爱奇艺跌逾4%。",
+          "url": "https://wallstreetcn.com/livenews/3049276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
         },
         {
           "title": "油价期货延续涨势，WTI和布伦特原油期货价格均上涨逾1美元，此前有消息称，美军击落一架逼近美国海军航母的伊朗无人机。",
@@ -136,7 +213,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -147,9 +224,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "周二（2月3日），美联储隔夜逆回购协议（RRP）使用规模为17.85亿美元（交易对手18家），上个交易日报104.15亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3049275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "德意志银行：未来5-7年，美联储可能仍然是短期美国国债的活跃买家。",
+          "url": "https://wallstreetcn.com/livenews/3049274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
         },
         {
           "title": "诺和诺德预计2026年销售额在汇率不变情况下将下降5%至13%，估算跌幅为1.39%。",
@@ -158,9 +257,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普觉得，政府关门只会伤害经济。",
+          "url": "https://wallstreetcn.com/livenews/3049273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "纳指期货跌幅扩大至2%。",
+          "url": "https://flash.jin10.com/detail/20260204021423443800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "白宫新闻秘书：特朗普认为政府停摆只会损害经济。",
+          "url": "https://flash.jin10.com/detail/20260204021331387800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.3%，连续三个交易日走高，报394.43点。 在十个板块中，北欧工业板块涨幅最大。 博利登Boliden AB收涨5.3%，在一众北欧个股里领跑。",
@@ -169,9 +301,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "白宫新闻秘书：特朗普总统总是倾向于首先采取外交手段解决问题。",
+          "url": "https://flash.jin10.com/detail/20260204021303359800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
         },
         {
           "title": "纳斯达克100指数下跌1.1%，PayPal重挫超17%，路透跌超13%，Palantir涨幅不到7%",
@@ -246,9 +389,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "标普500日内跌幅达1.0%，报6906.78点，费城半导体指数跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3049257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
         },
         {
           "title": "纳斯达克金龙中国指数盘初跌0.97%。 热门中概股阿里巴巴、百度跌超2%，京东、网易跌超1%，新东方涨超1%，文远知行、小鹏、小马智行涨约2%，世纪互联涨约3%，再鼎医药涨4.7%。 ETF中，KWEB跌1.37%，CQQQ跌0.59%，ASHR涨0.65%，ASHS涨2.58%。",
@@ -275,47 +429,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
-          "url": "https://flash.jin10.com/detail/20260204012848095800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
-          "url": "https://wallstreetcn.com/articles/3764858",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时55分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：统一维护服务正式上线，通过集中式控制面板查看并管理谷歌云服务中的维护事件。",
-          "url": "https://flash.jin10.com/detail/20260204010917960800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -324,7 +439,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -335,9 +450,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
+          "url": "https://wallstreetcn.com/articles/3764782",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时00分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：Moltbook可能只是一时的潮流，但OpenCLAW并非如此。",
@@ -346,15 +472,99 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：公司可能会在AI医药发现方面寻找合作伙伴，或投资。",
+          "url": "https://wallstreetcn.com/livenews/3049262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
+          "url": "https://flash.jin10.com/detail/20260204015701016800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：我的确担心美国无法在开源AI领域领先。 最重要的是，美国在前沿模型领先。 Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。 在某些方面人工智能的普及速度比自己预想的要慢。 OPENAI最终目标是实现全面的人工智能业务。",
+          "url": "https://wallstreetcn.com/livenews/3049251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
+          "url": "https://flash.jin10.com/detail/20260204012848095800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
+          "url": "https://wallstreetcn.com/articles/3764858",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：统一维护服务正式上线，通过集中式控制面板查看并管理谷歌云服务中的维护事件。",
+          "url": "https://flash.jin10.com/detail/20260204010917960800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
+          "url": "https://wallstreetcn.com/livenews/3049266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -364,8 +574,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -375,8 +585,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -386,8 +596,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
+        },
+        {
+          "title": "美股延续跌势，纳指下跌2.00%。",
+          "url": "https://flash.jin10.com/detail/20260204021533895800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
         }
       ]
     },
@@ -404,8 +625,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "金价波动",
@@ -413,11 +634,12 @@
           "source": "微博",
           "ranks": [
             19,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时00分]"
         }
       ]
     }
