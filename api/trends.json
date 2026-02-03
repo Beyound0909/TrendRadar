@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T05:38:20.882481+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-02-04T06:33:11.471129+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 68,
+      "match_count": 90,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 06时33分]"
         },
         {
           "title": "2026年首月A股新开492万户，高于2025所有月份，如何看这个数据？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 06时33分]"
         },
         {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 06时33分]"
         },
         {
           "title": "A股成交额创年内新低！四大板块降温明显，融资余额同步回落，大额增减持股扫描",
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 06时33分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -59,8 +59,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 06时33分]"
+        },
+        {
+          "title": "在特朗普签署政府拨款法案现场，没有一位记者向特朗普提问关于今日悬挂美国国旗油轮遭扣押未遂及伊朗沙赫德-139无人机被击落的事件。",
+          "url": "https://flash.jin10.com/detail/20260204060246322800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "哥伦比亚总统佩特罗：未与美国总统特朗普讨论可卡因作物喷洒问题。",
@@ -80,9 +91,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "澳大利亚12月AIG/PWC制造业表现指数 -19.4，前值-18。",
+          "url": "https://flash.jin10.com/detail/20260204060002235800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "城堡投资创始人格里芬：美国总统特朗普提名的美联储主席人选是“非常稳妥的选择”。",
@@ -102,9 +124,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "澳大利亚12月AIG建筑业表现指数 5.2，前值-18.7。",
+          "url": "https://flash.jin10.com/detail/20260204060002188800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "哥伦比亚总统佩特罗：和美国总统特朗普讨论了出口委内瑞拉天然气的问题。",
@@ -177,6 +210,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 04时40分]"
+        },
+        {
+          "title": "特朗普称有问题的是比尔盖茨那些人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%89%E9%97%AE%E9%A2%98%E7%9A%84%E6%98%AF%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E9%82%A3%E4%BA%9B%E4%BA%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 06时33分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -290,18 +336,6 @@
           "time_info": "[03时00分 ~ 03时50分]"
         },
         {
-          "title": "特朗普称有问题的是比尔盖茨那些人",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%89%E9%97%AE%E9%A2%98%E7%9A%84%E6%98%AF%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E9%82%A3%E4%BA%9B%E4%BA%BA%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时38分]"
-        },
-        {
           "title": "诺和诺德(NVO.N)：董事会已决定启动一项高达150亿丹麦克朗的新股票回购计划。",
           "url": "https://flash.jin10.com/detail/20260204012652548800",
           "source": "金十数据",
@@ -335,6 +369,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "美国总统特朗普：俄罗斯履行了一周内不袭击基辅的承诺。",
+          "url": "https://flash.jin10.com/detail/20260204055823111800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "美国白宫：已与特朗普就俄罗斯袭击乌克兰一事进行沟通，特朗普的反应并不意外。",
           "url": "https://flash.jin10.com/detail/20260204022404753800",
           "source": "金十数据",
@@ -346,13 +391,24 @@
           "time_info": "03时00分"
         },
         {
+          "title": "美国总统特朗普：来自委内瑞拉的石油正运往休斯顿。",
+          "url": "https://flash.jin10.com/detail/20260204055217365800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "美国总统特朗普将于美东时间16:30签署（众议院移交的）政府拨款法案。",
           "url": "https://wallstreetcn.com/livenews/3049331",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -366,6 +422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        },
+        {
+          "title": "美国总统特朗普：联邦政府应介入选举事务。",
+          "url": "https://flash.jin10.com/detail/20260204054655936800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "WTI 3月原油期货收涨1.07美元，涨幅1.72%，报63.21美元/桶。 布伦特4月原油期货收报67.33美元/桶。 NYMEX 3月天然气期货收报3.3110美元/百万英热单位。 NYMEX 3月汽油期货收报1.8979美元/加仑，NYMEX 3月取暖油期货收报2.4093美元/加仑。",
@@ -423,6 +490,17 @@
           "time_info": "04时40分"
         },
         {
+          "title": "美国总统特朗普：我希望普京结束战争。",
+          "url": "https://flash.jin10.com/detail/20260204054601265800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.36%，暂报2985.53点，期内主要以下跌行情为主。 MarketVectorTM数字资产100中盘指数跌2.20%，报3024.71点。 MarketVector数字资产100指数跌2.95%，报15392.16点。",
           "url": "https://wallstreetcn.com/livenews/3049242",
           "source": "华尔街见闻-快讯",
@@ -432,6 +510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "纳指期货周二跌约1.7%",
+          "url": "https://wallstreetcn.com/livenews/3049356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "油价期货延续涨势，WTI和布伦特原油期货价格均上涨逾1美元，此前有消息称，美军击落一架逼近美国海军航母的伊朗无人机。",
@@ -456,6 +545,17 @@
           "time_info": "04时40分"
         },
         {
+          "title": "特朗普签署拨款法案 结束政府部分“停摆”",
+          "url": "https://flash.jin10.com/detail/20260204054530295800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "诺和诺德ADR股票恢复交易，跌幅瞬间扩大至超过9.2%。 诺和诺德股票走势拖累减肥药概念股，硕迪生物跌4.7%，HIMS跌3.4%，辉瑞制药跌3%，礼来跌2.7%，福泰制药跌1.8%。",
           "url": "https://wallstreetcn.com/livenews/3049240",
           "source": "华尔街见闻-快讯",
@@ -473,9 +573,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "新西兰第四季度劳工成本指数年率 2%，预期2%，前值2.1%。",
+          "url": "https://flash.jin10.com/detail/20260204054502835800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "高盛一篮子软件指数重挫6%，创2025年4月份以来最大单日跌幅。",
@@ -484,9 +595,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "美国总统特朗普重申对医疗保险行业的批零。",
+          "url": "https://wallstreetcn.com/livenews/3049354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "新西兰第四季度劳工成本指数季率 0.4%，预期0.50%，前值0.50%。",
+          "url": "https://flash.jin10.com/detail/20260204054502724800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "诺和诺德预计2026年销售额在汇率不变情况下将下降5%至13%，估算跌幅为1.39%。",
@@ -506,7 +639,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -517,9 +650,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "美国总统特朗普：攫取的数百万桶委内瑞拉石油正运往得州休斯敦。",
+          "url": "https://wallstreetcn.com/livenews/3049351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "纳指期货跌幅扩大至2%。",
@@ -539,7 +683,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -572,9 +716,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "周二（2月3日）纽约尾盘，现货白银涨7.36%，报85.0929美元/盎司，北京时间21:46刷新日高至89.1655美元。 COMEX白银期货涨11.05%，报85.505美元/盎司，21:46刷新日高至89.100美元。 COMEX铜期货涨4.47%，报6.0960美元/磅，14:00出现一波显著的拉升行情——之前持续低位震荡、之后持续高位震荡。 现货铂金涨4.08%，现货钯金涨1.82%。",
+          "url": "https://wallstreetcn.com/livenews/3049349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "白宫新闻秘书：特朗普总统总是倾向于首先采取外交手段解决问题。",
@@ -588,6 +743,17 @@
           "time_info": "03时00分"
         },
         {
+          "title": "美国总统特朗普：与伊朗的会晤不止一次。",
+          "url": "https://flash.jin10.com/detail/20260204054458466800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "纳斯达克100指数下跌1.1%，PayPal重挫超17%，路透跌超13%，Palantir涨幅不到7%",
           "url": "https://wallstreetcn.com/livenews/3049208",
           "source": "华尔街见闻-快讯",
@@ -597,6 +763,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "周二（2月3日）纽约尾盘，现货黄金涨5.96%，报4939.38美元/盎司，亚太盘初以来持续走高，北京时间14:00过后持续高位窄幅震荡，00:39达到4993.63美元。 COMEX黄金期货涨6.94%，报4975.30美元/盎司，00:39刷新日高至5018.10美元。",
+          "url": "https://wallstreetcn.com/livenews/3049348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "美国总统特朗普：我觉得哥伦比亚总统佩特罗很棒。",
+          "url": "https://flash.jin10.com/detail/20260204054438114800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "Prosus于1月26-30日当周按均值49.9973欧元回购股票17.56605万股，合计0.878亿欧元（折合1.047亿美元）。 Naspers同期按均价1027.0534南非兰特回购股票64.7万股，合计6.645亿兰特（折合0.417亿美元）。",
@@ -616,9 +804,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "美国总统特朗普：与哥伦比亚总统佩特罗相处融洽，正在就制裁问题进行合作。",
+          "url": "https://flash.jin10.com/detail/20260204054416539800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "提醒：美国总统特朗普签署法案，结束部分政府的关门状态。",
+          "url": "https://wallstreetcn.com/livenews/3049345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "特朗普与哥伦比亚总统佩特罗会晤 讨论打击毒品走私",
@@ -630,6 +840,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "美国总统特朗普：不希望与伊朗重演“午夜之锤”行动（Midnight Hammer）。",
+          "url": "https://flash.jin10.com/detail/20260204054336833800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗的谈判本周仍在继续，伊朗方面有意愿采取行动。",
+          "url": "https://flash.jin10.com/detail/20260204054240499800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年2月4日 周三",
@@ -649,9 +881,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "美国总统特朗普签署拨款法案以结束政府部分停摆。",
+          "url": "https://flash.jin10.com/detail/20260204054150016800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "内盘期货夜市涨跌各异，合成橡胶收涨约2.6%，燃油涨2%，烧碱跌2%",
@@ -671,7 +914,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -682,7 +925,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -704,7 +947,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -759,7 +1002,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -777,8 +1020,216 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 06时33分]"
+        },
+        {
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 06时33分]"
+        },
+        {
+          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2279540",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 06时33分]"
+        },
+        {
+          "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
+          "url": "https://wallstreetcn.com/livenews/3049298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时40分]"
+        },
+        {
+          "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3049338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时33分]"
+        },
+        {
+          "title": "AMD四季度营收102.7亿美元，分析师预期96.5亿美元。 四季度调整后每股收益（EPS）为1.53美元，分析师预期1.32美元。 四季度运营利润28.5亿美元，分析师预期24.7亿美元。 四季度运营利润率28%，分析师预期25.4%。 四季度研发开支23.3亿美元，分析师预期21.6亿美元。 四季度资本开支2.22亿美元，分析师预期2.314亿美元。 预计一季度营收95亿-101亿美元，分析师预期93.9亿美元。 预计一季度调整后毛利润率大约55%，分析师预期54.5%。 AMD美股盘后跌4%。",
+          "url": "https://wallstreetcn.com/livenews/3049337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时33分]"
+        },
+        {
+          "title": "AMD(AMD.O)美股盘后跌超4.5%。",
+          "url": "https://flash.jin10.com/detail/20260204051829095800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "网络股指数ETF收跌超3.3%，领跌美股行业ETF，标普能源板块涨约3.3%",
+          "url": "https://wallstreetcn.com/livenews/3049332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "美股减肥药概念股周二哀鸿遍野，诺和诺德发布了最新业绩报告。 诺和诺德ADR收跌14.64%，硕迪生物跌6.75%，Goodrx跌5.26%，礼来跌3.9%，平价减肥药供应商Hims & Hers跌3.4%，辉瑞制药跌3.34%，阿斯利康跌2.17%，制药ETF跌1.86%，Viking Therapeutics跌1.7%，福泰制药跌1.36%，渤健BIIB跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3049330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "美股延续跌势，道指下跌1.00%。",
+          "url": "https://flash.jin10.com/detail/20260204030013728800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "美股延续跌势，纳指下跌2.00%。",
+          "url": "https://flash.jin10.com/detail/20260204021533895800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "【超微电脑上调全年净销售指引，股价盘后涨8%】超微电脑第二财季净销售126.8亿美元，分析师预期104.3亿美元。 预计全年净销售至少400亿美元，公司原本预计至少360亿美元。 预计第三财季净销售至少123亿美元，分析师预期102.5亿美元。 超微电脑美股盘后涨8%。",
+          "url": "https://wallstreetcn.com/livenews/3049352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "金十图示：2026年02月03日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260204050616128800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨4.63%，报398.43点。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.29%，报2815.40点。 （美股）原材料指数收涨4.04%，金属与矿业指数收涨5.35%。",
+          "url": "https://wallstreetcn.com/livenews/3049350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "金十图示：2026年02月03日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260204050611908800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "美股收盘：纳指跌超1% PayPal大跌20%",
+          "url": "https://flash.jin10.com/detail/20260204050057353800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
+          "url": "https://wallstreetcn.com/livenews/3049320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周二（2月3日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报203.68点，日内主要低位震荡。 “超大”市值科技股指数跌1.90%，报387.08点，日内大部分时间也低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3049340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -867,7 +1318,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -878,9 +1329,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：Dylan Scandinaro加盟本公司，担任Preparedness（筹备）部门主管。",
+          "url": "https://wallstreetcn.com/livenews/3049343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：非常高兴地欢迎迪伦·斯坎迪纳罗（Dylan Scandinaro）加入OpenAI，担任我们的应变准备（Preparedness）主管。",
+          "url": "https://flash.jin10.com/detail/20260204053929054800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)将投资于OpenAI的下一轮（融资），公司希望参与未来OpenAI的IPO。",
@@ -911,7 +1384,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -933,7 +1406,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -951,179 +1424,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时38分]"
-        },
-        {
-          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时38分]"
-        },
-        {
-          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2279540",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时38分]"
-        },
-        {
-          "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3049338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "AMD四季度营收102.7亿美元，分析师预期96.5亿美元。 四季度调整后每股收益（EPS）为1.53美元，分析师预期1.32美元。 四季度运营利润28.5亿美元，分析师预期24.7亿美元。 四季度运营利润率28%，分析师预期25.4%。 四季度研发开支23.3亿美元，分析师预期21.6亿美元。 四季度资本开支2.22亿美元，分析师预期2.314亿美元。 预计一季度营收95亿-101亿美元，分析师预期93.9亿美元。 预计一季度调整后毛利润率大约55%，分析师预期54.5%。 AMD美股盘后跌4%。",
-          "url": "https://wallstreetcn.com/livenews/3049337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
-          "url": "https://wallstreetcn.com/livenews/3049298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 04时40分]"
-        },
-        {
-          "title": "AMD(AMD.O)美股盘后跌超4.5%。",
-          "url": "https://flash.jin10.com/detail/20260204051829095800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "网络股指数ETF收跌超3.3%，领跌美股行业ETF，标普能源板块涨约3.3%",
-          "url": "https://wallstreetcn.com/livenews/3049332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "美股减肥药概念股周二哀鸿遍野，诺和诺德发布了最新业绩报告。 诺和诺德ADR收跌14.64%，硕迪生物跌6.75%，Goodrx跌5.26%，礼来跌3.9%，平价减肥药供应商Hims & Hers跌3.4%，辉瑞制药跌3.34%，阿斯利康跌2.17%，制药ETF跌1.86%，Viking Therapeutics跌1.7%，福泰制药跌1.36%，渤健BIIB跌1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3049330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "美股延续跌势，道指下跌1.00%。",
-          "url": "https://flash.jin10.com/detail/20260204030013728800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "美股延续跌势，纳指下跌2.00%。",
-          "url": "https://flash.jin10.com/detail/20260204021533895800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "金十图示：2026年02月03日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260204050616128800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "金十图示：2026年02月03日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260204050611908800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "美股收盘：纳指跌超1% PayPal大跌20%",
-          "url": "https://flash.jin10.com/detail/20260204050057353800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
-          "url": "https://wallstreetcn.com/livenews/3049320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
@@ -1136,8 +1436,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 06时33分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -1180,7 +1480,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         }
@@ -1198,11 +1498,12 @@
             3,
             4,
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 06时33分]"
         },
         {
           "title": "金价波动",
