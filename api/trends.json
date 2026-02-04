@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T12:42:32.114791+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-02-04T13:51:52.313200+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 123,
+      "match_count": 133,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -65,6 +65,18 @@
           "time_info": "[00时56分 ~ 06时33分]"
         },
         {
+          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
+          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时51分]"
+        },
+        {
           "title": "哥伦比亚总统佩特罗：未与美国总统特朗普讨论可卡因作物喷洒问题。",
           "url": "https://flash.jin10.com/detail/20260204042744936800",
           "source": "金十数据",
@@ -85,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "瑞银第四季度净利润12.0亿美元，同比增长56%，市场预估9.667亿美元。 第四季度总营收121.5亿美元，同比增长4.4%，市场预估117.5亿美元。 第四季度净利息收入21.7亿美元，同比增长18%，市场预估21.6亿美元。 第四季度每股收益0.37美元，上年同期0.23美元，市场预估0.32美元。 计划于2026年回购30亿美元股票，并希望进一步扩大回购规模。",
+          "url": "https://wallstreetcn.com/livenews/3049593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "城堡投资创始人格里芬：美国总统特朗普提名的美联储主席人选是“非常稳妥的选择”。",
@@ -120,6 +143,28 @@
           "time_info": "06时33分"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260204132440596800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "A股煤炭板块午后进一步走强，潞安环能、宝泰隆、山西焦化、中煤能源、陕西黑猫、兖矿能源等近10股涨停。",
+          "url": "https://wallstreetcn.com/livenews/3049590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "哥伦比亚总统佩特罗：和美国总统特朗普讨论了出口委内瑞拉天然气的问题。",
           "url": "https://flash.jin10.com/detail/20260204042328878800",
           "source": "金十数据",
@@ -142,6 +187,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "特朗普外交斡旋遭遇空袭挑战 普京极限施压意在逼和",
+          "url": "https://flash.jin10.com/detail/20260204131831207800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "特朗普签署拨款法案，结束政府部分“停摆”",
           "url": "https://news.ifeng.com/c/8qRFXQoY4Em",
           "source": "凤凰网",
@@ -153,15 +209,15 @@
           "time_info": "07时31分"
         },
         {
-          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
-          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
+          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "13时51分"
         },
         {
           "title": "国债期货早盘开盘",
@@ -184,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收高0.3%报32,289.81点。",
+          "url": "https://wallstreetcn.com/livenews/3049585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "特朗普称有问题的是比尔盖茨那些人",
@@ -297,6 +364,17 @@
           "time_info": "[03时50分 ~ 04时40分]"
         },
         {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 13时51分]"
+        },
+        {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
           "url": "https://wallstreetcn.com/articles/3764775",
           "source": "华尔街见闻",
@@ -360,15 +438,16 @@
           "time_info": "[03时00分 ~ 04时40分]"
         },
         {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
           "source": "凤凰网",
           "ranks": [
-            6
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时12分 ~ 12时42分]"
+          "time_info": "[12时42分 ~ 13时51分]"
         },
         {
           "title": "美国三大股指至少下跌1%，标普500指数跌1.49%，道指跌超500点，纳指跌537点跌幅2.29%，半导体指数跌幅扩大至约4%。",
@@ -417,6 +496,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时31分]"
+        },
+        {
+          "title": "诺和诺德业绩展望引爆股票抛售 公司预计销售利润双双大幅下降",
+          "url": "https://www.cls.cn/detail/2279680",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时51分]"
         },
         {
           "title": "美国总统特朗普重申对医疗保险行业的批零。",
@@ -479,6 +569,17 @@
           "time_info": "[06时33分 ~ 07时31分]"
         },
         {
+          "title": "特朗普称正与伊朗进行谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529283",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时51分]"
+        },
+        {
           "title": "诺和诺德(NVO.N)：董事会已决定启动一项高达150亿丹麦克朗的新股票回购计划。",
           "url": "https://flash.jin10.com/detail/20260204012652548800",
           "source": "金十数据",
@@ -521,17 +622,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
-        },
-        {
-          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         },
         {
           "title": "美国白宫：已与特朗普就俄罗斯袭击乌克兰一事进行沟通，特朗普的反应并不意外。",
@@ -688,6 +778,28 @@
           "time_info": "10时12分"
         },
         {
+          "title": "A股太空光伏概念再度拉升，晶科能源20cm涨停，双良节能、国晟科技、泽润新能、中来股份等多股此前封板，时创能源、晶盛机电、海泰新能等涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3049579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
+          "url": "https://www.cls.cn/detail/2280009",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "油价期货延续涨势，WTI和布伦特原油期货价格均上涨逾1美元，此前有消息称，美军击落一架逼近美国海军航母的伊朗无人机。",
           "url": "https://flash.jin10.com/detail/20260204011930064800",
           "source": "金十数据",
@@ -741,17 +853,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "诺和诺德业绩展望引爆股票抛售 公司预计销售利润双双大幅下降",
-          "url": "https://www.cls.cn/detail/2279680",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         },
         {
           "title": "特朗普公布120亿美元“金库计划”",
@@ -826,7 +927,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -840,6 +941,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "A股光伏设备板块午后涨幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3049575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "金十图示：2026年02月03日（周二）全球股市指数-美洲市场（收盘）",
@@ -870,7 +982,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -903,7 +1015,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -936,7 +1048,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -1013,7 +1125,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -1035,18 +1147,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "特朗普称正与伊朗进行谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529283",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -1090,9 +1191,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "特朗普面对爱泼斯坦案追问怒斥CNN记者：你连微笑都没有，难怪你们没人看",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529746",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
@@ -1145,7 +1257,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -1395,7 +1507,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -1439,8 +1551,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 13时51分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -1450,8 +1562,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 13时51分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -1462,8 +1574,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 13时51分]"
         },
         {
           "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
@@ -1474,8 +1586,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 13时51分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -1512,6 +1635,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时33分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时51分]"
+        },
+        {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时51分]"
         },
         {
           "title": "【超微电脑上调全年净销售指引，股价盘后涨8%】超微电脑第二财季净销售126.8亿美元，分析师预期104.3亿美元。 预计全年净销售至少400亿美元，公司原本预计至少360亿美元。 预计第三财季净销售至少123亿美元，分析师预期102.5亿美元。 超微电脑美股盘后涨8%。",
@@ -1560,17 +1706,6 @@
           "time_info": "05时38分"
         },
         {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
           "title": "美股减肥药概念股周二哀鸿遍野，诺和诺德发布了最新业绩报告。 诺和诺德ADR收跌14.64%，硕迪生物跌6.75%，Goodrx跌5.26%，礼来跌3.9%，平价减肥药供应商Hims & Hers跌3.4%，辉瑞制药跌3.34%，阿斯利康跌2.17%，制药ETF跌1.86%，Viking Therapeutics跌1.7%，福泰制药跌1.36%，渤健BIIB跌1.3%。",
           "url": "https://wallstreetcn.com/livenews/3049330",
           "source": "华尔街见闻-快讯",
@@ -1591,17 +1726,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -1695,7 +1819,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -1720,6 +1844,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "OpenAI：GPT-5.2/Codex模型的速度已提升40%",
+          "url": "https://flash.jin10.com/detail/20260204131636619800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
           "url": "https://flash.jin10.com/detail/20260204033202172800",
           "source": "金十数据",
@@ -1739,8 +1874,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 13时51分]"
         },
         {
           "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
@@ -1795,7 +1930,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -1806,9 +1941,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "OpenAI：GPT-5.2/Codex模型的速度现已提升40%",
+          "url": "https://wallstreetcn.com/livenews/3049580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "OpenAI就ChatGPT故障问题发表声明：所有受影响的服务现已完全恢复。",
@@ -1947,8 +2093,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时56分 ~ 12时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时56分 ~ 13时51分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -2038,7 +2184,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         }
@@ -2067,7 +2213,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         }
