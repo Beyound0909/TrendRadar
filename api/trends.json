@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T16:45:41.712893+08:00",
-  "total_titles_processed": 1485,
+  "generated_at": "2026-02-04T17:48:56.135992+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 159,
+      "match_count": 161,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -42,6 +42,19 @@
           "time_info": "[00时56分 ~ 06时33分]"
         },
         {
+          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
+          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 17时48分]"
+        },
+        {
           "title": "A股成交额创年内新低！四大板块降温明显，融资余额同步回落，大额增减持股扫描",
           "url": "https://www.cls.cn/detail/2279219",
           "source": "财联社热门",
@@ -54,17 +67,27 @@
           "time_info": "[00时56分 ~ 07时31分]"
         },
         {
-          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
-          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
           "source": "凤凰网",
           "ranks": [
-            5,
-            4,
-            3
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时12分 ~ 17时48分]"
+        },
+        {
+          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
+          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
+          "source": "凤凰网",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时42分 ~ 16时45分]"
+          "time_info": "[13时51分 ~ 17时48分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -78,29 +101,6 @@
           "time_info": "[00时56分 ~ 06时33分]"
         },
         {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时12分 ~ 16时45分]"
-        },
-        {
-          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
-          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时51分 ~ 16时45分]"
-        },
-        {
           "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
           "url": "https://www.cls.cn/detail/2280009",
           "source": "财联社热门",
@@ -111,8 +111,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时51分 ~ 16时45分]"
+          "appearance_count": 6,
+          "time_info": "[13时51分 ~ 17时48分]"
         },
         {
           "title": "特朗普称同哥伦比亚总统的会晤“非常好” 哥总统：绝不接受胁迫",
@@ -121,7 +121,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -209,7 +209,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -777,6 +777,17 @@
           "time_info": "15时47分"
         },
         {
+          "title": "记者问爱泼斯坦案被特朗普怒怼",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%B0%E8%80%85%E9%97%AE%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%80%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
+        },
+        {
           "title": "纳斯达克中国金龙指数跌幅扩大至2%，文远知行(WRD.O)、哔哩哔哩(BILI.O)跌超5%，阿里巴巴(BABA.N)、爱奇艺(IQ.O)跌超4%。",
           "url": "https://flash.jin10.com/detail/20260204021929360800",
           "source": "金十数据",
@@ -948,7 +959,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -1047,7 +1058,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -1267,7 +1278,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -1366,7 +1377,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -1421,7 +1432,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -1520,7 +1531,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -1668,6 +1679,17 @@
           "time_info": "15时47分"
         },
         {
+          "title": "特朗普与爱泼斯坦聚会视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
+        },
+        {
           "title": "美伊会谈前生两起摩擦 特朗普：本周的谈判仍在继续",
           "url": "https://flash.jin10.com/detail/20260204060809275800",
           "source": "金十数据",
@@ -1718,7 +1740,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -1803,7 +1825,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -1836,8 +1858,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时31分 ~ 16时45分]"
+          "appearance_count": 9,
+          "time_info": "[07时31分 ~ 17时48分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -1848,8 +1870,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时12分 ~ 16时45分]"
+          "appearance_count": 8,
+          "time_info": "[10时12分 ~ 17时48分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时51分 ~ 17时48分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -1862,19 +1897,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时56分 ~ 10时12分]"
-        },
-        {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时51分 ~ 16时45分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -1909,8 +1931,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时56分 ~ 16时45分]"
+          "appearance_count": 5,
+          "time_info": "[14时56分 ~ 17时48分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -1923,8 +1945,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 16时45分]"
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 17时48分]"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -2041,6 +2063,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "AMD美股盘前跌超7％，消息面上，公司下一季度营收指引不及市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3049757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -2398,7 +2431,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -2437,11 +2470,24 @@
           "ranks": [
             27,
             26,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 16时45分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 17时48分]"
+        },
+        {
+          "title": "金价创2009年以来最大单日涨幅",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B2009%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E6%B6%A8%E5%B9%85%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 17时48分]"
         },
         {
           "title": "富达国际明星基金经理放话：金价再跌5%-7%将大举抄底",
@@ -2450,7 +2496,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -2466,15 +2512,15 @@
           "time_info": "14时57分"
         },
         {
-          "title": "金价创2009年以来最大单日涨幅",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B2009%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E6%B6%A8%E5%B9%85%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "随着金价上涨逾2%，在美上市的黄金矿业股盘前走高。纽蒙特矿业(NEM.N)上涨2.5%，巴里克黄金(GOLD.N)上涨2.5%。",
+          "url": "https://flash.jin10.com/detail/20260204172610092800",
+          "source": "金十数据",
           "ranks": [
-            19
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "17时48分"
         },
         {
           "title": "高盛称，仍认为其对2026年12月金价在每盎司5,400美元的预测面临明显的上行风险。 高盛称，从时间线来看，1月金价波动更多由西方资金流驱动，而非中国投机所致。",
@@ -2504,8 +2550,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时56分 ~ 16时45分]"
+          "appearance_count": 19,
+          "time_info": "[00时56分 ~ 17时48分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
