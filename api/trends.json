@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T15:47:18.838089+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-02-04T16:45:41.712893+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 150,
+      "match_count": 159,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -54,6 +54,19 @@
           "time_info": "[00时56分 ~ 07时31分]"
         },
         {
+          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
+          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 16时45分]"
+        },
+        {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
           "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
           "source": "凤凰网",
@@ -65,16 +78,16 @@
           "time_info": "[00时56分 ~ 06时33分]"
         },
         {
-          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
-          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
           "source": "凤凰网",
           "ranks": [
-            5,
+            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 15时47分]"
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 16时45分]"
         },
         {
           "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
@@ -84,19 +97,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 15时47分]"
+          "appearance_count": 5,
+          "time_info": "[13时51分 ~ 16时45分]"
         },
         {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
+          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
+          "url": "https://www.cls.cn/detail/2280009",
+          "source": "财联社热门",
           "ranks": [
-            6
+            11,
+            10,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时12分 ~ 15时47分]"
+          "appearance_count": 5,
+          "time_info": "[13时51分 ~ 16时45分]"
+        },
+        {
+          "title": "特朗普称同哥伦比亚总统的会晤“非常好” 哥总统：绝不接受胁迫",
+          "url": "https://wallstreetcn.com/livenews/3049732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "哥伦比亚总统佩特罗：未与美国总统特朗普讨论可卡因作物喷洒问题。",
@@ -176,6 +203,17 @@
           "time_info": "14时57分"
         },
         {
+          "title": "声明显示：劳力士手表授权销售商预计，在固定汇率下，其销售额将增长9%至11%，而此前的预期为6%至10%。",
+          "url": "https://flash.jin10.com/detail/20260204162129907800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "哥伦比亚总统佩特罗：和美国总统特朗普讨论了出口委内瑞拉天然气的问题。",
           "url": "https://flash.jin10.com/detail/20260204042328878800",
           "source": "金十数据",
@@ -230,19 +268,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时42分 ~ 15时47分]"
-        },
-        {
-          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
-          "url": "https://www.cls.cn/detail/2280009",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 15时47分]"
         },
         {
           "title": "特朗普签署拨款法案，结束政府部分“停摆”",
@@ -681,7 +706,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -725,7 +750,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -747,7 +772,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -917,6 +942,17 @@
           "time_info": "06时33分"
         },
         {
+          "title": "金十图示：2026年02月04日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260204161132464800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "诺和诺德ADR股票恢复交易，跌幅瞬间扩大至超过9.2%。 诺和诺德股票走势拖累减肥药概念股，硕迪生物跌4.7%，HIMS跌3.4%，辉瑞制药跌3%，礼来跌2.7%，福泰制药跌1.8%。",
           "url": "https://wallstreetcn.com/livenews/3049240",
           "source": "华尔街见闻-快讯",
@@ -1003,6 +1039,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.05%，恒生科技指数收跌1.84%",
+          "url": "https://wallstreetcn.com/livenews/3049715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "新西兰第四季度劳工成本指数季率 0.4%，预期0.50%，前值0.50%。",
@@ -1132,7 +1179,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -1212,6 +1259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "欧股集体高开，欧洲斯托克50指数涨0.23%，德国DAX指数涨0.3%，英国富时100指数涨0.2%，法国CAC40指数涨0.46%。诺和诺德大跌18%，此前预计2026年销售恐降13%，超预期下滑；英飞凌涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3049707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "白宫新闻秘书：特朗普总统总是倾向于首先采取外交手段解决问题。",
@@ -1297,9 +1355,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "欧股开盘普涨，欧洲斯托克50指数涨0.23%，德国DAX指数涨0.3%，英国富时100指数涨0.2%，法国CAC40指数涨0.46%。",
+          "url": "https://flash.jin10.com/detail/20260204160133986800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "Prosus于1月26-30日当周按均值49.9973欧元回购股票17.56605万股，合计0.878亿欧元（折合1.047亿美元）。 Naspers同期按均价1027.0534南非兰特回购股票64.7万股，合计6.645亿兰特（折合0.417亿美元）。",
@@ -1341,9 +1410,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "越南VN指数收盘下跌1.2%，报1791.43点。",
+          "url": "https://wallstreetcn.com/livenews/3049705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "特朗普面对爱泼斯坦案追问怒斥CNN记者：你连微笑都没有，难怪你们没人看",
@@ -1434,6 +1514,17 @@
           "time_info": "06时33分"
         },
         {
+          "title": "金十期货图示",
+          "url": "https://flash.jin10.com/detail/20260204155741455800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "美国总统特朗普：与伊朗的谈判本周仍在继续，伊朗方面有意愿采取行动。",
           "url": "https://flash.jin10.com/detail/20260204054240499800",
           "source": "金十数据",
@@ -1506,7 +1597,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -1528,7 +1619,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -1572,7 +1663,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -1594,7 +1685,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -1619,6 +1710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "诺和诺德启动2026年股票回购计划，将于2月4日至5月4日期间回购最高达38亿丹麦克朗的股票。",
+          "url": "https://wallstreetcn.com/livenews/3049689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "城堡投资创始人格里芬：特朗普政府在个人获利决策方面出现了失误。",
@@ -1730,22 +1832,24 @@
           "url": "https://wallstreetcn.com/articles/3764793",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时31分 ~ 15时47分]"
+          "appearance_count": 8,
+          "time_info": "[07时31分 ~ 16时45分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
           "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时12分 ~ 15时47分]"
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 16时45分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -1760,6 +1864,19 @@
           "time_info": "[00时56分 ~ 10时12分]"
         },
         {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时51分 ~ 16时45分]"
+        },
+        {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
           "url": "https://www.cls.cn/detail/2279710",
           "source": "财联社热门",
@@ -1770,19 +1887,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时31分 ~ 14时57分]"
-        },
-        {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 15时47分]"
         },
         {
           "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
@@ -1797,17 +1901,30 @@
           "time_info": "[07时31分 ~ 14时57分]"
         },
         {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时56分 ~ 16时45分]"
+        },
+        {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
           "url": "https://wallstreetcn.com/articles/3764895",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 15时47分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 16时45分]"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -1844,17 +1961,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时33分]"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 15时47分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
@@ -2291,6 +2397,99 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
+          "url": "https://www.zhihu.com/question/1999853061464614005",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4,
+            5,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 07时31分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            17,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 05时38分]"
+        },
+        {
+          "title": "金价暴力反弹重上5000美元",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E9%87%8D%E4%B8%8A5000%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 16时45分]"
+        },
+        {
+          "title": "富达国际明星基金经理放话：金价再跌5%-7%将大举抄底",
+          "url": "https://flash.jin10.com/detail/20260204161737425800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "精准逃顶后拟反手做多 富达基金经理看好金价回调买入机会",
+          "url": "https://flash.jin10.com/detail/20260204141709898800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "金价创2009年以来最大单日涨幅",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B2009%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E6%B6%A8%E5%B9%85%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "高盛称，仍认为其对2026年12月金价在每盎司5,400美元的预测面临明显的上行风险。 高盛称，从时间线来看，1月金价波动更多由西方资金流驱动，而非中国投机所致。",
+          "url": "https://wallstreetcn.com/livenews/3049511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
@@ -2305,8 +2504,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 15时47分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 16时45分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -2352,76 +2551,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
-          "url": "https://www.zhihu.com/question/1999853061464614005",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            5,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 07时31分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            17,
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时38分]"
-        },
-        {
-          "title": "金价暴力反弹重上5000美元",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E9%87%8D%E4%B8%8A5000%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 15时47分]"
-        },
-        {
-          "title": "精准逃顶后拟反手做多 富达基金经理看好金价回调买入机会",
-          "url": "https://flash.jin10.com/detail/20260204141709898800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
-          "title": "高盛称，仍认为其对2026年12月金价在每盎司5,400美元的预测面临明显的上行风险。 高盛称，从时间线来看，1月金价波动更多由西方资金流驱动，而非中国投机所致。",
-          "url": "https://wallstreetcn.com/livenews/3049511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         }
       ]
     },
