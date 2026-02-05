@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T18:43:46.584475+08:00",
-  "total_titles_processed": 1567,
+  "generated_at": "2026-02-05T19:37:36.654024+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 143,
+      "match_count": 152,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 18时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 19时37分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -78,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时49分 ~ 18时43分]"
+          "appearance_count": 16,
+          "time_info": "[01时49分 ~ 19时37分]"
         },
         {
           "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
@@ -92,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时36分 ~ 18时43分]"
+          "appearance_count": 11,
+          "time_info": "[05时36分 ~ 19时37分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -245,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "A股2026年春节休市安排公布",
+          "url": "https://www.cls.cn/detail/2281758",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "午盘收盘，国内期货主力合约跌多涨少，沪银、碳酸锂跌超10%，铂、沪锡跌超7%，沪铜、国际铜、BR橡胶跌超3%，菜籽、工业硅、烧碱、焦煤、沪铝跌超2%。涨幅方面，集运欧线涨超3%，燃料油、低硫燃料油、SC原油涨超1%。",
@@ -615,6 +626,19 @@
           "time_info": "[02时55分 ~ 04时38分]"
         },
         {
+          "title": "【每日收评】三大指数集体收跌，两市成交额单日萎缩超3000亿，大消费板块逆势爆发",
+          "url": "https://www.cls.cn/detail/2281641",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时50分 ~ 19时37分]"
+        },
+        {
           "title": "美国众议院议长约翰逊计划今天下午会见总统特朗普。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3050048",
           "source": "华尔街见闻-快讯",
@@ -710,18 +734,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时31分]"
-        },
-        {
-          "title": "【每日收评】三大指数集体收跌，两市成交额单日萎缩超3000亿，大消费板块逆势爆发",
-          "url": "https://www.cls.cn/detail/2281641",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 18时43分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.57%，报2912.23点。 MarketVectorTM数字资产100中盘指数跌2.11%，报2961.65点。 MarketVector数字资产100指数跌3.70%，暂报14801.19点。",
@@ -973,6 +985,17 @@
           "time_info": "13时57分"
         },
         {
+          "title": "郑商所：动力煤期货2702合约交易保证金标准为50%，涨跌停板幅度为10%",
+          "url": "https://wallstreetcn.com/livenews/3050611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "菲律宾央行：预计货币政策宽松周期即将结束。",
           "url": "https://flash.jin10.com/detail/20260205094904949800",
           "source": "金十数据",
@@ -990,7 +1013,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -1017,6 +1040,17 @@
           "time_info": "15时07分"
         },
         {
+          "title": "郑商所：春节期间调整部分期货合约交易保证金标准和涨跌停板幅度",
+          "url": "https://wallstreetcn.com/livenews/3050610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "比特币持续下跌 加密市场正陷入一场“信仰危机”",
           "url": "https://www.cls.cn/detail/2281264",
           "source": "财联社热门",
@@ -1034,7 +1068,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -1155,7 +1189,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -1259,6 +1293,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "上期所调整铜等期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://flash.jin10.com/detail/20260205185251910800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "恒指低开0.82%，恒生科技指数跌1.31%",
           "url": "https://wallstreetcn.com/livenews/3050227",
           "source": "华尔街见闻-快讯",
@@ -1268,6 +1313,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "上期所：调整铜、黄金、白银等期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3050604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "上期所调整黄金、白银期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://flash.jin10.com/detail/20260205185157712800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "美国总统特朗普考虑签署关于“加州欺诈工作组”的命令。 副总统万斯将牵头这个工作组的工作。（CBS）",
@@ -1424,6 +1491,17 @@
           "time_info": "15时07分"
         },
         {
+          "title": "上期能源：调整国际铜期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3050598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "美联储决定在考虑压力测试调整的同时，将大型银行压力资本缓冲要求维持至2027年不变。",
           "url": "https://flash.jin10.com/detail/20260205053121460800",
           "source": "金十数据",
@@ -1466,6 +1544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
+        },
+        {
+          "title": "上期能源调整国际铜期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://flash.jin10.com/detail/20260205184028486800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "A股全天缩量调整 大消费板块逆势爆发",
@@ -1532,6 +1621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "特朗普也该就爱泼斯坦案去国会作证？美众议长回应",
+          "url": "https://wallstreetcn.com/livenews/3050592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "中财期货做空白银获利超5亿美元",
@@ -1658,8 +1758,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时13分 ~ 18时43分]"
+          "appearance_count": 8,
+          "time_info": "[10时13分 ~ 19时37分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -1768,8 +1868,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时47分 ~ 18时43分]"
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 19时37分]"
         },
         {
           "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
@@ -2020,7 +2120,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -2055,11 +2155,12 @@
           "ranks": [
             12,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时47分 ~ 18时43分]"
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 19时37分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.23%，报397.53点。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.55%，报2830.82点。 （美股）原材料指数收涨0.57%，（美股）金属与矿业指数收跌1.61%。",
@@ -2126,7 +2227,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -2159,7 +2260,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -2221,6 +2322,46 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "贝莱德基金刘鑫：短端境外债券相对稳健 长端美债短期内存在交易性机会",
+          "url": "https://wallstreetcn.com/livenews/3050619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
+          "url": "https://wallstreetcn.com/livenews/3050043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 03时40分]"
+        },
+        {
+          "title": "长端美债收益率涨超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3050086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -2247,35 +2388,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
-          "url": "https://wallstreetcn.com/livenews/3050043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 03时40分]"
-        },
-        {
-          "title": "长端美债收益率涨超2个基点",
-          "url": "https://wallstreetcn.com/livenews/3050086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
         }
       ]
     },
@@ -2317,11 +2429,12 @@
           "url": "https://www.cls.cn/detail/2281407",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时47分 ~ 18时43分]"
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 19时37分]"
         }
       ]
     },
