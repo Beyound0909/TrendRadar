@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T06:31:23.306415+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-02-06T07:26:38.249636+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 68,
+      "match_count": 75,
       "titles": [
         {
           "title": "A股2026年春节休市安排公布",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "币圈信仰崩塌？比特币一度失守7万关口 预测市场押注继续下挫",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
@@ -35,11 +35,49 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
+        },
+        {
+          "title": "A股春节休市安排来了",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%98%A5%E8%8A%82%E4%BC%91%E5%B8%82%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
+        },
+        {
+          "title": "突发！这家公司实控人因涉嫌操纵证券市场被证监会立案|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2282010",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
+        },
+        {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "茅台股价创9个月新高！融资余额却连降5日，白酒指数4连涨，板块均价重登首位",
@@ -54,41 +92,27 @@
           "time_info": "[00时53分 ~ 06时31分]"
         },
         {
-          "title": "A股春节休市安排来了",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%98%A5%E8%8A%82%E4%BC%91%E5%B8%82%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
+          "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            10,
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
-          "title": "突发！这家公司实控人因涉嫌操纵证券市场被证监会立案|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2282010",
-          "source": "财联社热门",
+          "title": "比特币跌破7万美元，超20万人爆仓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32541853",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            11,
-            10
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时31分]"
-        },
-        {
-          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
-          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时54分 ~ 07时26分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，叮咚买菜初步收跌15%，阿特斯太阳能跌8.4%，阿里、新东方跌1%，小米、理想、美团则涨超2%，文远知行涨3.6%，百胜中国涨4.6%，蔚来涨6%。 ETF中，ASHS跌1.7%，ASHR跌0.8%，CQQQ跌0.8%，KWEB跌0.1%。",
@@ -113,26 +137,26 @@
           "time_info": "05时32分"
         },
         {
-          "title": "芝商所上调黄金、白银期货保证金比例",
-          "url": "https://flash.jin10.com/detail/20260206052709197800",
-          "source": "金十数据",
+          "title": "纳指期货亚太盘初跌0.8%，亚马逊跌超10%，美光、甲骨文、Palantir跌超2%，Roblox涨超18%",
+          "url": "https://wallstreetcn.com/livenews/3050917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "摩根大通Nikolaos Panigirtzoglou等策略师认为：长期而言，比特币较黄金更具有（投资）魅力。",
+          "url": "https://wallstreetcn.com/livenews/3050915",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "比特币跌破7万美元，超20万人爆仓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32541853",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时54分 ~ 06时31分]"
+          "time_info": "07时26分"
         },
         {
           "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
@@ -223,6 +247,18 @@
           "time_info": "[05时32分 ~ 06时31分]"
         },
         {
+          "title": "芝商所上调黄金、白银期货保证金比例",
+          "url": "https://flash.jin10.com/detail/20260206052709197800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时26分]"
+        },
+        {
           "title": "恒生指数主连夜盘收跌1.38%，报26510点。 恒生科技指数主连夜盘收跌1.28%，报5335点。",
           "url": "https://wallstreetcn.com/livenews/3050848",
           "source": "华尔街见闻-快讯",
@@ -259,6 +295,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时54分 ~ 04时37分]"
+        },
+        {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            17,
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 07时26分]"
+        },
+        {
+          "title": "金十图示：2026年02月05日（周四）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260206052242813800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时26分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：（美国总统特朗普的政府）愿意讨论民主党在国土安全部（DHS）预算拨款问题上的某些要求。",
@@ -356,6 +417,18 @@
           "time_info": "[00时54分 ~ 01时51分]"
         },
         {
+          "title": "金十图示：2026年02月05日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260206050543017800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时26分]"
+        },
+        {
           "title": "美国白宫：美国总统特朗普与保险公司的会晤将会举行；暂未确定时间。",
           "url": "https://flash.jin10.com/detail/20260206034714536800",
           "source": "金十数据",
@@ -378,6 +451,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时32分]"
+        },
+        {
+          "title": "美联储2月4日当周贴现窗贷款余额45.2亿美元，之前一周45.2亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3050895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时26分]"
         },
         {
           "title": "美国白宫：（就古巴问题）特朗普始终乐于开展外交活动。",
@@ -404,16 +489,16 @@
           "time_info": "[02时54分 ~ 03时39分]"
         },
         {
-          "title": "沃什未上任已被特朗普施压",
-          "url": "https://www.douyin.com/hot/2390169",
-          "source": "抖音",
+          "title": "美国芝商所上调黄金、白银期货保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3050891",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            21
+            15,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时51分 ~ 02时54分]"
+          "time_info": "[06时31分 ~ 07时26分]"
         },
         {
           "title": "美国白宫：（当被问及是否与俄罗斯就新削减战略武器条约达成了临时协议时）据我们所知，并没有。美国总统特朗普希望让我们的核专家着手制定一项全新的、经改进的且现代化的条约。",
@@ -428,6 +513,18 @@
           "time_info": "[04时37分 ~ 05时32分]"
         },
         {
+          "title": "Strategy四季度营收1.23亿美元，分析师预期1.232亿美元。 四季度持有比特币71.3502万枚。 公司已经在2月1日动用22.5亿美元美元储备资金。",
+          "url": "https://wallstreetcn.com/livenews/3050887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时26分]"
+        },
+        {
           "title": "加拿大央行行长麦克勒姆：如果美联储的政策变得不那么可预测，这将影响我们所有人。",
           "url": "https://flash.jin10.com/detail/20260206022616850800",
           "source": "金十数据",
@@ -439,15 +536,15 @@
           "time_info": "02时54分"
         },
         {
-          "title": "金十图示：2026年02月05日（周四）华尔街恐惧与贪婪指数（美盘后）",
-          "url": "https://flash.jin10.com/detail/20260206052242813800",
+          "title": "今日重点关注的财经数据与事件：2026年2月6日 周五",
+          "url": "https://flash.jin10.com/detail/20260206065000000800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "07时26分"
         },
         {
           "title": "加拿大央行行长麦克勒姆：一个更不可预测的美联储将对美国利率产生影响。",
@@ -472,6 +569,17 @@
           "time_info": "02时54分"
         },
         {
+          "title": "“做空白银豪赚”小作文引关注，中财期货回应来了！",
+          "url": "https://wallstreetcn.com/articles/3765090",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
           "title": "恒指期货夜盘下跌1%。",
           "url": "https://flash.jin10.com/detail/20260206002434235800",
           "source": "金十数据",
@@ -483,26 +591,15 @@
           "time_info": "00时54分"
         },
         {
-          "title": "金十图示：2026年02月05日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260206050543017800",
-          "source": "金十数据",
+          "title": "纳指期货周四跌约2.3%",
+          "url": "https://wallstreetcn.com/livenews/3050909",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美联储2月4日当周贴现窗贷款余额45.2亿美元，之前一周45.2亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3050895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "07时26分"
         },
         {
           "title": "加拿大央行行长麦克勒姆：对提名凯文·沃什为美联储主席表示欢迎。",
@@ -549,17 +646,6 @@
           "time_info": "00时54分"
         },
         {
-          "title": "美国芝商所上调黄金、白银期货保证金比例",
-          "url": "https://wallstreetcn.com/livenews/3050891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
           "title": "比特币跌穿6.7万美元。",
           "url": "https://wallstreetcn.com/livenews/3050779",
           "source": "华尔街见闻-快讯",
@@ -604,17 +690,6 @@
           "time_info": "02时54分"
         },
         {
-          "title": "Strategy四季度营收1.23亿美元，分析师预期1.232亿美元。 四季度持有比特币71.3502万枚。 公司已经在2月1日动用22.5亿美元美元储备资金。",
-          "url": "https://wallstreetcn.com/livenews/3050887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
           "title": "恒指期货夜盘收跌1.38%，报26510点，低水375点。",
           "url": "https://flash.jin10.com/detail/20260206030217200800",
           "source": "金十数据",
@@ -624,6 +699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "美联储3月维持利率不变的概率为77.3%",
+          "url": "https://flash.jin10.com/detail/20260206060415324800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
           "title": "贝森特：特朗普向IRS索赔的100亿美元可能会来自美国纳税人",
@@ -665,7 +751,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -676,7 +762,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -794,7 +880,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -816,11 +902,26 @@
             9,
             10,
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            24,
+            30,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "美股三大指数集体低开 纳指跌超1%",
@@ -832,20 +933,6 @@
             14,
             22,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时31分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            24,
-            30,
-            21
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -902,11 +989,23 @@
           "url": "https://wallstreetcn.com/livenews/3050900",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时26分]"
+        },
+        {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "07时26分"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股收盘）",
@@ -915,7 +1014,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -926,7 +1025,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -937,7 +1036,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         }
@@ -1026,6 +1125,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
+        },
+        {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764994",
           "source": "华尔街见闻",
@@ -1037,27 +1147,17 @@
           "time_info": "[00时53分 ~ 06时31分]"
         },
         {
-          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2282073",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时31分]"
-        },
-        {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
         }
       ]
     },
@@ -1116,6 +1216,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "贵金属价格剧烈波动，上期所再度对黄金、白银等期货提保扩板",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32543462",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         }
       ]
     }
