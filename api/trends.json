@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T01:43:32.524389+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-02-07T02:55:29.236170+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 44,
+      "match_count": 57,
       "titles": [
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时55分]"
         },
         {
           "title": "节前最后一周！A股能否迎“红包行情”，近10年数据这样说",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时55分]"
         },
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
           "url": "https://news.ifeng.com/c/8qW59pknpCi",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时55分]"
         },
         {
           "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
@@ -48,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时55分]"
         },
         {
           "title": "中方回应特朗普公开支持高市早苗",
@@ -69,20 +70,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
         {
-          "title": "美联储副主席杰斐逊：就业创造弱于我们的期望水平。",
-          "url": "https://wallstreetcn.com/livenews/3051571",
+          "title": "上期所原油期货2603合约夜盘收涨1.52%，报468.80元人民币/桶。 沪金夜盘收涨2.82%，沪银收涨3.51%。",
+          "url": "https://wallstreetcn.com/livenews/3051592",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时43分"
+          "time_info": "02时55分"
+        },
+        {
+          "title": "富时A50夜期涨幅扩大至超过1%。纳斯达克金龙中国指数涨幅扩大至超过3.75%。",
+          "url": "https://wallstreetcn.com/livenews/3051590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "周五（2月6日），美联储隔夜逆回购协议（RRP）使用规模为31.11亿美元（交易对手7家），上个交易日报17.48亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3051589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
           "title": "白宫官员回应特朗普发布针对奥巴马夫妇的种族主义视频：这是白宫工作人员误发该帖，现已删除。",
@@ -91,20 +114,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
         {
-          "title": "报道：特朗普政府考虑对住宅建筑商发起反垄断调查",
-          "url": "https://wallstreetcn.com/livenews/3051565",
+          "title": "泰森食品跌0.3%，报道称美国总统特朗普下令加大对阿根廷牛肉的进口力度。",
+          "url": "https://wallstreetcn.com/livenews/3051588",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时43分"
+          "time_info": "02时55分"
         },
         {
           "title": "德国DAX 30指数初步收涨0.88%，报24707.04点，本周累涨约0.7%。 法国股指初步收涨0.50%，意大利股指初步收涨0.19%，银行指数涨1.08%、本周累涨约1%，英国股指初步收涨0.64%。",
@@ -117,6 +140,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时43分]"
+        },
+        {
+          "title": "美联储副主席杰斐逊：就业创造弱于我们的期望水平。",
+          "url": "https://wallstreetcn.com/livenews/3051571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时55分]"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.91%，报617.20点，本周累计上涨大约1%。 欧元区STOXX 50指数初步收涨1.18%，报5995.81点，本周累涨约0.8%。 富时泛欧绩优300指数初步收涨0.88%，报2459.47点。",
@@ -143,6 +178,31 @@
           "time_info": "[00时50分 ~ 01时43分]"
         },
         {
+          "title": "报道：特朗普政府考虑对住宅建筑商发起反垄断调查",
+          "url": "https://wallstreetcn.com/livenews/3051565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时55分]"
+        },
+        {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            19,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时55分]"
+        },
+        {
           "title": "比特币涨幅扩大至10%。",
           "url": "https://wallstreetcn.com/livenews/3051549",
           "source": "华尔街见闻-快讯",
@@ -153,6 +213,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时43分]"
+        },
+        {
+          "title": "美联储副主席杰斐逊：当前的货币政策对诸多风险准备就绪。 劳动力市场大致平衡，但仍然存在下行风险。 一旦（美国总统特朗普挑起的）关税的影响过去，通胀有望再次放缓。 强劲的生产力增速可能会推高中性利率。 生产力增速可能有助于遏制通胀。 我已经将自己对2026年经济增长速度的预期上修至2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3051562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时55分]"
         },
         {
           "title": "希腊雅典证交所综合指数收跌0.17%，报2362.35点，本周累计上涨2.05%。",
@@ -173,18 +245,6 @@
           "ranks": [
             14,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时43分]"
-        },
-        {
-          "title": "美伊谈判前特朗普发李小龙视频",
-          "url": "https://www.douyin.com/hot/2391580",
-          "source": "抖音",
-          "ranks": [
-            19,
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -232,7 +292,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -254,9 +314,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "一名官员称，美国总统特朗普下令，从阿根廷进口的牛肉将增加三倍。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3051586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
           "title": "美联储副主席杰斐逊：关税很可能只是价格水平的一次性变动而已。",
@@ -265,18 +336,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "美联储副主席杰斐逊：当前的货币政策对诸多风险准备就绪。 劳动力市场大致平衡，但仍然存在下行风险。 一旦（美国总统特朗普挑起的）关税的影响过去，通胀有望再次放缓。 强劲的生产力增速可能会推高中性利率。 生产力增速可能有助于遏制通胀。 我已经将自己对2026年经济增长速度的预期上修至2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3051562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -287,9 +347,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美媒：特朗普将下令将从阿根廷进口的牛肉数量增至四倍",
+          "url": "https://flash.jin10.com/detail/20260207022921075800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
           "title": "美联储副主席杰斐逊：预计今年经济将增长2.2%。",
@@ -298,9 +369,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "纳斯达克综合指数日内涨幅达2.0%，报22994.16点。",
+          "url": "https://wallstreetcn.com/livenews/3051583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
           "title": "美联储副主席杰斐逊：我支持去年的降息举措，政策立场大致处于中性水平。",
@@ -309,7 +391,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -320,7 +402,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -331,7 +413,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -342,7 +424,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -353,9 +435,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "贝森特重申：特朗普有关解雇沃什的言论是个玩笑",
+          "url": "https://wallstreetcn.com/livenews/3051579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
           "title": "美联储副主席杰斐逊：就业市场可能处于平衡状态，呈现低招聘、低解雇环境。",
@@ -364,9 +457,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美国财长贝森特：“特朗普账户”（Trump accounts）可能会成为他最大的政治遗产。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3051578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
           "title": "美联储副主席杰斐逊：美联储的立场为经济的供给侧发展提供了“回旋余地”。",
@@ -375,9 +479,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "富时中国A50指数期货涨幅扩大至1%。",
+          "url": "https://flash.jin10.com/detail/20260207022030940800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
           "title": "美联储副主席杰斐逊：更强劲的生产力有可能缓解通胀压力。",
@@ -386,9 +501,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的31.11亿美元。",
+          "url": "https://flash.jin10.com/detail/20260207021648634800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "特朗普“下场”支持日本首相",
+          "url": "https://www.douyin.com/hot/2391219",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
           "title": "美联储戴利：企业谨慎乐观，工人则没那么确定。",
@@ -408,7 +545,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -419,7 +556,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -441,7 +578,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -455,6 +592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "据CBS：特朗普下令将阿根廷的牛肉进口量增至四倍。",
+          "url": "https://flash.jin10.com/detail/20260207021259349800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
           "title": "内盘期货夜市多数收跌，焦炭跌超2.2%，焦煤跌2%，铁矿石跌超0.5%",
@@ -474,7 +622,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -496,7 +644,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         }
@@ -504,7 +652,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。（CNBC）",
@@ -513,7 +661,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -534,11 +682,12 @@
           "url": "https://wallstreetcn.com/livenews/3051561",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时55分]"
         },
         {
           "title": "美媒：OpenAI正与阿布扎比企业洽谈，以为阿联酋打造一款专属ChatGPT",
@@ -547,9 +696,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。 英伟达与OpenAI之间并不存在（投资）闹剧。 OpenAI需要英伟达的新一代芯片。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3051568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
           "title": "据美国财经媒体Semafor：OpenAI正与阿布扎比的G42洽谈，为阿联酋打造专用版ChatGPT。",
@@ -558,7 +718,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -569,7 +729,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         }
@@ -577,7 +737,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -587,8 +747,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时55分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -598,8 +758,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时55分]"
         },
         {
           "title": "美股人工智能相关股多数上涨，超微电脑(SMCI.O)、Arm(ARM.O)大涨10%，AMD(AMD.O)涨超8%，英伟达(NVDA.O)涨超7%。",
@@ -620,8 +780,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时55分]"
         },
         {
           "title": "美国银行：从轻资产模式转向重资产模式意味着所谓美股科技七巨头的主导地位面临“重大威胁”。 今年大型科技公司在人工智能领域的资本开支预计约为6700亿美元，相当于其现金流的96%，而2023年这一比例仅为40%。 不再是拥有最佳资产负债表的公司，也不再是进行大规模股票回购的公司。",
@@ -634,6 +794,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时43分]"
+        },
+        {
+          "title": "美股延续涨势，纳指上涨2.00%。",
+          "url": "https://flash.jin10.com/detail/20260207020033176800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         }
       ]
     },
@@ -649,8 +820,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时55分]"
         },
         {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
@@ -670,9 +841,38 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "道指日内上涨892点，涨幅达2.0%，报49888.77点。标普500指数涨1.5%，纳指涨405点、涨幅1.65%，半导体指数涨超5%。 比特币重返7万美元上方。",
+          "url": "https://wallstreetcn.com/livenews/3051564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时55分]"
+        },
+        {
+          "title": "道指飙涨超1000点，半导体指数目前涨5.4%。 Strategy涨24.6%，诺和诺德ADR涨8.3%，英伟达涨7.5%，蔚来涨7.1%，西部数据涨6.8%，英特尔涨5.7%，台积电涨5.4%，特斯拉涨4.2%，Sandisk涨3.5%，阿里巴巴涨2.5%。 现货白银日内涨幅达9.0%，报77.07美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3051576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         }
       ]
     },
@@ -688,25 +888,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "道指日内上涨892点，涨幅达2.0%，报49888.77点。标普500指数涨1.5%，纳指涨405点、涨幅1.65%，半导体指数涨超5%。 比特币重返7万美元上方。",
-          "url": "https://wallstreetcn.com/livenews/3051564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时55分]"
         }
       ]
     }
