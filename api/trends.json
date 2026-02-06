@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T10:13:53.245519+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-02-06T12:49:02.201344+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 102,
+      "match_count": 118,
       "titles": [
         {
           "title": "币圈信仰崩塌？比特币一度失守7万关口 预测市场押注继续下挫",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 10时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 12时49分]"
         },
         {
           "title": "A股春节休市安排来了",
@@ -93,6 +93,51 @@
           "time_info": "[00时53分 ~ 06时31分]"
         },
         {
+          "title": "【早报】深夜，贵金属、原油、比特币全线重挫；八部门发文！事关中药工业高质量发展",
+          "url": "https://www.cls.cn/detail/2282271",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 12时49分]"
+        },
+        {
+          "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
+          "url": "https://wallstreetcn.com/articles/3765079",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 12时49分]"
+        },
+        {
+          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
+          "url": "https://news.ifeng.com/c/8qW59pknpCi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 12时49分]"
+        },
+        {
+          "title": "白银、科技股、比特币！华尔街哪里最拥挤 哪里踩踏就最惨烈……",
+          "url": "https://www.cls.cn/detail/2282354",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 12时49分]"
+        },
+        {
           "title": "比特币跌破7万美元，超20万人爆仓",
           "url": "https://m.thepaper.cn/newsDetail_forward_32541853",
           "source": "澎湃新闻",
@@ -106,6 +151,17 @@
           "time_info": "[02时54分 ~ 10时13分]"
         },
         {
+          "title": "日本大选前，特朗普发文支持高市",
+          "url": "https://news.ifeng.com/c/8qWByeKcHHN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
           "url": "https://wallstreetcn.com/articles/3765023",
           "source": "华尔街见闻",
@@ -117,24 +173,13 @@
           "time_info": "07时26分"
         },
         {
-          "title": "【早报】深夜，贵金属、原油、比特币全线重挫；八部门发文！事关中药工业高质量发展",
-          "url": "https://www.cls.cn/detail/2282271",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
           "title": "美国股指期货收窄跌幅，标普500指数期货跌0.2%。",
           "url": "https://wallstreetcn.com/livenews/3051036",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -148,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "印度NIFTY信息技术指数下跌1.8%。",
+          "url": "https://flash.jin10.com/detail/20260206115823260800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "标普500指数初步收跌1.2%，原材料板块跌2.8%，可选消费板块跌2.7%，科技板块跌1.8%，金融板块跌1.3%。 纳斯达克100指数初步收跌1.3%，成分股中，Strategy跌17.7%，CrowdStrike跌9.2%，高通跌8.7%，Zscaler跌8.6%，Datadog跌7.77%，Palantir跌7%，应用材料涨1.7%，吉利德科学涨2.3%，Arm控股涨5.7%。 微软初步收跌5%，Salesforce跌4.6%，亚马逊跌4.2%，高盛跌2.5%，领跌道指成分股，思科、强生、Travelers Companies Inc.等则涨超1%。",
@@ -172,46 +228,13 @@
           "time_info": "07时26分"
         },
         {
-          "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
-          "url": "https://wallstreetcn.com/articles/3765079",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
-          "url": "https://news.ifeng.com/c/8qW59pknpCi",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "白银、科技股、比特币！华尔街哪里最拥挤 哪里踩踏就最惨烈……",
-          "url": "https://www.cls.cn/detail/2282354",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
           "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
           "url": "https://news.ifeng.com/c/8qW6McngHpX",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -339,6 +362,30 @@
           "time_info": "[03时39分 ~ 04时37分]"
         },
         {
+          "title": "中财期货边锡明被指精准做空三天赚36亿，如何看公司回应？",
+          "url": "https://www.cls.cn/detail/2282362",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 12时49分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2391220",
+          "source": "抖音",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 12时49分]"
+        },
+        {
           "title": "高盛上调药明康德A股评级至买入（分析师Ziyi Chen之前所给评级为中性），目标价132.70元人民币（即上涨37%）。",
           "url": "https://wallstreetcn.com/livenews/3050816",
           "source": "华尔街见闻-快讯",
@@ -365,6 +412,18 @@
           "time_info": "[02时54分 ~ 04时37分]"
         },
         {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 12时49分]"
+        },
+        {
           "title": "沃什未上任已被特朗普施压",
           "url": "https://www.douyin.com/hot/2390169",
           "source": "抖音",
@@ -376,6 +435,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时51分 ~ 07时26分]"
+        },
+        {
+          "title": "科技股抛压暂缓，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币、金银V形反弹",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）华尔街恐惧与贪婪指数（美盘后）",
@@ -412,6 +482,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时31分]"
+        },
+        {
+          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
+          "url": "https://www.zhihu.com/question/2002848288005718086",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
         },
         {
           "title": "美国白宫：（就伊朗问题）特朗普除了外交手段外还有许多其他选择。",
@@ -615,6 +696,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "泰国期货交易所：暂停白银在线期货交易",
+          "url": "https://wallstreetcn.com/livenews/3051095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "加拿大央行行长麦克勒姆：一个更不可预测的美联储将对美国利率产生影响。",
           "url": "https://flash.jin10.com/detail/20260206022546745800",
           "source": "金十数据",
@@ -632,18 +724,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "中财期货边锡明被指精准做空三天赚36亿，如何看公司回应？",
-          "url": "https://www.cls.cn/detail/2282362",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -665,7 +746,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -687,7 +768,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -720,9 +801,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "日本前高级外汇官员：外汇干预配合加息效果将更为持久",
+          "url": "https://flash.jin10.com/detail/20260206113511462800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "A股零售股震荡调整，百大集团触及跌停，新华百货逼近跌停，三江购物、友好集团、国光连锁、上海九百跌超6%。",
@@ -731,31 +823,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
         {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
+          "title": "上证指数早盘收报4080.31点，涨0.11%。 深证成指早盘收报14043.17点，涨0.65%。 创业板指早盘收报3281.45点，涨0.65%。 沪深300早盘收报4668.00点，跌0.05%。 科创50早盘收报1432.61点，涨0.01%。 中证500早盘收报8220.16点，涨0.91%。 中证1000早盘收报8129.57点，涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3051087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "金十图示：2026年02月06日（周五）富时中国A50指数成分股午盘收盘行情一览：银行、保险、酿酒全面下挫，煤炭行业涨跌互现",
+          "url": "https://flash.jin10.com/detail/20260206113155395800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2391220",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "12时49分"
         },
         {
           "title": "日本央行委员增一行：如果经济展望实现，将提高利率。 物价趋势正迈向2%，基础通胀仍低于2%，但已相当接近该水平。 日本央行密切关注外汇市场的波动及其对经济和物价的影响。 必须警惕日元走弱引发的通胀是否会推高整体物价水平，以及是否会影响基础通胀。 显而易见，通缩习俗正在被根除，日本正进入通胀时期。 关键在于以及时且恰当的方式加息，以确保基础通胀率不会超过2%。 日本央行还必须谨慎行动，避免过度加息破坏刚刚开始转动的“通胀与工资适度上涨”的循环。 日本央行在审查未来购债进度时，必须仔细研判市场动态。 日本的实际利率目前仍然处于深度的负值区间。",
@@ -764,7 +856,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -778,6 +870,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260206113109565800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "美国财长贝森特：我在2024年（拜登任期内）看到了通胀。 （特朗普挑起的）关税造成美元走强。",
@@ -797,7 +900,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -813,15 +916,37 @@
           "time_info": "02时54分"
         },
         {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260206113105157800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "A股贵金属板块延续跌势，湖南白银、兴业银锡、盛达资源、白银有色跌停，晓程科技、山金国际、中金黄金等纷纷低开。",
           "url": "https://wallstreetcn.com/livenews/3051013",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.35%，10年期主力合约涨0.07%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3051083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "日本央行委员增一行：日本央行需要继续加息，以完成政策正常化。",
@@ -830,9 +955,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，沪银跌超15%，铂跌超8%，钯跌超6%，沪锡跌超5%，菜籽跌超4%，烧碱跌超3%，集运欧线、沪金、原木、沪镍、沪铜、国际铜跌超2%。涨幅方面，氧化铝涨超2%，液化气涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260206113041937800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "美国总统特朗普将于周四深夜宣布启动TrumpRX。（Axios）",
@@ -852,7 +988,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -863,7 +999,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -896,9 +1032,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "泰国期货交易所（TFEX）宣布暂停白银在线期货的临时交易。",
+          "url": "https://flash.jin10.com/detail/20260206112817110800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "贝森特：是否起诉沃什由特朗普决定，称“起诉”言论只是玩笑",
@@ -918,7 +1065,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -940,7 +1087,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -989,6 +1136,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "国内增长叙事强化林吉特韧性 美联储降息延后将支撑美元短期表现",
+          "url": "https://flash.jin10.com/detail/20260206112309949800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌1.8%，报379.69点，创1月6日以来收盘新低。 在十个板块中，北欧医疗保健板块跌幅最大。 可再生能源公司维斯塔斯风力技术集团跌8.7%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3050801",
           "source": "华尔街见闻-快讯",
@@ -1006,7 +1164,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -1042,6 +1200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260206111424131800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "特朗普：与其延长“新削减战略武器条约” 不如制定新条约",
@@ -1094,9 +1263,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "台湾证交所加权股价指数转涨，收复早盘2%的跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3051063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "特朗普：已就迪戈加西亚岛问题与斯塔默交谈 保留军事手段的权利",
@@ -1116,7 +1296,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -1160,7 +1340,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -1179,7 +1359,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -1238,6 +1418,19 @@
           "time_info": "[00时53分 ~ 06时31分]"
         },
         {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 12时49分]"
+        },
+        {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260206013143448800",
           "source": "金十数据",
@@ -1272,18 +1465,6 @@
           "time_info": "[05时32分 ~ 06时31分]"
         },
         {
-          "title": "美股收盘：纳指连续三天均跌超1%",
-          "url": "https://www.cls.cn/detail/2282258",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 10时13分]"
-        },
-        {
           "title": "周四（2月5日）美股尾盘，彭博电动汽车价格回报指数跌1.88%，报3467.18点，北京时间08:17短线走高，随后持续走低。 成分股沃尔沃汽车集团（欧股）收跌22.53%，Aurora Innovation股份跌9.7%，普拉格动力公司跌9%，MP材料跌7.3%，速腾聚创科技H股收涨2.79%表现第五，小米集团H股收涨2.83%，文远知行涨3.5%，地平线H股收涨3.64%，Panasonic株式会社收涨8.41%。",
           "url": "https://wallstreetcn.com/livenews/3050879",
           "source": "华尔街见闻-快讯",
@@ -1294,6 +1475,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时31分]"
+        },
+        {
+          "title": "美股、金银、比特币、石油 全崩了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 12时49分]"
         },
         {
           "title": "（美股）费城金银指数收跌6.25%，报372.66点。 （全球时段）纽约证交所ARCA金矿开采商指数跌6.03%，报2660.11点。 （美股）原材料指数收跌3.87%，金属与矿业指数收跌2.95%。",
@@ -1308,6 +1500,17 @@
           "time_info": "[06时31分 ~ 07时26分]"
         },
         {
+          "title": "美股三大指数集体收跌",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260206050531968800",
           "source": "金十数据",
@@ -1317,17 +1520,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
-        },
-        {
-          "title": "美股、金银、比特币、石油 全崩了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
         },
         {
           "title": "金十图示：2026年02月05日（周四）热门中概股行情一览（美股收盘）",
@@ -1436,18 +1628,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2282073",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 10时13分]"
-        },
-        {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764994",
           "source": "华尔街见闻",
@@ -1472,15 +1652,28 @@
           "time_info": "[00时53分 ~ 07时26分]"
         },
         {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 12时49分]"
+        },
+        {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3765100",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 12时49分]"
         }
       ]
     },
@@ -1495,9 +1688,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 12时49分]"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
