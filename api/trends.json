@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-08T10:43:13.971041+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-02-08T13:05:55.935201+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 24,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
+          "url": "https://wallstreetcn.com/articles/3765222",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 13时05分]"
+        },
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
           "url": "https://www.cls.cn/detail/2283724",
@@ -15,20 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 10时43分]"
-        },
-        {
-          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
-          "url": "https://wallstreetcn.com/articles/3765222",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 10时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 13时05分]"
         },
         {
           "title": "特朗普宣布取消对印度商品25%关税",
@@ -60,11 +61,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 10时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 13时05分]"
         },
         {
           "title": "A股再添一位“00”后董事长",
@@ -90,11 +92,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 10时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 13时05分]"
         },
         {
           "title": "特朗普支持媒体公司Nexstar吞并Tegna",
@@ -128,11 +131,12 @@
             1,
             2,
             3,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时31分 ~ 10时43分]"
+          "appearance_count": 6,
+          "time_info": "[04时31分 ~ 13时05分]"
         },
         {
           "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
@@ -183,6 +187,21 @@
           "time_info": "[00时33分 ~ 07时33分]"
         },
         {
+          "title": "特朗普态度“大转变”：支持电视广播巨头Nexstar收购Tegna",
+          "url": "https://wallstreetcn.com/livenews/3051747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            6,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时31分 ~ 13时05分]"
+        },
+        {
           "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
           "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
           "source": "凤凰网",
@@ -192,20 +211,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 05时29分]"
-        },
-        {
-          "title": "特朗普态度“大转变”：支持电视广播巨头Nexstar收购Tegna",
-          "url": "https://wallstreetcn.com/livenews/3051747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时31分 ~ 10时43分]"
         },
         {
           "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
@@ -230,26 +235,85 @@
           "time_info": "[10时42分 ~ 10时43分]"
         },
         {
+          "title": "五角大楼“披萨指数”激增",
+          "url": "https://flash.jin10.com/detail/20260208113631011800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "华尔街分析师称比特币或跌至零美元",
+          "url": "https://www.toutiao.com/trending/7604270753562758698/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "美国总统特朗普：与洪都拉斯总统在安全问题上建立紧密伙伴关系，携手打击贩毒集团和毒贩，将非法移民和帮派成员驱逐出美国。",
+          "url": "https://flash.jin10.com/detail/20260208105958137800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
           "title": "币圈超级乌龙指：奖金单位错输成比特币 交易所狂撒逾400亿美元",
           "url": "https://www.cls.cn/detail/2283800",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 13时05分]"
         },
         {
           "title": "年内迄今19家A股上市公司公告终止并购重组 热门商业航天概念股赫然在列",
           "url": "https://www.cls.cn/detail/2283734",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 13时05分]"
+        },
+        {
+          "title": "韩国加密货币交易所Bithumb误发62万枚比特币，价值约440亿美元，已追回99.7%",
+          "url": "https://wallstreetcn.com/livenews/3051758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
+          "time_info": "[10时43分 ~ 13时05分]"
+        },
+        {
+          "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
+          "url": "https://wallstreetcn.com/livenews/3051756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 13时05分]"
         },
         {
           "title": "韩员工误发超400亿美元比特币",
@@ -263,37 +327,71 @@
           "time_info": "[10时42分 ~ 10时43分]"
         },
         {
-          "title": "韩国加密货币交易所Bithumb误发62万枚比特币，价值约440亿美元，已追回99.7%",
-          "url": "https://wallstreetcn.com/livenews/3051758",
+          "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
+          "url": "https://flash.jin10.com/detail/20260207233303917800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 13时05分]"
+        },
+        {
+          "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
+          "url": "https://flash.jin10.com/detail/20260208105726564800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "美国总统特朗普：与我的朋友、洪都拉斯总统举行了一次非常重要的会晤。讨论了许多其他问题，包括我们两国之间的投资和贸易。",
+          "url": "https://flash.jin10.com/detail/20260208105717509800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "五角大楼\"披萨指数\"激增",
+          "url": "https://wallstreetcn.com/livenews/3051770",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "13时05分"
         },
         {
-          "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
-          "url": "https://wallstreetcn.com/livenews/3051756",
-          "source": "华尔街见闻-快讯",
+          "title": "韩员工手滑发62万枚比特币",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%91%98%E5%B7%A5%E6%89%8B%E6%BB%91%E5%8F%9162%E4%B8%87%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "13时05分"
         },
         {
-          "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
-          "url": "https://flash.jin10.com/detail/20260207233303917800",
-          "source": "金十数据",
+          "title": "民主党高层对特朗普爆粗口",
+          "url": "https://www.toutiao.com/trending/7603988391726317587/",
+          "source": "今日头条",
           "ranks": [
-            12
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "13时05分"
         }
       ]
     },
@@ -318,11 +416,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 10时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 13时05分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -334,6 +433,36 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 06时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄金——资产再配置，金价走向何方？",
+          "url": "https://wallstreetcn.com/articles/3765213",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时29分 ~ 10时43分]"
+        },
+        {
+          "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
+          "url": "https://www.zhihu.com/question/2003305831391785957",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         }
       ]
     },
@@ -352,25 +481,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 07时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金——资产再配置，金价走向何方？",
-          "url": "https://wallstreetcn.com/articles/3765213",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时29分 ~ 10时43分]"
         }
       ]
     }
