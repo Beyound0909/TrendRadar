@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T20:55:59.810943+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-02-08T21:49:01.244897+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时33分 ~ 20时55分]"
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 21时49分]"
         },
         {
           "title": "特朗普宣布取消对印度商品25%关税",
@@ -96,8 +96,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时42分 ~ 20时55分]"
+          "appearance_count": 13,
+          "time_info": "[10时42分 ~ 21时49分]"
         },
         {
           "title": "币圈超级乌龙指：奖金单位错输成比特币 交易所狂撒逾400亿美元",
@@ -109,8 +109,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时42分 ~ 20时55分]"
+          "appearance_count": 13,
+          "time_info": "[10时42分 ~ 21时49分]"
+        },
+        {
+          "title": "史诗级失误：韩国交易所“手滑”发出440亿美元比特币",
+          "url": "https://wallstreetcn.com/articles/3765240",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时54分 ~ 21时49分]"
         },
         {
           "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
@@ -184,19 +197,6 @@
           "time_info": "[04时31分 ~ 14时54分]"
         },
         {
-          "title": "史诗级失误：韩国交易所“手滑”发出440亿美元比特币",
-          "url": "https://wallstreetcn.com/articles/3765240",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时54分 ~ 20时55分]"
-        },
-        {
           "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
           "url": "https://flash.jin10.com/detail/20260207200111862800",
           "source": "金十数据",
@@ -267,6 +267,18 @@
           "time_info": "[00时33分 ~ 05时29分]"
         },
         {
+          "title": "比特币涨至71000美元，日内涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3051827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时49分]"
+        },
+        {
           "title": "五角大楼“披萨指数”激增",
           "url": "https://flash.jin10.com/detail/20260208113631011800",
           "source": "金十数据",
@@ -292,15 +304,15 @@
           "time_info": "[10时42分 ~ 10时43分]"
         },
         {
-          "title": "比特币涨至71000美元，日内涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3051827",
+          "title": "日本首相高市早苗：将加快关于食品减税的讨论。 如达成决定，将向国会提交税制改革法案。 有关日元疲软的言论被断章取义。 要建立对汇率变动有韧性的经济结构。 财政可持续性十分重要。",
+          "url": "https://wallstreetcn.com/livenews/3051830",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时55分"
+          "time_info": "21时49分"
         },
         {
           "title": "华尔街分析师称比特币或跌至零美元",
@@ -414,6 +426,34 @@
           "time_info": "[13时05分 ~ 16时37分]"
         },
         {
+          "title": "兴业证券：A股前期调整已释放一定风险，持股过节兼具胜率与赔率",
+          "url": "https://wallstreetcn.com/livenews/3051813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 21时49分]"
+        },
+        {
+          "title": "中泰证券：A股短期结构仍由科技主导，中期高股息板块或成为主线之一",
+          "url": "https://wallstreetcn.com/livenews/3051812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 21时49分]"
+        },
+        {
           "title": "韩国加密货币交易所 Bithumb 误发 62 万枚比特币，如何评价这一乌龙事件？为何会造成比特币价格闪崩？",
           "url": "https://www.zhihu.com/question/2003781811025700367",
           "source": "知乎",
@@ -438,32 +478,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时54分 ~ 16时37分]"
-        },
-        {
-          "title": "兴业证券：A股前期调整已释放一定风险，持股过节兼具胜率与赔率",
-          "url": "https://wallstreetcn.com/livenews/3051813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 20时55分]"
-        },
-        {
-          "title": "中泰证券：A股短期结构仍由科技主导，中期高股息板块或成为主线之一",
-          "url": "https://wallstreetcn.com/livenews/3051812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 20时55分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-08）",
@@ -499,6 +513,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时43分 ~ 13时05分]"
+        },
+        {
+          "title": "龙头20CM三连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2283877",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
         },
         {
           "title": "韩员工手滑发62万枚比特币",
@@ -540,6 +565,20 @@
           "time_info": "[00时33分 ~ 06时29分]"
         },
         {
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时40分 ~ 21时49分]"
+        },
+        {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
           "url": "https://www.cls.cn/detail/2283586",
           "source": "财联社热门",
@@ -551,22 +590,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时33分 ~ 20时55分]"
-        },
-        {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时40分 ~ 20时55分]"
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 21时49分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -658,8 +683,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 20时55分]"
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 21时49分]"
         }
       ]
     },
@@ -676,8 +701,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 20时55分]"
+          "appearance_count": 6,
+          "time_info": "[17时33分 ~ 21时49分]"
         }
       ]
     },
@@ -692,11 +717,12 @@
           "ranks": [
             2,
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 20时55分]"
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 21时49分]"
         }
       ]
     }
