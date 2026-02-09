@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T19:47:35.735670+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2026-02-09T21:15:00.876180+08:00",
+  "total_titles_processed": 1484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 112,
+      "match_count": 131,
       "titles": [
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
@@ -58,6 +58,34 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 07时34分]"
+        },
+        {
+          "title": "财联社C50风向指数调查：2月资金面或维持平稳宽松，市场对降准降息窗口存在分歧",
+          "url": "https://www.cls.cn/detail/2284330",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时02分 ~ 21时15分]"
+        },
+        {
+          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
+          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时08分 ~ 21时15分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年2月9日 周一",
@@ -137,30 +165,16 @@
           "time_info": "[00时35分 ~ 06时31分]"
         },
         {
-          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
-          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
+          "url": "https://news.ifeng.com/c/8qbQFf1tpNt",
+          "source": "凤凰网",
           "ranks": [
-            4,
+            5,
             3
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时08分 ~ 19时47分]"
-        },
-        {
-          "title": "财联社C50风向指数调查：2月资金面或维持平稳宽松，市场对降准降息窗口存在分歧",
-          "url": "https://www.cls.cn/detail/2284330",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时02分 ~ 19时47分]"
+          "time_info": "[18时06分 ~ 21时15分]"
         },
         {
           "title": "日本财务大臣片山皋月：不会对汇率水平发表评论。 正与美国就汇率保持密切联系。 保持日元兑美元汇率稳定是财务主管的责任。 无需担心日本进入滞胀。",
@@ -187,6 +201,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 06时31分]"
+        },
+        {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时02分 ~ 21时15分]"
         },
         {
           "title": "本周机构最为关注的A股行业板块一览",
@@ -230,16 +258,15 @@
           "time_info": "[00时35分 ~ 06时31分]"
         },
         {
-          "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
-          "url": "https://news.ifeng.com/c/8qbQFf1tpNt",
-          "source": "凤凰网",
+          "title": "A股大举提升再融资吸引力！哪些公司受益？划定哪些红线？",
+          "url": "https://www.cls.cn/detail/2284984",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时06分 ~ 19时47分]"
+          "time_info": "[21时14分 ~ 21时15分]"
         },
         {
           "title": "唯一能治住特朗普的生物出现了",
@@ -281,7 +308,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -307,19 +334,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时35分 ~ 05时30分]"
-        },
-        {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时02分 ~ 19时47分]"
         },
         {
           "title": "比特币涨至71000美元，日内涨超2%。",
@@ -362,9 +376,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
+        },
+        {
+          "title": "加拿大至2月6日全国经济信心指数 51.7，前值50.3。",
+          "url": "https://flash.jin10.com/detail/20260209210016825800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "欧洲央行管委Simkus：欧洲央行下次行动加息或降息的可能性相同。 我们必须为任何情形做好准备。",
@@ -378,17 +403,6 @@
           "time_info": "16时57分"
         },
         {
-          "title": "美国天然气期货下跌7%，报3.17美元/百万英热。",
-          "url": "https://wallstreetcn.com/livenews/3052302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
           "title": "日本首相高市早苗：将与特朗普共同确认稳固的日美同盟关系。",
           "url": "https://flash.jin10.com/detail/20260209173500472800",
           "source": "金十数据",
@@ -398,6 +412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约涨跌不一，沪银、沪锡涨超3%，烧碱涨超2%。下跌方面，苯乙烯跌超1%，豆粕跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260209210000847800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "日经225指数CME期货走高，现涨2.2%。在8日举行的日本众议院选举中，由自民党和日本维新会组成的执政联盟获得过半数议席。",
@@ -444,6 +469,17 @@
           "time_info": "18时06分"
         },
         {
+          "title": "波罗的海干散货指数跌1.46%，至1895点。",
+          "url": "https://flash.jin10.com/detail/20260209205938335800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "贝森特投喂“定心丸”：美联储料不会迅速缩表 沃什非常独立！",
           "url": "https://www.cls.cn/detail/2284124",
           "source": "财联社热门",
@@ -474,7 +510,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -488,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "前美联储副主席Clarida：沃什是一位成就卓著、受人尊敬的人。 在没有前瞻指引的情况下实行货币政策是有可能的。 美联储主席几乎总能如愿。 沃什必须与美联储委员会合作，才能推动改变。 美联储和财政部就平衡目标进行沟通是合适的。 沃什认为美国经济状况与美联储去年12月的看法一致。 我认为今年美国经济存在上行可能。",
+          "url": "https://wallstreetcn.com/livenews/3052342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "新任美联储主席将如何影响市场",
@@ -572,6 +619,18 @@
           "time_info": "[06时31分 ~ 07时34分]"
         },
         {
+          "title": "美国天然气期货下跌7%，报3.17美元/百万英热。",
+          "url": "https://wallstreetcn.com/livenews/3052302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 21时15分]"
+        },
+        {
           "title": "特朗普的财政部长建议：司法部调查与参议院启动凯文·沃什的提名听证会同时推进",
           "url": "https://wallstreetcn.com/livenews/3051850",
           "source": "华尔街见闻-快讯",
@@ -596,6 +655,19 @@
           "time_info": "[05时30分 ~ 06时31分]"
         },
         {
+          "title": "贝森特：美联储可能不会迅速缩表",
+          "url": "https://wallstreetcn.com/articles/3765289",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 21时15分]"
+        },
+        {
           "title": "美国总统特朗普：正从明尼阿波利斯撤走（国土安全部/DHS）官员，他们在当地做得不错。",
           "url": "https://wallstreetcn.com/livenews/3051849",
           "source": "华尔街见闻-快讯",
@@ -606,6 +678,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时30分 ~ 06时31分]"
+        },
+        {
+          "title": "沃什力挺，影响深远！时隔75年，美联储又要和美国财政部达成协议了？",
+          "url": "https://wallstreetcn.com/articles/3765263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时47分 ~ 21时15分]"
         },
         {
           "title": "韩国交易所误发超400亿美元比特币",
@@ -632,18 +716,6 @@
           "time_info": "[05时30分 ~ 06时31分]"
         },
         {
-          "title": "贝森特：美联储可能不会迅速缩表",
-          "url": "https://wallstreetcn.com/articles/3765289",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 19时47分]"
-        },
-        {
           "title": "富宝资讯：碳酸锂期货盘面震荡，富宝电池级碳酸锂报135000元/吨",
           "url": "https://flash.jin10.com/detail/20260209141956523800",
           "source": "金十数据",
@@ -666,6 +738,17 @@
           "time_info": "18时06分"
         },
         {
+          "title": "上期所：调整铜等期货新上市合约交易保证金比例和涨跌停板幅度",
+          "url": "https://wallstreetcn.com/livenews/3052341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "印度NIFTY金属指数上涨2%。",
           "url": "https://flash.jin10.com/detail/20260209141814922800",
           "source": "金十数据",
@@ -677,13 +760,24 @@
           "time_info": "15时08分"
         },
         {
+          "title": "巴西央行行长Galipolo：我们实施加息以应对不断恶化的环境，包括通胀预期、外汇以及经济过热。",
+          "url": "https://flash.jin10.com/detail/20260209205630824800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "广期所：2026年春节假期调整相关期货合约涨跌停板幅度和交易保证金标准",
           "url": "https://wallstreetcn.com/livenews/3052292",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -765,17 +859,6 @@
           "time_info": "18时06分"
         },
         {
-          "title": "沃什力挺，影响深远！时隔75年，美联储又要和美国财政部达成协议了？",
-          "url": "https://wallstreetcn.com/articles/3765263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
           "title": "国债期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20260209093106498800",
           "source": "金十数据",
@@ -818,6 +901,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
+        },
+        {
+          "title": "上期能源：调整原油等期货新上市合约交易保证金比例和涨跌停板幅度",
+          "url": "https://wallstreetcn.com/livenews/3052334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "法巴银行：日本央行加息节奏或略快于此前预期",
@@ -875,6 +969,17 @@
           "time_info": "13时03分"
         },
         {
+          "title": "上期能源：调整国际铜期货、原油、低硫燃料油、20号胶期货、集运指数（欧线）期货交易保证金比例和涨跌停板幅度",
+          "url": "https://wallstreetcn.com/livenews/3052332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "金十图示：2026年02月09日（周一）富时中国A50指数成分股午盘收盘行情一览：银行股走势分化、保险、证券、消费电子、半导体、全线上扬",
           "url": "https://flash.jin10.com/detail/20260209113302948800",
           "source": "金十数据",
@@ -930,6 +1035,17 @@
           "time_info": "13时03分"
         },
         {
+          "title": "金十期货热图",
+          "url": "https://flash.jin10.com/detail/20260209204400928800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约跌0.08%，10年期主力合约跌0.04%，5年期主力合约跌0.00%，2年期主力合约跌0.02%。",
           "url": "https://wallstreetcn.com/livenews/3051973",
           "source": "华尔街见闻-快讯",
@@ -950,6 +1066,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "前美联储副主席克拉里达：认为今年美国经济存在上行空间。",
+          "url": "https://flash.jin10.com/detail/20260209204348769800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "中证转债指数高开0.54%。百川转2涨6.67%，双良转债涨5.15%，奥飞转债涨4.75%，风语转债涨4.60%，华懋转债涨3.72%；盟升转债跌17.37%，东时转债跌1.92%，首华转债跌1.44%。",
@@ -1007,6 +1134,17 @@
           "time_info": "13时03分"
         },
         {
+          "title": "前美联储副主席克拉里达：沃什对美国经济的看法与美联储去年12月的评估一致。",
+          "url": "https://flash.jin10.com/detail/20260209204339818800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "欧元区2月Sentix投资者信心指数将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20260209172000000800",
           "source": "金十数据",
@@ -1024,7 +1162,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -1038,6 +1176,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "前美联储副主席克拉里达：美联储和财政部就平衡目标进行对话是恰当的。",
+          "url": "https://flash.jin10.com/detail/20260209204126695800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "前美联储副主席克拉里达：我认为这将是沃什领导下的美联储。",
+          "url": "https://flash.jin10.com/detail/20260209204104980800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "恒指高开1.6%，恒生科技指数涨1.9%",
@@ -1062,13 +1222,24 @@
           "time_info": "13时03分"
         },
         {
+          "title": "前美联储副主席克拉里达：沃什必须与FOMC委员会合作才能做出改变。美联储主席几乎总是能如愿以偿。",
+          "url": "https://flash.jin10.com/detail/20260209204033995800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "广期所发布关于多晶硅期货PS2702、碳酸锂期货LC2702、铂期货PT2702、钯期货PD2702合约有关事项的公告",
           "url": "https://wallstreetcn.com/livenews/3052272",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -1128,6 +1299,17 @@
           "time_info": "18时06分"
         },
         {
+          "title": "前美联储副主席克拉里达：在没有前瞻指引的情况下实行货币政策是有可能的。",
+          "url": "https://flash.jin10.com/detail/20260209203926199800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "美国天然气期货跌超6%，现报3.21美元/百万英热单位。",
           "url": "https://wallstreetcn.com/livenews/3051960",
           "source": "华尔街见闻-快讯",
@@ -1159,6 +1341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
+        },
+        {
+          "title": "前美联储副主席克拉里达：沃什成就斐然，备受尊敬。",
+          "url": "https://flash.jin10.com/detail/20260209203751467800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "美联储3月维持利率不变的概率为80.1%",
@@ -1203,6 +1396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
+        },
+        {
+          "title": "上期所：调整铜等期货新上市合约交易保证金比例和涨跌停板幅度",
+          "url": "https://flash.jin10.com/detail/20260209203259181800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "澳大利亚S&P/ASX 200指数收盘上涨1.9%，报8,870.10 点。",
@@ -1260,6 +1464,17 @@
           "time_info": "15时08分"
         },
         {
+          "title": "宁波韵升：拟公开发行境外上市股份（H股）股票并申请在香港联合交易所有限公司主板挂牌上市。",
+          "url": "https://wallstreetcn.com/livenews/3052306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "台湾证交所加权股价指数开盘涨0.5%，报31956.21点。",
           "url": "https://wallstreetcn.com/livenews/3051953",
           "source": "华尔街见闻-快讯",
@@ -1296,7 +1511,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -1322,6 +1537,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 06时31分]"
+        },
+        {
+          "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2285010",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
         },
         {
           "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
@@ -1365,7 +1591,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -1379,12 +1605,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "高盛：AI焦虑引发抛售潮 对冲基金创纪录做空美股",
+          "url": "https://flash.jin10.com/detail/20260209204658735800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -1398,6 +1635,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时34分 ~ 13时03分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet启动七批美元债券发行。",
+          "url": "https://wallstreetcn.com/livenews/3052346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "欧盟委员会执行副主席里韦拉：谷歌(GOOG.O)正在与欧盟委员会进行谈判，正在努力做出一些改变。",
@@ -1450,9 +1698,59 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股期货震荡回落，美债走跌，英镑延续涨势，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
+        },
+        {
+          "title": "美股期货震荡回落，美债走跌，“高市交易”助推日股大涨6%，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "马斯克警告「没有 AI 和机器人，国债危机下美国 1000% 会破产」，AI 和机器人能解美债问题吗？",
+          "url": "https://www.zhihu.com/question/2004143319609993151",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
+        },
+        {
+          "title": "在Alphabet(GOOG.O)公布债券发行计划后，美债收益率小幅上升。",
+          "url": "https://flash.jin10.com/detail/20260209204912914800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     },
@@ -1517,19 +1815,19 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股期货震荡回落，美债走跌，“高市交易”助推日股大涨6%，黄金涨至5040美元",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
+          "title": "Kimi建议网友先用DeepSeek",
+          "url": "https://s.weibo.com/weibo?q=%23Kimi%E5%BB%BA%E8%AE%AE%E7%BD%91%E5%8F%8B%E5%85%88%E7%94%A8DeepSeek%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
         }
       ]
     }
