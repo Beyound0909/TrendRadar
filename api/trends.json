@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T10:29:05.728298+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2026-02-09T13:03:08.813266+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 51,
+      "match_count": 67,
       "titles": [
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
@@ -190,6 +190,18 @@
           "time_info": "[00时35分 ~ 06时31分]"
         },
         {
+          "title": "本周机构最为关注的A股行业板块一览",
+          "url": "https://www.cls.cn/detail/2283996",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 13时03分]"
+        },
+        {
           "title": "唯一能治住特朗普的生物出现了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%94%AF%E4%B8%80%E8%83%BD%E6%B2%BB%E4%BD%8F%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%94%9F%E7%89%A9%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -199,6 +211,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时28分 ~ 10时29分]"
+        },
+        {
+          "title": "日本1月经济观察家前景指数 50.1，前值50.5。",
+          "url": "https://flash.jin10.com/detail/20260209130107601800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "日本首相高市早苗：将加快关于食品减税的讨论。 如达成决定，将向国会提交税制改革法案。 有关日元疲软的言论被断章取义。 要建立对汇率变动有韧性的经济结构。 财政可持续性十分重要。",
@@ -223,6 +246,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时35分 ~ 05时30分]"
+        },
+        {
+          "title": "日本1月经济观察家现况指数 47.6，前值48.6。",
+          "url": "https://flash.jin10.com/detail/20260209130014439800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "日经225指数CME期货走高，现涨2.2%。在8日举行的日本众议院选举中，由自民党和日本维新会组成的执政联盟获得过半数议席。",
@@ -389,15 +423,37 @@
           "time_info": "[05时30分 ~ 06时31分]"
         },
         {
-          "title": "本周机构最为关注的A股行业板块一览",
-          "url": "https://www.cls.cn/detail/2283996",
+          "title": "贝森特投喂“定心丸”：美联储料不会迅速缩表 沃什非常独立！",
+          "url": "https://www.cls.cn/detail/2284124",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时28分 ~ 10时29分]"
+          "time_info": "[13时02分 ~ 13时03分]"
+        },
+        {
+          "title": "财联社C50风向指数调查：2月资金面或维持平稳宽松，市场对降准降息窗口存在分歧",
+          "url": "https://www.cls.cn/detail/2284330",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
+        },
+        {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
         },
         {
           "title": "澳大利亚S&P/ASX200指数2月9日（周一）开盘涨1.48%，报8837.30点。",
@@ -409,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "日本首相高市早苗：我由衷感谢美国总统特朗普的暖心之言。",
+          "url": "https://flash.jin10.com/detail/20260209115712332800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "券商开年以来共计“拜访”685家A股公司",
@@ -439,7 +506,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -461,7 +528,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -475,6 +542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "法巴银行：日本央行加息节奏或略快于此前预期",
+          "url": "https://flash.jin10.com/detail/20260209113659493800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "近190亿元“春节红包”来袭，34家A股公司节前排队派息",
@@ -494,9 +572,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "前韩国央行委员Lee Seung-Heon：现在发出政策收紧信号还为时过早。 韩元兑美元汇率在1400至1470区间看起来是合适的。 韩国需要实施更严格的房地产持有税，以抑制房地产市场。",
+          "url": "https://wallstreetcn.com/livenews/3052049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "金十图示：2026年02月09日（周一）富时中国A50指数成分股午盘收盘行情一览：银行股走势分化、保险、证券、消费电子、半导体、全线上扬",
+          "url": "https://flash.jin10.com/detail/20260209113302948800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "A股CPO等算力硬件股延续强势，天孚通信大涨近10%，股价再创历史新高，天通股份、智立方、太辰光、杰普特等多股高开。",
@@ -505,9 +605,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260209113115997800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "国债期货开盘，30年期主力合约跌0.08%，10年期主力合约跌0.04%，5年期主力合约跌0.00%，2年期主力合约跌0.02%。",
@@ -516,9 +627,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260209113110577800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "中证转债指数高开0.54%。百川转2涨6.67%，双良转债涨5.15%，奥飞转债涨4.75%，风语转债涨4.60%，华懋转债涨3.72%；盟升转债跌17.37%，东时转债跌1.92%，首华转债跌1.44%。",
@@ -527,9 +649,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。铂涨超10%，沪银涨超8%，钯涨超6%，沪锡涨超4%，沪金、碳酸锂涨超3%，烧碱涨超2%；跌幅方面，原木跌超2%，焦炭、焦煤、低硫燃料油（LU）跌超1%，沥青、生猪跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260209113053482800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "A股三大指数集体高开，创业板指涨近2%",
@@ -538,7 +671,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -549,9 +682,42 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "上证指数早盘收报4113.28点，涨1.17%。 深证成指早盘收报14194.23点，涨2.07%。 创业板指早盘收报3337.03点，涨3.11%。 沪深300早盘收报4709.72点，涨1.42%。 科创50早盘收报1450.73点，涨1.99%。 中证500早盘收报8291.23点，涨1.78%。 中证1000早盘收报8218.79点，涨2.08%。",
+          "url": "https://wallstreetcn.com/livenews/3052038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260209111108604800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.09%，10年期主力合约涨0.01%，5年期主力合约涨0.04%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3052035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "美国天然气期货跌超6%，现报3.21美元/百万英热单位。",
@@ -560,7 +726,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -587,13 +753,24 @@
           "time_info": "06时31分"
         },
         {
+          "title": "泰国SET指数开盘上涨2.7%，报1390.57点。",
+          "url": "https://wallstreetcn.com/livenews/3052022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
           "title": "台湾证交所加权股价指数开盘涨0.5%，报31956.21点。",
           "url": "https://wallstreetcn.com/livenews/3051953",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -604,7 +781,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         }
@@ -674,11 +851,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 10时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 13时03分]"
         }
       ]
     },
