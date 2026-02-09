@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T03:15:21.115851+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-10T04:42:23.957819+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 19,
+      "match_count": 45,
       "titles": [
         {
           "title": "A股大举提升再融资吸引力！哪些公司受益？划定哪些红线？",
@@ -15,8 +15,30 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时42分]"
+        },
+        {
+          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
+          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时42分]"
+        },
+        {
+          "title": "美联储理事米兰：人工智能正在影响经济，但难以衡量。",
+          "url": "https://flash.jin10.com/detail/20260210041449263800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时15分"
+          "time_info": "04时42分"
         },
         {
           "title": "美联储理事沃勒：加密货币法案的细节（出台）似乎被卡在了国会山。",
@@ -30,26 +52,15 @@
           "time_info": "03时15分"
         },
         {
-          "title": "标普500指数涨0.5%，道指持平，纳指涨约1%。 美国将针对孟加拉的“对等”关税税率下调至19%。",
-          "url": "https://wallstreetcn.com/livenews/3052475",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储理事米兰：世界正逐渐接受这一观点，即关税比人们想象的更温和。",
+          "url": "https://flash.jin10.com/detail/20260210041018350800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
-          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
+          "time_info": "04时42分"
         },
         {
           "title": "美联储理事沃勒：加密货币监管问题的解决似乎在国会陷入僵局。",
@@ -63,15 +74,39 @@
           "time_info": "03时15分"
         },
         {
+          "title": "美联储理事米兰：关税可随着时间推移允许我们降低利率。",
+          "url": "https://flash.jin10.com/detail/20260210040430376800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "标普500指数涨0.5%，道指持平，纳指涨约1%。 美国将针对孟加拉的“对等”关税税率下调至19%。",
+          "url": "https://wallstreetcn.com/livenews/3052475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时42分]"
+        },
+        {
           "title": "周一（2月9日），美联储隔夜逆回购协议（RRP）使用规模为13.06亿美元（交易对手10家），上个交易日报31.11亿美元。",
           "url": "https://wallstreetcn.com/livenews/3052473",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时42分]"
         },
         {
           "title": "贝森特：美联储可能不会迅速缩表",
@@ -81,19 +116,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时42分]"
         },
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时42分]"
         },
         {
           "title": "沃什力挺，影响深远！时隔75年，美联储又要和美国财政部达成协议了？",
@@ -103,8 +139,85 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时42分]"
+        },
+        {
+          "title": "美联储理事米兰：美元走势对货币政策影响不大，一直相对温和。",
+          "url": "https://flash.jin10.com/detail/20260210040327811800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时15分"
+          "time_info": "04时42分"
+        },
+        {
+          "title": "芝加哥大豆期货跌约0.5%，豆粕跌约2%，大豆油涨超2.5%",
+          "url": "https://wallstreetcn.com/livenews/3052497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美联储理事米兰：美元传导至通胀并非主要问题。",
+          "url": "https://flash.jin10.com/detail/20260210040241741800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美联储理事米兰：美国正朝着更好的财政可持续性迈进，关税正在为此助力。",
+          "url": "https://flash.jin10.com/detail/20260210040012419800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美联储理事米兰：有理由认为财政主导不会成为大问题。",
+          "url": "https://flash.jin10.com/detail/20260210040004844800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美联储理事米兰：关税收入有助于改善政府财政。",
+          "url": "https://flash.jin10.com/detail/20260210035625644800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美联储理事米兰：央行独立性（将会）带来更好的政策。 FOMC货币政策应当与商业周期相适应。 关税收入将有助于解决财政问题。 美元需要出现大幅波动，才能影响到美国通胀。",
+          "url": "https://wallstreetcn.com/livenews/3052492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "特朗普力推投资者独栋住宅购买禁令 遭国会共和党阻力",
@@ -118,6 +231,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "花旗：沃什将谨慎推进美联储缩表",
+          "url": "https://flash.jin10.com/detail/20260210035412153800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
           "title": "美联储理事沃勒将于十分钟后就数字资产发表讲话。",
           "url": "https://flash.jin10.com/detail/20260210022000002800",
           "source": "金十数据",
@@ -129,6 +253,61 @@
           "time_info": "03时15分"
         },
         {
+          "title": "美联储理事米兰：成为储备货币是世界上最好的事情之一。",
+          "url": "https://flash.jin10.com/detail/20260210034857252800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "WTI 3月原油期货收涨0.81美元，涨幅1.27%，报64.36美元/桶。 布伦特4月原油期货收涨0.99美元，涨幅1.45%，报69.04美元/桶。 NYMEX 3月天然气期货收报3.1380美元/百万英热单位。 NYMEX 3月汽油期货收报1.9855美元/加仑，NYMEX 3月取暖油期货收报2.4169美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3052489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
+          "url": "https://www.cls.cn/detail/2284508",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美联储理事米兰：美联储应远离非货币政策议题。",
+          "url": "https://flash.jin10.com/detail/20260210034759890800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "标普500指数涨0.7%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3052488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了10个对手方的13.06亿美元。",
           "url": "https://flash.jin10.com/detail/20260210021727557800",
           "source": "金十数据",
@@ -138,6 +317,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "美联储理事米兰：不存在100%的央行独立性。",
+          "url": "https://flash.jin10.com/detail/20260210034608273800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美联储理事米兰：美联储并非与世界隔绝存在。",
+          "url": "https://flash.jin10.com/detail/20260210034506274800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "花旗：美联储主席提名人凯文·沃什可能会渐进式地缩减资产负债表（缩表），进而避免重燃货币市场紧张。",
+          "url": "https://wallstreetcn.com/livenews/3052486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
@@ -162,6 +374,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "美联储理事米兰：货币政策应与商业周期相匹配。",
+          "url": "https://flash.jin10.com/detail/20260210034413690800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
           "title": "市场消息：一名美国法官暂时中止了一项法院裁定，该裁定此前要求特朗普政府解冻用于纽约市“门户隧道”项目的资金。",
           "url": "https://flash.jin10.com/detail/20260210020706988800",
           "source": "金十数据",
@@ -171,6 +394,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "美联储理事米兰：央行独立性带来更优政策。",
+          "url": "https://flash.jin10.com/detail/20260210034359885800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.39%，报27221点。 恒生科技指数主连夜盘收涨0.48%，报5458点。",
+          "url": "https://wallstreetcn.com/livenews/3052479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美联储理事沃勒：我曾希望美联储的“精简账户”能预先化解法律诉讼。",
+          "url": "https://wallstreetcn.com/livenews/3052477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "纳斯达克综合指数日内涨幅达1.0%，报23260.73点。",
@@ -184,6 +440,28 @@
           "time_info": "03时15分"
         },
         {
+          "title": "美联储理事沃勒：特朗普引发的加密货币热潮可能正在消退",
+          "url": "https://wallstreetcn.com/livenews/3052476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美联储理事米兰：允许全额费用化的税法调整将有利于经济。",
+          "url": "https://flash.jin10.com/detail/20260210034117231800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数涨0.9%，报387.73点。 在十个板块中，北欧医疗保健板块涨幅最大。 诺和诺德涨5.3%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3052450",
           "source": "华尔街见闻-快讯",
@@ -193,6 +471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "美联储理事米兰将于十分钟后出席波士顿大学活动座谈会。",
+          "url": "https://flash.jin10.com/detail/20260210032000000800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "美民调：多数人不认可特朗普关税政策",
@@ -219,6 +508,45 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI推出首个在网络安全方面设定为高等级的模型GPT-5.3-Codex",
+          "url": "https://wallstreetcn.com/livenews/3052487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "OpenAI：我们今天开始在美国向部分免费和Go计划订阅用户推出ChatGPT广告的测试。",
+          "url": "https://wallstreetcn.com/livenews/3052484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：GPT-5.3-Codex今天在Cursor、Github和VS Code中推出。我们希望尽快向所有API客户推出这一模型。这是我们首个在网络安全方面设定为高等级的模型，相关的额外工作使上线进度略有延迟。",
+          "url": "https://flash.jin10.com/detail/20260210032212804800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -230,8 +558,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时42分]"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股盘中）",
@@ -286,25 +614,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亿万富翁投资者托马斯·卡普兰：货币贬值和高全球债务支撑了黄金进一步走强的呼声，预计金价将创下新高。认为黄金是一种货币，而非大宗商品。",
-          "url": "https://flash.jin10.com/detail/20260210015646411800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -314,21 +625,60 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时42分]"
+        },
+        {
+          "title": "2/10年期美债收益率跌约1.2个基点",
+          "url": "https://wallstreetcn.com/livenews/3052501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时15分"
+          "time_info": "04时42分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美元指数跌超0.8%",
+          "url": "https://wallstreetcn.com/livenews/3052498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数大致持平，暂报2700点。 MarketVectorTM数字资产100中盘指数跌0.84%，报2758.06点。 MarketVector数字资产100指数跌0.32%，报2693.81点，北京时间14:00-19:00持续下挫。 Solana跌1.15%，狗狗币跌1.43%，XRP涨0.92%。 比特币跌1.23%，暂报70069美元；以太坊跌0.80%，暂报2093.44美元。",
           "url": "https://wallstreetcn.com/livenews/3052456",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亿万富翁投资者托马斯·卡普兰：货币贬值和高全球债务支撑了黄金进一步走强的呼声，预计金价将创下新高。认为黄金是一种货币，而非大宗商品。",
+          "url": "https://flash.jin10.com/detail/20260210015646411800",
+          "source": "金十数据",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
