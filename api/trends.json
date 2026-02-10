@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T05:44:06.293564+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-02-11T06:43:06.925453+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 81,
+      "match_count": 92,
       "titles": [
         {
           "title": "央行：继续实施好适度宽松的货币政策",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时43分]"
         },
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -26,8 +26,53 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时43分]"
+        },
+        {
+          "title": "中国央行第四季度货币政策执行报告：继续实施好适度宽松的货币政策，将常态化开展国债买卖操作",
+          "url": "https://wallstreetcn.com/articles/3765415",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时43分]"
+        },
+        {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时43分]"
+        },
+        {
+          "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
+          "url": "https://www.cls.cn/detail/2285961",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时43分]"
+        },
+        {
+          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时43分]"
         },
         {
           "title": "芝商所（CME）：新增现金结算期货合约，将纳入包括Alphabet、Meta、英伟达和特斯拉在内的50多只美国顶级个股。",
@@ -41,15 +86,15 @@
           "time_info": "02时05分"
         },
         {
-          "title": "美国总统特朗普：我们的利率应该比现在低2个百分点。",
-          "url": "https://flash.jin10.com/detail/20260211053946147800",
+          "title": "明晟公司（MSCI）：ACWI指数新增63只成分股，剔除61只成分股。",
+          "url": "https://flash.jin10.com/detail/20260211061335960800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时44分"
+          "time_info": "06时43分"
         },
         {
           "title": "WTI 3月原油期货收报63.96美元/桶。 NYMEX 3月天然气期货收报3.1150美元/百万英热单位。 NYMEX 3月汽油期货收报1.9592美元/加仑，NYMEX 3月取暖油期货收报2.3988美元/加仑。",
@@ -61,6 +106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "明晟公司（MSCI）：新增63只股票至ACWI指数，从中剔除61只。",
+          "url": "https://wallstreetcn.com/livenews/3053274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
@@ -85,6 +141,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "周二（2月10日）纽约尾盘，标普500股指期货最终跌0.20%，道指期货涨0.23%，纳斯达克100股指期货跌0.41%。 罗素2000股指期货跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3053273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
           "title": "美联储哈玛克：在再次调整利率之前，实现2%通胀率至关重要。",
           "url": "https://flash.jin10.com/detail/20260211014133973800",
           "source": "金十数据",
@@ -105,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "美联储3月维持利率不变的概率为80.4%",
+          "url": "https://flash.jin10.com/detail/20260211060213083800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
@@ -140,39 +218,6 @@
           "time_info": "04时01分"
         },
         {
-          "title": "巴克莱：美联储缩表将耗时多年，或需降息来抵消金融环境收紧",
-          "url": "https://wallstreetcn.com/livenews/3053259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "中国央行第四季度货币政策执行报告：继续实施好适度宽松的货币政策，将常态化开展国债买卖操作",
-          "url": "https://wallstreetcn.com/articles/3765415",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 05时44分]"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 05时44分]"
-        },
-        {
           "title": "芝商所（CME）：计划于今年夏季开始推出个股期货。",
           "url": "https://flash.jin10.com/detail/20260211013933249800",
           "source": "金十数据",
@@ -182,17 +227,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "美国总统特朗普：美国应当拥有世界上最低的利率。",
-          "url": "https://flash.jin10.com/detail/20260211052951060800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
         },
         {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
@@ -206,38 +240,147 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美国总统特朗普：我们的利率应该比现在低2个百分点。",
+          "url": "https://flash.jin10.com/detail/20260211053946147800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "巴克莱：美联储缩表将耗时多年，或需降息来抵消金融环境收紧",
+          "url": "https://wallstreetcn.com/livenews/3053259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "美国总统特朗普：美国应当拥有世界上最低的利率。",
+          "url": "https://flash.jin10.com/detail/20260211052951060800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
           "title": "美国总统特朗普：希望最高法院（在关税问题上）做出对国家有利的判决。",
           "url": "https://wallstreetcn.com/livenews/3053258",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
         },
         {
-          "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
-          "url": "https://www.cls.cn/detail/2285961",
-          "source": "财联社热门",
+          "title": "金十图示：2026年02月10日（周二）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260211050906373800",
+          "source": "金十数据",
           "ranks": [
             8,
-            10
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 05时44分]"
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
         },
         {
-          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：美国应当拥有世界上最低的利率。 我们的利率应该比当前水平低2个点（即200个百分点）。",
+          "url": "https://wallstreetcn.com/livenews/3053255",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 05时44分]"
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260211050703550800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为2026年将会很棒。",
+          "url": "https://flash.jin10.com/detail/20260211050353108800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说的。 我认为2026年将会很棒。 重申股市应该因为好消息而上涨。",
+          "url": "https://wallstreetcn.com/livenews/3053247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "吉利德科学四季度营收79.3亿美元，分析师预期77.1亿美元。 四季度Biktarvy营收39.7亿美元，分析师预期38.4亿美元。 四季度Trodelvy营收3.84亿美元，分析师预期3.868亿美元。 四季度Veklury营收2.12亿美元，分析师预期2.714亿美元。 四季度调整后每股收益（EPS）为1.86美元，分析师预期1.78美元。 预计2026年产品销售296亿-300亿美元，分析师预期300.3亿美元。 预计2026年Veklury营收6亿美元。 2026年业绩展望受到（与美国总统特朗普达成的）关税协议和医疗保健Medicare政策变化的冲击幅度为2%。",
+          "url": "https://wallstreetcn.com/livenews/3053241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.87%，报7885.55点。 热门中概股里，理想初步收涨2.9%，比亚迪、阿里巴巴涨超2%，蔚来、小鹏、新东方、京东涨超1%，腾讯跌1.4%，美团跌2.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.09%，中国科技指数ETF（CQQQ）收跌0.13%。 德银嘉实沪深300指数ETF（ASHR）收跌0.21%，XtrackersHarvest中证50（ASHS）收跌0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3053240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "特朗普表面祝贺高市私下大发雷霆",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E9%9D%A2%E7%A5%9D%E8%B4%BA%E9%AB%98%E5%B8%82%E7%A7%81%E4%B8%8B%E5%A4%A7%E5%8F%91%E9%9B%B7%E9%9C%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 06时43分]"
         },
         {
           "title": "AI税务工具冲击财富管理板块 相关股票集体大跌",
@@ -249,6 +392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗希望达成协议，不达成协议是愚蠢的。",
+          "url": "https://flash.jin10.com/detail/20260211055436114800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "希腊雅典证交所综合指数收涨0.72%，报2345.34点。",
@@ -273,6 +427,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "周二（2月10日）纽约尾盘，现货白银跌3.09%，报80.8200美元/盎司。 COMEX白银期货跌2.11%，报80.495美元/盎司。 COMEX铜期货跌0.99%，报5.9035美元/磅。 现货铂金跌1.47%，现货钯金跌1.68%。",
+          "url": "https://wallstreetcn.com/livenews/3053269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
           "title": "美联储哈玛克：目前银行体系看起来相当健康。",
           "url": "https://flash.jin10.com/detail/20260211013634297800",
           "source": "金十数据",
@@ -295,26 +460,26 @@
           "time_info": "00时32分"
         },
         {
-          "title": "金十图示：2026年02月10日（周二）华尔街恐惧与贪婪指数（美盘后）",
-          "url": "https://flash.jin10.com/detail/20260211050906373800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：伊朗希望达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3053268",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时44分"
+          "time_info": "06时43分"
         },
         {
-          "title": "美国总统特朗普：美国应当拥有世界上最低的利率。 我们的利率应该比当前水平低2个点（即200个百分点）。",
-          "url": "https://wallstreetcn.com/livenews/3053255",
+          "title": "周二（2月10日）纽约尾盘，现货黄金跌0.62%，报5026.20美元/盎司。 COMEX黄金期货跌0.65%，报5046.50美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3053267",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时44分"
+          "time_info": "06时43分"
         },
         {
           "title": "美联储哈玛克：美联储希望让贴现窗口更易于使用。",
@@ -339,6 +504,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "美国总统特朗普：政府裁员之后，就业数据依旧良好。",
+          "url": "https://wallstreetcn.com/livenews/3053265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
           "title": "美国白宫：特朗普支持美国商务部长卢特尼克。",
           "url": "https://flash.jin10.com/detail/20260211030702917800",
           "source": "金十数据",
@@ -348,17 +524,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
-        },
-        {
-          "title": "金十图示：2026年02月10日（周二）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260211050703550800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
         },
         {
           "title": "特朗普政府对数十亿纳税人资金的掌控在美国法庭受挫",
@@ -416,6 +581,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "美国总统特朗普：我们的就业数据非常好。",
+          "url": "https://flash.jin10.com/detail/20260211054343619800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
           "title": "特朗普：若美伊谈判失败，或向中东再派一支航母打击群",
           "url": "https://wallstreetcn.com/livenews/3053209",
           "source": "华尔街见闻-快讯",
@@ -471,17 +647,6 @@
           "time_info": "02时05分"
         },
         {
-          "title": "美国总统特朗普：我认为2026年将会很棒。",
-          "url": "https://flash.jin10.com/detail/20260211050353108800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
           "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
           "url": "https://wallstreetcn.com/livenews/3053206",
           "source": "华尔街见闻-快讯",
@@ -491,17 +656,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
-        },
-        {
-          "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说的。 我认为2026年将会很棒。 重申股市应该因为好消息而上涨。",
-          "url": "https://wallstreetcn.com/livenews/3053247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
         },
         {
           "title": "美联储哈玛克：警惕国债市场杠杆累积。",
@@ -636,17 +790,6 @@
           "time_info": "04时01分"
         },
         {
-          "title": "吉利德科学四季度营收79.3亿美元，分析师预期77.1亿美元。 四季度Biktarvy营收39.7亿美元，分析师预期38.4亿美元。 四季度Trodelvy营收3.84亿美元，分析师预期3.868亿美元。 四季度Veklury营收2.12亿美元，分析师预期2.714亿美元。 四季度调整后每股收益（EPS）为1.86美元，分析师预期1.78美元。 预计2026年产品销售296亿-300亿美元，分析师预期300.3亿美元。 预计2026年Veklury营收6亿美元。 2026年业绩展望受到（与美国总统特朗普达成的）关税协议和医疗保健Medicare政策变化的冲击幅度为2%。",
-          "url": "https://wallstreetcn.com/livenews/3053241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
           "title": "美国白宫：特朗普将于明日在白宫与以色列总理内塔尼亚胡举行双边会晤。",
           "url": "https://flash.jin10.com/detail/20260211024859257800",
           "source": "金十数据",
@@ -680,17 +823,6 @@
           "time_info": "04时01分"
         },
         {
-          "title": "纳斯达克金龙中国指数收涨0.87%，报7885.55点。 热门中概股里，理想初步收涨2.9%，比亚迪、阿里巴巴涨超2%，蔚来、小鹏、新东方、京东涨超1%，腾讯跌1.4%，美团跌2.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.09%，中国科技指数ETF（CQQQ）收跌0.13%。 德银嘉实沪深300指数ETF（ASHR）收跌0.21%，XtrackersHarvest中证50（ASHS）收跌0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3053240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
           "title": "美国商务部长卢特尼克：美元汇率多年来被人为推高。",
           "url": "https://flash.jin10.com/detail/20260210234901810800",
           "source": "金十数据",
@@ -719,7 +851,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -741,7 +873,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -796,7 +928,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -840,7 +972,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -862,7 +994,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -903,7 +1035,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -913,8 +1045,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时43分]"
         },
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
@@ -925,19 +1057,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 05时44分]"
-        },
-        {
-          "title": "美泰（Mattel）美股盘后跌幅扩大至21%。",
-          "url": "https://wallstreetcn.com/livenews/3053261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时43分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -948,30 +1069,79 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时43分]"
+        },
+        {
+          "title": "美泰（Mattel）美股盘后跌幅扩大至21%。",
+          "url": "https://wallstreetcn.com/livenews/3053261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
           "url": "https://wallstreetcn.com/livenews/3053256",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
         },
         {
           "title": "生物科技指数ETF收跌超1.3%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3053253",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260211050700949800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260211050519369800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 西部数据跌8%",
+          "url": "https://flash.jin10.com/detail/20260211050115262800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股盘中）",
@@ -985,17 +1155,6 @@
           "time_info": "02时05分"
         },
         {
-          "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260211050700949800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
           "title": "金十图示：2026年02月10日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260211013017856800",
           "source": "金十数据",
@@ -1007,26 +1166,15 @@
           "time_info": "02时05分"
         },
         {
-          "title": "金十图示：2026年02月10日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260211050519369800",
-          "source": "金十数据",
+          "title": "美泰（Mattel）美股盘后跌幅扩大至21%。 最新业绩报告显示，该公司四季度净销售17.7亿美元，分析师预期18.4亿美元。 授权15亿美元新版股票回购计划。 预计2026年净销售按恒定汇率将增长3%-6%。",
+          "url": "https://wallstreetcn.com/livenews/3053261",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 西部数据跌8%",
-          "url": "https://flash.jin10.com/detail/20260211050115262800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "time_info": "06时43分"
         },
         {
           "title": "周二（2月10日）美股尾盘，彭博电动汽车价格回报指数涨0.70%，报3616.33点。 亚太盘初至美股开盘持稳于3600点附近——维持微幅上涨状态，之后一度加速走高。",
@@ -1035,7 +1183,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         }
@@ -1114,6 +1262,56 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "道明证券：大多数外国投资者并未承认自己在卖出美债",
+          "url": "https://wallstreetcn.com/livenews/3053272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "道明证券称外资对美债需求稳健，“抛售美国”更多是叙事而非现实",
+          "url": "https://wallstreetcn.com/livenews/3053271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "机构：美债替代品寥寥 外资持债意向坚挺",
+          "url": "https://flash.jin10.com/detail/20260211041750931800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "30年期美债收益率跌超7.4个基点",
+          "url": "https://wallstreetcn.com/livenews/3053229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1135,7 +1333,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -1157,35 +1355,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "机构：美债替代品寥寥 外资持债意向坚挺",
-          "url": "https://flash.jin10.com/detail/20260211041750931800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "30年期美债收益率跌超7.4个基点",
-          "url": "https://wallstreetcn.com/livenews/3053229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         }
@@ -1203,8 +1373,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时43分]"
         }
       ]
     }
