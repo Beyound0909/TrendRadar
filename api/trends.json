@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T19:53:21.665588+08:00",
-  "total_titles_processed": 1401,
+  "generated_at": "2026-02-10T21:19:30.718654+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 143,
+      "match_count": 151,
       "titles": [
         {
           "title": "A股大举提升再融资吸引力！哪些公司受益？划定哪些红线？",
@@ -111,7 +111,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -127,13 +127,24 @@
           "time_info": "[15时07分 ~ 18时07分]"
         },
         {
+          "title": "金十图示：2026年02月10日（周二）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260210210603247800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "协鑫集成：截至目前，公司主营业务及产品主要集中于地面光伏领域，公司尚不具备“太空光伏”领域相关产品的生产能力，尚未获得相关订单。因此，该概念目前未对公司经营业绩产生影响，公司特此提醒广大投资者，应充分认识股票市场的风险，切勿盲目追逐市场热点，审慎作出决策、理性开展投资，避免因概念炒作而引发投资风险。",
           "url": "https://wallstreetcn.com/livenews/3053014",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -158,6 +169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "波罗的海干散货指数跌0.69%，至1882点。",
+          "url": "https://wallstreetcn.com/livenews/3053057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "沃什力挺，影响深远！时隔75年，美联储又要和美国财政部达成协议了？",
@@ -203,6 +225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
+        },
+        {
+          "title": "夜盘期货开盘，低硫燃油、液化石油气涨逾1%，燃油、原油、烧碱等上涨；沪锡、焦煤、玻璃、沪银等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3053056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -285,6 +318,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时36分 ~ 15时08分]"
+        },
+        {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 21时19分]"
         },
         {
           "title": "美联储理事米兰：人工智能正在影响经济，但难以衡量。",
@@ -371,6 +415,18 @@
           "time_info": "[06时39分 ~ 07时39分]"
         },
         {
+          "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
+          "url": "https://www.cls.cn/detail/2285961",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 21时19分]"
+        },
+        {
           "title": "美联储理事米兰：关税可随着时间推移允许我们降低利率。",
           "url": "https://flash.jin10.com/detail/20260210040430376800",
           "source": "金十数据",
@@ -429,29 +485,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时07分 ~ 16时59分]"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 19时53分]"
-        },
-        {
-          "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
-          "url": "https://www.cls.cn/detail/2285961",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 19时53分]"
         },
         {
           "title": "美联储理事米兰：美元走势对货币政策影响不大，一直相对温和。",
@@ -632,6 +665,18 @@
           "time_info": "[10时36分 ~ 13时06分]"
         },
         {
+          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时19分]"
+        },
+        {
           "title": "美联储博斯蒂克：就业数据波动不定是美联储保持谨慎的另一个原因。",
           "url": "https://flash.jin10.com/detail/20260210042533711800",
           "source": "金十数据",
@@ -712,6 +757,17 @@
           "time_info": "18时07分"
         },
         {
+          "title": "波罗的海干散货指数跌0.69%，至1882点。",
+          "url": "https://flash.jin10.com/detail/20260210210032550800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "美联储理事米兰：对中期之内的美国预算赤字问题感到乐观。 关税收入和经济增速加快将有助于削减赤字。",
           "url": "https://wallstreetcn.com/livenews/3052549",
           "source": "华尔街见闻-快讯",
@@ -751,7 +807,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -765,6 +821,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约涨跌不一，低硫燃料油、液化石油气、丙烯涨超1%，SC原油涨近1%。下跌方面，沪锡、焦煤、玻璃跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260210210001464800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "上证指数收报4128.37点，涨0.13%。 深证成指收报14210.63点，涨0.02%。 创业板指收报3320.54点，跌0.37%。 沪深300收报4724.30点，涨0.11%。 科创50收报1471.50点，涨0.91%。 中证500收报8306.44点，跌0.06%。 中证1000收报8250.30点，涨0.20%。",
@@ -828,9 +895,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "央行：继续实施好适度宽松的货币政策",
+          "url": "https://www.cls.cn/detail/2286235",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "金十期货2月10日讯，马来西亚棕榈油局MPOB：马来西亚1月棕榈油库存量为2815493吨，环比减少7.72%。",
@@ -883,7 +961,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -927,7 +1005,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1053,6 +1131,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "A股上市公司春节前分红超3700亿元",
+          "url": "https://wallstreetcn.com/livenews/3053041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了10个对手方的13.06亿美元。",
           "url": "https://flash.jin10.com/detail/20260210021727557800",
           "source": "金十数据",
@@ -1158,18 +1247,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1246,7 +1324,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1268,7 +1346,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1592,6 +1670,17 @@
           "time_info": "10时36分"
         },
         {
+          "title": "特朗普称自己犯了大错",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%87%AA%E5%B7%B1%E7%8A%AF%E4%BA%86%E5%A4%A7%E9%94%99%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "欧洲STOXX 600指数首次收于620点上方，成分股InPost涨超13%，意法半导体涨约10%",
           "url": "https://wallstreetcn.com/livenews/3052441",
           "source": "华尔街见闻-快讯",
@@ -1628,7 +1717,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -1639,8 +1728,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时36分 ~ 19时53分]"
+          "appearance_count": 10,
+          "time_info": "[10时36分 ~ 21时19分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
@@ -1667,6 +1756,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时15分 ~ 10时36分]"
+        },
+        {
+          "title": "标普全球美股盘前一度下跌18%。",
+          "url": "https://wallstreetcn.com/livenews/3053058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股收盘）",
@@ -1764,6 +1864,39 @@
           "time_info": "18时07分"
         },
         {
+          "title": "美银警告美股原材料板块出现泡沫化价格波动",
+          "url": "https://flash.jin10.com/detail/20260210204541121800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
+          "title": "美股AI应用软件股盘前涨幅扩大，Spotify、Datadog绩后大涨超10%，Shopify涨近5%，Unity涨超4%，Applovin、Snowflake涨近4%，Palantir涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3053047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
+          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2286272",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "亚洲股市周二有望再度走高 追随美股科技股反弹势头",
           "url": "https://flash.jin10.com/detail/20260210065424099800",
           "source": "金十数据",
@@ -1781,7 +1914,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1806,6 +1939,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "可口可乐第四季度净营收118亿美元，市场预估120.3亿美元。 第四季度可比每股收益0.58美元，市场预估0.57美元。 预计2026年资本支出22亿美元，市场预估23.1亿美元。 可口可乐美股盘前一度跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股盘中）",
@@ -1833,7 +1977,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
@@ -1859,13 +2003,57 @@
           "time_info": "[16时58分 ~ 16时59分]"
         },
         {
+          "title": "谷歌：对有机会解决英国竞争和市场管理局（CMA）的关切表示欢迎。 将继续与CMA进行建设性互动。",
+          "url": "https://wallstreetcn.com/livenews/3053053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将继续与英国竞争和市场管理局（CMA）进行建设性互动。",
+          "url": "https://flash.jin10.com/detail/20260210204920773800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：对有机会解决英国竞争和市场管理局（CMA）的关切表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20260210204906860800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
+          "title": "字节“乘胜追击”又发新一代图像模型 称可与谷歌旗舰产品对标",
+          "url": "https://www.cls.cn/detail/2285787",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "苹果(AAPL.O)与谷歌(GOOG.O)根据英国数字规则手册向该国竞争监管机构作出承诺。",
           "url": "https://flash.jin10.com/detail/20260210190249321800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1876,7 +2064,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1903,6 +2091,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "谷歌母公司Alphabet的100年期英镑债在各期限券种中获得最高认购。",
+          "url": "https://wallstreetcn.com/livenews/3053034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "Anthropic考虑锁定10 GW算力。 该公司正低调地组建一支资深团队，并已讨论在未来数年内确保至少10 GW的发电容量。 包括两名曾经在谷歌公司担任高管的人员。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3052454",
           "source": "华尔街见闻-快讯",
@@ -1912,6 +2111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "谷歌母公司Alphabet将通过发行英镑债券筹集创纪录的45亿英镑资金，其英镑债券发行吸引了创纪录的240亿英镑认购需求。",
+          "url": "https://wallstreetcn.com/livenews/3053029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         }
       ]
     },
@@ -1986,11 +2196,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 19时53分]"
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 21时19分]"
         },
         {
           "title": "法巴银行：金价年内有望涨至6000美元 涨势合乎逻辑",
@@ -2098,7 +2309,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         }
