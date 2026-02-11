@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-02-12T00:05:00.200581+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-12T02:26:05.161446+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 24,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "外国人也赶春运 ChinaTravel说走就走",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%B9%9F%E8%B5%B6%E6%98%A5%E8%BF%90+ChinaTravel%E8%AF%B4%E8%B5%B0%E5%B0%B1%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时26分]"
+        },
+        {
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时26分]"
+        },
         {
           "title": "特朗普发帖后 CNN都看不下去了",
           "url": "https://www.toutiao.com/trending/7604706291541704723/",
@@ -19,35 +41,13 @@
           "time_info": "[00时04分 ~ 00时05分]"
         },
         {
-          "title": "外国人也赶春运 ChinaTravel说走就走",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%B9%9F%E8%B5%B6%E6%98%A5%E8%BF%90+ChinaTravel%E8%AF%B4%E8%B5%B0%E5%B0%B1%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
-          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
           "title": "花旗：认为美联储降息将从5月开始，此前预期为3月。",
           "url": "https://flash.jin10.com/detail/20260212000110830800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
         },
@@ -67,33 +67,58 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%98%A5%E8%8A%82%E8%BF%94%E4%B9%A1%E6%91%86%E6%91%8A%E5%AE%9E%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时26分]"
         },
         {
           "title": "报道称绝味鸭脖上市来首次年度亏损，股票被 ST，一年半关店超 4000 家、日均关 7 家，为何消费者不买账了？",
           "url": "https://www.zhihu.com/question/2004614069475370299",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时26分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
           "url": "https://www.zhihu.com/question/2004862099634016476",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时26分]"
+        },
+        {
+          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
+          "url": "https://wallstreetcn.com/articles/3765521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "time_info": "[02时25分 ~ 02时26分]"
+        },
+        {
+          "title": "持股还是持币过年？多家公募：春节后A股上涨概率较高，已有资金抢跑布局",
+          "url": "https://www.cls.cn/detail/2287337",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时26分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年2月12日 周四",
@@ -102,7 +127,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
         },
@@ -113,9 +138,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "比特币腰斩后，加密货币亿万富翁拟逢低买入",
+          "url": "https://wallstreetcn.com/livenews/3053901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "美联储施密德：国会和行政部门可能想刺激经济，但美联储需要在就业和通胀之间保持平衡。",
@@ -124,7 +160,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
         },
@@ -135,7 +171,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
         },
@@ -146,7 +182,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
         },
@@ -157,7 +193,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
         },
@@ -168,9 +204,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "加纳召开紧急会议，在国际可可期货价格暴跌之际讨论种植问题。 会议决定，加速向农民支付可可豆（收购费用），提高国内对可可豆的加工处理的程度。",
+          "url": "https://wallstreetcn.com/livenews/3053894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "墨西哥比索兑美元刷新日低，此前墨西哥总统辛鲍姆置评美国总统特朗普和美墨加贸易协议。",
@@ -179,9 +226,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普总统促进经济增长的议程正在为美国工人带来好处。得益于特朗普总统的税收协议、贸易协议和和平协议，美国经济持续繁荣发展——而且最好的还在后头。",
+          "url": "https://flash.jin10.com/detail/20260212012609836800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "道明证券：将美联储下一次降息时间的预期从3月份推后至6月份。",
@@ -190,9 +248,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "依视路陆逊梯卡（EssilorLuxottica）四季度营收76亿欧元，分析师预期71.5亿欧元。 四季度剔除汇率因素后营收增长18.4%，分析师预期增长11.5%。 全年营收284.9亿欧元，分析师预期280.9亿欧元。 全年剔除汇率因素的营收增长11.2%，分析师预期增长9.19%。 全年销售超过700万套人工智能眼镜（AI glasses）。 预计营收将在未来五年稳步增长。 依视路陆逊梯卡ADR涨幅扩大至8.6%。",
+          "url": "https://wallstreetcn.com/livenews/3053884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "美联储施密德：就业增长的平衡点可能约为每月增加4万至5万人。",
@@ -201,7 +270,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
         },
@@ -212,9 +281,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "数字货币市场走低，美国非农就业报告给小币种带来一波尖锐的冲高回落行情",
+          "url": "https://wallstreetcn.com/livenews/3053882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "美国三大股指悉数转跌，道指跌超百点，纳指跌0.5%，半导体指数涨幅收窄至0.9%，生物科技指数跌0.9%，特斯拉跌0.4%。 纳斯达克金龙中国指数跌超1%。",
@@ -223,7 +303,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
         },
@@ -234,9 +314,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "道明证券：将美联储降息预期从3月推迟至6月 仍预计年内三次降息",
+          "url": "https://flash.jin10.com/detail/20260212010755880800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "美联储Schmid：人工智能（AI）与近期生产力提升之间的关联还不明朗。",
@@ -245,7 +336,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
         },
@@ -256,9 +347,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "米其林计划2026-28年回购20亿欧元股票。",
+          "url": "https://wallstreetcn.com/livenews/3053877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "美联储施密德：可能需要人工智能要素来应对因人口老龄化、低出生率和低移民率导致的劳动力增长放缓。",
@@ -267,9 +369,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "报道：美国芝商所考虑推出稀土期货",
+          "url": "https://wallstreetcn.com/livenews/3053876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         }
       ]
     },
@@ -285,8 +398,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时26分]"
         },
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -296,19 +409,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时26分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时26分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -318,8 +432,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时26分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -329,25 +443,26 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时26分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
           "url": "https://wallstreetcn.com/articles/3765438",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时26分]"
         },
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -357,8 +472,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时26分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -368,8 +483,75 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时26分]"
+        },
+        {
+          "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260212013127382800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "金十图示：2026年02月11日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260212013019120800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 00时05分]"
+        },
+        {
+          "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "边问边买，谷歌将AI购物功能嵌入搜索与Gemini",
+          "url": "https://wallstreetcn.com/livenews/3053878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         }
       ]
     },
@@ -382,28 +564,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时26分]"
         }
       ]
     }
