@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T17:56:42.962550+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-02-11T18:54:40.544911+08:00",
+  "total_titles_processed": 1435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 152,
+      "match_count": 160,
       "titles": [
         {
           "title": "央行：继续实施好适度宽松的货币政策",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 17时56分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 18时54分]"
         },
         {
           "title": "在岸、离岸人民币对美元汇率双双升破6.91",
@@ -89,6 +89,19 @@
           "time_info": "[10时33分 ~ 15时04分]"
         },
         {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时33分 ~ 18时54分]"
+        },
+        {
           "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
           "url": "https://www.cls.cn/detail/2285961",
           "source": "财联社热门",
@@ -114,17 +127,15 @@
           "time_info": "[10时33分 ~ 16时54分]"
         },
         {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
           "source": "凤凰网",
           "ranks": [
-            6,
-            7,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时33分 ~ 17时56分]"
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时54分]"
         },
         {
           "title": "外交部回应特朗普涉中加合作言论",
@@ -133,7 +144,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -248,6 +259,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "财经大学生春节返乡摆摊实战",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%98%A5%E8%8A%82%E8%BF%94%E4%B9%A1%E6%91%86%E6%91%8A%E5%AE%9E%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 18时54分]"
+        },
+        {
           "title": "美联储哈玛克：在再次调整利率之前，实现2%通胀率至关重要。",
           "url": "https://flash.jin10.com/detail/20260211014133973800",
           "source": "金十数据",
@@ -336,17 +358,6 @@
           "time_info": "[10时33分 ~ 16时54分]"
         },
         {
-          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
-          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
           "title": "芝商所（CME）：计划于今年夏季开始推出个股期货。",
           "url": "https://flash.jin10.com/detail/20260211013933249800",
           "source": "金十数据",
@@ -375,7 +386,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -391,17 +402,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时34分 ~ 16时54分]"
-        },
-        {
-          "title": "财经大学生春节返乡摆摊实战",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%98%A5%E8%8A%82%E8%BF%94%E4%B9%A1%E6%91%86%E6%91%8A%E5%AE%9E%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 17时56分]"
         },
         {
           "title": "美国总统特朗普：我们的利率应该比现在低2个百分点。",
@@ -577,6 +577,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时41分]"
+        },
+        {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://www.toutiao.com/trending/7605448481570897961/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时54分]"
         },
         {
           "title": "美国总统特朗普：伊朗希望达成协议。",
@@ -787,17 +799,6 @@
           "time_info": "04时01分"
         },
         {
-          "title": "外交部回应特朗普涉中加合作言论",
-          "url": "https://www.toutiao.com/trending/7605448481570897961/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
           "title": "美联储哈玛克：目前银行体系看起来相当健康。",
           "url": "https://flash.jin10.com/detail/20260211013634297800",
           "source": "金十数据",
@@ -994,6 +995,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-11）",
+          "url": "https://flash.jin10.com/detail/20260211181613310800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "MSCI宣布ACWI指数将新增63只证券并剔除61只证券",
@@ -1205,6 +1217,17 @@
           "time_info": "13时05分"
         },
         {
+          "title": "金十图示：2026年02月11日（周三）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260211180248490800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "内盘期货夜市多数收涨，丙烯涨约2.1%",
           "url": "https://wallstreetcn.com/livenews/3053130",
           "source": "华尔街见闻-快讯",
@@ -1236,6 +1259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "报道称绝味鸭脖上市来首次年度亏损，股票被 ST，一年半关店超 4000 家、日均关 7 家，为何消费者不买账了？",
+          "url": "https://www.zhihu.com/question/2004614069475370299",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "美国商务部长卢特尼克：美元汇率在当前水平更趋自然。",
@@ -1326,6 +1360,17 @@
           "time_info": "16时54分"
         },
         {
+          "title": "印尼社会保障基金：近期雅加达股指下跌是买入机会。 已买入大市值公司股票，包括银行。 在计划将自由流通股比例提升至15%后，已准备好继续买入股票。",
+          "url": "https://wallstreetcn.com/livenews/3053655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "美国白宫：特朗普将于明日在白宫与以色列总理内塔尼亚胡举行双边会晤。",
           "url": "https://flash.jin10.com/detail/20260211024859257800",
           "source": "金十数据",
@@ -1335,6 +1380,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "MSCI降级预警致印尼股市千亿市值蒸发 国有社保基金称拟增持股票",
+          "url": "https://flash.jin10.com/detail/20260211175549841800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "特朗普的商务部长卢特尼克承认：与妻子共同会见过爱泼斯坦",
@@ -1458,6 +1514,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "印尼社会保障基金负责人：在计划将公众持股量提升至15%后，已准备好进一步增持股票。",
+          "url": "https://flash.jin10.com/detail/20260211174721660800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "美联储Hammack：还难以看到稳定币对美国的好处。 乐观预计稳定币不会与存款竞争。",
           "url": "https://wallstreetcn.com/livenews/3053192",
           "source": "华尔街见闻-快讯",
@@ -1557,6 +1624,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "金十期货热图",
+          "url": "https://flash.jin10.com/detail/20260211174629417800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "美国芝商所（CME）：计划于今年夏季开始推出个股期货。 新增现金结算期货合约，将纳入包括Alphabet、Meta、英伟达和特斯拉在内的50多只美国顶级个股。",
           "url": "https://wallstreetcn.com/livenews/3053190",
           "source": "华尔街见闻-快讯",
@@ -1599,6 +1677,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "印尼社会保障基金负责人：已买入包括银行在内的大型市值公司股票。",
+          "url": "https://flash.jin10.com/detail/20260211174629557800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "纳斯达克金龙中国指数盘初转跌，此前一度涨超0.4%。",
@@ -1725,7 +1814,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -1759,8 +1848,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时33分 ~ 17时56分]"
+          "appearance_count": 7,
+          "time_info": "[10时33分 ~ 18时54分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
@@ -1819,8 +1908,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 17时56分]"
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 18时54分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -1909,6 +1998,17 @@
           "time_info": "[05时44分 ~ 06时43分]"
         },
         {
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260211013116861800",
           "source": "金十数据",
@@ -1937,7 +2037,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -2038,6 +2138,70 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时41分]"
+        },
+        {
+          "title": "机构：收益率走低支撑金价反弹 市场静候非农报告出炉",
+          "url": "https://flash.jin10.com/detail/20260211182619884800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 18时54分]"
+        },
+        {
+          "title": "从避险到标配 摩根大通勾勒金价8000美元蓝图",
+          "url": "https://flash.jin10.com/detail/20260211064938299800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 5,
       "titles": [
@@ -2095,59 +2259,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时41分]"
-        },
-        {
-          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 17时56分]"
-        },
-        {
-          "title": "从避险到标配 摩根大通勾勒金价8000美元蓝图",
-          "url": "https://flash.jin10.com/detail/20260211064938299800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
         }
       ]
     },
