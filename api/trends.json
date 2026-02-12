@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T14:11:25.968714+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-02-12T15:54:46.474236+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 152,
+      "match_count": 165,
       "titles": [
         {
           "title": "外国人也赶春运 ChinaTravel说走就走",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时25分 ~ 14时11分]"
+          "appearance_count": 13,
+          "time_info": "[02时25分 ~ 15时54分]"
         },
         {
           "title": "财经大学生春节返乡摆摊实战",
@@ -113,22 +113,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            1
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 14时11分]"
-        },
-        {
-          "title": "A股现天价离婚案 前妻分走13亿股票",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88+%E5%89%8D%E5%A6%BB%E5%88%86%E8%B5%B013%E4%BA%BF%E8%82%A1%E7%A5%A8",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时54分]"
         },
         {
           "title": "美国总统特朗普：任何在众议院或参议院投票反对关税的共和党人，在选举时（包括初选）都将承担严重后果。",
@@ -142,13 +132,24 @@
           "time_info": "07时35分"
         },
         {
+          "title": "泰国股指SET指数日内涨2%，至1440.09。",
+          "url": "https://wallstreetcn.com/livenews/3054328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "A股化工股震荡调整，金牛化工午后跌停，华尔泰逼近跌停，江天化学、金浦钛业、英力特、三友化工跟跌。",
           "url": "https://wallstreetcn.com/livenews/3054212",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -228,6 +229,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
+          "url": "https://www.cls.cn/detail/2288046",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时54分]"
+        },
+        {
+          "title": "A股现天价离婚案 前妻分走13亿股票",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88+%E5%89%8D%E5%A6%BB%E5%88%86%E8%B5%B013%E4%BA%BF%E8%82%A1%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 15时54分]"
         },
         {
           "title": "米兰称其乐意继续留任美联储 鲍威尔成眼中钉",
@@ -398,6 +424,18 @@
           "time_info": "[04时42分 ~ 05时36分]"
         },
         {
+          "title": "华尔街怎么看1月非农就业？首次降息延至7月，“新美联储通讯社”预计降息暂停期更久",
+          "url": "https://wallstreetcn.com/articles/3765533",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时54分]"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2026年2月12日 周四",
           "url": "https://flash.jin10.com/detail/20260212000000001800",
           "source": "金十数据",
@@ -410,6 +448,19 @@
           "time_info": "[00时05分 ~ 14时11分]"
         },
         {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时54分]"
+        },
+        {
           "title": "美国1月非农录得13万远超预期 市场削减美联储降息押注",
           "url": "https://www.cls.cn/detail/2287648",
           "source": "财联社热门",
@@ -420,18 +471,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时28分 ~ 13时01分]"
-        },
-        {
-          "title": "华尔街怎么看1月非农就业？首次降息延至7月，“新美联储通讯社”预计降息暂停期更久",
-          "url": "https://wallstreetcn.com/articles/3765533",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 14时11分]"
         },
         {
           "title": "美国总统特朗普：由于关税，贸易逆差下降了78%。",
@@ -518,36 +557,12 @@
           "time_info": "[06时33分 ~ 07时35分]"
         },
         {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 14时11分]"
-        },
-        {
           "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
           "url": "https://www.cls.cn/detail/2287759",
           "source": "财联社热门",
           "ranks": [
             9,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 14时11分]"
-        },
-        {
-          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
-          "url": "https://www.cls.cn/detail/2288046",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -576,6 +591,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时42分]"
+        },
+        {
+          "title": "强劲非农难撼白宫鸽派论调 特朗普亲信：美联储仍有“充足”降息空间",
+          "url": "https://www.cls.cn/detail/2287874",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 15时54分]"
+        },
+        {
+          "title": "金十期货热图",
+          "url": "https://flash.jin10.com/detail/20260212114230046800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 15时54分]"
         },
         {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：预计（特朗普政府）很快将宣布住房消息。",
@@ -696,6 +735,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 14时11分]"
+        },
+        {
+          "title": "特朗普否认了，仅拒邀两人",
+          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "美国总统特朗普：上次伊朗认为不达成协议对他们更有利，结果他们遭遇了午夜铁锤，这对他们并不好。希望这次他们会更加理性和负责任。",
@@ -819,6 +869,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
+          "url": "https://wallstreetcn.com/livenews/3054322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "美联储施密德：国会和行政部门可能想刺激经济，但美联储需要在就业和通胀之间保持平衡。",
           "url": "https://flash.jin10.com/detail/20260211235851101800",
           "source": "金十数据",
@@ -863,6 +924,17 @@
           "time_info": "10时28分"
         },
         {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "据AXIOS网站：特朗普与内塔尼亚胡的会议在近三个小时后结束。",
           "url": "https://flash.jin10.com/detail/20260212025205633800",
           "source": "金十数据",
@@ -883,17 +955,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
-        },
-        {
-          "title": "金十期货热图",
-          "url": "https://flash.jin10.com/detail/20260212114230046800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
         },
         {
           "title": "周三（2月11日）纽约尾盘，现货白银涨4.20%，报84.2080美元/盎司，亚太盘初以来持续走高，北京时间20:00刷新日高至86.3058美元。 COMEX白银期货涨4.42%，报83.935美元/盎司。 COMEX铜期货涨1.27%，报5.9885美元/磅。 现货铂金涨2.48%，现货钯金涨0.61%。",
@@ -1094,17 +1155,6 @@
           "time_info": "06时33分"
         },
         {
-          "title": "强劲非农难撼白宫鸽派论调 特朗普亲信：美联储仍有“充足”降息空间",
-          "url": "https://www.cls.cn/detail/2287874",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
           "title": "美联储哈玛克：失业率似乎正在企稳。",
           "url": "https://flash.jin10.com/detail/20260212051708699800",
           "source": "金十数据",
@@ -1202,6 +1252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "瑞穗银行市场主管表示，日本央行今年很可能加息多达3次。",
+          "url": "https://flash.jin10.com/detail/20260212152305455800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "墨西哥比索兑美元刷新日低，此前墨西哥总统辛鲍姆置评美国总统特朗普和美墨加贸易协议。",
@@ -1457,6 +1518,17 @@
           "time_info": "10时28分"
         },
         {
+          "title": "国债期货收盘，30年期主力合约跌0.03%，10年期主力合约涨0.02%，5年期主力合约涨0.00%，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3054304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "美国总统特朗普：煤炭是我们拥有的最可靠的能源形式。田纳西河谷管理局已采取行动，拯救田纳西州的两座主要燃煤电厂。",
           "url": "https://flash.jin10.com/detail/20260212054016228800",
           "source": "金十数据",
@@ -1490,6 +1562,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260212151701307800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "上证指数开盘报4136.99点，涨0.12%。 深证成指开盘报14177.97点，涨0.12%。 创业板指开盘报3294.57点，涨0.30%。 沪深300开盘报4720.01点，涨0.13%。 科创50开盘报1463.61点，涨0.58%。 中证500开盘报8342.36点，涨0.20%。 中证1000开盘报8252.19点，涨0.15%。",
           "url": "https://wallstreetcn.com/livenews/3054085",
           "source": "华尔街见闻-快讯",
@@ -1510,6 +1593,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-02-12）",
+          "url": "https://flash.jin10.com/detail/20260212151354041800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "道明证券：将美联储下一次降息时间的预期从3月份推后至6月份。",
@@ -1600,6 +1694,17 @@
           "time_info": "04时42分"
         },
         {
+          "title": "金十图示：2026年02月12日（周四）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260212151152310800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "白宫经济委员会主任哈塞特：美联储还有大量降息空间。 人们放弃观望，投身劳动力市场。 高水平的薪资增速驱使人们进入就业市场。 通胀数据将是美联储做决定的关键。 预计美国GDP将在今年增长4%-5%。",
           "url": "https://wallstreetcn.com/livenews/3053838",
           "source": "华尔街见闻-快讯",
@@ -1622,6 +1727,17 @@
           "time_info": "02时26分"
         },
         {
+          "title": "爱马仕第四季度销售额按固定汇率计算同比增长9.8%，市场预期8.24%。 第四季度总收入为40.9亿欧元，同比增长3.2%，市场预期为40.6亿欧元。 2025年总收入为160亿欧元，同比增长5.5%，市场预期为160.1亿欧元。 2025年经常性营业收入为65.7亿欧元，同比增长6.8%，市场预期为63.6亿欧元。 2025年净利润为45.2亿欧元，同比下降1.7%，市场预期为44.5亿欧元。 2025年每股股息为18欧元，市场预期为19.98欧元。",
+          "url": "https://wallstreetcn.com/livenews/3054295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "美国三大股指悉数转跌，道指跌超百点，纳指跌0.5%，半导体指数涨幅收窄至0.9%，生物科技指数跌0.9%，特斯拉跌0.4%。 纳斯达克金龙中国指数跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3053837",
           "source": "华尔街见闻-快讯",
@@ -1642,6 +1758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "上证指数收报4134.02点，涨0.05%。 深证成指收报14283.00点，涨0.86%。 创业板指收报3328.06点，涨1.32%。 沪深300收报4719.58点，涨0.12%。 科创50收报1480.99点，涨1.78%。 中证500收报8423.57点，涨1.17%。 中证1000收报8314.83点，涨0.91%。",
+          "url": "https://wallstreetcn.com/livenews/3054292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "美联储施密德：结构性变化降低了就业创造水平。",
@@ -1710,6 +1837,17 @@
           "time_info": "02时26分"
         },
         {
+          "title": "商品期货收盘，集运欧线主力合约涨超6%，碳酸锂涨超3%，尿素、豆一涨超2%。BR橡胶、棕榈油、钯、硅铁、乙二醇、铂跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3054289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "美联储施密德：可能需要人工智能要素来应对因人口老龄化、低出生率和低移民率导致的劳动力增长放缓。",
           "url": "https://flash.jin10.com/detail/20260211234415751800",
           "source": "金十数据",
@@ -1730,6 +1868,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "韩国投资者再度扫货中国股票，大举买入大模型龙头Minimax-WP",
+          "url": "https://wallstreetcn.com/livenews/3054287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         }
       ]
     },
@@ -1793,11 +1942,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 14时11分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 15时54分]"
         },
         {
           "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
@@ -1939,8 +2089,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时04分 ~ 14时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时04分 ~ 15时54分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -1951,8 +2101,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时04分 ~ 14时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时04分 ~ 15时54分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -1968,6 +2118,20 @@
           "time_info": "[00时04分 ~ 10时28分]"
         },
         {
+          "title": "DeepSeek新模型来了？",
+          "url": "https://wallstreetcn.com/articles/3765514",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时33分 ~ 15时54分]"
+        },
+        {
           "title": "【金十数据整理：每日科技要闻速递（2月12日）】 集成电路（芯片）： <span class=\"section-news\">1. 闻泰科技：对荷兰企业法庭就安世半导体案件最新裁决极为失望与强烈不满。</span> <span class=\"section-news\">2. 中国电科14所华创微创新研发的高性能处理器、首款AI处理芯片完成流片及测试。</span> <span class=\"section-news\">3. 三星电子芯片业务总裁兼首席技术官宋在爀表示，凭借其新一代HBM4技术，三星电子已重回内存行业巅峰。</span> <span class=\"section-news\">4. 消息人士：字节跳动正在研发一款AI芯片，并正与三星洽谈代工事宜，字节计划今年生产10万至30万颗该款AI芯片。</span> 人工智能： <span class=\"section-news\">1. 豆包App开启Seedance 2.0灰度测试。</span> <span class=\"section-news\">2. Meta将在印第安纳州数据中心投资超过100亿美元。</span> <span class=\"section-news\">3. 科大讯飞发布基于全国产算力训练的星火X2大模型。</span> <span class=\"section-news\">4. 古尔曼：苹果Siri升级陷僵局 部分功能或推迟至9月发布。</span> <span class=\"section-news\">5. 美团发布原生“深度研究”Agent，攻略可用率超ChatGPT。</span> <span class=\"section-news\">6. DeepSeek灰度测试百万Token上下文，知识库更新至2025年5月。</span> <span class=\"section-news\">7. 智谱发布新一代旗舰模型GLM-5，智谱确认神秘模型“Pony Alpha”为GLM-5。</span> <span class=\"section-news\">8. 据法国回声报：法国科技与人工智能公司Mistral正投资12亿欧元在瑞典新建数据中心园区。</span> <span class=\"section-news\">9. MiniMax M2.5模型即将正式上线 ，目前MiniMax M2.5模型已在海外的 MiniMax Agent产品进行内测。</span> <span class=\"section-news\">10. 蚂蚁集团开源发布全模态大模型Ming-Flash-Omni2.0，是业界首个全场景音频统一生成模型，可在同一条音轨中同时生成语音、环境音效与音乐。</span> 其他： <span class=\"section-news\">1. 比尔·盖茨时隔两年半再度到访中国。</span> <span class=\"section-news\">2. 长征十号运载火箭系统低空演示验证与梦舟载人飞船系统最大动压逃逸飞行试验取得成功。</span> <span class=\"section-news\">3. 中国汽车工业协会：1月份，新能源汽车产销分别完成104.1万辆和94.5万辆，同比分别增长2.5%和0.1%。 </span>",
           "url": "https://flash.jin10.com/detail/20260212071937799800",
           "source": "金十数据",
@@ -1979,29 +2143,17 @@
           "time_info": "07时35分"
         },
         {
-          "title": "DeepSeek新模型来了？",
-          "url": "https://wallstreetcn.com/articles/3765514",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时33分 ~ 14时11分]"
-        },
-        {
           "title": "从Deepseek到Seedance中国AI成了",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
             9,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 14时11分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时54分]"
         }
       ]
     },
@@ -2029,8 +2181,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 14时11分]"
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 15时54分]"
         },
         {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
