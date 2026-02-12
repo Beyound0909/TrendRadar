@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T18:51:25.614538+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-02-12T19:42:12.306156+08:00",
+  "total_titles_processed": 1626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 188,
+      "match_count": 193,
       "titles": [
         {
           "title": "外国人也赶春运 ChinaTravel说走就走",
@@ -41,8 +41,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时25分 ~ 18时51分]"
+          "appearance_count": 19,
+          "time_info": "[02时25分 ~ 19时42分]"
+        },
+        {
+          "title": "特朗普将于4月初访华？外交部回应",
+          "url": "https://news.ifeng.com/c/8qgc1cfon19",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时52分 ~ 19时42分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时52分 ~ 19时42分]"
+        },
+        {
+          "title": "特朗普否认了，仅拒邀两人",
+          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时54分 ~ 19时42分]"
         },
         {
           "title": "财经大学生春节返乡摆摊实战",
@@ -85,6 +121,45 @@
           "time_info": "[00时04分 ~ 07时35分]"
         },
         {
+          "title": "华尔街怎么看1月非农就业？首次降息延至7月，“新美联储通讯社”预计降息暂停期更久",
+          "url": "https://wallstreetcn.com/articles/3765533",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时01分 ~ 19时42分]"
+        },
+        {
+          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
+          "url": "https://www.cls.cn/detail/2288372",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时52分 ~ 19时42分]"
+        },
+        {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时01分 ~ 19时42分]"
+        },
+        {
           "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
           "url": "https://www.cls.cn/detail/2288046",
           "source": "财联社热门",
@@ -99,17 +174,6 @@
           "time_info": "[13时01分 ~ 18时51分]"
         },
         {
-          "title": "特朗普将于4月初访华？外交部回应",
-          "url": "https://news.ifeng.com/c/8qgc1cfon19",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 18时51分]"
-        },
-        {
           "title": "持股还是持币过年？多家公募：春节后A股上涨概率较高，已有资金抢跑布局",
           "url": "https://www.cls.cn/detail/2287337",
           "source": "财联社热门",
@@ -122,40 +186,16 @@
           "time_info": "[02时25分 ~ 07时35分]"
         },
         {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 18时51分]"
-        },
-        {
           "title": "中方回应特朗普预计4月初访华",
           "url": "https://www.toutiao.com/trending/7605620935953956906/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 18时51分]"
-        },
-        {
-          "title": "特朗普否认了，仅拒邀两人",
-          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时54分 ~ 18时51分]"
+          "appearance_count": 6,
+          "time_info": "[16时52分 ~ 19时42分]"
         },
         {
           "title": "中方回应特朗普预计4月初访华",
@@ -169,43 +209,15 @@
           "time_info": "[16时52分 ~ 18时51分]"
         },
         {
-          "title": "华尔街怎么看1月非农就业？首次降息延至7月，“新美联储通讯社”预计降息暂停期更久",
-          "url": "https://wallstreetcn.com/articles/3765533",
-          "source": "华尔街见闻",
+          "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
+          "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时01分 ~ 18时51分]"
-        },
-        {
-          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
-          "url": "https://www.cls.cn/detail/2288372",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 18时51分]"
-        },
-        {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时01分 ~ 18时51分]"
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 19时42分]"
         },
         {
           "title": "A股现天价离婚案 前妻分走13亿股票",
@@ -223,6 +235,18 @@
           "time_info": "[14时11分 ~ 18时51分]"
         },
         {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时54分 ~ 19时42分]"
+        },
+        {
           "title": "特朗普发帖后 CNN都看不下去了",
           "url": "https://www.toutiao.com/trending/7604706291541704723/",
           "source": "今日头条",
@@ -232,6 +256,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 00时05分]"
+        },
+        {
+          "title": "韩国投资者再度扫货中国股票，大举买入大模型龙头Minimax-WP",
+          "url": "https://www.cls.cn/detail/2288312",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时52分 ~ 19时42分]"
         },
         {
           "title": "A股又现天价离婚案 前妻分走13亿股票",
@@ -265,7 +301,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -279,17 +315,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
-        },
-        {
-          "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
-          "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
         },
         {
           "title": "A股化工股震荡调整，金牛化工午后跌停，华尔泰逼近跌停，江天化学、金浦钛业、英力特、三友化工跟跌。",
@@ -320,7 +345,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -375,9 +400,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
+        },
+        {
+          "title": "皮博迪能源盘前涨4.7%，此前特朗普指示能源部拨付资金维持燃煤电厂运营。",
+          "url": "https://flash.jin10.com/detail/20260212190634205800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "希腊雅典证交所综合指数收涨0.02%，报2345.71点。",
@@ -402,28 +438,29 @@
           "time_info": "10时28分"
         },
         {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://www.douyin.com/hot/2398243",
-          "source": "抖音",
+          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时54分 ~ 18时51分]"
-        },
-        {
-          "title": "韩国投资者再度扫货中国股票，大举买入大模型龙头Minimax-WP",
-          "url": "https://www.cls.cn/detail/2288312",
-          "source": "财联社热门",
-          "ranks": [
-            8,
+            11,
+            9,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 18时51分]"
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 19时42分]"
+        },
+        {
+          "title": "中方回应“特朗普将于4月初访华”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 19时42分]"
         },
         {
           "title": "米兰称其乐意继续留任美联储 鲍威尔成眼中钉",
@@ -618,30 +655,6 @@
           "time_info": "[00时05分 ~ 14时11分]"
         },
         {
-          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 18时51分]"
-        },
-        {
-          "title": "中方回应“特朗普将于4月初访华”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 18时51分]"
-        },
-        {
           "title": "美国1月非农录得13万远超预期 市场削减美联储降息押注",
           "url": "https://www.cls.cn/detail/2287648",
           "source": "财联社热门",
@@ -834,6 +847,18 @@
           "time_info": "[03时14分 ~ 04时42分]"
         },
         {
+          "title": "华培动力：拟通过发行可转换公司债券及支付现金方式，购买无锡晟熠产业投资合伙企业（有限合伙）持有的美创智感（无锡）科技有限公司100%股权，并向不超过35名特定投资者发行股份募集配套资金，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3054436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时42分]"
+        },
+        {
           "title": "加拿大央行披露1月份管委会货币政策会议讨论的摘要：在担忧食品价格之际，消费者CPI预期偏高。 当前的不可预见性“几乎是空前的”。 美联储独立性面临的（来自美国总统特朗普的）威胁也（给加拿大）带来不确定性。 重申“北美重新评估美国墨西哥加拿大贸易协议（USMCA）”对前景构成重大风险。 委内瑞拉、伊朗、格陵兰相关事件造成波动。",
           "url": "https://wallstreetcn.com/livenews/3053914",
           "source": "华尔街见闻-快讯",
@@ -940,6 +965,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 14时11分]"
+        },
+        {
+          "title": "在岸、离岸人民币对美元汇率升破6.9，再创33个月新高",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590716",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
         },
         {
           "title": "恒指日内跌幅扩大至1%，恒生科技指数跌1.8%。网易、美团、携程等跌超4%。",
@@ -1218,6 +1254,17 @@
           "time_info": "06时33分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-12）",
+          "url": "https://flash.jin10.com/detail/20260212190323631800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "美国总统特朗普兜售标普和道指创新高。",
           "url": "https://wallstreetcn.com/livenews/3053981",
           "source": "华尔街见闻-快讯",
@@ -1238,6 +1285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "华明装备：筹划发行H股股票并在香港联交所上市。",
+          "url": "https://wallstreetcn.com/livenews/3054470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "美联储施密德：当鲍威尔不再担任美联储主席时，我会想念他；他是一位坚定且有原则的美国人。",
@@ -1348,17 +1406,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
-        },
-        {
-          "title": "华培动力：拟通过发行可转换公司债券及支付现金方式，购买无锡晟熠产业投资合伙企业（有限合伙）持有的美创智感（无锡）科技有限公司100%股权，并向不超过35名特定投资者发行股份募集配套资金，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3054436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
         },
         {
           "title": "美联储哈玛克：失业率似乎正在企稳。",
@@ -1614,6 +1661,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "美国天然气期货日内涨幅达3.00%，现报3.254美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260212185609803800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
           "url": "https://wallstreetcn.com/livenews/3053948",
           "source": "华尔街见闻-快讯",
@@ -1697,7 +1755,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -2222,6 +2280,18 @@
           "time_info": "[10时28分 ~ 16时52分]"
         },
         {
+          "title": "盈利提振全球存储概念股集体走高，美股盘前美光涨超4%，韩股三星电子大涨6%，日债收益率集体下行",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 19时42分]"
+        },
+        {
           "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
           "url": "https://wallstreetcn.com/livenews/3053983",
           "source": "华尔街见闻-快讯",
@@ -2232,17 +2302,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时35分]"
-        },
-        {
-          "title": "盈利提振全球存储概念股集体走高，美股盘前美光涨超4%，韩股三星电子大涨6%，日债收益率集体下行",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
         },
         {
           "title": "思科美股盘后维持超过6.8%的跌幅，该公司所给利润指引“疲软”。",
@@ -2383,11 +2442,12 @@
             8,
             17,
             10,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时04分 ~ 18时51分]"
+          "appearance_count": 21,
+          "time_info": "[00时04分 ~ 19时42分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -2413,8 +2473,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时04分 ~ 18时51分]"
+          "appearance_count": 21,
+          "time_info": "[00时04分 ~ 19时42分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -2467,8 +2527,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时35分 ~ 18时51分]"
+          "appearance_count": 11,
+          "time_info": "[07时35分 ~ 19时42分]"
         },
         {
           "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
