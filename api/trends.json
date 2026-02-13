@@ -1,22 +1,39 @@
 {
-  "generated_at": "2026-02-14T04:41:42.917376+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-02-14T05:38:47.044737+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 62,
+      "match_count": 71,
       "titles": [
         {
           "title": "【每日收评】三大指数震荡下挫均跌超1%，全市场超3800股收绿，成交额不足2万亿",
           "url": "https://www.cls.cn/detail/2289622",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时38分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            16,
+            20,
+            17,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时38分]"
         },
         {
           "title": "李大霄谈三大指数下跌原因",
@@ -28,21 +45,6 @@
             18,
             10,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时41分]"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            16,
-            20,
-            17,
-            19
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -61,6 +63,17 @@
           "time_info": "[00时52分 ~ 01时41分]"
         },
         {
+          "title": "国际货币基金组织：正在评估巴基斯坦电力价格修订是否符合有效汇率框架，及其对宏观稳定和通胀的影响。",
+          "url": "https://flash.jin10.com/detail/20260214034620297800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时38分]"
+        },
+        {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
           "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
           "source": "凤凰网",
@@ -72,15 +85,26 @@
           "time_info": "[00时52分 ~ 03时44分]"
         },
         {
-          "title": "特朗普证实美军将向中东地区派出第二艘航母",
-          "url": "https://wallstreetcn.com/livenews/3055352",
+          "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
+          "url": "https://news.ifeng.com/c/8qis4CFCUkf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时38分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款18.719万亿美元，之前一周18.645万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3055376",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时41分"
+          "time_info": "05时38分"
         },
         {
           "title": "据路透社报道，四名寻求购买货物的公司消息人士表示，委内瑞拉国有石油公司PDVSA在过去两周拒绝向未持有美国许可的公司出售原油。",
@@ -105,15 +129,40 @@
           "time_info": "02时55分"
         },
         {
-          "title": "美国芝加哥联储主席Austan Goolsbe：认为利率可以下降。 希望在继续靠前降息之前掌握更多信息。 我不知道限制性的美联储政策为何物。 我们就是需要看到通胀进展。 如果通胀回落至2%，FOMC就可以再降息几次。 当前，我们并没有处于通胀朝着2%回落的正轨之上。 CPI数据在一定程度上鼓舞人心，但也存在某些顾虑。 服务通胀仍然相当高。 服务通胀远高于目标，这是一个危险信号。 1月就业数据强劲，有望成为（劳动力市场）稳定性的一个信号。（雅虎财经）",
-          "url": "https://wallstreetcn.com/livenews/3055353",
+          "title": "美国总统特朗普：不希望伊朗有任何铀浓缩。",
+          "url": "https://wallstreetcn.com/livenews/3055375",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时41分"
+          "time_info": "05时38分"
+        },
+        {
+          "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
+          "url": "https://flash.jin10.com/detail/20260214023919171800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时55分 ~ 05时38分]"
+        },
+        {
+          "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
+          "url": "https://flash.jin10.com/detail/20260214031056570800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 05时38分]"
         },
         {
           "title": "分析师：关税通胀或将在未来几个月继续传导至经济 美联储年内料将降息两次",
@@ -127,37 +176,40 @@
           "time_info": "01时41分"
         },
         {
-          "title": "国际货币基金组织：正在评估巴基斯坦电力价格修订是否符合有效汇率框架，及其对宏观稳定和通胀的影响。",
-          "url": "https://flash.jin10.com/detail/20260214034620297800",
+          "title": "美国总统特朗普：通胀报告非常棒。",
+          "url": "https://flash.jin10.com/detail/20260214023609797800",
           "source": "金十数据",
           "ranks": [
-            4
+            5,
+            15,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时55分 ~ 05时38分]"
         },
         {
-          "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
-          "url": "https://news.ifeng.com/c/8qis4CFCUkf",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：希望与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260214030526351800",
+          "source": "金十数据",
           "ranks": [
-            5
+            3,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 05时38分]"
         },
         {
-          "title": "WTI 3月原油期货收涨0.05美元，涨幅0.08%，报62.89美元/桶。 布伦特4月原油期货收涨0.23美元，涨幅0.34%，报67.75美元/桶。 NYMEX 3月天然气期货收报3.2430美元/百万英热单位。 NYMEX 3月汽油期货收报1.9110美元/加仑，NYMEX 3月取暖油期货收报2.3879美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3055350",
+          "title": "周五（2月13日），彭博电动汽车价格回报指数跌0.18%，报3635.96点。 本周，该指数累计上涨3.31%，周一至周四持续上涨，周四纽约中午至周五曾显著地回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3055370",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时41分"
+          "time_info": "05时38分"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
@@ -172,6 +224,43 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时41分 ~ 04时41分]"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗一直很难达成协议。",
+          "url": "https://flash.jin10.com/detail/20260214030421669800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 05时38分]"
+        },
+        {
+          "title": "恒指期货夜盘收涨0.11%，报26560点，低水7点。",
+          "url": "https://flash.jin10.com/detail/20260214030123332800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 05时38分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.11%，报26560点。 恒生科技指数主连夜盘收涨0.39%，报5369点。",
+          "url": "https://wallstreetcn.com/livenews/3055342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 05时38分]"
         },
         {
           "title": "美国总统特朗普：我认为伊朗谈判将取得成功。",
@@ -200,19 +289,6 @@
           "time_info": "[02时55分 ~ 04时41分]"
         },
         {
-          "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
-          "url": "https://flash.jin10.com/detail/20260214023919171800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时55分 ~ 04时41分]"
-        },
-        {
           "title": "美国总统特朗普：俄罗斯想要达成协议，乌克兰总统泽连斯基必须行动起来。",
           "url": "https://wallstreetcn.com/livenews/3055317",
           "source": "华尔街见闻-快讯",
@@ -226,16 +302,17 @@
           "time_info": "[01时41分 ~ 03时44分]"
         },
         {
-          "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
-          "url": "https://flash.jin10.com/detail/20260214031056570800",
-          "source": "金十数据",
+          "title": "美国总统特朗普重申：与北约关系良好。",
+          "url": "https://wallstreetcn.com/livenews/3055341",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            12
+            4,
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 04时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 05时38分]"
         },
         {
           "title": "非洲股市收盘播报｜周五（2月13日），南非富时/JSE非洲领先40可交易指数收跌1.45%，报11.3万点，本周累计上涨0.47%。 南非股市周一V形反转，至周四持续走高，周五一度完全回吐本周涨幅。",
@@ -248,18 +325,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时41分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.11%，报26560点。 恒生科技指数主连夜盘收涨0.39%，报5369点。",
-          "url": "https://wallstreetcn.com/livenews/3055342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 04时41分]"
         },
         {
           "title": "美国总统特朗普：考虑为伊拉克挑选一位总理。",
@@ -275,17 +340,16 @@
           "time_info": "[01时41分 ~ 03时44分]"
         },
         {
-          "title": "美国总统特朗普：通胀报告非常棒。",
-          "url": "https://flash.jin10.com/detail/20260214023609797800",
-          "source": "金十数据",
+          "title": "特朗普证实美军将向中东地区派出第二艘航母",
+          "url": "https://wallstreetcn.com/livenews/3055352",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            15,
-            26
+            2,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时55分 ~ 04时41分]"
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时38分]"
         },
         {
           "title": "高盛美国定制篮子团队副总裁Faris Mourad在致客户报告中指出：我们预计“抗AI替代”主题股票篮子的做多部分将从近期软件板块抛售中复苏，而做空部分将滞后。",
@@ -301,52 +365,27 @@
           "time_info": "[02时55分 ~ 04时41分]"
         },
         {
-          "title": "美国总统特朗普：希望与伊朗达成协议。",
-          "url": "https://flash.jin10.com/detail/20260214030526351800",
-          "source": "金十数据",
+          "title": "美国芝加哥联储主席Austan Goolsbe：认为利率可以下降。 希望在继续靠前降息之前掌握更多信息。 我不知道限制性的美联储政策为何物。 我们就是需要看到通胀进展。 如果通胀回落至2%，FOMC就可以再降息几次。 当前，我们并没有处于通胀朝着2%回落的正轨之上。 CPI数据在一定程度上鼓舞人心，但也存在某些顾虑。 服务通胀仍然相当高。 服务通胀远高于目标，这是一个危险信号。 1月就业数据强劲，有望成为（劳动力市场）稳定性的一个信号。（雅虎财经）",
+          "url": "https://wallstreetcn.com/livenews/3055353",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时44分 ~ 04时41分]"
+          "time_info": "[04时41分 ~ 05时38分]"
         },
         {
-          "title": "美国总统特朗普重申：与北约关系良好。",
-          "url": "https://wallstreetcn.com/livenews/3055341",
-          "source": "华尔街见闻-快讯",
+          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 04时41分]"
-        },
-        {
-          "title": "美国总统特朗普：与伊朗一直很难达成协议。",
-          "url": "https://flash.jin10.com/detail/20260214030421669800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 04时41分]"
-        },
-        {
-          "title": "恒指期货夜盘收涨0.11%，报26560点，低水7点。",
-          "url": "https://flash.jin10.com/detail/20260214030123332800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时43分 ~ 05时38分]"
         },
         {
           "title": "资管巨头资本集团押注欧洲央行2026年将加息，与主流观点相悖",
@@ -361,15 +400,29 @@
           "time_info": "[00时52分 ~ 01时41分]"
         },
         {
-          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
-          "source": "澎湃新闻",
+          "title": "WTI 3月原油期货收涨0.05美元，涨幅0.08%，报62.89美元/桶。 布伦特4月原油期货收涨0.23美元，涨幅0.34%，报67.75美元/桶。 NYMEX 3月天然气期货收报3.2430美元/百万英热单位。 NYMEX 3月汽油期货收报1.9110美元/加仑，NYMEX 3月取暖油期货收报2.3879美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3055350",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时38分]"
+        },
+        {
+          "title": "美国总统特朗普宣扬股市表现和通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3055338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时43分 ~ 04时41分]"
+          "time_info": "[03时44分 ~ 05时38分]"
         },
         {
           "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
@@ -398,16 +451,15 @@
           "time_info": "[02时55分 ~ 04时41分]"
         },
         {
-          "title": "美国总统特朗普宣扬股市表现和通胀数据。",
-          "url": "https://wallstreetcn.com/livenews/3055338",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普将访问委内瑞拉",
+          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时44分 ~ 04时41分]"
+          "time_info": "[04时41分 ~ 05时38分]"
         },
         {
           "title": "希腊雅典证交所综合指数收跌2.82%，报2288.83点，本周累计下跌3.11%。",
@@ -554,17 +606,6 @@
           "time_info": "[02时55分 ~ 03时44分]"
         },
         {
-          "title": "特朗普将访问委内瑞拉",
-          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
           "title": "美国总统特朗普：美国是北约的重要成员。",
           "url": "https://flash.jin10.com/detail/20260214005914666800",
           "source": "金十数据",
@@ -585,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "本周，标普500房地产服务指数累计下跌14%，创2020年以来最差单周表现。",
+          "url": "https://wallstreetcn.com/livenews/3055368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "美国总统特朗普：（谈委内瑞拉）我们关系非常好。",
@@ -620,6 +672,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "标普500指数收涨3.41点，涨幅0.05%，报6836.17点。 道琼斯工业平均指数收涨48.95点，涨幅0.10%，报49500.93点。 纳斯达克综合指数（纳指）收跌50.477点，跌幅0.22%，报22546.671点。 纳斯达克100指数收涨45.12点，涨幅0.18%，报24732.732点。 纳斯达克生物科技指数收涨0.97%，报5917.24点。 费城半导体指数收涨0.66%，报8137.859点。 费城证交所KBW银行指数收涨0.29%，报166.39点。 道琼斯KBW地区银行指数收涨0.69%，报137.88点。",
+          "url": "https://wallstreetcn.com/livenews/3055363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "美国总统特朗普：（谈欧洲）我们相处得很好；我们正在谈判。",
           "url": "https://flash.jin10.com/detail/20260214005611106800",
           "source": "金十数据",
@@ -653,6 +716,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：2月10日当周，投机者所持美元净多头头寸创2025年6月份以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3055360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "美国总统特朗普赞扬美国通胀下降。",
           "url": "https://flash.jin10.com/detail/20260214005209209800",
           "source": "金十数据",
@@ -664,6 +738,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "芝加哥小麦、大豆本周累涨超1.8%，纽约可可期货累跌约14.1%",
+          "url": "https://wallstreetcn.com/livenews/3055357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "金十图示：2026年02月14日（周六）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260214004545764800",
           "source": "金十数据",
@@ -673,6 +758,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：2月10日当周，投机者所持NYMEX WTI原油净多头头寸增加5,937手合约，至86,314手合约，创逾六个月新高。 所持布伦特和WTI原油净多头头寸增至365,366手合约，创大约八个月新高。 所持NYMEX汽油净多头头寸增至80,056手合约，创逾两个月新高。",
+          "url": "https://wallstreetcn.com/livenews/3055356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：2月10日当周，投机者所持COMEX黄金净多头头寸减少400手合约，至93,038手合约，创16周新低。 所持COMEX铜净多头头寸降至54,270手合约，创19周新高。 所持NYMEX钯金净多头头寸增至724手合约，创逾三年新高。",
+          "url": "https://wallstreetcn.com/livenews/3055355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "美国最高法院将于2月20日就特朗普关税案公布意见",
@@ -744,7 +851,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -754,8 +861,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时38分]"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -766,8 +873,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时38分]"
         },
         {
           "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
@@ -778,8 +885,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时38分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -790,8 +897,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时38分]"
         },
         {
           "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
@@ -802,8 +909,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时38分]"
         },
         {
           "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
@@ -814,8 +921,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时38分]"
         },
         {
           "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
@@ -825,8 +932,30 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时38分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（2月13日），美国科技股七巨头（Magnificent 7）指数跌1.34%，报192.61点，本周累计下跌3.61%，整体持续走低。 亚马逊连续九个交易日下跌，创2006年以来最长连跌天数。 “超大”市值科技股指数跌0.75%，报364.30点，本周累跌2.65%。",
+          "url": "https://wallstreetcn.com/livenews/3055367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.10%，报7591.86点，本周累计下跌2.77%，周一至周三高位持稳，周四美股盘初显著下跌，后续低位震荡，整体形成Z形走势。 热门中概股里，新东方初步收跌2.3%，阿里巴巴跌2.1%，小马智行跌2%，理想、京东、比亚迪、百度至多跌1.8%，蔚来大致收平，腾讯涨0.9%，小鹏、文远知行、网易至多涨1.8%，小米涨2.1%，百胜中国涨3.3%。 ETF中，中概互联网指数ETF（KWEB）收平，本周累跌4.44%，延续此前两周先后跌1.44%和3.02%的表现； 中国科技指数ETF（CQQQ）收1.06%，本周累跌1.19%，此前两周先后跌3.39%和3.58%。",
+          "url": "https://wallstreetcn.com/livenews/3055365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "中概指数在美股早盘实现V形反转",
@@ -861,11 +990,12 @@
           "url": "https://www.zhihu.com/question/2005579925827130176",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时43分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时43分 ~ 05时38分]"
         },
         {
           "title": "Gemini3深度思考模型重磅升级",
@@ -894,8 +1024,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
+          "url": "https://wallstreetcn.com/livenews/3055377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
         {
           "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
           "url": "https://wallstreetcn.com/livenews/3055331",
@@ -923,26 +1064,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时41分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -952,8 +1075,38 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时38分]"
+        },
+        {
+          "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
+          "url": "https://wallstreetcn.com/livenews/3055361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            4,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时38分]"
         }
       ]
     },
@@ -966,11 +1119,12 @@
           "url": "https://wallstreetcn.com/livenews/3055354",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时38分]"
         }
       ]
     }
