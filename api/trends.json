@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T21:05:35.023390+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2026-02-13T22:42:39.533116+08:00",
+  "total_titles_processed": 1848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 163,
+      "match_count": 176,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -80,8 +80,20 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时02分 ~ 19时34分]"
+          "appearance_count": 17,
+          "time_info": "[01时02分 ~ 22时42分]"
+        },
+        {
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时46分 ~ 22时42分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
@@ -96,18 +108,6 @@
           "time_info": "[12时55分 ~ 17时49分]"
         },
         {
-          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
-          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时46分 ~ 21时05分]"
-        },
-        {
           "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
           "url": "https://wallstreetcn.com/articles/3765622",
           "source": "华尔街见闻",
@@ -117,8 +117,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时29分 ~ 21时05分]"
+          "appearance_count": 14,
+          "time_info": "[10时29分 ~ 22时42分]"
         },
         {
           "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
@@ -181,22 +181,12 @@
           "ranks": [
             4,
             9,
-            7
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时48分 ~ 19时34分]"
-        },
-        {
-          "title": "UP主在白宫向特朗普提问",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%9C%A8%E7%99%BD%E5%AE%AB%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E9%97%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 16时47分]"
+          "appearance_count": 6,
+          "time_info": "[17时48分 ~ 22时42分]"
         },
         {
           "title": "【每日收评】三大指数震荡下挫均跌超1%，全市场超3800股收绿，成交额不足2万亿",
@@ -208,8 +198,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时48分 ~ 21时05分]"
+          "appearance_count": 7,
+          "time_info": "[17时48分 ~ 22时42分]"
+        },
+        {
+          "title": "UP主在白宫向特朗普提问",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%9C%A8%E7%99%BD%E5%AE%AB%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E9%97%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 16时47分]"
         },
         {
           "title": "金十图示：2026年02月13日（周五）全球股市指数-欧洲市场（收盘）",
@@ -298,7 +299,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -320,9 +321,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "凯投宏观：对核心PCE接近美联储目标持谨慎看法",
+          "url": "https://flash.jin10.com/detail/20260213221224168800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "A股影视股午后再度拉升，光线传媒涨超15%，横店影视、幸福蓝海、博纳影业、上海电影、中国电影等跟涨。",
@@ -364,9 +376,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "机构：美联储降息或依赖于下半年通胀的进一步放缓",
+          "url": "https://flash.jin10.com/detail/20260213221039928800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "派拉蒙天舞（Paramount SkyDance）高管Ellison上周会见了美国总统特朗普。（CNN）",
@@ -389,6 +412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
+        },
+        {
+          "title": "加拿大帝国商业银行：CPI数据暗示美联储正靠近其青睐的通胀目标",
+          "url": "https://flash.jin10.com/detail/20260213220920828800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "摩根大通Jay Barry牵头的利率策略师们表示：鉴于市场对美联储2026年降息力度和降息时间的预期太乐观，倾向于“战术性地做空”美国两年期国债。",
@@ -837,7 +871,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -873,6 +907,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
+        },
+        {
+          "title": "法国外贸银行分析师Christopher Hodge：未来几个月，我们预计通胀将继续高于预期，但不会加速，这将使美联储能够在疲软的劳动力市场数据降息。",
+          "url": "https://flash.jin10.com/detail/20260213220529539800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "欧洲STOXX 600指数初步收跌0.35%，报619.40点。 欧元区STOXX 50指数初步收跌0.21%，报6022.75点。 富时泛欧绩优300指数初步收跌0.37%，报2467.58点。",
@@ -914,9 +959,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "PIMCO：通胀报告令美联储有理由在今年降息两次",
+          "url": "https://flash.jin10.com/detail/20260213220525997800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "伦铝期货短线走低，日内跌0.34%，现报3089美元/吨。",
@@ -958,7 +1014,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -980,7 +1036,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -1038,6 +1094,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        },
+        {
+          "title": "机构：预计美联储6月降息，新主席就任时间或现降息窗口",
+          "url": "https://flash.jin10.com/detail/20260213220315038800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "美国官员：美国总统特朗普将于下周在首次和平委员会会议上宣布一项针对加沙的数十亿美元资助计划。",
@@ -1101,7 +1168,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -1115,6 +1182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "高盛：仍预期美联储今年将降息两次，下一次降息将在6月",
+          "url": "https://flash.jin10.com/detail/20260213215742450800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "新兴市场外汇和股市回吐涨幅。 标普500指数跌幅扩大至1%，纳斯达克100指数跌1.5%，半导体指数跌1.51%。",
@@ -1181,6 +1259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
+        },
+        {
+          "title": "美国1月CPI数据公布后，美国利率期货将美联储6月降息的概率小幅上调至69%。",
+          "url": "https://wallstreetcn.com/livenews/3055227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "特朗普宣布美国环境保护署“温室气体危害认定”正式撤销",
@@ -1291,6 +1380,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
+        },
+        {
+          "title": "交易员预计美联储今年降息第三次的概率为50%",
+          "url": "https://wallstreetcn.com/livenews/3055224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉与美国的关系，用委婉的说法，可谓非同寻常。我们与罗德里格斯及其代表团合作非常顺利。石油已开始输送，多年未见的巨额资金即将为委内瑞拉人民带来巨大帮助。",
@@ -1766,6 +1866,17 @@
           "time_info": "18时42分"
         },
         {
+          "title": "美国1月CPI环比涨幅低于预期 劳动力趋稳或使美联储按兵不动",
+          "url": "https://flash.jin10.com/detail/20260213213948885800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "美联储理事米兰：美国财政前景正在改善且经济增长表现强劲，这进一步巩固了美元的储备货币地位。",
           "url": "https://wallstreetcn.com/livenews/3054813",
           "source": "华尔街见闻-快讯",
@@ -1799,6 +1910,17 @@
           "time_info": "04时38分"
         },
         {
+          "title": "分析师Enda Curran评美国CPI数据：能源价格指数在1月份下跌了1.5%，其中汽油价格指数环比下降了3.2%。这显然减轻了整体CPI数据的上行压力。",
+          "url": "https://flash.jin10.com/detail/20260213213855859800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "国债期货早盘收盘，30年期主力合约跌0.35%，10年期主力合约跌0.18%，5年期主力合约跌0.12%，2年期主力合约跌0.02%。",
           "url": "https://wallstreetcn.com/livenews/3054877",
           "source": "华尔街见闻-快讯",
@@ -1816,9 +1938,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "波罗的海干散货指数跌0.57%，至2083点。",
+          "url": "https://wallstreetcn.com/livenews/3055210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "美国总统特朗普：只要我想谈，我就和他们谈。",
@@ -1830,6 +1963,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "在CPI数据公布后，2026年美联储降息幅度预期已升至61个基点，而此前仅为58个基点。",
+          "url": "https://flash.jin10.com/detail/20260213213830408800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "美国总统特朗普：我猜未来一个月内或许能达成协议。",
@@ -1868,7 +2012,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 37,
       "titles": [
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -1879,8 +2023,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时29分 ~ 21时05分]"
+          "appearance_count": 14,
+          "time_info": "[10时29分 ~ 22时42分]"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -1893,8 +2037,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时55分 ~ 21时05分]"
+          "appearance_count": 12,
+          "time_info": "[12时55分 ~ 22时42分]"
         },
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -1918,8 +2062,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时29分 ~ 21时05分]"
+          "appearance_count": 14,
+          "time_info": "[10时29分 ~ 22时42分]"
+        },
+        {
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时51分 ~ 22时42分]"
         },
         {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
@@ -1935,17 +2092,15 @@
           "time_info": "[06时35分 ~ 15时51分]"
         },
         {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
           "ranks": [
-            8,
-            7,
-            6
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时51分 ~ 21时05分]"
+          "appearance_count": 10,
+          "time_info": "[15时51分 ~ 22时42分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -1959,17 +2114,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 10时30分]"
-        },
-        {
-          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
-          "url": "https://www.zhihu.com/question/2005568531748648323",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时51分 ~ 21时05分]"
         },
         {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
@@ -2160,15 +2304,70 @@
           "time_info": "[06时35分 ~ 07时32分]"
         },
         {
+          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2289929",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "美股存储芯片概念股盘前下跌，Sandisk跌超3%、美光科技跌超2%、西部数据涨跌超2%、希捷科技跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3055237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
+          "url": "https://wallstreetcn.com/articles/3765660",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "Moderna第四季度营收6.78亿美元，同比下降30%，市场预期6.251亿美元。 第四季度每股亏损2.11美元，去年同期每股亏损2.91美元。 预计全年营收同比增长最高可达10%。 预计全年资本支出为2亿至3亿美元，市场预期为2.653亿美元。 Moderna美股盘前跌幅收窄至0.5%。",
           "url": "https://wallstreetcn.com/livenews/3055196",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "百度美股盘前跌超4%。 蔚来美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3055232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3055230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "美股七巨头收盘播报｜苹果创4月份以来最差单日表现",
@@ -2193,6 +2392,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "美国CPI数据公布后，美股期货短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3055223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "美股七巨头收盘播报｜苹果创去年4月份以来最差单日表现",
           "url": "https://wallstreetcn.com/livenews/3054738",
           "source": "华尔街见闻-快讯",
@@ -2215,6 +2425,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "阿里巴巴美股盘前跌幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3055214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "美股饱受AI焦虑摧残 亚洲芯片制造龙头企业受全球资金追捧",
           "url": "https://wallstreetcn.com/livenews/3054952",
           "source": "华尔街见闻-快讯",
@@ -2232,6 +2453,20 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时51分 ~ 22时42分]"
+        },
+        {
           "title": "Deepseek被指变冷淡了",
           "url": "https://s.weibo.com/weibo?q=%23Deepseek%E8%A2%AB%E6%8C%87%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -2245,20 +2480,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 10时30分]"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时51分 ~ 21时05分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -2344,7 +2565,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -2358,6 +2579,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "谷歌母公司Alphabet涨幅迅速扩大至0.8%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3054634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "欧盟将于4月前就针对谷歌的DMA框架下AI草案措施展开咨询",
+          "url": "https://wallstreetcn.com/livenews/3055238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "阿里、谷歌接连“出手” AI购物元年将至？",
+          "url": "https://www.cls.cn/detail/2288802",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 10时30分]"
+        },
+        {
+          "title": "欧盟将在六个月内完成对谷歌(GOOG.O)的反垄断调查程序。",
+          "url": "https://flash.jin10.com/detail/20260213215534534800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "欧盟将于4月就《数字市场法》下针对谷歌(GOOG.O)的拟议措施展开磋商。",
+          "url": "https://flash.jin10.com/detail/20260213215318727800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
+          "url": "https://flash.jin10.com/detail/20260213002134729800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "谷歌：今日发布Gemini 3深度思考重大升级。与科学家和研究人员紧密合作，推出升级版Gemini 3深度思考模型，以应对研究挑战。",
+          "url": "https://flash.jin10.com/detail/20260213002057451800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
         }
       ]
     },
@@ -2527,7 +2831,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -2537,8 +2841,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时29分 ~ 21时05分]"
+          "appearance_count": 14,
+          "time_info": "[10时29分 ~ 22时42分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -2583,62 +2887,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌母公司Alphabet涨幅迅速扩大至0.8%，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3054634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
         },
         {
-          "title": "阿里、谷歌接连“出手” AI购物元年将至？",
-          "url": "https://www.cls.cn/detail/2288802",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 10时30分]"
-        },
-        {
-          "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
-          "url": "https://flash.jin10.com/detail/20260213002134729800",
+          "title": "机构：1月CPI基本符合预期 10y美债收益率创今年新低",
+          "url": "https://flash.jin10.com/detail/20260213214717860800",
           "source": "金十数据",
           "ranks": [
-            19
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "谷歌：今日发布Gemini 3深度思考重大升级。与科学家和研究人员紧密合作，推出升级版Gemini 3深度思考模型，以应对研究挑战。",
-          "url": "https://flash.jin10.com/detail/20260213002057451800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "22时42分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周四（2月12日）纽约尾盘，ICE美元指数涨0.10%，报96.925点，日内交投区间为96.744-97.074点，整体呈现出三波V形走势。 彭博美元指数涨0.01%，报1181.99点，日内交投区间为1179.58-1183.49点。",
@@ -2663,6 +2928,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时35分]"
+        },
+        {
+          "title": "现货黄金涨势稍后回落，最新报4987美元/盎司；美元指数DXY有所反弹，最新报96.93。",
+          "url": "https://flash.jin10.com/detail/20260213214236124800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         }
       ]
     }
