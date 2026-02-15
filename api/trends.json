@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T17:35:25.287721+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-02-15T18:29:42.726443+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 17时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 18时29分]"
         },
         {
           "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
@@ -88,6 +88,17 @@
           "time_info": "[00时33分 ~ 10时30分]"
         },
         {
+          "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
+          "url": "https://news.ifeng.com/c/8ql7NDkYK2B",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时56分 ~ 18时29分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
           "url": "https://flash.jin10.com/detail/20260214195624100800",
           "source": "金十数据",
@@ -111,17 +122,6 @@
           "time_info": "[00时33分 ~ 07时28分]"
         },
         {
-          "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
-          "url": "https://news.ifeng.com/c/8ql7NDkYK2B",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 17时35分]"
-        },
-        {
           "title": "警方辟谣“上海突发地面塌陷”",
           "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E4%B8%8A%E6%B5%B7%E7%AA%81%E5%8F%91%E5%9C%B0%E9%9D%A2%E5%A1%8C%E9%99%B7%E2%80%9D",
           "source": "百度热搜",
@@ -142,6 +142,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 06时27分]"
+        },
+        {
+          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
+          "url": "https://news.ifeng.com/c/8qlaP330gp4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 18时29分]"
         },
         {
           "title": "特朗普：北约看在我的份上付了5%国防支出",
@@ -179,27 +190,17 @@
           "time_info": "[12时56分 ~ 15时02分]"
         },
         {
-          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
-          "url": "https://news.ifeng.com/c/8qlaP330gp4",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
           "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
           "source": "澎湃新闻",
           "ranks": [
             11,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时35分]"
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 18时29分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -208,11 +209,38 @@
           "ranks": [
             9,
             22,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 17时35分]"
+          "appearance_count": 4,
+          "time_info": "[15时02分 ~ 18时29分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
+          "url": "https://www.toutiao.com/trending/7606703474663063593/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 18时29分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 18时29分]"
         },
         {
           "title": "奥巴马回应被特朗普恶搞成猴",
@@ -221,18 +249,6 @@
           "ranks": [
             16,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时35分]"
-        },
-        {
-          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
-          "url": "https://www.toutiao.com/trending/7606703474663063593/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            15
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -249,18 +265,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时02分 ~ 16时37分]"
-        },
-        {
-          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时35分]"
         }
       ]
     },
@@ -293,8 +297,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时29分 ~ 17时35分]"
+          "appearance_count": 10,
+          "time_info": "[10时29分 ~ 18时29分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -416,11 +420,12 @@
           "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 18时29分]"
         }
       ]
     },
@@ -473,11 +478,12 @@
           "ranks": [
             8,
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 17时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 18时29分]"
         }
       ]
     }
