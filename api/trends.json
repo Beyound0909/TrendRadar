@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T17:57:40.351621+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-02-16T18:55:30.230454+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "奥巴马回应被特朗普恶搞成猿猴",
@@ -171,28 +171,6 @@
           "time_info": "[04时31分 ~ 15时07分]"
         },
         {
-          "title": "特朗普签令决定对向古巴提供石油的国家采取关税措施，俄大使：完全疯狂",
-          "url": "https://wallstreetcn.com/livenews/3055714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "巴基斯坦KSE-100指数跌3%，报173919.40点。",
-          "url": "https://wallstreetcn.com/livenews/3055713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
           "title": "日本12月设备利用指数 101.3，前值100。",
           "url": "https://flash.jin10.com/detail/20260216123915965800",
           "source": "金十数据",
@@ -229,6 +207,20 @@
           "time_info": "13时01分"
         },
         {
+          "title": "日经225指数收跌0.2%，报56806.41点。 日本东证指数收跌0.8%，报3787.38点。",
+          "url": "https://wallstreetcn.com/livenews/3055689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 18时55分]"
+        },
+        {
           "title": "日本12月设备利用指数环比 1.3%，前值 -5.3%。",
           "url": "https://wallstreetcn.com/livenews/3055682",
           "source": "华尔街见闻-快讯",
@@ -255,17 +247,28 @@
           "time_info": "[00时35分 ~ 04时31分]"
         },
         {
-          "title": "日经225指数收跌0.2%，报56806.41点。 日本东证指数收跌0.8%，报3787.38点。",
-          "url": "https://wallstreetcn.com/livenews/3055689",
+          "title": "特朗普签令决定对向古巴提供石油的国家采取关税措施，俄大使：完全疯狂",
+          "url": "https://wallstreetcn.com/livenews/3055714",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12,
-            23
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时07分 ~ 17时57分]"
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时55分]"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数跌3%，报173919.40点。",
+          "url": "https://wallstreetcn.com/livenews/3055713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时55分]"
         },
         {
           "title": "市场消息：据报道，特朗普政府最高制裁官员约翰·赫尔利即将卸任负责恐怖主义和金融情报的副部长一职，原因是他与财政部长斯科特·贝森特关系紧张，目前正在讨论他可能出任大使一职。",
@@ -356,6 +359,19 @@
           "time_info": "[16时53分 ~ 17时57分]"
         },
         {
+          "title": "香港楼市美联楼价指数蛇年涨7.33%，创近8个农历年最大涨幅",
+          "url": "https://wallstreetcn.com/livenews/3055697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时55分]"
+        },
+        {
           "title": "富时中国A50指数期货开盘涨0.29%。",
           "url": "https://wallstreetcn.com/livenews/3055657",
           "source": "华尔街见闻-快讯",
@@ -382,16 +398,16 @@
           "time_info": "[10时26分 ~ 15时07分]"
         },
         {
-          "title": "香港楼市美联楼价指数蛇年涨7.33%，创近8个农历年最大涨幅",
-          "url": "https://wallstreetcn.com/livenews/3055697",
-          "source": "华尔街见闻-快讯",
+          "title": "港股三大指数均收涨",
+          "url": "https://www.douyin.com/hot/2402867",
+          "source": "抖音",
           "ranks": [
-            6,
-            17
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时55分]"
         },
         {
           "title": "印度NIFTY 50指数上涨0.5%。",
@@ -464,18 +480,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 15时07分]"
-        },
-        {
-          "title": "港股三大指数均收涨",
-          "url": "https://www.douyin.com/hot/2402867",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时57分]"
         },
         {
           "title": "美联储降息预期持续降温",
@@ -566,6 +570,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-16）",
+          "url": "https://flash.jin10.com/detail/20260216182530535800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "日本执政联盟小党“维新会”领袖：在当前日元疲软的情况下，日本央行有可能进一步加息。",
           "url": "https://flash.jin10.com/detail/20260216092620674800",
           "source": "金十数据",
@@ -654,6 +669,17 @@
           "time_info": "16时53分"
         },
         {
+          "title": "达索系统股票暂停交易，最新下跌7.6%。",
+          "url": "https://flash.jin10.com/detail/20260216175251441800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "富时中国A50指数期货开涨0.29%。",
           "url": "https://flash.jin10.com/detail/20260216090130290800",
           "source": "金十数据",
@@ -696,6 +722,20 @@
           "time_info": "[00时34分 ~ 15时07分]"
         },
         {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 18时55分]"
+        },
+        {
           "title": "OpenClaw之父加入OpenAI",
           "url": "https://search.bilibili.com/all?keyword=OpenClaw%E4%B9%8B%E7%88%B6%E5%8A%A0%E5%85%A5OpenAI",
           "source": "bilibili 热搜",
@@ -705,19 +745,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
-        },
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 17时57分]"
         },
         {
           "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
@@ -807,8 +834,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时34分 ~ 17时57分]"
+          "appearance_count": 20,
+          "time_info": "[00时34分 ~ 18时55分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -831,11 +858,40 @@
           "url": "https://wallstreetcn.com/livenews/3055703",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "大摩：市场开始买美债了",
+          "url": "https://www.toutiao.com/trending/7607327141323083327/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
+        },
+        {
+          "title": "避险模式！大摩：市场开始买美债了",
+          "url": "https://wallstreetcn.com/articles/3765775",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时57分"
+          "time_info": "18时55分"
         }
       ]
     },
@@ -866,8 +922,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时55分]"
         }
       ]
     },
@@ -885,23 +941,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时34分 ~ 10时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "大摩：市场开始买美债了",
-          "url": "https://www.toutiao.com/trending/7607327141323083327/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时06分 ~ 15时07分]"
         }
       ]
     }
