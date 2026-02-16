@@ -1,66 +1,95 @@
 {
-  "generated_at": "2026-02-17T02:48:28.912211+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-02-17T03:34:36.842534+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
-          "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
-          "url": "https://flash.jin10.com/detail/20260217020218911800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "欧盟经济事务专员Dombrovskis：必须观察“欧元发挥更大国际作用”时的汇率影响。",
-          "url": "https://wallstreetcn.com/livenews/3055821",
+          "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3055826",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "03时34分"
         },
         {
-          "title": "周一（2月16日）纽约尾盘，标普500股指期货最终涨0.03%，道指期货涨0.08%，纳斯达克100股指期货跌0.24%。 罗素2000股指期货跌0.36%。",
-          "url": "https://wallstreetcn.com/livenews/3055820",
+          "title": "布伦特4月原油期货收报68.65美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3055824",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "03时34分"
         },
         {
-          "title": "美国总统特朗普：联邦政府绝不会为任何成本超支承担一分钱责任！ 但联邦政府愿意介入协商，以确保此类情况不会发生。",
-          "url": "https://flash.jin10.com/detail/20260217014752278800",
+          "title": "特朗普：“和平委员会”将决定如何使用50亿美元加沙援款",
+          "url": "https://flash.jin10.com/detail/20260217024524973800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "03时34分"
         },
         {
-          "title": "美国总统特朗普：反对纽约州和新泽西州的Gateway项目，该项目的成本将比预期高出数十亿美元。",
-          "url": "https://flash.jin10.com/detail/20260217014706786800",
+          "title": "据纽约邮报：特朗普称“和平委员会”将商讨如何使用为加沙项目筹集的50亿美元资金。",
+          "url": "https://flash.jin10.com/detail/20260217024318964800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "03时34分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周一（2月16日），南非富时/JSE非洲领先40可交易指数收涨0.28%，至11.28万点上方。",
+          "url": "https://wallstreetcn.com/livenews/3055800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时34分]"
+        },
+        {
+          "title": "希腊雅典证交所综合指数收跌0.43%，报2279.10点。",
+          "url": "https://wallstreetcn.com/livenews/3055798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时34分]"
+        },
+        {
+          "title": "欧盟经济事务专员Dombrovskis：必须观察“欧元发挥更大国际作用”时的汇率影响。",
+          "url": "https://wallstreetcn.com/livenews/3055821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时34分]"
         },
         {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
@@ -76,30 +105,16 @@
           "time_info": "[00时49分 ~ 02时48分]"
         },
         {
-          "title": "非洲股市收盘播报｜周一（2月16日），南非富时/JSE非洲领先40可交易指数收涨0.28%，至11.28万点上方。",
-          "url": "https://wallstreetcn.com/livenews/3055800",
+          "title": "周一（2月16日）纽约尾盘，标普500股指期货最终涨0.03%，道指期货涨0.08%，纳斯达克100股指期货跌0.24%。 罗素2000股指期货跌0.36%。",
+          "url": "https://wallstreetcn.com/livenews/3055820",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            13,
-            21
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时48分]"
-        },
-        {
-          "title": "希腊雅典证交所综合指数收跌0.43%，报2279.10点。",
-          "url": "https://wallstreetcn.com/livenews/3055798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时48分]"
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时34分]"
         },
         {
           "title": "金十图示：2026年02月17日（周二）全球股市指数-欧洲市场（收盘）",
@@ -107,11 +122,60 @@
           "source": "金十数据",
           "ranks": [
             3,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 03时34分]"
+        },
+        {
+          "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
+          "url": "https://flash.jin10.com/detail/20260217020218911800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时34分]"
+        },
+        {
+          "title": "美国总统特朗普：联邦政府绝不会为任何成本超支承担一分钱责任！ 但联邦政府愿意介入协商，以确保此类情况不会发生。",
+          "url": "https://flash.jin10.com/detail/20260217014752278800",
+          "source": "金十数据",
+          "ranks": [
+            4,
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时40分 ~ 02时48分]"
+          "time_info": "[02时48分 ~ 03时34分]"
+        },
+        {
+          "title": "美国总统特朗普：反对纽约州和新泽西州的Gateway项目，该项目的成本将比预期高出数十亿美元。",
+          "url": "https://flash.jin10.com/detail/20260217014706786800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时34分]"
+        },
+        {
+          "title": "宇树科技股票",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E8%82%A1%E7%A5%A8%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时34分]"
         },
         {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
@@ -127,6 +191,19 @@
           "time_info": "[00时49分 ~ 02时48分]"
         },
         {
+          "title": "明晟公司MSCI北欧国家指数大致收平，报385.58点。 在十个板块中，北欧医疗保健板块跌幅最大。 DSV A/S跌3.1%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3055805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 03时34分]"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2026年2月17日 周二",
           "url": "https://flash.jin10.com/detail/20260217001000002800",
           "source": "金十数据",
@@ -140,15 +217,17 @@
           "time_info": "[00时49分 ~ 02时48分]"
         },
         {
-          "title": "宇树科技股票",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E8%82%A1%E7%A5%A8%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3055802",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11,
+            19,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时48分]"
+          "time_info": "[01时40分 ~ 03时34分]"
         },
         {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
@@ -164,28 +243,16 @@
           "time_info": "[00时49分 ~ 02时48分]"
         },
         {
-          "title": "明晟公司MSCI北欧国家指数大致收平，报385.58点。 在十个板块中，北欧医疗保健板块跌幅最大。 DSV A/S跌3.1%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3055805",
+          "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
+          "url": "https://wallstreetcn.com/livenews/3055815",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            16
+            7,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时40分 ~ 02时48分]"
-        },
-        {
-          "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3055802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 02时48分]"
+          "time_info": "[02时48分 ~ 03时34分]"
         },
         {
           "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
@@ -212,17 +279,6 @@
           "time_info": "[00时49分 ~ 01时40分]"
         },
         {
-          "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
-          "url": "https://wallstreetcn.com/livenews/3055815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
           "title": "德国DAX 30指数初步收跌0.39%，报24815.58点。 法国股指初步收涨0.15%，意大利股指初步收涨0.18%、银行指数涨0.56%，英国股指初步收涨0.20%。",
           "url": "https://wallstreetcn.com/livenews/3055804",
           "source": "华尔街见闻-快讯",
@@ -243,6 +299,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "特朗普：若国会无法通过，将颁布行政令强制选民出示身份证投票",
+          "url": "https://flash.jin10.com/detail/20260217021035538800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时34分"
         }
       ]
     },
@@ -259,8 +326,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时34分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -268,11 +335,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时34分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -301,8 +369,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时34分]"
         }
       ]
     },
