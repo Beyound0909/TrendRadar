@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T16:53:37.560886+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2026-02-16T17:57:40.351621+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "奥巴马回应被特朗普恶搞成猿猴",
@@ -171,6 +171,28 @@
           "time_info": "[04时31分 ~ 15时07分]"
         },
         {
+          "title": "特朗普签令决定对向古巴提供石油的国家采取关税措施，俄大使：完全疯狂",
+          "url": "https://wallstreetcn.com/livenews/3055714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数跌3%，报173919.40点。",
+          "url": "https://wallstreetcn.com/livenews/3055713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "日本12月设备利用指数 101.3，前值100。",
           "url": "https://flash.jin10.com/detail/20260216123915965800",
           "source": "金十数据",
@@ -180,17 +202,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
-        },
-        {
-          "title": "金十图示：2026年02月16日（周一）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260216161941523800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "特朗普：和平委员会成员已承诺提供逾50亿美元资金",
@@ -218,6 +229,20 @@
           "time_info": "13时01分"
         },
         {
+          "title": "日本12月设备利用指数环比 1.3%，前值 -5.3%。",
+          "url": "https://wallstreetcn.com/livenews/3055682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 17时57分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
           "url": "https://flash.jin10.com/detail/20260215183847434800",
           "source": "金十数据",
@@ -228,6 +253,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时35分 ~ 04时31分]"
+        },
+        {
+          "title": "日经225指数收跌0.2%，报56806.41点。 日本东证指数收跌0.8%，报3787.38点。",
+          "url": "https://wallstreetcn.com/livenews/3055689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时07分 ~ 17时57分]"
         },
         {
           "title": "市场消息：据报道，特朗普政府最高制裁官员约翰·赫尔利即将卸任负责恐怖主义和金融情报的副部长一职，原因是他与财政部长斯科特·贝森特关系紧张，目前正在讨论他可能出任大使一职。",
@@ -243,19 +281,6 @@
           "time_info": "[05时28分 ~ 07时30分]"
         },
         {
-          "title": "日本12月设备利用指数环比 1.3%，前值 -5.3%。",
-          "url": "https://wallstreetcn.com/livenews/3055682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 16时53分]"
-        },
-        {
           "title": "洛阳钼业港股涨幅扩大至7%，老铺黄金港股涨5.55%，此前获纳入恒生指数成份股。",
           "url": "https://wallstreetcn.com/livenews/3055662",
           "source": "华尔街见闻-快讯",
@@ -267,18 +292,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时26分 ~ 15时07分]"
-        },
-        {
-          "title": "日经225指数收跌0.2%，报56806.41点。 日本东证指数收跌0.8%，报3787.38点。",
-          "url": "https://wallstreetcn.com/livenews/3055689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时07分 ~ 16时53分]"
         },
         {
           "title": "消息人士：特朗普曾支持以打击伊朗弹道导弹 美军已就协助方案进行讨论",
@@ -331,6 +344,18 @@
           "time_info": "[06时28分 ~ 07时30分]"
         },
         {
+          "title": "金十图示：2026年02月16日（周一）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260216161941523800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时57分]"
+        },
+        {
           "title": "富时中国A50指数期货开盘涨0.29%。",
           "url": "https://wallstreetcn.com/livenews/3055657",
           "source": "华尔街见闻-快讯",
@@ -357,6 +382,30 @@
           "time_info": "[10时26分 ~ 15时07分]"
         },
         {
+          "title": "香港楼市美联楼价指数蛇年涨7.33%，创近8个农历年最大涨幅",
+          "url": "https://wallstreetcn.com/livenews/3055697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时57分]"
+        },
+        {
+          "title": "印度NIFTY 50指数上涨0.5%。",
+          "url": "https://flash.jin10.com/detail/20260216161632793800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时57分]"
+        },
+        {
           "title": "英国2月Rightmove平均房屋要价指数同比 0%，前值 0.5%。",
           "url": "https://wallstreetcn.com/livenews/3055652",
           "source": "华尔街见闻-快讯",
@@ -379,6 +428,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时26分 ~ 13时01分]"
+        },
+        {
+          "title": "英国富时100指数金融板块开盘上涨1.2%；科技板块开盘上涨0.7%，公用事业板块开盘下跌0.9%。",
+          "url": "https://flash.jin10.com/detail/20260216160256702800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时57分]"
         },
         {
           "title": "截至早盘收盘，日经225指数跌0.3%，报56,790.70点。",
@@ -405,6 +466,18 @@
           "time_info": "[13时01分 ~ 15时07分]"
         },
         {
+          "title": "港股三大指数均收涨",
+          "url": "https://www.douyin.com/hot/2402867",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时57分]"
+        },
+        {
           "title": "美联储降息预期持续降温",
           "url": "https://www.toutiao.com/trending/7606443721643507718/",
           "source": "今日头条",
@@ -414,17 +487,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时06分 ~ 15时07分]"
-        },
-        {
-          "title": "香港楼市美联楼价指数蛇年涨7.33%，创近8个农历年最大涨幅",
-          "url": "https://wallstreetcn.com/livenews/3055697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "蛇年最后一个交易日，港股低开，恒生指数翻红，智谱涨7.6%股价创新高，MINIMAX-WP涨10%",
@@ -458,17 +520,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
-        },
-        {
-          "title": "印度NIFTY 50指数上涨0.5%。",
-          "url": "https://flash.jin10.com/detail/20260216161632793800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "宁德时代(03750.HK)盘初涨幅扩大至3.0%，下月初将正式加入香港恒生指数成份股。",
@@ -548,17 +599,6 @@
           "time_info": "10时26分"
         },
         {
-          "title": "英国富时100指数金融板块开盘上涨1.2%；科技板块开盘上涨0.7%，公用事业板块开盘下跌0.9%。",
-          "url": "https://flash.jin10.com/detail/20260216160256702800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
           "title": "日经225指数回吐早盘涨幅，现跌0.2%，报56851.21。",
           "url": "https://flash.jin10.com/detail/20260216092441161800",
           "source": "金十数据",
@@ -609,18 +649,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "港股三大指数均收涨",
-          "url": "https://www.douyin.com/hot/2402867",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -678,6 +707,19 @@
           "time_info": "10时26分"
         },
         {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 17时57分]"
+        },
+        {
           "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2006637072895738078",
           "source": "知乎",
@@ -715,19 +757,6 @@
           "time_info": "[06时28分 ~ 07时30分]"
         },
         {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 16时53分]"
-        },
-        {
           "title": "市场消息：OpenAI正就聘请OpenClaw创始人进行深入谈判。",
           "url": "https://flash.jin10.com/detail/20260216042956745800",
           "source": "金十数据",
@@ -747,7 +776,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -758,7 +787,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
@@ -766,7 +795,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -778,8 +807,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时34分 ~ 16时53分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 17时57分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -796,6 +825,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时28分 ~ 07时30分]"
+        },
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/livenews/3055703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         }
       ]
     },
@@ -822,11 +862,12 @@
           "url": "https://wallstreetcn.com/articles/3765769",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时57分]"
         }
       ]
     },
