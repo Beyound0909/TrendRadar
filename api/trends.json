@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T22:49:57.212929+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2026-02-17T23:55:44.174101+08:00",
+  "total_titles_processed": 1728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 94,
+      "match_count": 106,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时41分 ~ 22时49分]"
+          "appearance_count": 4,
+          "time_info": "[19时41分 ~ 23时55分]"
         },
         {
           "title": "欧盟经济事务专员Dombrovskis：必须观察“欧元发挥更大国际作用”时的汇率影响。",
@@ -167,15 +167,15 @@
           "time_info": "16时52分"
         },
         {
-          "title": "标普500指数低开16.31点，跌幅0.24%，报6819.86点； 道琼斯工业平均指数高开24.44点，涨幅0.05%，报49525.37点； 纳斯达克综合指数低开151.91点，跌幅0.67%，报22394.76点。",
-          "url": "https://wallstreetcn.com/livenews/3056020",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普关税引发损失，企业加大货币对冲力度",
+          "url": "https://flash.jin10.com/detail/20260217231948785800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时49分"
+          "time_info": "23时55分"
         },
         {
           "title": "瑞士市场指数小幅走高，创下新纪录高位，上涨0.4%。",
@@ -198,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
+        },
+        {
+          "title": "Prosus于2月9-13日当周按均价44.2229欧元回购股票239.4919万股，合计1.059亿欧元（折合约1.259亿美元）。 Naspers同期按919.5514南非兰特回购股票106.9750万股，合计约9.837亿兰特（折合约0.618亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3056035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "周一（2月16日），现货黄金最终跌0.99%，报4992.08美元/盎司，全天处于下跌状态，整体呈现出W形走势。 COMEX黄金期货跌0.66%，报5013.10美元/盎司。",
@@ -240,6 +251,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时32分 ~ 10时23分]"
+        },
+        {
+          "title": "哈梅内伊：如今我要说，特朗普也做不到",
+          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时50分 ~ 23时55分]"
         },
         {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
@@ -370,6 +392,18 @@
           "time_info": "[03时34分 ~ 05时32分]"
         },
         {
+          "title": "标普500指数低开16.31点，跌幅0.24%，报6819.86点； 道琼斯工业平均指数高开24.44点，涨幅0.05%，报49525.37点； 纳斯达克综合指数低开151.91点，跌幅0.67%，报22394.76点。",
+          "url": "https://wallstreetcn.com/livenews/3056020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时55分]"
+        },
+        {
           "title": "美国三大股指期货盘前普跌，日元反弹，黄金一度跌破4900，白银暴跌5%",
           "url": "https://wallstreetcn.com/articles/3765810",
           "source": "华尔街见闻",
@@ -471,17 +505,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时31分 ~ 10时23分]"
-        },
-        {
-          "title": "哈梅内伊：如今我要说，特朗普也做不到",
-          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时50分 ~ 22时49分]"
         },
         {
           "title": "特朗普称他将间接参与美国和伊朗谈判",
@@ -648,6 +671,18 @@
           "time_info": "[18时50分 ~ 19时41分]"
         },
         {
+          "title": "美国天然气期货跌近5%，现报2.966美元/百万英热。",
+          "url": "https://wallstreetcn.com/livenews/3056015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时55分]"
+        },
+        {
           "title": "泰国SET指数涨1%，报1452.67点。",
           "url": "https://wallstreetcn.com/livenews/3055910",
           "source": "华尔街见闻-快讯",
@@ -798,15 +833,15 @@
           "time_info": "18时50分"
         },
         {
-          "title": "美国天然气期货跌近5%，现报2.966美元/百万英热。",
-          "url": "https://wallstreetcn.com/livenews/3056015",
+          "title": "美国2月NAHB房产市场指数 36，前值 37。",
+          "url": "https://wallstreetcn.com/livenews/3056032",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时49分"
+          "time_info": "23时55分"
         },
         {
           "title": "德国DAX 30指数初步收跌0.39%，报24815.58点。 法国股指初步收涨0.15%，意大利股指初步收涨0.18%、银行指数涨0.56%，英国股指初步收涨0.20%。",
@@ -875,6 +910,17 @@
           "time_info": "19时41分"
         },
         {
+          "title": "美国房屋建筑商信心指数跌至五个月低点",
+          "url": "https://flash.jin10.com/detail/20260217231113266800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "日本东证指数下跌1.0%，报3,749.41。",
           "url": "https://flash.jin10.com/detail/20260217132131107800",
           "source": "金十数据",
@@ -895,6 +941,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普总统将前往佐治亚州，聚焦经济与可负担性。",
+          "url": "https://flash.jin10.com/detail/20260217230755682800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "金十图示：2026年02月17日（周二）全球股市指数-欧洲市场（盘初）",
@@ -925,7 +982,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -947,7 +1004,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -974,6 +1031,28 @@
           "time_info": "18时50分"
         },
         {
+          "title": "波罗的海干散货指数下跌，海岬型船和超灵便型船拖累整体运价",
+          "url": "https://flash.jin10.com/detail/20260217230621203800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "恐慌指数VIX触及逾一周高位，最新上涨1.25点至22.45。",
+          "url": "https://flash.jin10.com/detail/20260217230430549800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "印度NIFTY IT指数上涨1.4%。",
           "url": "https://flash.jin10.com/detail/20260217114956902800",
           "source": "金十数据",
@@ -983,6 +1062,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "美国1月谘商会就业趋势指数 105.06，前值104.27。",
+          "url": "https://flash.jin10.com/detail/20260217230218347800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "金十数据整理：每日期货市场要闻速递（2026-02-17）",
@@ -1007,13 +1097,24 @@
           "time_info": "18时50分"
         },
         {
+          "title": "金十图示：2026年02月17日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260217230049324800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "美联储古尔斯比：（我是）美联储主席人选凯文·沃什的支持者。",
           "url": "https://flash.jin10.com/detail/20260217215825012800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1024,7 +1125,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1040,13 +1141,24 @@
           "time_info": "13时59分"
         },
         {
+          "title": "美国2月NAHB房产市场指数 36，预期38，前值37。",
+          "url": "https://flash.jin10.com/detail/20260217230002182800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "提醒：北京时间21:30，将公布加拿大1月CPI、美国2月纽约联储制造业指数、美国12月商业库存环比。",
           "url": "https://wallstreetcn.com/livenews/3055995",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1068,7 +1180,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1101,7 +1213,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1112,9 +1224,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
+        },
+        {
+          "title": "纳斯达克综合指数跌超1%、标普500指数现跌0.62%。英伟达(NVDA.O)跌超1.5%。",
+          "url": "https://flash.jin10.com/detail/20260217225425633800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "波罗的海干散货指数下跌0.24%，至2095点。",
@@ -1123,7 +1246,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1137,12 +1260,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "金十图示：2026年02月17日（周二）华尔街恐惧与贪婪指数（美盘初）",
+          "url": "https://flash.jin10.com/detail/20260217225046705800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -1155,30 +1289,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时23分 ~ 22时49分]"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌1.4%，全球科技股指数ETF跌近1%，全球航空业ETF涨近2%，银行业ETF涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3056022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "美股盘初：纳指跌0.7%，黄金股、科技股普跌",
-          "url": "https://wallstreetcn.com/livenews/3056021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
+          "appearance_count": 13,
+          "time_info": "[10时23分 ~ 23时55分]"
         },
         {
           "title": "奈飞股价美股盘前一度上涨1.6%。",
@@ -1190,6 +1302,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌1.4%，全球科技股指数ETF跌近1%，全球航空业ETF涨近2%，银行业ETF涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3056022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时55分]"
+        },
+        {
+          "title": "美股盘初：纳指跌0.7%，黄金股、科技股普跌",
+          "url": "https://wallstreetcn.com/livenews/3056021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时55分]"
         },
         {
           "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
@@ -1220,11 +1356,12 @@
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时55分]"
         },
         {
           "title": "美股盘前，部分热门中概股走强，百度(BIDU.O)涨超1%、万国数据(GDS.O)涨0.8%、阿里巴巴(BABA.N)涨0.7%。",
@@ -1238,13 +1375,24 @@
           "time_info": "17时53分"
         },
         {
+          "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
+          "url": "https://wallstreetcn.com/livenews/3056025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "周二美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3056004",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1288,7 +1436,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         }
@@ -1446,8 +1594,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时50分 ~ 22时49分]"
+          "appearance_count": 5,
+          "time_info": "[18时50分 ~ 23时55分]"
         },
         {
           "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
