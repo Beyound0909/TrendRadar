@@ -1,37 +1,12 @@
 {
-  "generated_at": "2026-02-17T23:55:44.174101+08:00",
-  "total_titles_processed": 1728,
+  "generated_at": "2026-02-18T01:01:17.964484+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 106,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "特朗普：将间接参与美伊谈判",
-          "url": "https://news.ifeng.com/c/8qoM4xu3Rme",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时23分 ~ 18时50分]"
-        },
-        {
-          "title": "宇树科技股票",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E8%82%A1%E7%A5%A8%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            13,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 10时23分]"
-        },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
           "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
@@ -40,217 +15,52 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时41分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
-          "title": "欧盟经济事务专员Dombrovskis：必须观察“欧元发挥更大国际作用”时的汇率影响。",
-          "url": "https://wallstreetcn.com/livenews/3055821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            16,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时48分 ~ 07时32分]"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年2月17日 周二",
-          "url": "https://flash.jin10.com/detail/20260217001000002800",
+          "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
+          "url": "https://flash.jin10.com/detail/20260218005046026800",
           "source": "金十数据",
           "ranks": [
-            10,
-            13,
-            26,
-            8,
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 15时12分]"
-        },
-        {
-          "title": "周一（2月16日）纽约尾盘，标普500股指期货最终涨0.03%，道指期货涨0.08%，纳斯达克100股指期货跌0.24%。 罗素2000股指期货跌0.36%。",
-          "url": "https://wallstreetcn.com/livenews/3055820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时48分 ~ 06时32分]"
-        },
-        {
-          "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
-          "url": "https://wallstreetcn.com/livenews/3055826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时34分 ~ 07时32分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜周一（2月16日），南非富时/JSE非洲领先40可交易指数收涨0.28%，至11.28万点上方。",
-          "url": "https://wallstreetcn.com/livenews/3055800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 04时35分]"
-        },
-        {
-          "title": "布伦特4月原油期货收报68.65美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3055824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时34分 ~ 07时32分]"
-        },
-        {
-          "title": "分析师：尽管关税有所降低，但印度卢比汇率仍将在长期内走弱",
-          "url": "https://flash.jin10.com/detail/20260217144834864800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "01时01分"
         },
         {
-          "title": "希腊雅典证交所综合指数收跌0.43%，报2279.10点。",
-          "url": "https://wallstreetcn.com/livenews/3055798",
+          "title": "明晟公司MSCI北欧国家指数涨0.2%，报386.38点。 在十个板块中，北欧医疗保健板块涨幅最大。 Genmab A/S涨4.4%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3056062",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 04时35分]"
-        },
-        {
-          "title": "特朗普与马里兰州州长就管道破裂和污水泄漏的应对措施发生冲突",
-          "url": "https://flash.jin10.com/detail/20260217164530562800",
-          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时52分"
+          "time_info": "01时01分"
         },
         {
-          "title": "特朗普关税引发损失，企业加大货币对冲力度",
-          "url": "https://flash.jin10.com/detail/20260217231948785800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "瑞士市场指数小幅走高，创下新纪录高位，上涨0.4%。",
-          "url": "https://flash.jin10.com/detail/20260217164233480800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "美国天然气期货日内跌幅达3.00%，现报3.145美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260217192409745800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "Prosus于2月9-13日当周按均价44.2229欧元回购股票239.4919万股，合计1.059亿欧元（折合约1.259亿美元）。 Naspers同期按919.5514南非兰特回购股票106.9750万股，合计约9.837亿兰特（折合约0.618亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/3056035",
+          "title": "德国DAX 30指数初步收涨0.69%，报24972.94点。 法国股指初步收涨0.48%，意大利股指初步收涨0.72%、银行指数涨1.41%，英国股指初步收涨0.59%。",
+          "url": "https://wallstreetcn.com/livenews/3056059",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时55分"
+          "time_info": "01时01分"
         },
         {
-          "title": "周一（2月16日），现货黄金最终跌0.99%，报4992.08美元/盎司，全天处于下跌状态，整体呈现出W形走势。 COMEX黄金期货跌0.66%，报5013.10美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3055838",
+          "title": "欧洲STOXX 600指数初步收涨0.38%，报620.88点。 欧元区STOXX 50指数初步收涨0.74%，报6022.93点。 富时泛欧绩优300指数初步收涨0.46%，报2476.17点。",
+          "url": "https://wallstreetcn.com/livenews/3056058",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            14,
-            18,
-            29
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时32分 ~ 10时23分]"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数大致收平，报385.58点。 在十个板块中，北欧医疗保健板块跌幅最大。 DSV A/S跌3.1%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3055805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时40分 ~ 05时32分]"
-        },
-        {
-          "title": "周一（2月16日），彭博电动汽车价格回报指数跌0.20%，报3624.68点。",
-          "url": "https://wallstreetcn.com/livenews/3055837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时32分 ~ 10时23分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
           "title": "哈梅内伊：如今我要说，特朗普也做不到",
@@ -260,1323 +70,135 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时50分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
-          "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
-          "url": "https://flash.jin10.com/detail/20260217003445113800",
+          "title": "今日重点关注的财经数据与事件：2026年2月18日 周三",
+          "url": "https://flash.jin10.com/detail/20260218003000000800",
           "source": "金十数据",
           "ranks": [
-            4,
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时48分]"
-        },
-        {
-          "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
-          "url": "https://flash.jin10.com/detail/20260217020218911800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时35分]"
-        },
-        {
-          "title": "欧洲斯托克50指数开盘跌0.2%，德国DAX指数跌0.25%，英国富时100指数涨0.15%，法国CAC 40指数跌0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3055917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 18时50分]"
-        },
-        {
-          "title": "金十图示：2026年02月17日（周二）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260217004722031800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时40分 ~ 03时34分]"
-        },
-        {
-          "title": "日经225指数收跌0.4%，报56,566.49点。 日本东证指数收跌0.7%，报3,761.55点。",
-          "url": "https://wallstreetcn.com/livenews/3055893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 16时52分]"
-        },
-        {
-          "title": "美国总统特朗普：联邦政府绝不会为任何成本超支承担一分钱责任！ 但联邦政府愿意介入协商，以确保此类情况不会发生。",
-          "url": "https://flash.jin10.com/detail/20260217014752278800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时35分]"
-        },
-        {
-          "title": "特朗普：“和平委员会”将决定如何使用50亿美元加沙援款",
-          "url": "https://flash.jin10.com/detail/20260217024524973800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时32分]"
-        },
-        {
-          "title": "美联储3月维持利率不变的概率为92.2%",
-          "url": "https://flash.jin10.com/detail/20260217060323843800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时32分]"
-        },
-        {
-          "title": "美国总统特朗普：反对纽约州和新泽西州的Gateway项目，该项目的成本将比预期高出数十亿美元。",
-          "url": "https://flash.jin10.com/detail/20260217014706786800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时35分]"
-        },
-        {
-          "title": "据纽约邮报：特朗普称“和平委员会”将商讨如何使用为加沙项目筹集的50亿美元资金。",
-          "url": "https://flash.jin10.com/detail/20260217024318964800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时32分]"
-        },
-        {
-          "title": "标普500指数低开16.31点，跌幅0.24%，报6819.86点； 道琼斯工业平均指数高开24.44点，涨幅0.05%，报49525.37点； 纳斯达克综合指数低开151.91点，跌幅0.67%，报22394.76点。",
-          "url": "https://wallstreetcn.com/livenews/3056020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 23时55分]"
-        },
-        {
-          "title": "美国三大股指期货盘前普跌，日元反弹，黄金一度跌破4900，白银暴跌5%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时09分 ~ 22时49分]"
-        },
-        {
-          "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
-          "url": "https://wallstreetcn.com/livenews/3055815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时48分 ~ 05时32分]"
-        },
-        {
-          "title": "日本12月第三产业活动指数月率 -0.5%，前值-0.20%。",
-          "url": "https://flash.jin10.com/detail/20260217123134447800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 13时59分]"
-        },
-        {
-          "title": "2028年应当由谁来接棒 特朗普称万斯和卢比奥都很“出色”",
-          "url": "https://wallstreetcn.com/livenews/3055943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时41分]"
-        },
-        {
-          "title": "周一（2月16日）纽约尾盘，纽约证交所ARCA金矿开采商指数涨0.34%，报2968.14点，亚太盘初显著走高，北京时间13:00以来持续交投于2968点附近。",
-          "url": "https://wallstreetcn.com/livenews/3055845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时32分 ~ 12时54分]"
-        },
-        {
-          "title": "澳洲联储会议纪要：自上次会议以来就业-通胀目标风险发生重大变化。 政策决策的重点是数据和前景评估。 自2025年中期以来金融状况“大幅宽松”。 未来的政策决策需要应对不断变化的风险。 在保护就业的同时让CPI降温的策略是适当的。 加息反映出物价压力持续存在。 工资和较高的单位劳动力成本表明就业市场“有点紧张”。",
-          "url": "https://wallstreetcn.com/livenews/3055864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时23分 ~ 15时12分]"
-        },
-        {
-          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
-          "url": "https://wallstreetcn.com/livenews/3055862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时23分 ~ 15时12分]"
-        },
-        {
-          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时31分 ~ 10时23分]"
-        },
-        {
-          "title": "特朗普称他将间接参与美国和伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3055860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时23分 ~ 15时12分]"
-        },
-        {
-          "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3055802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 04时35分]"
-        },
-        {
-          "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
-          "url": "https://flash.jin10.com/detail/20260217002446619800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时48分]"
-        },
-        {
-          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
-          "url": "https://wallstreetcn.com/livenews/3055873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 15时12分]"
-        },
-        {
-          "title": "纽约白银期货跌1.8%，钯金涨2.1%",
-          "url": "https://wallstreetcn.com/livenews/3055844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时32分 ~ 10时23分]"
-        },
-        {
-          "title": "“你真不喜欢特朗普”，捷克官员惹怒希拉里：说他好才该反思",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32620953",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时59分 ~ 15时12分]"
-        },
-        {
-          "title": "日经225指数开盘涨0.06%。",
-          "url": "https://wallstreetcn.com/livenews/3055861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时23分 ~ 13时59分]"
-        },
-        {
-          "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
-          "url": "https://flash.jin10.com/detail/20260216235622274800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时48分]"
-        },
-        {
-          "title": "新西兰1月食品价格指数年率 4.6%，前值4%。",
-          "url": "https://flash.jin10.com/detail/20260217054552509800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时32分]"
-        },
-        {
-          "title": "新西兰1月食品价格指数月率 2.5%，前值-0.30%。",
-          "url": "https://flash.jin10.com/detail/20260217054536960800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普称希拉里精神错乱",
-          "url": "https://wallstreetcn.com/livenews/3055955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 21时09分]"
-        },
-        {
-          "title": "日本12月第三产业活动指数环比 -0.5%，前值 -0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3055882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 15时12分]"
-        },
-        {
-          "title": "美国土安全部长与下属传出婚外情，特朗普回应：没听说过，会去了解",
-          "url": "https://wallstreetcn.com/livenews/3055940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时41分]"
-        },
-        {
-          "title": "美国天然气期货跌近5%，现报2.966美元/百万英热。",
-          "url": "https://wallstreetcn.com/livenews/3056015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 23时55分]"
-        },
-        {
-          "title": "泰国SET指数涨1%，报1452.67点。",
-          "url": "https://wallstreetcn.com/livenews/3055910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时53分]"
-        },
-        {
-          "title": "德国2月ZEW经济现况指数 -65.9，前值 -72.7。",
-          "url": "https://wallstreetcn.com/livenews/3055939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时41分]"
-        },
-        {
-          "title": "欧元区2月ZEW经济景气指数 39.4，前值 40.8。",
-          "url": "https://wallstreetcn.com/livenews/3055938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时41分]"
-        },
-        {
-          "title": "德国2月ZEW经济景气指数 58.3，前值 59.6。",
-          "url": "https://wallstreetcn.com/livenews/3055937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时41分]"
-        },
-        {
-          "title": "特朗普：若国会无法通过，将颁布行政令强制选民出示身份证投票",
-          "url": "https://flash.jin10.com/detail/20260217021035538800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 04时35分]"
-        },
-        {
-          "title": "特朗普反应低调 日本怕中美搞大动作",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 16时52分]"
-        },
-        {
-          "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
-          "url": "https://flash.jin10.com/detail/20260216234427683800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时40分]"
-        },
-        {
-          "title": "波罗的海干散货指数上涨，船运价格全面走高",
-          "url": "https://flash.jin10.com/detail/20260216233916573800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时40分]"
-        },
-        {
-          "title": "日经225指数延续跌势，现跌0.7%，报56390.22。",
-          "url": "https://flash.jin10.com/detail/20260217095937503800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "01时01分"
         },
         {
-          "title": "市场消息：越南最高领导人将于本周三启程前往美国，出席特朗普 “和平委员会” 的首次会议。",
-          "url": "https://flash.jin10.com/detail/20260217122724799800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
-          "url": "https://flash.jin10.com/detail/20260217095902766800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "机构：美元持续小幅攀升 无视市场对美联储约三次降息的预期",
-          "url": "https://flash.jin10.com/detail/20260217162516203800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "欧元区2月ZEW经济现况指数 -13.6，前值-18.1。",
-          "url": "https://flash.jin10.com/detail/20260217180546542800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
-          "title": "美国2月NAHB房产市场指数 36，前值 37。",
-          "url": "https://wallstreetcn.com/livenews/3056032",
+          "title": "标普500指数转涨。",
+          "url": "https://wallstreetcn.com/livenews/3056052",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "德国DAX 30指数初步收跌0.39%，报24815.58点。 法国股指初步收涨0.15%，意大利股指初步收涨0.18%、银行指数涨0.56%，英国股指初步收涨0.20%。",
-          "url": "https://wallstreetcn.com/livenews/3055804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "欧洲STOXX 600指数初步收涨0.14%，报618.54点。 欧元区STOXX 50指数初步收跌0.02%，报5984点。 富时泛欧绩优300指数初步收涨0.17%，报2464.62点。",
-          "url": "https://wallstreetcn.com/livenews/3055803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "德国投资者预期指数意外下滑 经济复苏信心受挫",
-          "url": "https://wallstreetcn.com/livenews/3055952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
-          "url": "https://flash.jin10.com/detail/20260217040455048800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "分析师：澳洲联储2月会议纪要料详细阐述加息理由并强化紧缩倾向",
-          "url": "https://flash.jin10.com/detail/20260217063341173800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "特朗普称希拉里精神错乱",
-          "url": "https://flash.jin10.com/detail/20260217191010466800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "美国房屋建筑商信心指数跌至五个月低点",
-          "url": "https://flash.jin10.com/detail/20260217231113266800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "日本东证指数下跌1.0%，报3,749.41。",
-          "url": "https://flash.jin10.com/detail/20260217132131107800",
-          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "01时01分"
         },
         {
-          "title": "欧元区2月ZEW经济景气指数 39.4，前值40.8。",
-          "url": "https://flash.jin10.com/detail/20260217180037041800",
+          "title": "美国总统特朗普：马里兰、弗吉尼亚州和华盛顿特区应对波托马克河的污水泄漏负责，必须立即着手处理。如果他们无法完成工作，就必须礼貌地给我打电话，请我帮忙修复。",
+          "url": "https://flash.jin10.com/detail/20260218000855742800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时50分"
+          "time_info": "01时01分"
         },
         {
-          "title": "白宫新闻秘书莱维特：特朗普总统将前往佐治亚州，聚焦经济与可负担性。",
-          "url": "https://flash.jin10.com/detail/20260217230755682800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "金十图示：2026年02月17日（周二）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260217161324383800",
+          "title": "据Politico：美国国土安全部发言人特里西娅·麦克劳克林将离开特朗普政府。",
+          "url": "https://flash.jin10.com/detail/20260218000727610800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时52分"
+          "time_info": "01时01分"
         },
         {
-          "title": "德国2月ZEW经济现况指数 -65.9，预期-65.7，前值-72.7。",
-          "url": "https://flash.jin10.com/detail/20260217180025989800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
-          "title": "美国天然气期货日内大跌6.00%，现报3.048美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260217221055079800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "就业疲软加速宽松预期 交易员加大押注英国央行今年将两次降息",
-          "url": "https://wallstreetcn.com/livenews/3055914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "美国芝加哥联储主席Goolsbee：服务业通胀尚未得到抑制。 如果通胀下行，未来还将有多次降息。 将3%视为中性利率的宽松目标。 希望看到通胀重返2%的证据。 大力支持凯文·沃什担任美联储主席。",
-          "url": "https://wallstreetcn.com/livenews/3056006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "金十图示：2026年02月16日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260217052334485800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "德国2月ZEW经济景气指数 58.3，预期65，前值59.6。",
-          "url": "https://flash.jin10.com/detail/20260217180016427800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
-          "title": "波罗的海干散货指数下跌，海岬型船和超灵便型船拖累整体运价",
-          "url": "https://flash.jin10.com/detail/20260217230621203800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "恐慌指数VIX触及逾一周高位，最新上涨1.25点至22.45。",
-          "url": "https://flash.jin10.com/detail/20260217230430549800",
+          "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
+          "url": "https://flash.jin10.com/detail/20260217235812714800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时55分"
+          "time_info": "01时01分"
         },
         {
-          "title": "印度NIFTY IT指数上涨1.4%。",
-          "url": "https://flash.jin10.com/detail/20260217114956902800",
-          "source": "金十数据",
+          "title": "希腊雅典证交所综合指数收跌1.14%，报2253.06点。",
+          "url": "https://wallstreetcn.com/livenews/3056043",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时54分"
+          "time_info": "01时01分"
         },
         {
-          "title": "美国1月谘商会就业趋势指数 105.06，前值104.27。",
-          "url": "https://flash.jin10.com/detail/20260217230218347800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "金十数据整理：每日期货市场要闻速递（2026-02-17）",
-          "url": "https://flash.jin10.com/detail/20260217100327181800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "德国及欧元区2月ZEW经济景气指数将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260217175000000800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
-          "title": "金十图示：2026年02月17日（周二）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260217230049324800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "美联储古尔斯比：（我是）美联储主席人选凯文·沃什的支持者。",
-          "url": "https://flash.jin10.com/detail/20260217215825012800",
+          "title": "市场消息：美国商品期货交易委员会（CFTC）主席宣布“通过执法进行监管”的时代结束。",
+          "url": "https://flash.jin10.com/detail/20260217233843568800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时49分"
+          "time_info": "01时01分"
         },
         {
-          "title": "美国2月纽约联储制造业指数 7.1，预期 7.4，前值 7.7。",
-          "url": "https://wallstreetcn.com/livenews/3055998",
+          "title": "Prosus于2月9-13日当周按均价44.2229欧元回购股票239.4919万股，合计1.059亿欧元（折合约1.259亿美元）。 Naspers同期按919.5514南非兰特回购股票106.9750万股，合计约9.837亿兰特（折合约0.618亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3056035",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "印度SENSEX指数转涨，最新上涨0.1%。",
-          "url": "https://flash.jin10.com/detail/20260217124525764800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "美国2月NAHB房产市场指数 36，预期38，前值37。",
-          "url": "https://flash.jin10.com/detail/20260217230002182800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "提醒：北京时间21:30，将公布加拿大1月CPI、美国2月纽约联储制造业指数、美国12月商业库存环比。",
-          "url": "https://wallstreetcn.com/livenews/3055995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "WTI原油期货日内涨幅扩大至1.00%，现报63.52美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260217113320191800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "美联储古尔斯比：需要一些证据表明通胀正重返2%。",
-          "url": "https://flash.jin10.com/detail/20260217215553380800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "日经225指数日内跌幅达1.00%。",
-          "url": "https://flash.jin10.com/detail/20260217113302894800",
-          "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时54分"
+          "time_info": "01时01分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-17）",
-          "url": "https://flash.jin10.com/detail/20260217183508117800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "美国总统特朗普的儿子埃里克·特朗普投资一家拥有美国国防部合同的无人机公司。",
-          "url": "https://flash.jin10.com/detail/20260217215547535800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "美联储古尔斯比：将3%视为中性利率的宽松目标。",
-          "url": "https://flash.jin10.com/detail/20260217215516254800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "纳斯达克综合指数跌超1%、标普500指数现跌0.62%。英伟达(NVDA.O)跌超1.5%。",
-          "url": "https://flash.jin10.com/detail/20260217225425633800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "波罗的海干散货指数下跌0.24%，至2095点。",
-          "url": "https://wallstreetcn.com/livenews/3055991",
+          "title": "美国住宅建筑商信心指数跌至五个月低点，受可负担性困扰拖累",
+          "url": "https://wallstreetcn.com/livenews/3056033",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "分析师：澳洲联储会议纪要或暗示将进一步加息",
-          "url": "https://flash.jin10.com/detail/20260217112535968800",
-          "source": "金十数据",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "金十图示：2026年02月17日（周二）华尔街恐惧与贪婪指数（美盘初）",
-          "url": "https://flash.jin10.com/detail/20260217225046705800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
-          "url": "https://wallstreetcn.com/articles/3765796",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时23分 ~ 23时55分]"
-        },
-        {
-          "title": "奈飞股价美股盘前一度上涨1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3055985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌1.4%，全球科技股指数ETF跌近1%，全球航空业ETF涨近2%，银行业ETF涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3056022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 23时55分]"
-        },
-        {
-          "title": "美股盘初：纳指跌0.7%，黄金股、科技股普跌",
-          "url": "https://wallstreetcn.com/livenews/3056021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 23时55分]"
-        },
-        {
-          "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
-          "url": "https://wallstreetcn.com/livenews/3055925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 18时50分]"
-        },
-        {
-          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
-          "url": "https://wallstreetcn.com/articles/3765781",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时23分 ~ 13时59分]"
-        },
-        {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 23时55分]"
-        },
-        {
-          "title": "美股盘前，部分热门中概股走强，百度(BIDU.O)涨超1%、万国数据(GDS.O)涨0.8%、阿里巴巴(BABA.N)涨0.7%。",
-          "url": "https://flash.jin10.com/detail/20260217170620021800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
-          "url": "https://wallstreetcn.com/livenews/3056025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3056004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "Paramount美股盘前涨超4%，报道称华纳兄弟探索将暂时重启与Paramount的交易谈判。",
-          "url": "https://wallstreetcn.com/livenews/3055969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
-          "title": "美股盘前，部分明星科技股走软，AMD(AMD.O)跌1.3%、英特尔(INTC.O)跌近1%、美光科技(MU.O)跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260217170115300800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "提醒：美股今日因假期休市一天。",
-          "url": "https://wallstreetcn.com/livenews/3055774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌超1%，标普500指数期货跌0.6%，道指期货跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3055992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 07时32分]"
-        },
-        {
-          "title": "OpenAI：系统（恢复）全面运作。",
-          "url": "https://wallstreetcn.com/livenews/3055842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时32分 ~ 10时23分]"
-        },
-        {
-          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
-          "url": "https://wallstreetcn.com/livenews/3055834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时32分 ~ 07时32分]"
-        },
-        {
-          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
-          "url": "https://www.cls.cn/detail/2290903",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时53分]"
-        },
-        {
-          "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
-          "url": "https://flash.jin10.com/detail/20260217050055263800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时32分]"
-        },
-        {
-          "title": "OpenAI：系统已恢复全面运作。",
-          "url": "https://flash.jin10.com/detail/20260217052259501800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "time_info": "01时01分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/articles/3765786",
-          "source": "华尔街见闻",
+          "title": "Gemini Space Station（GEMI）：本公司美国IPO之后，首席财务官（CFO）Dan Chen、首席运营官（COO）Marshall Beard、首席法务官（CLO）Tyler Meade离职。",
+          "url": "https://wallstreetcn.com/livenews/3056053",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时49分 ~ 17时53分]"
-        },
-        {
-          "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时49分 ~ 21时09分]"
-        },
-        {
-          "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
-          "url": "https://flash.jin10.com/detail/20260216233255611800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时40分]"
-        },
-        {
-          "title": "市场消息：联合利华与谷歌云达成五年合作，将使用谷歌云的先进人工智能、数据和平台。",
-          "url": "https://flash.jin10.com/detail/20260217160309287800",
-          "source": "金十数据",
-          "ranks": [
-            28
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时52分"
+          "time_info": "01时01分"
+        },
+        {
+          "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
+          "url": "https://wallstreetcn.com/livenews/3056046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
         }
       ]
     },
@@ -1586,27 +208,53 @@
       "titles": [
         {
           "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            12,
-            11,
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时50分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
-          "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
-          "url": "https://flash.jin10.com/detail/20260217171116932800",
-          "source": "金十数据",
+          "title": "金价银价直线跳水",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
+          "url": "https://wallstreetcn.com/articles/3765796",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时53分"
+          "time_info": "01时01分"
         }
       ]
     },
@@ -1615,15 +263,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "避险模式！大摩：市场开始买美债了",
-          "url": "https://wallstreetcn.com/articles/3765775",
-          "source": "华尔街见闻",
+          "title": "美债的信用游戏会崩溃吗",
+          "url": "https://www.toutiao.com/trending/7607813472549604890/",
+          "source": "今日头条",
           "ranks": [
-            8
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "01时01分"
         }
       ]
     },
@@ -1632,17 +280,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "周一（2月16日）纽约尾盘，ICE美元指数涨0.16%，报97.066点，日内交投区间为96.907-97.120点。 彭博美元指数涨0.13%，报1182.94点，日内交投区间为1181.33-1183.44点。",
-          "url": "https://wallstreetcn.com/livenews/3055833",
+          "title": "非洲股市收盘播报｜周二（2月17日），南非富时/JSE非洲领先40可交易指数收跌1.40%，至11.14万点下方。 现货黄金跌超2.5%，持稳于北京时间22:01刷新的日低4843.51美元附近。",
+          "url": "https://wallstreetcn.com/livenews/3056044",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            18,
-            22
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时32分 ~ 07时32分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         }
       ]
     }
