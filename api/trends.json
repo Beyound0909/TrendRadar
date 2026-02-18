@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T04:43:02.690976+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-02-19T05:37:53.431530+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 52,
+      "match_count": 69,
       "titles": [
         {
           "title": "WTI 3月原油期货收报65.19美元/桶。 NYMEX 3月天然气期货收报3.0110美元/百万英热单位。 NYMEX 3月汽油期货收报1.9680美元/加仑，NYMEX 3月取暖油期货收报2.5187美元/加仑。",
@@ -43,28 +43,6 @@
           "time_info": "[01时14分 ~ 01时15分]"
         },
         {
-          "title": "美联储纪要显示官员担忧重心转移：劳动力市场风险减退，通胀忧虑上升",
-          "url": "https://flash.jin10.com/detail/20260219035520851800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "美联储传声筒：美联储会议纪要显示降息意愿寥寥 多位官员支持“双向”描述",
-          "url": "https://flash.jin10.com/detail/20260219034840292800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
           "url": "https://wallstreetcn.com/articles/3765833",
           "source": "华尔街见闻",
@@ -72,8 +50,41 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时58分 ~ 04时43分]"
+          "appearance_count": 6,
+          "time_info": "[02时58分 ~ 05时37分]"
+        },
+        {
+          "title": "金十图示：2026年02月18日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260219051901394800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美国财长贝森特赞赏美联储理事兼负责金融监管事务的副主席鲍曼对于银行抵押贷款的态度。",
+          "url": "https://flash.jin10.com/detail/20260219051805587800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美国财长贝森特赞赏美联储理事兼负责金融监管事务的副主席鲍曼对于银行抵押贷款的态度。",
+          "url": "https://wallstreetcn.com/livenews/3056493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
@@ -136,6 +147,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时52分 ~ 04时43分]"
+        },
+        {
+          "title": "美联储纪要显示官员担忧重心转移：劳动力市场风险减退，通胀忧虑上升",
+          "url": "https://flash.jin10.com/detail/20260219035520851800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时37分]"
         },
         {
           "title": "美联储会议纪要公布后，现货黄金保持涨势，现涨2.3%，报4992美元/盎司。",
@@ -208,6 +231,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时52分 ~ 04时43分]"
+        },
+        {
+          "title": "美联储传声筒：美联储会议纪要显示降息意愿寥寥 多位官员支持“双向”描述",
+          "url": "https://flash.jin10.com/detail/20260219034840292800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时37分]"
         },
         {
           "title": "周三（2月18日），美联储隔夜逆回购协议（RRP）使用规模为8.56亿美元（交易对手10家），上个交易日报4.41亿美元。",
@@ -473,6 +508,17 @@
           "time_info": "03时52分"
         },
         {
+          "title": "13位美国司法部长就终止能源和基础设施项目资金一事起诉特朗普政府。",
+          "url": "https://flash.jin10.com/detail/20260219045300437800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
           "title": "机构：建议押注美联储下半年降息力度低于预期",
           "url": "https://wallstreetcn.com/livenews/3056398",
           "source": "华尔街见闻-快讯",
@@ -495,6 +541,39 @@
           "time_info": "02时59分"
         },
         {
+          "title": "Booking四季度营收63.5亿美元，分析师预期61.3亿美元。 四季度房晚销售2.85亿，分析师预期2.7761亿。 预计一季度营收按恒定汇率将增长7%-9%，方案将增长5%-7%。",
+          "url": "https://wallstreetcn.com/livenews/3056480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美媒：特朗普的和平委员会将承诺50亿美元用于重建加沙",
+          "url": "https://flash.jin10.com/detail/20260219044932847800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.04%，报7580.87点。 热门中概股里，拼多多初步收涨超1%，美团、百胜中国、新东方、腾讯、比亚迪、百度、阿里至多涨超0.9%，理想跌0.3%，小马智行跌0.9%，文远知行跌3.8%。 ETF中，中国科技指数ETF（CQQQ）收涨0.79%，中概互联网指数ETF（KWEB）收涨0.52%。 XtrackersHarvest中证50（ASHS）收涨0.61%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
+          "url": "https://wallstreetcn.com/livenews/3056478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
           "title": "欧洲基础资源股指数上涨4%，因金属价格走强推动该板块反弹。",
           "url": "https://flash.jin10.com/detail/20260219000310844800",
           "source": "金十数据",
@@ -512,9 +591,42 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "据华尔街日报：美国总统特朗普的和平委员会将承诺50亿美元用于重建加沙。",
+          "url": "https://flash.jin10.com/detail/20260219044503887800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "标普500指数收涨38.09点，涨幅0.56%，报6881.31点。 道琼斯工业平均指数收涨129.47点，涨幅0.26%，报49662.66点。 纳斯达克综合指数（纳指）收涨175.251点，涨幅0.78%，报22753.635点。 纳斯达克100指数收涨197.272点，涨幅0.80%，报24898.868点。 纳斯达克生物科技指数收涨0.44%，报5996.81点。 费城半导体指数收涨0.96%，报8214.354点。 费城证交所KBW银行指数收涨1.33%，报169.67点。 道琼斯KBW地区银行指数收跌0.37%，报137.63点。",
+          "url": "https://wallstreetcn.com/livenews/3056476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美国总统特朗普：我们可以关照大西洋。",
+          "url": "https://wallstreetcn.com/livenews/3056475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年2月19日 周四",
@@ -526,6 +638,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "美国总统特朗普：我将在国情咨文中谈到经济问题。",
+          "url": "https://flash.jin10.com/detail/20260219043351935800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "周三（2月18日），彭博电动汽车价格回报指数涨0.92%，报3639.09点，亚太盘初以来持续走高。 成分股Aurora Innovation涨5.8%，Panasonic株式会社收涨5.38%，意法半导体法国巴黎股价收涨3.84%，优美科欧股收涨3.67%，MobilEye则跌约1.7%，巴拉德动力系统股份跌2%，文远知行跌4.1%。",
+          "url": "https://wallstreetcn.com/livenews/3056472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "特朗普称：若英国对迪戈加西亚岛“失去控制”，将影响盟友地位",
+          "url": "https://wallstreetcn.com/livenews/3056471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "美联储理事鲍曼：仍预计在第一季度末提出新的巴塞尔银行资本规则。",
@@ -548,6 +693,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "阿根廷MERVAL指数收跌3.16%，报272.7万点，低开之后整体持续下挫。",
+          "url": "https://wallstreetcn.com/livenews/3056470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "白宫新闻处宣布，美国总统特朗普将于2月24日向参议院和众议院发表国情咨文。",
@@ -578,9 +734,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "美国总统特朗普兜售股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3056468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "芝加哥小麦期货涨超2.2%，大豆油涨约2.2%，纽约可可跌约3.9%",
+          "url": "https://wallstreetcn.com/livenews/3056467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "美国纽约州州长表示，在美国总统特朗普政府解冻剩余资金后，纽约隧道建设将恢复。",
@@ -592,6 +770,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "美国总统特朗普声称：将在国情咨文中谈论经济形势。",
+          "url": "https://wallstreetcn.com/livenews/3056466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "波罗的海干散货指数逼近一周低点，海岬型船和超灵便型船运价下跌",
@@ -619,7 +808,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -630,8 +819,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 05时37分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -642,8 +831,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 05时37分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -655,8 +844,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 05时37分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -667,8 +856,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 05时37分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -679,8 +868,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 05时37分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -691,8 +880,63 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 05时37分]"
+        },
+        {
+          "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3056498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260219051836764800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260219051816533800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美股高开高走 英伟达收涨1.63%",
+          "url": "https://flash.jin10.com/detail/20260219050439356800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         }
       ]
     },
@@ -762,17 +1006,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "美元指数涨约0.6%",
-          "url": "https://wallstreetcn.com/livenews/3056464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.72%，暂报2816.96点。 MarketVectorTM数字资产100中盘指数涨0.27%，报2819.24点，北京时间23:41曾冲高至2858.83点。 MarketVector数字资产100指数跌0.67%，报13555.77点。 目前，Solana跌3.29%，狗狗币跌0.77%，XRP跌1.48%。 比特币跌0.93%，暂报67072美元；以太坊跌1.26%，暂报1969.18美元。",
           "url": "https://wallstreetcn.com/livenews/3056412",
           "source": "华尔街见闻-快讯",
@@ -783,6 +1016,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 02时59分]"
+        },
+        {
+          "title": "美元指数涨约0.6%",
+          "url": "https://wallstreetcn.com/livenews/3056464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时37分]"
         },
         {
           "title": "美元指数DXY日内涨幅扩大至0.50%，现报97.61。",
@@ -813,6 +1058,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 04时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率普遍涨超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3056469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         }
       ]
     }
