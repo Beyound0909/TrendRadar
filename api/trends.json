@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T14:03:38.781302+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-02-18T15:52:47.091723+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 123,
+      "match_count": 133,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时11分 ~ 14时03分]"
+          "appearance_count": 10,
+          "time_info": "[03时11分 ~ 15时52分]"
         },
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -62,9 +62,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
+          "url": "https://flash.jin10.com/detail/20260218152713560800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
@@ -186,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "特朗普宣布大消息，日本要当冤大头了",
+          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 15时52分]"
         },
         {
           "title": "美国总统特朗普的内阁与顾问开会，讨论中期选举策略。（Politico）",
@@ -382,15 +404,17 @@
           "time_info": "[04时41分 ~ 05时39分]"
         },
         {
-          "title": "特朗普宣布大消息，日本要当冤大头了",
-          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
-          "source": "凤凰网",
+          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
+          "url": "https://wallstreetcn.com/livenews/3056209",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7,
+            12,
+            27
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时27分 ~ 14时03分]"
+          "time_info": "[12时56分 ~ 15时52分]"
         },
         {
           "title": "澳大利亚四季度薪资价格指数（不包括奖金）同比 3.4%，前值 3.4%。",
@@ -404,6 +428,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时27分 ~ 14时03分]"
+        },
+        {
+          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 15时52分]"
         },
         {
           "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
@@ -440,18 +476,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时32分]"
-        },
-        {
-          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
-          "url": "https://wallstreetcn.com/livenews/3056209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 14时03分]"
         },
         {
           "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
@@ -610,18 +634,6 @@
           "time_info": "[06时35分 ~ 07时32分]"
         },
         {
-          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 14时03分]"
-        },
-        {
           "title": "日经225指数涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3056201",
           "source": "华尔街见闻-快讯",
@@ -747,6 +759,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "英国1月零售物价指数同比 3.8%，前值 4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3056233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "美联储理事巴尔：仍认为通胀持续高于2%存在“重大风险”。",
           "url": "https://flash.jin10.com/detail/20260218014447583800",
           "source": "金十数据",
@@ -824,6 +847,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "英国1月零售物价指数环比 -0.5%，前值 0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3056231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "哈梅内伊：如今我要说，特朗普也做不到",
           "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
           "source": "凤凰网",
@@ -857,6 +891,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "英国1月核心零售物价指数同比 3.7%，前值 4.1%。",
+          "url": "https://wallstreetcn.com/livenews/3056230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "美联储理事巴尔：有理由认为价格压力将进一步缓解。",
           "url": "https://flash.jin10.com/detail/20260218014412125800",
           "source": "金十数据",
@@ -888,6 +933,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "金十图示：2026年02月18日（周三）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260218151028482800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.10%，报7584点。 热门中概股里，腾讯音乐初步收跌3.2%，大全新能源跌2.6%，金山云、小马智行跌超2%，万国数据跌1.9%，华住则涨2.9%，携程涨3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.21%，中国科技指数ETF（CQQQ）收涨0.19%。 德银嘉实沪深300指数ETF（ASHR）收涨0.53%，XtrackersHarvest中证50（ASHS）收涨0.56%。",
@@ -976,6 +1032,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "日经225指数收盘上涨1%，报57,143.84点。 日本东证指数收盘上涨1.2%，报3,807.25点。",
+          "url": "https://wallstreetcn.com/livenews/3056227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "美联储理事巴尔：应做好准备，应对人工智能对劳动力市场的颠覆。",
@@ -1286,6 +1353,17 @@
           "time_info": "06时35分"
         },
         {
+          "title": "英国1月零售物价指数月率 -0.5%，预期-0.4%，前值0.70%。",
+          "url": "https://flash.jin10.com/detail/20260218150009023800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "金十图示：2026年02月18日（周三）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260218012312555800",
           "source": "金十数据",
@@ -1314,9 +1392,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "英国1月核心零售物价指数年率 3.7%，前值4.10%。",
+          "url": "https://flash.jin10.com/detail/20260218150008996800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "市场消息：美国商品期货交易委员会（CFTC）主席宣布“通过执法进行监管”的时代结束。",
@@ -1374,6 +1463,17 @@
           "time_info": "06时35分"
         },
         {
+          "title": "英国1月零售物价指数年率 3.8%，预期3.8%，前值4.20%。",
+          "url": "https://flash.jin10.com/detail/20260218150008416800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "Prosus于2月9-13日当周按均价44.2229欧元回购股票239.4919万股，合计1.059亿欧元（折合约1.259亿美元）。 Naspers同期按919.5514南非兰特回购股票106.9750万股，合计约9.837亿兰特（折合约0.618亿美元）。",
           "url": "https://wallstreetcn.com/livenews/3056035",
           "source": "华尔街见闻-快讯",
@@ -1394,6 +1494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "英国1月CPI及零售物价指数月率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260218145000001800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "美国住宅建筑商信心指数跌至五个月低点，受可负担性困扰拖累",
@@ -1423,8 +1534,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 14时03分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 15时52分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -1446,8 +1557,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 14时03分]"
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 15时52分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -1518,8 +1629,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 14时03分]"
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 15时52分]"
         },
         {
           "title": "日用品ETF收跌超1.4%，领跌美股行业ETF，标普能源板块跌约1.4%",
