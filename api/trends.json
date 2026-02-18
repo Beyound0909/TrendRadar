@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T01:15:14.653186+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-19T02:59:15.010782+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 9,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普施压下，日本急忙兑现投资承诺",
@@ -19,15 +19,170 @@
           "time_info": "[01时14分 ~ 01时15分]"
         },
         {
-          "title": "明晟公司MSCI北欧国家指数涨1.4%，创2月6日以来最佳单日表现，报391.29点。 在十个板块中，北欧工业板块涨幅最大。 Kongsberg Gruppen ASA涨5.4%，在一众北欧个股里领跑。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨3.71%。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.66%。",
-          "url": "https://wallstreetcn.com/livenews/3056409",
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
+          "url": "https://wallstreetcn.com/livenews/3056442",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美联储将于十分钟后公布货币政策会议纪要。",
+          "url": "https://flash.jin10.com/detail/20260219025000000800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "高盛CEO改口，承认持有比特币，此前长期对加密货币持怀疑态度",
+          "url": "https://wallstreetcn.com/livenews/3056439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普尚未就停摆问题与民主党议员进行直接对话。",
+          "url": "https://flash.jin10.com/detail/20260219024754983800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时15分"
+          "time_info": "02时59分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨1.4%，创2月6日以来最佳单日表现，报391.29点。 在十个板块中，北欧工业板块涨幅最大。 Kongsberg Gruppen ASA涨5.4%，在一众北欧个股里领跑。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨3.71%。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.66%。",
+          "url": "https://wallstreetcn.com/livenews/3056409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时59分]"
+        },
+        {
+          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
+          "url": "https://wallstreetcn.com/articles/3765833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 02时59分]"
+        },
+        {
+          "title": "美联储理事鲍曼：（适用于美国的）新版巴塞尔协议计划处于在一季度末之前敲定的正轨之上。",
+          "url": "https://wallstreetcn.com/livenews/3056436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗决定不达成协议，美国可能有必要使用迪戈加西亚。",
+          "url": "https://flash.jin10.com/detail/20260219024719874800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "周三（2月18日），美联储隔夜逆回购协议（RRP）使用规模为8.56亿美元（交易对手10家），上个交易日报4.41亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：英国首相斯塔默在就迪戈加西亚签署百年租约一事上犯下了重大错误。",
+          "url": "https://flash.jin10.com/detail/20260219024624113800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：英国首相斯塔默正失去对迪戈加西亚的控制权。",
+          "url": "https://flash.jin10.com/detail/20260219024600016800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：我一直告诉英国首相斯塔默，就国家而言，租约毫无用处。",
+          "url": "https://flash.jin10.com/detail/20260219024522146800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：这片土地不应从英国手中夺走，如果允许这种情况发生，这将是我们伟大盟友身上的一大污点。",
+          "url": "https://flash.jin10.com/detail/20260219024513181800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：英国首相斯塔默无论如何都不应失去对迪戈加西亚的控制，尤其是通过一项充其量只是脆弱的百年租约来实现。",
+          "url": "https://flash.jin10.com/detail/20260219024506455800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普随时准备介入华盛顿特区的供水危机。",
+          "url": "https://flash.jin10.com/detail/20260219024439079800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "机构：建议押注美联储下半年降息力度低于预期",
@@ -36,9 +191,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "布伦特原油期货涨4%，刷新日高至70美元/桶整数位心理关口上方。 WTI原油日内涨幅达4.0%，报64.78美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3056426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国白宫：外交是美国总统特朗普的首选方案。",
+          "url": "https://flash.jin10.com/detail/20260219024156843800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "欧洲基础资源股指数上涨4%，因金属价格走强推动该板块反弹。",
@@ -47,7 +224,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -58,9 +235,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "美联储理事鲍曼：仍预计在第一季度末提出新的巴塞尔银行资本规则。",
+          "url": "https://flash.jin10.com/detail/20260219021836454800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "机构：德国国债正取代日元，成为抗衡“特朗普冲击”的避险新宠",
+          "url": "https://wallstreetcn.com/livenews/3056416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "白宫新闻处宣布，美国总统特朗普将于2月24日向参议院和众议院发表国情咨文。",
@@ -69,9 +268,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了10个对手方的8.56亿美元。",
+          "url": "https://flash.jin10.com/detail/20260219021725295800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "美国纽约州州长表示，在美国总统特朗普政府解冻剩余资金后，纽约隧道建设将恢复。",
@@ -80,7 +290,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -91,7 +301,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -102,7 +312,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         }
@@ -113,37 +323,40 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
-        },
-        {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
           "url": "https://wallstreetcn.com/articles/3765834",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 02时59分]"
+        },
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 02时59分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
           "url": "https://wallstreetcn.com/articles/3765829",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 02时59分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -153,8 +366,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 02时59分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -164,8 +377,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 02时59分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -175,14 +388,14 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 02时59分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌：Lyria 3已在美国上线，并正向其他国家的YouTube创作者推广。",
@@ -191,7 +404,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -202,7 +415,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -213,7 +426,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -224,26 +437,66 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "谷歌推出499美元Pixel 10a，在iPhone 17e发布前登场",
+          "url": "https://wallstreetcn.com/livenews/3056418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.72%，暂报2816.96点。 MarketVectorTM数字资产100中盘指数涨0.27%，报2819.24点，北京时间23:41曾冲高至2858.83点。 MarketVector数字资产100指数跌0.67%，报13555.77点。 目前，Solana跌3.29%，狗狗币跌0.77%，XRP跌1.48%。 比特币跌0.93%，暂报67072美元；以太坊跌1.26%，暂报1969.18美元。",
           "url": "https://wallstreetcn.com/livenews/3056412",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时59分]"
+        },
+        {
+          "title": "美元指数DXY日内涨幅扩大至0.50%，现报97.61。",
+          "url": "https://flash.jin10.com/detail/20260219021838411800",
+          "source": "金十数据",
+          "ranks": [
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时15分"
+          "time_info": "02时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
+          "url": "https://wallstreetcn.com/livenews/3056432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         }
       ]
     }
