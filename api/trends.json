@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T12:56:24.823906+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-02-18T14:03:38.781302+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 121,
+      "match_count": 123,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时11分 ~ 12时56分]"
+          "appearance_count": 9,
+          "time_info": "[03时11分 ~ 14时03分]"
         },
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时11分 ~ 07时32分]"
+        },
+        {
+          "title": "闪迪宣布普通股二次发行定价，每股发行价为545.00美元。将以此特定价格发行5,821,135股增发股票。",
+          "url": "https://flash.jin10.com/detail/20260218135124269800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
         },
         {
           "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
@@ -189,6 +200,32 @@
           "time_info": "[06时35分 ~ 07时32分]"
         },
         {
+          "title": "今日重点关注的财经数据与事件：2026年2月18日 周三",
+          "url": "https://flash.jin10.com/detail/20260218003000000800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 14时03分]"
+        },
+        {
+          "title": "新西兰联储：如果经济按预期发展，货币政策可能会在一段时间内保持宽松。 委员会将继续密切评估数据。 随着经济复苏势头增强，通胀率持续迈向目标区间中点水平，货币政策将逐步正常化。",
+          "url": "https://wallstreetcn.com/livenews/3056194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 14时03分]"
+        },
+        {
           "title": "美联储戴利：需要确保劳动力市场的脆弱性不会演变为实质性疲软。",
           "url": "https://flash.jin10.com/detail/20260218042354589800",
           "source": "金十数据",
@@ -273,18 +310,6 @@
           "time_info": "[01时01分 ~ 02时01分]"
         },
         {
-          "title": "新西兰联储：如果经济按预期发展，货币政策可能会在一段时间内保持宽松。 委员会将继续密切评估数据。 随着经济复苏势头增强，通胀率持续迈向目标区间中点水平，货币政策将逐步正常化。",
-          "url": "https://wallstreetcn.com/livenews/3056194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 12时56分]"
-        },
-        {
           "title": "周二（2月17日）纽约尾盘，标普500股指期货最终涨0.16%，道指期货涨0.10%，纳斯达克100股指期货跌0.13%。 罗素2000股指期货跌0.07%。",
           "url": "https://wallstreetcn.com/livenews/3056158",
           "source": "华尔街见闻-快讯",
@@ -364,20 +389,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 14时03分]"
         },
         {
-          "title": "今日重点关注的财经数据与事件：2026年2月18日 周三",
-          "url": "https://flash.jin10.com/detail/20260218003000000800",
-          "source": "金十数据",
+          "title": "澳大利亚四季度薪资价格指数（不包括奖金）同比 3.4%，前值 3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3056183",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            6
+            9,
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 07时32分]"
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 14时03分]"
         },
         {
           "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
@@ -414,6 +440,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时32分]"
+        },
+        {
+          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
+          "url": "https://wallstreetcn.com/livenews/3056209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 14时03分]"
         },
         {
           "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
@@ -476,18 +514,6 @@
           "time_info": "[06时35分 ~ 07时32分]"
         },
         {
-          "title": "澳大利亚四季度薪资价格指数（不包括奖金）同比 3.4%，前值 3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3056183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 12时56分]"
-        },
-        {
           "title": "周二（2月17日），美联储隔夜逆回购协议（RRP）使用规模为4.41亿美元（交易对手5家），上个交易日报3.77亿美元。",
           "url": "https://wallstreetcn.com/livenews/3056088",
           "source": "华尔街见闻-快讯",
@@ -536,6 +562,18 @@
           "time_info": "[06时35分 ~ 07时32分]"
         },
         {
+          "title": "截至早盘收盘，日经225指数上涨1.2%至57,253.46点；日本东证指数上涨1.4%至3,813.05点。",
+          "url": "https://wallstreetcn.com/livenews/3056205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 14时03分]"
+        },
+        {
           "title": "惠誉：预计特朗普政府将在必要时动用其他权力征收关税。",
           "url": "https://flash.jin10.com/detail/20260218054627557800",
           "source": "金十数据",
@@ -570,6 +608,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时32分]"
+        },
+        {
+          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 14时03分]"
+        },
+        {
+          "title": "日经225指数涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3056201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 14时03分]"
+        },
+        {
+          "title": "新西兰联储主席：利率路径显示年底前可能加息。 在看到经济更强劲、通胀压力更大之前，不打算加息。 希望维持官方现金利率不变以支持经济复苏。",
+          "url": "https://wallstreetcn.com/livenews/3056200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 14时03分]"
         },
         {
           "title": "金十图示：2026年02月17日（周二）华尔街恐惧与贪婪指数（美盘后）",
@@ -673,17 +747,6 @@
           "time_info": "04时41分"
         },
         {
-          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
-          "url": "https://wallstreetcn.com/livenews/3056209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
           "title": "美联储理事巴尔：仍认为通胀持续高于2%存在“重大风险”。",
           "url": "https://flash.jin10.com/detail/20260218014447583800",
           "source": "金十数据",
@@ -723,7 +786,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -838,17 +901,6 @@
           "time_info": "05时39分"
         },
         {
-          "title": "截至早盘收盘，日经225指数上涨1.2%至57,253.46点；日本东证指数上涨1.4%至3,813.05点。",
-          "url": "https://wallstreetcn.com/livenews/3056205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
           "title": "美联储理事巴尔：近期数据表明就业市场正在企稳。",
           "url": "https://flash.jin10.com/detail/20260218014403377800",
           "source": "金十数据",
@@ -877,7 +929,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -948,17 +1000,6 @@
           "time_info": "04时41分"
         },
         {
-          "title": "日经225指数涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3056201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
           "title": "美国总统特朗普：马里兰、弗吉尼亚州和华盛顿特区应对波托马克河的污水泄漏负责，必须立即着手处理。如果他们无法完成工作，就必须礼貌地给我打电话，请我帮忙修复。",
           "url": "https://flash.jin10.com/detail/20260218000855742800",
           "source": "金十数据",
@@ -1014,17 +1055,6 @@
           "time_info": "05时39分"
         },
         {
-          "title": "新西兰联储主席：利率路径显示年底前可能加息。 在看到经济更强劲、通胀压力更大之前，不打算加息。 希望维持官方现金利率不变以支持经济复苏。",
-          "url": "https://wallstreetcn.com/livenews/3056200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
           "title": "据Politico：美国国土安全部发言人特里西娅·麦克劳克林将离开特朗普政府。",
           "url": "https://flash.jin10.com/detail/20260218000727610800",
           "source": "金十数据",
@@ -1053,7 +1083,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -1122,17 +1152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
-        },
-        {
-          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
         },
         {
           "title": "美联储理事巴尔：中性利率水平略有上升，但并未发生剧烈变化。",
@@ -1289,6 +1308,17 @@
           "time_info": "06时35分"
         },
         {
+          "title": "印度NIFTY IT指数延续跌势，最新下跌2.5%。",
+          "url": "https://flash.jin10.com/detail/20260218123646808800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
           "title": "市场消息：美国商品期货交易委员会（CFTC）主席宣布“通过执法进行监管”的时代结束。",
           "url": "https://flash.jin10.com/detail/20260217233843568800",
           "source": "金十数据",
@@ -1393,8 +1423,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 12时56分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 14时03分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -1416,8 +1446,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 14时03分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -1480,6 +1510,18 @@
           "time_info": "[05时39分 ~ 06时35分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 14时03分]"
+        },
+        {
           "title": "日用品ETF收跌超1.4%，领跌美股行业ETF，标普能源板块跌约1.4%",
           "url": "https://wallstreetcn.com/livenews/3056131",
           "source": "华尔街见闻-快讯",
@@ -1502,18 +1544,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时32分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 12时56分]"
         },
         {
           "title": "应用材料美股盘后跌7.6%。",
@@ -1769,7 +1799,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         }
