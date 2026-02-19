@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T18:46:06.914142+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2026-02-19T19:40:36.786276+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 124,
+      "match_count": 126,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时25分 ~ 18时46分]"
+          "appearance_count": 12,
+          "time_info": "[10时25分 ~ 19时40分]"
         },
         {
           "title": "美联储会议纪要暴巨大分歧：一些官员支持进一步降息，一些暗示加息可能",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时25分 ~ 18时46分]"
+          "appearance_count": 12,
+          "time_info": "[10时25分 ~ 19时40分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -146,6 +146,20 @@
           "time_info": "10时26分"
         },
         {
+          "title": "日本银行业协会：市场预计日本央行最快3月加息。",
+          "url": "https://wallstreetcn.com/livenews/3056602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 19时40分]"
+        },
+        {
           "title": "韩国短时暂停KOSDAQ市场程序化股票交易。",
           "url": "https://wallstreetcn.com/livenews/3056557",
           "source": "华尔街见闻-快讯",
@@ -160,17 +174,18 @@
           "time_info": "[10时26分 ~ 15时14分]"
         },
         {
-          "title": "日本银行业协会：市场预计日本央行最快3月加息。",
-          "url": "https://wallstreetcn.com/livenews/3056602",
+          "title": "欧股集体低开，英国富时100指数跌0.2%，德国DAX指数跌0.28%，欧洲斯托克50指数跌0.15%，法国CAC40指数跌0.2%。空客欧股下跌3.8%，因交付指引不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3056600",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            9,
-            20
+            3,
+            11,
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 18时46分]"
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 19时40分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
@@ -197,19 +212,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 04时43分]"
-        },
-        {
-          "title": "欧股集体低开，英国富时100指数跌0.2%，德国DAX指数跌0.28%，欧洲斯托克50指数跌0.15%，法国CAC40指数跌0.2%。空客欧股下跌3.8%，因交付指引不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3056600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 18时46分]"
         },
         {
           "title": "美联储会议纪要：几位官员支持双向利率决策描述，为通胀高企时加息留出空间",
@@ -541,6 +543,18 @@
           "time_info": "[03时52分 ~ 04时43分]"
         },
         {
+          "title": "美国总统特朗普考虑达成一项不包括加拿大的北美贸易协定。",
+          "url": "https://flash.jin10.com/detail/20260219181201454800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时40分]"
+        },
+        {
           "title": "提醒：北京时间03:00，美联储将发布会议纪要。",
           "url": "https://wallstreetcn.com/livenews/3056453",
           "source": "华尔街见闻-快讯",
@@ -551,6 +565,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时52分 ~ 04时43分]"
+        },
+        {
+          "title": "欧洲斯托克600指数跌幅扩大至0.5%；美国股指期货触及盘中低点，纳斯达克100指数期货下跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3056615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时40分]"
         },
         {
           "title": "美国总统特朗普：英国首相斯塔默在就迪戈加西亚签署百年租约一事上犯下了重大错误。",
@@ -575,6 +601,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时52分 ~ 04时43分]"
+        },
+        {
+          "title": "金十图示：2026年02月19日（周四）全球股市指数-亚太市场",
+          "url": "https://flash.jin10.com/detail/20260219180938508800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时40分]"
         },
         {
           "title": "美国总统特朗普：英国首相斯塔默正失去对迪戈加西亚的控制权。",
@@ -625,6 +663,18 @@
           "time_info": "[03时52分 ~ 04时43分]"
         },
         {
+          "title": "德国DAX指数日内跌幅达1.00%。",
+          "url": "https://flash.jin10.com/detail/20260219180325267800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时40分]"
+        },
+        {
           "title": "美国总统特朗普：这片土地不应从英国手中夺走，如果允许这种情况发生，这将是我们伟大盟友身上的一大污点。",
           "url": "https://flash.jin10.com/detail/20260219024513181800",
           "source": "金十数据",
@@ -647,6 +697,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时52分 ~ 04时43分]"
+        },
+        {
+          "title": "意大利富时MIB指数日内跌幅达1.00%。",
+          "url": "https://flash.jin10.com/detail/20260219180242117800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时40分]"
         },
         {
           "title": "白宫新闻秘书Leavitt谈及美国国土安全部（DHS）停摆问题，宣称：美国总统特朗普还没有与民主党沟通。",
@@ -769,6 +831,18 @@
           "time_info": "[05时37分 ~ 06时37分]"
         },
         {
+          "title": "印度NIFTY 50指数跌幅扩大至1.5%。",
+          "url": "https://flash.jin10.com/detail/20260219174545198800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时40分]"
+        },
+        {
           "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
           "url": "https://wallstreetcn.com/livenews/3056538",
           "source": "华尔街见闻-快讯",
@@ -804,28 +878,6 @@
           "time_info": "10时26分"
         },
         {
-          "title": "美国总统特朗普考虑达成一项不包括加拿大的北美贸易协定。",
-          "url": "https://flash.jin10.com/detail/20260219181201454800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "欧洲斯托克600指数跌幅扩大至0.5%；美国股指期货触及盘中低点，纳斯达克100指数期货下跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3056615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
           "title": "金十图示：2026年02月18日（周三）华尔街恐惧与贪婪指数（美盘后）",
           "url": "https://flash.jin10.com/detail/20260219054020259800",
           "source": "金十数据",
@@ -848,15 +900,15 @@
           "time_info": "07时33分"
         },
         {
-          "title": "金十图示：2026年02月19日（周四）全球股市指数-亚太市场",
-          "url": "https://flash.jin10.com/detail/20260219180938508800",
+          "title": "投资管理公司Aviva Investors预计日本央行将加息两次。",
+          "url": "https://flash.jin10.com/detail/20260219184627677800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时40分"
         },
         {
           "title": "市场消息：韩国短时暂停KOSDAQ市场程序化股票交易。",
@@ -870,17 +922,6 @@
           "time_info": "10时26分"
         },
         {
-          "title": "德国DAX指数日内跌幅达1.00%。",
-          "url": "https://flash.jin10.com/detail/20260219180325267800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
           "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
           "url": "https://wallstreetcn.com/livenews/3056519",
           "source": "华尔街见闻-快讯",
@@ -892,15 +933,15 @@
           "time_info": "07时33分"
         },
         {
-          "title": "意大利富时MIB指数日内跌幅达1.00%。",
-          "url": "https://flash.jin10.com/detail/20260219180242117800",
+          "title": "特朗普政府扩大了移民与海关执法局拘留合法难民的权力。",
+          "url": "https://flash.jin10.com/detail/20260219184006351800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时40分"
         },
         {
           "title": "美联储会议纪要：几乎所有与会者都支持在1月份暂停利率行动。多位与会者表示，如果通胀按其预期下降，进一步降息很可能将是合适的。",
@@ -1055,17 +1096,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
-        },
-        {
-          "title": "印度NIFTY 50指数跌幅扩大至1.5%。",
-          "url": "https://flash.jin10.com/detail/20260219174545198800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
         },
         {
           "title": "标普500指数收涨38.09点，涨幅0.56%，报6881.31点。 道琼斯工业平均指数收涨129.47点，涨幅0.26%，报49662.66点。 纳斯达克综合指数（纳指）收涨175.251点，涨幅0.78%，报22753.635点。 纳斯达克100指数收涨197.272点，涨幅0.80%，报24898.868点。 纳斯达克生物科技指数收涨0.44%，报5996.81点。 费城半导体指数收涨0.96%，报8214.354点。 费城证交所KBW银行指数收涨1.33%，报169.67点。 道琼斯KBW地区银行指数收跌0.37%，报137.63点。",
@@ -1445,19 +1475,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时36分 ~ 18时46分]"
-        },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
           "url": "https://wallstreetcn.com/articles/3765810",
@@ -1469,6 +1488,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时14分 ~ 06时37分]"
+        },
+        {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[06时36分 ~ 19时40分]"
         },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -1507,8 +1538,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时14分 ~ 18时46分]"
+          "appearance_count": 23,
+          "time_info": "[01时14分 ~ 19时40分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -1519,8 +1550,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时14分 ~ 18时46分]"
+          "appearance_count": 23,
+          "time_info": "[01时14分 ~ 19时40分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1534,8 +1565,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时14分 ~ 18时46分]"
+          "appearance_count": 23,
+          "time_info": "[01时14分 ~ 19时40分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1546,8 +1577,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时50分 ~ 18时46分]"
+          "appearance_count": 6,
+          "time_info": "[16时50分 ~ 19时40分]"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
@@ -1568,11 +1599,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 19时40分]"
+        },
+        {
+          "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3056607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 19时40分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股收盘）",
@@ -1599,18 +1644,6 @@
           "time_info": "[05时37分 ~ 06时37分]"
         },
         {
-          "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
-          "url": "https://wallstreetcn.com/livenews/3056607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时46分]"
-        },
-        {
           "title": "科技股推动美股期指上扬，盘前存储芯片、白银股走高，地缘局势升温推高金银油，黄金站上5000美元",
           "url": "https://wallstreetcn.com/articles/3765856",
           "source": "华尔街见闻",
@@ -1633,6 +1666,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时37分]"
+        },
+        {
+          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "美股高开高走 英伟达收涨1.63%",
@@ -1754,7 +1798,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
@@ -1806,6 +1850,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时33分]"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
@@ -1871,11 +1926,12 @@
           "source": "微博",
           "ranks": [
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 18时46分]"
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 19时40分]"
         },
         {
           "title": "金价涨约2%，白银涨约5%",
