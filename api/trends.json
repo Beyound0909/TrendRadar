@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T04:37:12.342942+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-02-20T05:36:39.909686+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 48,
+      "match_count": 64,
       "titles": [
         {
           "title": "美联储会议纪要暴巨大分歧：一些官员支持进一步降息，一些暗示加息可能",
@@ -25,11 +25,23 @@
           "ranks": [
             2,
             4,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时55分 ~ 04时37分]"
+          "appearance_count": 4,
+          "time_info": "[02时55分 ~ 05时36分]"
+        },
+        {
+          "title": "美国总统特朗普：钢铁关税改变了游戏规则。",
+          "url": "https://wallstreetcn.com/livenews/3056780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
@@ -45,37 +57,26 @@
           "time_info": "[02时55分 ~ 04时37分]"
         },
         {
-          "title": "美国总统特朗普：英国国王查尔斯即将访问美国。",
-          "url": "https://flash.jin10.com/detail/20260220034308215800",
+          "title": "金十图示：2026年02月19日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260220050609355800",
           "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时37分"
+          "time_info": "05时36分"
         },
         {
-          "title": "美国总统特朗普：无论如何都会拿下“拯救美国法案”（The Save America Act）。",
-          "url": "https://wallstreetcn.com/livenews/3056754",
+          "title": "周四（2月19日），彭博电动汽车价格回报指数涨0.20%，报3647.64点。",
+          "url": "https://wallstreetcn.com/livenews/3056779",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗谈判达成协议的时间窗口最多为10到15天。",
-          "url": "https://flash.jin10.com/detail/20260220034222845800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "time_info": "05时36分"
         },
         {
           "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",
@@ -118,6 +119,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时57分 ~ 03时41分]"
+        },
+        {
+          "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
+          "url": "https://www.cls.cn/detail/2291772",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时40分 ~ 05时36分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的6.32亿美元。",
@@ -184,6 +197,30 @@
           "time_info": "[01时53分 ~ 03时41分]"
         },
         {
+          "title": "美国总统特朗普：英国国王查尔斯即将访问美国。",
+          "url": "https://flash.jin10.com/detail/20260220034308215800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时36分]"
+        },
+        {
+          "title": "美国总统特朗普：无论如何都会拿下“拯救美国法案”（The Save America Act）。",
+          "url": "https://wallstreetcn.com/livenews/3056754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时36分]"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌0.3%，报390.13点。 在十个板块中，北欧金融板块跌幅最大。 Swedish Orphan Biovitrum AB跌4.6%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3056709",
           "source": "华尔街见闻-快讯",
@@ -198,15 +235,16 @@
           "time_info": "[00时57分 ~ 03时41分]"
         },
         {
-          "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
-          "url": "https://www.cls.cn/detail/2291772",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：伊朗谈判达成协议的时间窗口最多为10到15天。",
+          "url": "https://flash.jin10.com/detail/20260220034222845800",
+          "source": "金十数据",
           "ranks": [
-            12
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时40分 ~ 04时37分]"
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时36分]"
         },
         {
           "title": "特朗普称对台军售要跟中国商量",
@@ -325,6 +363,102 @@
           "time_info": "[02时55分 ~ 04时37分]"
         },
         {
+          "title": "美国总统特朗普：乐意让俄罗斯加入“和平委员会”。",
+          "url": "https://flash.jin10.com/detail/20260220034153793800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时36分]"
+        },
+        {
+          "title": "美国总统特朗普：前英国王子安德鲁被捕对王室来说非常糟糕。",
+          "url": "https://flash.jin10.com/detail/20260220034121662800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时36分]"
+        },
+        {
+          "title": "美国参议院银行委员会将于2月26日针对美联储理事鲍曼、联邦存款保险公司（FDIC）的Hill举行听证会。",
+          "url": "https://wallstreetcn.com/livenews/3056749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时36分]"
+        },
+        {
+          "title": "美国总统特朗普：并不知道外星人是否真实存在。",
+          "url": "https://flash.jin10.com/detail/20260220034054475800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时36分]"
+        },
+        {
+          "title": "美联储理事米兰：现在认为利率路径不再那么宽松。 就业形势好于原来的预期。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3056748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时36分]"
+        },
+        {
+          "title": "美联储理事米兰：商品通胀似乎更为顽固。就业情况好于预期。",
+          "url": "https://flash.jin10.com/detail/20260220033728245800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时36分]"
+        },
+        {
+          "title": "WTI 3月原油期货收涨1.24美元，涨幅1.90%，报66.43美元/桶。 布伦特4月原油期货收涨1.31美元，涨幅1.86%，报71.66美元/桶。 NYMEX 3月天然气期货收报2.9960美元/百万英热单位。 NYMEX 3月汽油期货收报2.0066美元/加仑，NYMEX 3月取暖油期货收报2.6147美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3056747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时36分]"
+        },
+        {
+          "title": "摩根大通聘请世达律师事务所，应对特朗普迈阿密“销户案”诉讼",
+          "url": "https://wallstreetcn.com/livenews/3056746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时36分]"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收跌0.70%，报624.32点。 欧元区STOXX 50指数初步收跌0.95%，报6045.85点。 富时泛欧绩优300指数初步收跌0.71%，报2489.73点。",
           "url": "https://wallstreetcn.com/livenews/3056704",
           "source": "华尔街见闻-快讯",
@@ -361,92 +495,92 @@
           "time_info": "[00时57分 ~ 01时53分]"
         },
         {
-          "title": "美国总统特朗普：乐意让俄罗斯加入“和平委员会”。",
-          "url": "https://flash.jin10.com/detail/20260220034153793800",
+          "title": "据AXIOS网站：特朗普在加沙问题和平委员会首次会议上承诺投入100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260220045423529800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时37分"
+          "time_info": "05时36分"
         },
         {
-          "title": "美国总统特朗普：前英国王子安德鲁被捕对王室来说非常糟糕。",
-          "url": "https://flash.jin10.com/detail/20260220034121662800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "美国参议院银行委员会将于2月26日针对美联储理事鲍曼、联邦存款保险公司（FDIC）的Hill举行听证会。",
-          "url": "https://wallstreetcn.com/livenews/3056749",
+          "title": "加拿大股市能源指数突破2008年所创收盘历史最高位。",
+          "url": "https://wallstreetcn.com/livenews/3056771",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时37分"
+          "time_info": "05时36分"
         },
         {
-          "title": "美国总统特朗普：并不知道外星人是否真实存在。",
-          "url": "https://flash.jin10.com/detail/20260220034054475800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "美联储理事米兰：现在认为利率路径不再那么宽松。 就业形势好于原来的预期。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3056748",
+          "title": "纳斯达克金龙中国指数初步收跌0.4%。 热门中概股里，晶科能源初步收跌2.4%，携程跌2.2%，百胜中国、奇富科技、文远知行跌超1%，阿里巴巴跌0.9%，百度跌0.7%，万国数据、金山云、大全新能源至少涨0.6%，华住涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3056768",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时37分"
+          "time_info": "05时36分"
         },
         {
-          "title": "美联储理事米兰：商品通胀似乎更为顽固。就业情况好于预期。",
-          "url": "https://flash.jin10.com/detail/20260220033728245800",
+          "title": "标普500指数收跌19.42点，跌幅0.28%，报6861.89点。 道琼斯工业平均指数收跌267.50点，跌幅0.54%，报49395.16点。 纳斯达克综合指数（纳指）收跌70.905点，跌幅0.31%，报22682.729点。 纳斯达克100指数收跌101.529点，跌幅0.41%，报24797.339点。 纳斯达克生物科技指数收涨0.23%，报6010.62点。 费城半导体指数收跌0.50%，报8173.304点。 费城证交所KBW银行指数收跌1.20%，报167.62点。",
+          "url": "https://wallstreetcn.com/livenews/3056766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "芝加哥小麦期货涨3%，大豆油涨1.9%，纽约可可跌约7.1%",
+          "url": "https://wallstreetcn.com/livenews/3056764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "特朗普：计划在必要时利用冗长辩论来推动“拯救美国法案”在美国国会获得通过。",
+          "url": "https://flash.jin10.com/detail/20260220042253309800",
           "source": "金十数据",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时37分"
+          "time_info": "05时36分"
         },
         {
-          "title": "WTI 3月原油期货收涨1.24美元，涨幅1.90%，报66.43美元/桶。 布伦特4月原油期货收涨1.31美元，涨幅1.86%，报71.66美元/桶。 NYMEX 3月天然气期货收报2.9960美元/百万英热单位。 NYMEX 3月汽油期货收报2.0066美元/加仑，NYMEX 3月取暖油期货收报2.6147美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3056747",
+          "title": "美国众议院民主党成员们要求调查总统特朗普家族的加密货币公司。 向特朗普的财政部长贝森特询问有关World Liberty财务问题。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3056763",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时37分"
+          "time_info": "05时36分"
         },
         {
-          "title": "摩根大通聘请世达律师事务所，应对特朗普迈阿密“销户案”诉讼",
-          "url": "https://wallstreetcn.com/livenews/3056746",
-          "source": "华尔街见闻-快讯",
+          "title": "美国参议院少数党领袖舒默选择弗吉尼亚州民主党州长斯潘伯格下周就特朗普的国情咨文发表回应。",
+          "url": "https://flash.jin10.com/detail/20260220042215481800",
+          "source": "金十数据",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时37分"
+          "time_info": "05时36分"
         },
         {
           "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
@@ -469,6 +603,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "特朗普：法案将要求所有选民出示选民身份证，所有选民必须出示公民身份证明才能投票，并规定不接受邮寄选票。",
+          "url": "https://flash.jin10.com/detail/20260220041552319800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "阿根廷MERVAL指数收涨4.37%，报284.2万点。",
+          "url": "https://wallstreetcn.com/livenews/3056760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "特朗普：无论如何，我们都会通过《拯救美国法案》。",
+          "url": "https://flash.jin10.com/detail/20260220041454236800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国白宫经济顾问委员会代理主席Yared：投资推动供给侧增长。 无法从美国纽约联储的研究中推断出（总统特朗普挑起的）关税由谁承担。 对纽约联储研究结果的批评并非对美联储独立性的攻击。",
+          "url": "https://wallstreetcn.com/livenews/3056759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国参议院银行委员会将于2月26日针对美联储理事鲍曼、联邦存款保险公司（FDIC）代理主席Hill举行听证会。",
+          "url": "https://flash.jin10.com/detail/20260220041325526800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "卢旺达国家银行货币政策委员会实施将近三年来最大幅度的加息——从6.75%提高至7.25%，希望能在短期内抑制通胀。",
@@ -584,7 +773,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -594,8 +783,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 04时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 05时36分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -603,11 +792,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 04时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 05时36分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -618,8 +808,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 04时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 05时36分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -630,19 +820,64 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 04时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 05时36分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
           "url": "https://www.cls.cn/detail/2291660",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 04时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 05时36分]"
+        },
+        {
+          "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260220050552220800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "金十图示：2026年02月19日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260220050543287800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美股三大股指均收跌",
+          "url": "https://flash.jin10.com/detail/20260220050222862800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "航空业ETF收跌将近4%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3056775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -715,8 +950,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 04时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 05时36分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -765,6 +1000,23 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10年期美债收益率跌约1个基点，投资者关注地缘政治风险",
+          "url": "https://wallstreetcn.com/livenews/3056762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -773,11 +1025,12 @@
           "url": "https://wallstreetcn.com/livenews/3056755",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时36分]"
         }
       ]
     }
