@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T06:36:29.409665+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-02-20T07:33:02.210059+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 93,
+      "match_count": 112,
       "titles": [
         {
           "title": "美联储会议纪要暴巨大分歧：一些官员支持进一步降息，一些暗示加息可能",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时56分 ~ 02时55分]"
+        },
+        {
+          "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
+          "url": "https://www.cls.cn/detail/2291772",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时40分 ~ 07时33分]"
         },
         {
           "title": "美国参议院Warren向美联储理事鲍曼询问关于美联储监督管理部门领导层关系的信息。",
@@ -33,6 +45,17 @@
           "time_info": "[02时55分 ~ 05时36分]"
         },
         {
+          "title": "特朗普宣称：美国已在“生活成本”战役中获胜",
+          "url": "https://wallstreetcn.com/livenews/3056824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
           "url": "https://wallstreetcn.com/livenews/3056738",
           "source": "华尔街见闻-快讯",
@@ -46,18 +69,6 @@
           "time_info": "[02时55分 ~ 04时37分]"
         },
         {
-          "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
-          "url": "https://www.cls.cn/detail/2291772",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时40分 ~ 06时36分]"
-        },
-        {
           "title": "金十图示：2026年02月19日（周四）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260220050609355800",
           "source": "金十数据",
@@ -69,37 +80,15 @@
           "time_info": "05时36分"
         },
         {
-          "title": "美国总统特朗普：（建议人们）出门购买戴尔电脑。",
-          "url": "https://wallstreetcn.com/livenews/3056808",
+          "title": "美联储戴利：随着关税影响消退，预计良好的通胀数据将再次出现。",
+          "url": "https://wallstreetcn.com/livenews/3056821",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "美联储3月维持利率不变的概率为94.1%",
-          "url": "https://flash.jin10.com/detail/20260220060046003800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "周四（2月19日）纽约尾盘，标普500股指期货最终跌0.37%，道指期货跌0.61%，纳斯达克100股指期货跌0.53%。 罗素2000股指期货涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3056807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "time_info": "07时33分"
         },
         {
           "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",
@@ -219,6 +208,18 @@
           "time_info": "[05时36分 ~ 06时36分]"
         },
         {
+          "title": "美国总统特朗普：（建议人们）出门购买戴尔电脑。",
+          "url": "https://wallstreetcn.com/livenews/3056808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时33分]"
+        },
+        {
           "title": "美国能源信息署数据显示，美国汽油库存降幅大于预期，美国汽油期货延续涨势。",
           "url": "https://flash.jin10.com/detail/20260220011442553800",
           "source": "金十数据",
@@ -230,6 +231,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时53分 ~ 03时41分]"
+        },
+        {
+          "title": "美联储3月维持利率不变的概率为94.1%",
+          "url": "https://flash.jin10.com/detail/20260220060046003800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时33分]"
+        },
+        {
+          "title": "周四（2月19日）纽约尾盘，标普500股指期货最终跌0.37%，道指期货跌0.61%，纳斯达克100股指期货跌0.53%。 罗素2000股指期货涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3056807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时33分]"
         },
         {
           "title": "美国总统特朗普：英国国王查尔斯即将访问美国。",
@@ -410,6 +435,18 @@
           "time_info": "[04时37分 ~ 05时36分]"
         },
         {
+          "title": "今日重点关注的财经数据与事件：2026年2月20日 周五",
+          "url": "https://flash.jin10.com/detail/20260220000000000800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 07时33分]"
+        },
+        {
           "title": "美国总统特朗普：前英国王子安德鲁被捕对王室来说非常糟糕。",
           "url": "https://flash.jin10.com/detail/20260220034121662800",
           "source": "金十数据",
@@ -432,6 +469,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时36分]"
+        },
+        {
+          "title": "美国总统特朗普赞赏商务部长卢特尼克。",
+          "url": "https://wallstreetcn.com/livenews/3056803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时33分]"
         },
         {
           "title": "美国总统特朗普：并不知道外星人是否真实存在。",
@@ -482,6 +531,17 @@
           "time_info": "[04时37分 ~ 05时36分]"
         },
         {
+          "title": "十天内对伊朗动手？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
+          "url": "https://wallstreetcn.com/articles/3765876",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 07时33分]"
+        },
+        {
           "title": "摩根大通聘请世达律师事务所，应对特朗普迈阿密“销户案”诉讼",
           "url": "https://wallstreetcn.com/livenews/3056746",
           "source": "华尔街见闻-快讯",
@@ -492,6 +552,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时36分]"
+        },
+        {
+          "title": "美国总统特朗普：（美国的）石油和天然气正在增产。 从委内瑞拉攫取的5000万桶石油正被运往得州休斯敦。",
+          "url": "https://wallstreetcn.com/livenews/3056800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时33分]"
         },
         {
           "title": "欧洲STOXX 600指数初步收跌0.70%，报624.32点。 欧元区STOXX 50指数初步收跌0.95%，报6045.85点。 富时泛欧绩优300指数初步收跌0.71%，报2489.73点。",
@@ -558,20 +630,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
         {
-          "title": "美国总统特朗普赞赏商务部长卢特尼克。",
-          "url": "https://wallstreetcn.com/livenews/3056803",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称在“可负担性”问题上赢得了胜利",
+          "url": "https://flash.jin10.com/detail/20260220064356197800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时36分"
+          "time_info": "07时33分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.4%。 热门中概股里，晶科能源初步收跌2.4%，携程跌2.2%，百胜中国、奇富科技、文远知行跌超1%，阿里巴巴跌0.9%，百度跌0.7%，万国数据、金山云、大全新能源至少涨0.6%，华住涨1.6%。",
@@ -591,9 +663,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "美联储戴利：我更关注履行职责以实现目标，而非捍卫美联储独立性。",
+          "url": "https://flash.jin10.com/detail/20260220064136239800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "标普500指数收跌19.42点，跌幅0.28%，报6861.89点。 道琼斯工业平均指数收跌267.50点，跌幅0.54%，报49395.16点。 纳斯达克综合指数（纳指）收跌70.905点，跌幅0.31%，报22682.729点。 纳斯达克100指数收跌101.529点，跌幅0.41%，报24797.339点。 纳斯达克生物科技指数收涨0.23%，报6010.62点。 费城半导体指数收跌0.50%，报8173.304点。 费城证交所KBW银行指数收跌1.20%，报167.62点。",
@@ -613,20 +696,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
         {
-          "title": "美国总统特朗普：（美国的）石油和天然气正在增产。 从委内瑞拉攫取的5000万桶石油正被运往得州休斯敦。",
-          "url": "https://wallstreetcn.com/livenews/3056800",
+          "title": "特朗普批评健康保险公司，并表示有关其股票上涨的报道让他感到不满。",
+          "url": "https://flash.jin10.com/detail/20260220064053130800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "白宫顾问Yared为哈塞特批评美联储研究辩护，否认对央行独立性构成攻击",
+          "url": "https://wallstreetcn.com/livenews/3056815",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时36分"
+          "time_info": "07时33分"
         },
         {
           "title": "特朗普：石油和天然气产量上升了。",
@@ -635,7 +729,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -668,7 +762,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -682,6 +776,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "美国总统特朗普谈及住房经适性，宣称：我们已经解决了这个问题。 正在终结华尔街公司购买住房这个“骗局”。",
+          "url": "https://wallstreetcn.com/livenews/3056813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国参议院少数党领袖舒默选择弗吉尼亚州民主党州长斯潘伯格下周就特朗普的国情咨文发表回应。",
@@ -701,7 +806,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -739,6 +844,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "美联储戴利：还需要更多措施以降低通胀，但不想落后于形势，或用力过猛。",
+          "url": "https://flash.jin10.com/detail/20260220063151036800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "阿根廷MERVAL指数收涨4.37%，报284.2万点。",
           "url": "https://wallstreetcn.com/livenews/3056760",
           "source": "华尔街见闻-快讯",
@@ -759,6 +875,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "美联储戴利：劳动力市场比以前更加低迷，因此看不到来自人工智能资本支出的通胀风险。",
+          "url": "https://flash.jin10.com/detail/20260220062542607800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国白宫经济顾问委员会代理主席Yared：投资推动供给侧增长。 无法从美国纽约联储的研究中推断出（总统特朗普挑起的）关税由谁承担。 对纽约联储研究结果的批评并非对美联储独立性的攻击。",
@@ -783,15 +910,37 @@
           "time_info": "05时36分"
         },
         {
+          "title": "美联储戴利：关于人工智能资本支出，存在真实需求，并非空谈。",
+          "url": "https://flash.jin10.com/detail/20260220062514888800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "特朗普称赞私营部门的就业增长。",
           "url": "https://flash.jin10.com/detail/20260220054443140800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "美联储戴利：预期随着关税效应消退，通胀将回落。",
+          "url": "https://flash.jin10.com/detail/20260220062438249800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国总统特朗普赞赏私人行业的就业增长。",
@@ -800,7 +949,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -811,9 +960,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "美联储戴利：技术的商业应用很可能有助于缓解通胀。",
+          "url": "https://flash.jin10.com/detail/20260220062355063800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国总统特朗普谈及最高法院对其关税政策的审判，宣称：我一直都在等待（判决结果）。",
@@ -822,7 +982,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -833,7 +993,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -844,9 +1004,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "伊朗致联合国秘书长的信：特朗普的言论表明“存在军事侵略的真正风险”。",
+          "url": "https://flash.jin10.com/detail/20260220062210840800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "卢旺达国家银行货币政策委员会实施将近三年来最大幅度的加息——从6.75%提高至7.25%，希望能在短期内抑制通胀。",
@@ -866,20 +1037,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年2月20日 周五",
-          "url": "https://flash.jin10.com/detail/20260220000000000800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "06时36分"
         },
         {
           "title": "特朗普抱怨最高法院迟迟未能就关税问题作出裁决。",
@@ -888,9 +1048,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "美联储戴利：由于存在关税等冲击，实现通胀目标的最后一步一直充满挑战。",
+          "url": "https://flash.jin10.com/detail/20260220062139125800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国总统特朗普声称，加拿大已经“盘剥”美国多年，现在不行了。",
@@ -899,7 +1070,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -921,9 +1092,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "美联储戴利：政策处于良好状态。",
+          "url": "https://flash.jin10.com/detail/20260220061709816800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "特朗普支持的天然气项目令竞争对手因风险而战栗",
@@ -943,7 +1125,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -954,9 +1136,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "美联储戴利：除商品部门外，通胀持续下降。",
+          "url": "https://flash.jin10.com/detail/20260220061654423800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国总统特朗普兜售自己针对钢铁和钢铁衍生产品挑起的关税。 赞赏Coosa Steel Corp.。",
@@ -965,7 +1158,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -976,9 +1169,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "美联储戴利：在降息75个基点后，劳动力市场状况更好了。",
+          "url": "https://flash.jin10.com/detail/20260220061648624800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "特朗普声称，他的和平委员会将“监督”联合国",
@@ -998,7 +1202,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -1020,9 +1224,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "特朗普主持加沙“和平委员会”首次会议 美国承诺出资100亿",
+          "url": "https://flash.jin10.com/detail/20260220061036766800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "波罗的海干散货指数跌至一周低点，海岬型船和超灵便型船运价下跌",
@@ -1053,7 +1268,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -1086,7 +1301,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         }
@@ -1108,19 +1323,6 @@
           "time_info": "[00时56分 ~ 05时36分]"
         },
         {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 06时36分]"
-        },
-        {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
@@ -1128,6 +1330,19 @@
             5,
             6,
             7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 07时33分]"
+        },
+        {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -1142,8 +1357,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 06时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 07时33分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1154,8 +1369,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 06时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 07时33分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -1164,9 +1379,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时36分 ~ 07时33分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -1189,17 +1404,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
-          "url": "https://wallstreetcn.com/livenews/3056806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
         },
         {
           "title": "美股三大股指均收跌",
@@ -1235,26 +1439,96 @@
           "time_info": "[00时56分 ~ 02时55分]"
         },
         {
+          "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
+          "url": "https://wallstreetcn.com/livenews/3056806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时33分]"
+        },
+        {
           "title": "AppLovin美股盘后涨6.6%。",
           "url": "https://wallstreetcn.com/livenews/3056801",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时33分]"
         },
         {
           "title": "周四（2月19日）纽约尾盘，现货黄金涨0.42%，报4998.50美元/盎司。 COMEX黄金期货涨0.09%，报5014美元/盎司。 现货白银涨1.32%，报78.2375美元/盎司。 COMEX白银期货涨0.82%。 COMEX铜期货跌0.67%，报5.8240美元/磅。 现货铂金跌0.32%，现货钯金跌1.45%。 （美股）费城金银指数收涨1.51%，报422.69点。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.26%，报2982.07点。 （美股）原材料指数收跌0.09%，金属与矿业指数收跌0.17%。",
           "url": "https://wallstreetcn.com/livenews/3056799",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 07时33分]"
+        },
+        {
+          "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
+          "url": "https://wallstreetcn.com/livenews/3056822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时36分"
+          "time_info": "07时33分"
+        },
+        {
+          "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
+          "url": "https://flash.jin10.com/detail/20260220020324756800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时55分 ~ 04时37分]"
+        },
+        {
+          "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
+          "url": "https://wallstreetcn.com/livenews/3056737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时55分 ~ 04时37分]"
         }
       ]
     },
@@ -1304,46 +1578,30 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "keyword_group": "美债",
+      "match_count": 2,
       "titles": [
         {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 06时36分]"
-        },
-        {
-          "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
-          "url": "https://flash.jin10.com/detail/20260220020324756800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时55分 ~ 04时37分]"
-        },
-        {
-          "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
-          "url": "https://wallstreetcn.com/livenews/3056737",
+          "title": "景顺与卡米尼亚克做空美债，看淡美联储降息空间",
+          "url": "https://wallstreetcn.com/livenews/3056819",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            12,
-            22
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "10年期美债收益率跌约1个基点，投资者关注地缘政治风险",
+          "url": "https://wallstreetcn.com/livenews/3056762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时55分 ~ 04时37分]"
+          "appearance_count": 1,
+          "time_info": "05时36分"
         }
       ]
     },
@@ -1362,23 +1620,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时56分 ~ 01时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "10年期美债收益率跌约1个基点，投资者关注地缘政治风险",
-          "url": "https://wallstreetcn.com/livenews/3056762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
         }
       ]
     },
