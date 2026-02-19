@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T21:11:54.524209+08:00",
-  "total_titles_processed": 1572,
+  "generated_at": "2026-02-19T22:51:54.065121+08:00",
+  "total_titles_processed": 1676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 128,
+      "match_count": 146,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -25,11 +25,12 @@
           "ranks": [
             7,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时25分 ~ 21时11分]"
+          "appearance_count": 14,
+          "time_info": "[10时25分 ~ 22时51分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -124,6 +125,28 @@
           "time_info": "10时26分"
         },
         {
+          "title": "美国总统特朗普：和平委员会成员在捐款方面非常慷慨。",
+          "url": "https://flash.jin10.com/detail/20260219224254310800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "美联储Kashkari：货币政策接近中性。",
+          "url": "https://wallstreetcn.com/livenews/3056659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "新西兰联储助理主席Silk：即使小幅加息，利率也只是处于中性区间的底部附近。",
           "url": "https://flash.jin10.com/detail/20260219095437013800",
           "source": "金十数据",
@@ -146,6 +169,28 @@
           "time_info": "10时26分"
         },
         {
+          "title": "美国总统特朗普：加沙局势非常复杂。",
+          "url": "https://flash.jin10.com/detail/20260219223828467800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "美国民主党参议员沃伦要求美联储提供有关银行业监管的信息。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3056654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "日本银行业协会：市场预计日本央行最快3月加息。",
           "url": "https://wallstreetcn.com/livenews/3056602",
           "source": "华尔街见闻-快讯",
@@ -166,9 +211,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美联储卡什卡利：在设定短期利率时，不要考虑国家债务，那是财政政策问题。",
+          "url": "https://flash.jin10.com/detail/20260219223816193800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "英国阻止特朗普使用英国的基地打击伊朗。（泰晤士报）",
+          "url": "https://wallstreetcn.com/livenews/3056653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "韩国短时暂停KOSDAQ市场程序化股票交易。",
@@ -890,6 +957,17 @@
           "time_info": "10时26分"
         },
         {
+          "title": "美联储卡什卡利：人工智能投资很可能推高中性利率。",
+          "url": "https://flash.jin10.com/detail/20260219223811056800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "金十图示：2026年02月18日（周三）华尔街恐惧与贪婪指数（美盘后）",
           "url": "https://flash.jin10.com/detail/20260219054020259800",
           "source": "金十数据",
@@ -934,6 +1012,17 @@
           "time_info": "10时26分"
         },
         {
+          "title": "美国总统特朗普在“和平委员会”召开的首次会议上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260219223603423800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
           "url": "https://wallstreetcn.com/livenews/3056519",
           "source": "华尔街见闻-快讯",
@@ -956,6 +1045,28 @@
           "time_info": "19时40分"
         },
         {
+          "title": "市场消息：美国民主党参议员沃伦敦促美联储主席鲍威尔坚决拒绝提供加密货币救助。",
+          "url": "https://flash.jin10.com/detail/20260219223412747800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "欧股跌幅扩大，德国DAX指数跌破25000点，日内跌超1%，英国富时100指数跌0.82%，法国CAC40指数跌0.91%。",
+          "url": "https://wallstreetcn.com/livenews/3056647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "美联储会议纪要：几乎所有与会者都支持在1月份暂停利率行动。多位与会者表示，如果通胀按其预期下降，进一步降息很可能将是合适的。",
           "url": "https://flash.jin10.com/detail/20260219030101336800",
           "source": "金十数据",
@@ -976,6 +1087,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "美联储卡什卡利：美国在住房方面存在结构性短缺；利率可能是其中一部分原因，但分区、材料和劳动力成本也是原因之一。",
+          "url": "https://flash.jin10.com/detail/20260219223301195800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "波罗的海干散货指数下跌2.13%，至2019点。",
+          "url": "https://wallstreetcn.com/livenews/3056645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "13位美国司法部长就终止能源和基础设施项目资金一事起诉特朗普政府。",
@@ -1110,6 +1243,17 @@
           "time_info": "05时37分"
         },
         {
+          "title": "Klarna股价暴跌18%，创历史最大跌幅。",
+          "url": "https://flash.jin10.com/detail/20260219223121460800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "标普500指数收涨38.09点，涨幅0.56%，报6881.31点。 道琼斯工业平均指数收涨129.47点，涨幅0.26%，报49662.66点。 纳斯达克综合指数（纳指）收涨175.251点，涨幅0.78%，报22753.635点。 纳斯达克100指数收涨197.272点，涨幅0.80%，报24898.868点。 纳斯达克生物科技指数收涨0.44%，报5996.81点。 费城半导体指数收涨0.96%，报8214.354点。 费城证交所KBW银行指数收涨1.33%，报169.67点。 道琼斯KBW地区银行指数收跌0.37%，报137.63点。",
           "url": "https://wallstreetcn.com/livenews/3056476",
           "source": "华尔街见闻-快讯",
@@ -1204,7 +1348,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1242,6 +1386,17 @@
           "time_info": "10时26分"
         },
         {
+          "title": "美联储卡什卡利：美联储在内部使用人工智能时持谨慎态度，并设有强有力的护栏，以防止访问机密数据。",
+          "url": "https://flash.jin10.com/detail/20260219222646571800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "周三（2月18日），彭博电动汽车价格回报指数涨0.92%，报3639.09点，亚太盘初以来持续走高。 成分股Aurora Innovation涨5.8%，Panasonic株式会社收涨5.38%，意法半导体法国巴黎股价收涨3.84%，优美科欧股收涨3.67%，MobilEye则跌约1.7%，巴拉德动力系统股份跌2%，文远知行跌4.1%。",
           "url": "https://wallstreetcn.com/livenews/3056472",
           "source": "华尔街见闻-快讯",
@@ -1275,6 +1430,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "美联储卡什卡利：人工智能在未来5到10年可能提升生产力。",
+          "url": "https://flash.jin10.com/detail/20260219222640317800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "特朗普称：若英国对迪戈加西亚岛“失去控制”，将影响盟友地位",
           "url": "https://wallstreetcn.com/livenews/3056471",
           "source": "华尔街见闻-快讯",
@@ -1306,6 +1472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "美联储卡什卡利：对人工智能持乐观态度，几乎所有企业都在发现使用人工智能带来的益处。",
+          "url": "https://flash.jin10.com/detail/20260219222636560800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "机构：德国国债正取代日元，成为抗衡“特朗普冲击”的避险新宠",
@@ -1350,6 +1527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "美联储卡什卡利：加密货币“完全无用”。",
+          "url": "https://flash.jin10.com/detail/20260219222631221800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "日本2月13日当周外资净买进日本股票 14242亿日元。",
@@ -1462,6 +1650,17 @@
           "time_info": "10时26分"
         },
         {
+          "title": "美联储卡什卡利：美联储致力于根据数据和分析做出最佳决策，旨在避免其他“干扰”。",
+          "url": "https://flash.jin10.com/detail/20260219222337449800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "希腊雅典证交所综合指数收涨3.30%，报2327.44点。 日线图上，希腊股市2月4日（盘中）涨至2407.09点——逼近2009年四季度顶部2932.45点，随后处于持续回撤中。",
           "url": "https://wallstreetcn.com/livenews/3056385",
           "source": "华尔街见闻-快讯",
@@ -1498,7 +1697,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -1522,8 +1721,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时36分 ~ 21时11分]"
+          "appearance_count": 17,
+          "time_info": "[06时36分 ~ 22时51分]"
         },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -1562,8 +1761,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时14分 ~ 21时11分]"
+          "appearance_count": 25,
+          "time_info": "[01时14分 ~ 22时51分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -1574,8 +1773,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时14分 ~ 21时11分]"
+          "appearance_count": 25,
+          "time_info": "[01时14分 ~ 22时51分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1589,8 +1788,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时14分 ~ 21时11分]"
+          "appearance_count": 25,
+          "time_info": "[01时14分 ~ 22时51分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1601,19 +1800,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时50分 ~ 21时11分]"
+          "appearance_count": 8,
+          "time_info": "[16时50分 ~ 22时51分]"
         },
         {
-          "title": "沃尔玛预计2027年调整后每股收益2.75美元至2.85美元，市场预估2.97美元。 第四季度调整后每股收益0.74美元，市场预估0.73美元。 第四季度营收1,906.6亿美元，同比增长5.6%，市场预估1,905.8亿美元。 第四季度经营现金流416亿美元。 沃尔玛宣布新的300亿美元股票回购计划。 沃尔玛美股盘前跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3056638",
+          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 22时51分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056655",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时11分"
+          "time_info": "22时51分"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
@@ -1640,18 +1852,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时51分 ~ 19时40分]"
-        },
-        {
-          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
-          "url": "https://wallstreetcn.com/articles/3765856",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 21时11分]"
         },
         {
           "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
@@ -1691,6 +1891,18 @@
           "time_info": "[05时37分 ~ 06时37分]"
         },
         {
+          "title": "沃尔玛预计2027年调整后每股收益2.75美元至2.85美元，市场预估2.97美元。 第四季度调整后每股收益0.74美元，市场预估0.73美元。 第四季度营收1,906.6亿美元，同比增长5.6%，市场预估1,905.8亿美元。 第四季度经营现金流416亿美元。 沃尔玛宣布新的300亿美元股票回购计划。 沃尔玛美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3056638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 22时51分]"
+        },
+        {
           "title": "科技股推动美股期指上扬，盘前存储芯片、白银股走高，地缘局势升温推高金银油，黄金站上5000美元",
           "url": "https://wallstreetcn.com/articles/3765856",
           "source": "华尔街见闻",
@@ -1715,6 +1927,17 @@
           "time_info": "[05时37分 ~ 06时37分]"
         },
         {
+          "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260219223647819800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "美股高开高走 英伟达收涨1.63%",
           "url": "https://flash.jin10.com/detail/20260219050439356800",
           "source": "金十数据",
@@ -1735,6 +1958,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "美股开盘，道指跌0.31%、标普500指数跌0.37%、纳指跌0.53%。沃尔玛百货(WMT.N)绩后涨1.33%。DoorDash(DASH.N)涨6%，公司上季营收增长37.7%至39.6亿美元。纳斯达克中国金龙指数跌0.43%。",
+          "url": "https://flash.jin10.com/detail/20260219223041250800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "美股盘前，白银概念股走强，泛美白银(PAAS.O)涨4.6%、赫克拉矿业(HL.N)涨1.9%、First Majestic(AG.O)涨1.3%。",
@@ -1850,6 +2084,17 @@
           "time_info": "[16时51分 ~ 18时46分]"
         },
         {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 22时51分]"
+        },
+        {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
           "url": "https://wallstreetcn.com/livenews/3056432",
           "source": "华尔街见闻-快讯",
@@ -1888,17 +2133,6 @@
           "time_info": "[06时37分 ~ 07时33分]"
         },
         {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 21时11分]"
-        },
-        {
           "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
           "url": "https://flash.jin10.com/detail/20260219114656970800",
           "source": "金十数据",
@@ -1913,8 +2147,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美元指数站上98，为2月6日以来首次，日内涨近0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3056658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.72%，暂报2816.96点。 MarketVectorTM数字资产100中盘指数涨0.27%，报2819.24点，北京时间23:41曾冲高至2858.83点。 MarketVector数字资产100指数跌0.67%，报13555.77点。 目前，Solana跌3.29%，狗狗币跌0.77%，XRP跌1.48%。 比特币跌0.93%，暂报67072美元；以太坊跌1.26%，暂报1969.18美元。",
           "url": "https://wallstreetcn.com/livenews/3056412",
@@ -2008,6 +2253,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Deepseek神回复",
+          "url": "https://s.weibo.com/weibo?q=Deepseek%E7%A5%9E%E5%9B%9E%E5%A4%8D&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         }
       ]
     },
