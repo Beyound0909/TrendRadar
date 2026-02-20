@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T13:56:15.486665+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2026-02-20T15:01:15.376159+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 147,
+      "match_count": 149,
       "titles": [
         {
           "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
@@ -17,8 +17,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时40分 ~ 13时56分]"
+          "appearance_count": 14,
+          "time_info": "[03时40分 ~ 15时01分]"
+        },
+        {
+          "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
+          "url": "https://wallstreetcn.com/articles/3765876",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时14分 ~ 15时01分]"
         },
         {
           "title": "美联储会议纪要暴巨大分歧：一些官员支持进一步降息，一些暗示加息可能",
@@ -32,18 +45,6 @@
           "time_info": "[00时56分 ~ 02时55分]"
         },
         {
-          "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
-          "url": "https://wallstreetcn.com/articles/3765876",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 13时56分]"
-        },
-        {
           "title": "特朗普：高市早苗“特别喜欢我”",
           "url": "https://news.ifeng.com/c/8qtWnv1ctZC",
           "source": "凤凰网",
@@ -51,8 +52,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 15时01分]"
+        },
+        {
+          "title": "特朗普赞叹中国仪仗队",
+          "url": "https://www.toutiao.com/trending/7607775152985899059/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 15时01分]"
         },
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
@@ -67,15 +79,15 @@
           "time_info": "[10时14分 ~ 12时49分]"
         },
         {
-          "title": "特朗普赞叹中国仪仗队",
-          "url": "https://www.toutiao.com/trending/7607775152985899059/",
-          "source": "今日头条",
+          "title": "特朗普开了前所未有的一个会",
+          "url": "https://news.ifeng.com/c/8qtKTnIR6kQ",
+          "source": "凤凰网",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
+          "appearance_count": 6,
+          "time_info": "[10时14分 ~ 15时01分]"
         },
         {
           "title": "美国参议院Warren向美联储理事鲍曼询问关于美联储监督管理部门领导层关系的信息。",
@@ -103,6 +115,17 @@
           "time_info": "10时14分"
         },
         {
+          "title": "日经225指数收跌1.1%，报56825.7点。 韩国首尔综指收涨2.3%，报5808.53点。",
+          "url": "https://wallstreetcn.com/livenews/3056872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
           "url": "https://wallstreetcn.com/livenews/3056738",
           "source": "华尔街见闻-快讯",
@@ -114,6 +137,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时55分 ~ 04时37分]"
+        },
+        {
+          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
+          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时14分 ~ 15时01分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）全球股市指数-美洲市场（收盘）",
@@ -136,6 +170,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
+          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 15时01分]"
+        },
+        {
+          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
+          "url": "https://wallstreetcn.com/articles/3765884",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 15时01分]"
+        },
+        {
+          "title": "富时中国A50指数期货下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3056848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 15时01分]"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3056847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 15时01分]"
         },
         {
           "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",
@@ -166,6 +251,32 @@
           "time_info": "[01时53分 ~ 04时37分]"
         },
         {
+          "title": "恒生科技指数跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3056845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 15时01分]"
+        },
+        {
+          "title": "鹰派预期升温！多数经济学家预测日央行将提前加息，最早或在3月",
+          "url": "https://wallstreetcn.com/articles/3765871",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 15时01分]"
+        },
+        {
           "title": "盟可睐Moncler全年营收31.3亿欧元，分析师预期30.7亿欧元。 全年销售（按恒定汇率计算）增长3%，分析师预期增长1.11%。 全年净利润6.267亿欧元，分析师预期5.962亿欧元。 全年EBITDA为9.134亿欧元，分析师预期8.657亿欧元。 四季度营收12.9亿欧元，分析师预期12.2亿欧元。",
           "url": "https://wallstreetcn.com/livenews/3056710",
           "source": "华尔街见闻-快讯",
@@ -180,15 +291,26 @@
           "time_info": "[00时57分 ~ 03时41分]"
         },
         {
-          "title": "特朗普开了前所未有的一个会",
-          "url": "https://news.ifeng.com/c/8qtKTnIR6kQ",
-          "source": "凤凰网",
+          "title": "特朗普称奥巴马涉外星人言论泄密",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32634789",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 15时01分]"
+        },
+        {
+          "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32634067",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 15时01分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的6.32亿美元。",
@@ -215,32 +337,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时55分 ~ 04时37分]"
-        },
-        {
-          "title": "富时中国A50指数期货下跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3056848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时56分]"
-        },
-        {
-          "title": "恒生科技指数跌幅扩大至2%。",
-          "url": "https://wallstreetcn.com/livenews/3056847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时56分]"
         },
         {
           "title": "法国称欧盟委员会“出人意料”参与特朗普会议，无权代表欧盟成员国",
@@ -278,19 +374,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时33分 ~ 10时14分]"
-        },
-        {
-          "title": "恒生科技指数跌幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3056845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时56分]"
         },
         {
           "title": "特朗普将因乌克兰问题对俄罗斯所实施的制裁延长一年",
@@ -416,6 +499,19 @@
           "time_info": "[00时57分 ~ 03时41分]"
         },
         {
+          "title": "今日重点关注的财经数据与事件：2026年2月20日 周五",
+          "url": "https://flash.jin10.com/detail/20260220000000000800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 15时01分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗谈判达成协议的时间窗口最多为10到15天。",
           "url": "https://flash.jin10.com/detail/20260220034222845800",
           "source": "金十数据",
@@ -428,15 +524,30 @@
           "time_info": "[04时37分 ~ 05时36分]"
         },
         {
-          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
-          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
-          "source": "凤凰网",
+          "title": "港股马年首个交易日：恒生指数开盘跌0.18%，恒生科技指数低开近0.7%。老铺黄金涨近1%，公司将于2月28日进行产品调价。",
+          "url": "https://wallstreetcn.com/livenews/3056841",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8,
+            17,
+            27,
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时14分 ~ 13时56分]"
+          "time_info": "[10时14分 ~ 15时01分]"
+        },
+        {
+          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
+          "url": "https://wallstreetcn.com/articles/3765874",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 15时01分]"
         },
         {
           "title": "特朗普称对台军售要跟中国商量",
@@ -449,41 +560,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时56分 ~ 02时55分]"
-        },
-        {
-          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
-          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时56分]"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年2月20日 周五",
-          "url": "https://flash.jin10.com/detail/20260220000000000800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 13时56分]"
-        },
-        {
-          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
-          "url": "https://wallstreetcn.com/articles/3765884",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时56分]"
         },
         {
           "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
@@ -525,37 +601,12 @@
           "time_info": "[02时55分 ~ 04时37分]"
         },
         {
-          "title": "港股马年首个交易日：恒生指数开盘跌0.18%，恒生科技指数低开近0.7%。老铺黄金涨近1%，公司将于2月28日进行产品调价。",
-          "url": "https://wallstreetcn.com/livenews/3056841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时56分]"
-        },
-        {
           "title": "恒生科技指数跌超2%",
           "url": "https://www.toutiao.com/trending/7608564713254354990/",
           "source": "今日头条",
           "ranks": [
             9,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时56分]"
-        },
-        {
-          "title": "鹰派预期升温！多数经济学家预测日央行将提前加息，最早或在3月",
-          "url": "https://wallstreetcn.com/articles/3765871",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -601,17 +652,6 @@
           "time_info": "[01时53分 ~ 03时41分]"
         },
         {
-          "title": "特朗普称奥巴马涉外星人言论泄密",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32634789",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时56分]"
-        },
-        {
           "title": "美国美术委员会一致批准白宫宴会厅项目，特朗普发文感谢",
           "url": "https://flash.jin10.com/detail/20260220015619763800",
           "source": "金十数据",
@@ -651,15 +691,16 @@
           "time_info": "[02时55分 ~ 04时37分]"
         },
         {
-          "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32634067",
-          "source": "澎湃新闻",
+          "title": "美国一机场将更名为特朗普国际机场",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%9C%BA%E5%9C%BA%E5%B0%86%E6%9B%B4%E5%90%8D%E4%B8%BA%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA",
+          "source": "百度热搜",
           "ranks": [
-            19
+            28,
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时56分]"
+          "time_info": "[12时49分 ~ 15时01分]"
         },
         {
           "title": "美国总统特朗普：乐意让俄罗斯加入“和平委员会”。",
@@ -767,17 +808,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时32分 ~ 07时33分]"
-        },
-        {
-          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
-          "url": "https://wallstreetcn.com/articles/3765874",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
         },
         {
           "title": "摩根大通聘请世达律师事务所，应对特朗普迈阿密“销户案”诉讼",
@@ -982,6 +1012,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "WTI原油期货突破67美元/桶，日内涨0.90%。",
+          "url": "https://flash.jin10.com/detail/20260220142937438800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "白宫顾问Yared为哈塞特批评美联储研究辩护，否认对央行独立性构成攻击",
@@ -1622,17 +1663,6 @@
           "time_info": "10时14分"
         },
         {
-          "title": "美国一机场将更名为特朗普国际机场",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%9C%BA%E5%9C%BA%E5%B0%86%E6%9B%B4%E5%90%8D%E4%B8%BA%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
           "title": "波罗的海干散货指数跌至一周低点，海岬型船和超灵便型船运价下跌",
           "url": "https://flash.jin10.com/detail/20260219233829222800",
           "source": "金十数据",
@@ -1735,8 +1765,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时36分 ~ 13时56分]"
+          "appearance_count": 9,
+          "time_info": "[06时36分 ~ 15时01分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -1773,8 +1803,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 13时56分]"
+          "appearance_count": 19,
+          "time_info": "[00时56分 ~ 15时01分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1785,8 +1815,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 13时56分]"
+          "appearance_count": 19,
+          "time_info": "[00时56分 ~ 15时01分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1796,8 +1826,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 13时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 15时01分]"
+        },
+        {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时14分 ~ 15时01分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -1842,18 +1885,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
-        },
-        {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 13时56分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
@@ -1905,8 +1936,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 15时01分]"
         },
         {
           "title": "Gemini3.1 Pro上线",
