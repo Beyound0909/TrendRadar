@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-21T00:42:52.271780+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-21T01:40:26.321316+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 汇率 China A股 热点 头条 突发 breaking news 加息 财经 期货 policy 股票 指数 路透社 数字货币 比特币 宽松 美联储",
-      "match_count": 35,
+      "match_count": 52,
       "titles": [
-        {
-          "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
-          "url": "https://www.cls.cn/detail/2291772",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
         {
           "title": "美国最高法院裁定特朗普关税政策违法",
           "url": "https://news.ifeng.com/c/8quMh516WKs",
@@ -26,8 +15,42 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
+        },
+        {
+          "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
+          "url": "https://www.cls.cn/detail/2291772",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
+        },
+        {
+          "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
+          "url": "https://wallstreetcn.com/articles/3765876",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
+        },
+        {
+          "title": "特朗普全球关税被推翻！美国最高法院裁定违法，超1750亿美元税收面临退款",
+          "url": "https://wallstreetcn.com/articles/3765909",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时42分"
+          "time_info": "01时40分"
         },
         {
           "title": "特朗普政府全球关税被推翻！美最高法院裁定政策违法",
@@ -41,59 +64,95 @@
           "time_info": "00时42分"
         },
         {
-          "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
-          "url": "https://wallstreetcn.com/articles/3765876",
-          "source": "华尔街见闻",
+          "title": "机构：特朗普关税裁决更多是政治性而非经济性问题",
+          "url": "https://flash.jin10.com/detail/20260221010827073800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时42分"
+          "time_info": "01时40分"
+        },
+        {
+          "title": "大豆价格回吐涨幅，美国最高法院推翻特朗普关税",
+          "url": "https://wallstreetcn.com/livenews/3057033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "Futures International LLC董事Joe Davis：（美国最高法院判决特朗普关税政策违法之后）市场反应偏空，因所有与主权国家达成的协议可能被忽视，这意味着他们不会按协议承诺的水平购买美国农产品。",
+          "url": "https://wallstreetcn.com/livenews/3057032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "荷兰国际：美国关税战未因裁决终结，特朗普将聚焦行业关税",
+          "url": "https://flash.jin10.com/detail/20260221010624568800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "耐克跌幅扩大至2.6%。 “特朗普关税输家指数”跌0.3%，刷新日低至117.81点，美国最高法院判定特朗普关税政策违法时飙升至122.02点刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3057031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
         },
         {
           "title": "美国加州州长Newsom：呼吁退还关税。 （特朗普政府）必须立即退还这部分资金。",
           "url": "https://wallstreetcn.com/livenews/3057017",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
         },
         {
           "title": "芝加哥期权交易所波动率指数下跌1.35点，至18.88。",
           "url": "https://flash.jin10.com/detail/20260221000529085800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
         },
         {
           "title": "美国总统特朗普：必须针对（这些）法院采取某些行动。（路透）",
           "url": "https://wallstreetcn.com/livenews/3057014",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "波罗的海干散货指数从一周低点反弹，海岬型船和巴拿马型船运价走强",
-          "url": "https://flash.jin10.com/detail/20260221000520698800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
         },
         {
           "title": "特朗普回忆2017年访华经历，赞叹中国仪仗队强大阵容",
@@ -103,19 +162,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
+        },
+        {
+          "title": "波罗的海干散货指数从一周低点反弹，海岬型船和巴拿马型船运价走强",
+          "url": "https://flash.jin10.com/detail/20260221000520698800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
         },
         {
           "title": "专业人士提醒：要警惕输掉关税官司的特朗普政府可能会通过其他法规重新征收关税",
           "url": "https://wallstreetcn.com/livenews/3057012",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
         },
         {
           "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
@@ -125,30 +197,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
         },
         {
           "title": "欧洲议会贸易委员会将评估“美国最高法院判决特朗普关税政策违法”的影响。",
           "url": "https://wallstreetcn.com/livenews/3057011",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
         },
         {
           "title": "耐克转跌，美国最高法院宣判特朗普关税政策违法之后，一度上涨4.4%。",
           "url": "https://wallstreetcn.com/livenews/3057009",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
         },
         {
           "title": "美联储纪要曝利率路线裂痕：降息、暂停、加息三派混战",
@@ -158,19 +232,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
         },
         {
           "title": "委内瑞拉内政部长Diosdado Cabello通过国家电视台宣布：（被特朗普派兵强行掳走的）总统马杜罗夫妇首次获得委领事探访。",
           "url": "https://wallstreetcn.com/livenews/3057008",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
+        },
+        {
+          "title": "美最高法院裁定特朗普关税违法",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E8%BF%9D%E6%B3%95%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
         },
         {
           "title": "知情人士：特朗普考虑对伊朗实施“有限规模”的初步打击",
@@ -180,8 +267,118 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
+        },
+        {
+          "title": "美最高法院裁定特朗普关税违法",
+          "url": "https://www.douyin.com/hot/2407242",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
+        },
+        {
+          "title": "美最高法院裁定特朗普关税违法",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E8%BF%9D%E6%B3%95",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
+        },
+        {
+          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
+          "url": "https://www.zhihu.com/question/2008125477047509192",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普将于美国东部时间12:45（北京时间1:45）就最高法院的关税裁决举行新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260221010104768800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时42分"
+          "time_info": "01时40分"
+        },
+        {
+          "title": "高盛集团推出一款尚未受到人工智能（AI）影响的指数，SPXXAI。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3057029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "金十图示：2026年02月21日（周六）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260221005852556800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "提醒：美国总统特朗普将于美东时间2月20日12:45（北京时间21日01:45）举行新闻发布会，回应最高法院判决其关税政策违法一事。",
+          "url": "https://wallstreetcn.com/livenews/3057028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "数字货币市场周五走高",
+          "url": "https://wallstreetcn.com/livenews/3057027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "凯投宏观：特朗普政府有多种替代方案推进贸易壁垒",
+          "url": "https://flash.jin10.com/detail/20260221005531675800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "美国最高法院裁定特朗普政府大规模关税政策违法 ，这会带来哪些影响？关税政策会撤回吗？",
+          "url": "https://www.zhihu.com/question/2008321129270486041",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
         },
         {
           "title": "加拿大负责美国贸易事务的部长Leblanc：美国最高法院针对特朗普关税政策的判决结果表明，特朗普针对加拿大的关税立场是不公平的。",
@@ -195,37 +392,26 @@
           "time_info": "00时42分"
         },
         {
-          "title": "美最高法院裁定特朗普关税违法",
-          "url": "https://www.douyin.com/hot/2407242",
-          "source": "抖音",
+          "title": "美国天然气期货日内涨幅扩大至3.00%，现报3.086美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260221002912704800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时42分"
+          "time_info": "01时40分"
         },
         {
-          "title": "美最高法院裁定特朗普关税违法",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E8%BF%9D%E6%B3%95",
-          "source": "百度热搜",
+          "title": "明晟公司MSCI北欧国家指数涨0.6%，报392.33点，创2月11日以来收盘新高。 在十个板块中，北欧金融板块涨幅最大。 潘多拉Pandora A/S涨4.1%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3057023",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
-          "url": "https://www.zhihu.com/question/2008125477047509192",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "time_info": "01时40分"
         },
         {
           "title": "特朗普称最高法院关税裁决可耻",
@@ -237,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "欧洲股市创收盘历史新高，美国最高法判决特朗普关税违法",
+          "url": "https://wallstreetcn.com/livenews/3057020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
         },
         {
           "title": "美国最高法院就特朗普的贸易案作出裁决后，现货黄金短线波幅较大，一度从5063.96美元/盎司下跌73美元至4990.9美元/盎司。现回升至5052美元/盎司，较低点回升约61美元。分析师James Athey指出，市场似乎不太确定该如何应对裁决。最大的问题原本在于关税退款事宜。",
@@ -264,17 +461,6 @@
           "title": "美国总统特朗普：最高法院裁决为“耻辱”。 我有关税备选方案。",
           "url": "https://wallstreetcn.com/livenews/3056999",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "美最高法院裁定特朗普关税违法",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E8%BF%9D%E6%B3%95%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
           "ranks": [
             20
           ],
@@ -391,6 +577,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "加拿大：美国法院裁决强化了加拿大关于“特朗普关税不合理”的立场",
+          "url": "https://wallstreetcn.com/livenews/3057006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
         }
       ]
     },
@@ -406,8 +603,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -417,8 +614,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -428,8 +625,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -439,8 +636,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -450,8 +647,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时40分]"
         },
         {
           "title": "瑞达利欧家族办公室披露5亿美元美股持仓：重仓黄金",
@@ -474,6 +671,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI创始人点赞中国大模型",
+          "url": "https://www.toutiao.com/trending/7608951834689932827/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价震荡后回升，关税风波叠加俄罗斯售金",
+          "url": "https://wallstreetcn.com/livenews/3057034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
         }
       ]
     },
